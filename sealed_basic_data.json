@@ -32499,7 +32499,7 @@
       {
         "sheets": {
           "ala_basic": 1,
-          "ala_common": 10,
+          "ala_common_unbalanced": 10,
           "ala_uncommon": 3,
           "ala_rare_mythic": 1
         },
@@ -32508,7 +32508,7 @@
       {
         "sheets": {
           "ala_basic": 1,
-          "ala_common": 9,
+          "ala_common_unbalanced": 9,
           "ala_uncommon": 3,
           "ala_rare_mythic": 1,
           "ala_foil": 1
@@ -32542,8 +32542,7 @@
           "ala:249": 1
         }
       },
-      "ala_common": {
-        "balance_colors": true,
+      "ala_common_unbalanced": {
         "total_weight": 101,
         "cards": {
           "ala:1": 1,
