@@ -48878,7 +48878,7 @@
     "boosters": [
       {
         "sheets": {
-          "scg_common_or_basic": 11,
+          "scg_common": 11,
           "scg_uncommon": 3,
           "scg_rare": 1
         },
@@ -48886,7 +48886,7 @@
       },
       {
         "sheets": {
-          "scg_common_or_basic": 10,
+          "scg_common": 10,
           "scg_uncommon": 3,
           "scg_rare": 1,
           "scg_foil": 1
@@ -48895,7 +48895,7 @@
       }
     ],
     "sheets": {
-      "scg_common_or_basic": {
+      "scg_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
@@ -49210,7 +49210,7 @@
     "boosters": [
       {
         "sheets": {
-          "lgn_common_or_basic": 11,
+          "lgn_common": 11,
           "lgn_uncommon": 3,
           "lgn_rare": 1
         },
@@ -49218,7 +49218,7 @@
       },
       {
         "sheets": {
-          "lgn_common_or_basic": 10,
+          "lgn_common": 10,
           "lgn_uncommon": 3,
           "lgn_rare": 1,
           "lgn_foil": 1
@@ -49227,7 +49227,7 @@
       }
     ],
     "sheets": {
-      "lgn_common_or_basic": {
+      "lgn_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
@@ -50292,7 +50292,7 @@
     "boosters": [
       {
         "sheets": {
-          "jud_common_or_basic_unbalanced": 11,
+          "jud_common_unbalanced": 11,
           "jud_uncommon": 3,
           "jud_rare": 1
         },
@@ -50300,7 +50300,7 @@
       },
       {
         "sheets": {
-          "jud_common_or_basic_unbalanced": 10,
+          "jud_common_unbalanced": 10,
           "jud_uncommon": 3,
           "jud_rare": 1,
           "jud_foil": 1
@@ -50309,7 +50309,7 @@
       }
     ],
     "sheets": {
-      "jud_common_or_basic_unbalanced": {
+      "jud_common_unbalanced": {
         "total_weight": 55,
         "cards": {
           "jud:10": 1,
@@ -50623,7 +50623,7 @@
     "boosters": [
       {
         "sheets": {
-          "tor_common_or_basic": 11,
+          "tor_common": 11,
           "tor_uncommon": 3,
           "tor_rare": 1
         },
@@ -50631,7 +50631,7 @@
       },
       {
         "sheets": {
-          "tor_common_or_basic": 10,
+          "tor_common": 10,
           "tor_uncommon": 3,
           "tor_rare": 1,
           "tor_foil": 1
@@ -50640,7 +50640,7 @@
       }
     ],
     "sheets": {
-      "tor_common_or_basic": {
+      "tor_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
@@ -51701,7 +51701,7 @@
     "boosters": [
       {
         "sheets": {
-          "apc_common_or_basic_unbalanced": 11,
+          "apc_common_unbalanced": 11,
           "apc_uncommon": 3,
           "apc_rare": 1
         },
@@ -51709,7 +51709,7 @@
       },
       {
         "sheets": {
-          "apc_common_or_basic_unbalanced": 10,
+          "apc_common_unbalanced": 10,
           "apc_uncommon": 3,
           "apc_rare": 1,
           "apc_foil": 1
@@ -51718,7 +51718,7 @@
       }
     ],
     "sheets": {
-      "apc_common_or_basic_unbalanced": {
+      "apc_common_unbalanced": {
         "total_weight": 55,
         "cards": {
           "apc:1": 1,
@@ -52785,7 +52785,7 @@
     "boosters": [
       {
         "sheets": {
-          "pls_common_or_basic": 11,
+          "pls_common": 11,
           "pls_uncommon": 3,
           "pls_rare": 1
         },
@@ -52793,7 +52793,7 @@
       },
       {
         "sheets": {
-          "pls_common_or_basic": 10,
+          "pls_common": 10,
           "pls_uncommon": 3,
           "pls_rare": 1,
           "pls_foil": 1
@@ -52802,7 +52802,7 @@
       }
     ],
     "sheets": {
-      "pls_common_or_basic": {
+      "pls_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
@@ -53863,7 +53863,7 @@
     "boosters": [
       {
         "sheets": {
-          "pcy_common_or_basic": 11,
+          "pcy_common": 11,
           "pcy_uncommon": 3,
           "pcy_rare": 1
         },
@@ -53871,7 +53871,7 @@
       },
       {
         "sheets": {
-          "pcy_common_or_basic": 10,
+          "pcy_common": 10,
           "pcy_uncommon": 3,
           "pcy_rare": 1,
           "pcy_foil": 1
@@ -53880,7 +53880,7 @@
       }
     ],
     "sheets": {
-      "pcy_common_or_basic": {
+      "pcy_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
@@ -54195,7 +54195,7 @@
     "boosters": [
       {
         "sheets": {
-          "nem_common_or_basic": 11,
+          "nem_common": 11,
           "nem_uncommon": 3,
           "nem_rare": 1
         },
@@ -54203,7 +54203,7 @@
       },
       {
         "sheets": {
-          "nem_common_or_basic": 10,
+          "nem_common": 10,
           "nem_uncommon": 3,
           "nem_rare": 1,
           "nem_foil": 1
@@ -54212,7 +54212,7 @@
       }
     ],
     "sheets": {
-      "nem_common_or_basic": {
+      "nem_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
@@ -58343,7 +58343,8 @@
     "boosters": [
       {
         "sheets": {
-          "por_common_or_basic": 11,
+          "por_basic": 2,
+          "por_common": 9,
           "por_uncommon": 3,
           "por_rare": 1
         },
@@ -58351,9 +58352,34 @@
       }
     ],
     "sheets": {
-      "por_common_or_basic": {
+      "por_basic": {
+        "total_weight": 20,
+        "cards": {
+          "por:196": 1,
+          "por:197": 1,
+          "por:198": 1,
+          "por:199": 1,
+          "por:200": 1,
+          "por:201": 1,
+          "por:202": 1,
+          "por:203": 1,
+          "por:204": 1,
+          "por:205": 1,
+          "por:206": 1,
+          "por:207": 1,
+          "por:208": 1,
+          "por:209": 1,
+          "por:210": 1,
+          "por:211": 1,
+          "por:212": 1,
+          "por:213": 1,
+          "por:214": 1,
+          "por:215": 1
+        }
+      },
+      "por_common": {
         "balance_colors": true,
-        "total_weight": 105,
+        "total_weight": 85,
         "cards": {
           "por:10": 1,
           "por:100": 1,
@@ -58406,29 +58432,9 @@
           "por:186": 1,
           "por:19": 1,
           "por:193": 1,
-          "por:196": 1,
-          "por:197": 1,
-          "por:198": 1,
-          "por:199": 1,
           "por:2": 1,
           "por:20": 1,
-          "por:200": 1,
-          "por:201": 1,
-          "por:202": 1,
-          "por:203": 1,
-          "por:204": 1,
-          "por:205": 1,
-          "por:206": 1,
-          "por:207": 1,
-          "por:208": 1,
-          "por:209": 1,
           "por:21": 1,
-          "por:210": 1,
-          "por:211": 1,
-          "por:212": 1,
-          "por:213": 1,
-          "por:214": 1,
-          "por:215": 1,
           "por:22": 1,
           "por:24": 1,
           "por:25": 1,
