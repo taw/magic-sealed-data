@@ -55484,7 +55484,7 @@
     "boosters": [
       {
         "sheets": {
-          "uds_common_or_basic": 11,
+          "uds_common": 11,
           "uds_uncommon": 3,
           "uds_rare": 1
         },
@@ -55492,7 +55492,7 @@
       },
       {
         "sheets": {
-          "uds_common_or_basic": 10,
+          "uds_common": 10,
           "uds_uncommon": 3,
           "uds_rare": 1,
           "uds_foil": 1
@@ -55501,7 +55501,7 @@
       }
     ],
     "sheets": {
-      "uds_common_or_basic": {
+      "uds_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
@@ -56416,7 +56416,7 @@
     "boosters": [
       {
         "sheets": {
-          "ulg_common_or_basic": 11,
+          "ulg_common": 11,
           "ulg_uncommon": 3,
           "ulg_rare": 1
         },
@@ -56424,7 +56424,7 @@
       },
       {
         "sheets": {
-          "ulg_common_or_basic": 10,
+          "ulg_common": 10,
           "ulg_uncommon": 3,
           "ulg_rare": 1,
           "ulg_foil": 1
@@ -56433,7 +56433,7 @@
       }
     ],
     "sheets": {
-      "ulg_common_or_basic": {
+      "ulg_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
