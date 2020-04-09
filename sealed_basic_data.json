@@ -37427,7 +37427,7 @@
     "boosters": [
       {
         "sheets": {
-          "eve_common_or_basic_unbalanced": 11,
+          "eve_common_unbalanced": 11,
           "eve_uncommon": 3,
           "eve_rare": 1
         },
@@ -37435,7 +37435,7 @@
       },
       {
         "sheets": {
-          "eve_common_or_basic_unbalanced": 10,
+          "eve_common_unbalanced": 10,
           "eve_uncommon": 3,
           "eve_rare": 1,
           "eve_foil": 1
@@ -37444,7 +37444,7 @@
       }
     ],
     "sheets": {
-      "eve_common_or_basic_unbalanced": {
+      "eve_common_unbalanced": {
         "total_weight": 60,
         "cards": {
           "eve:103": 1,
@@ -38479,7 +38479,7 @@
     "boosters": [
       {
         "sheets": {
-          "mor_common_or_basic": 11,
+          "mor_common": 11,
           "mor_uncommon": 3,
           "mor_rare": 1
         },
@@ -38487,7 +38487,7 @@
       },
       {
         "sheets": {
-          "mor_common_or_basic": 10,
+          "mor_common": 10,
           "mor_uncommon": 3,
           "mor_rare": 1,
           "mor_foil": 1
@@ -38496,7 +38496,7 @@
       }
     ],
     "sheets": {
-      "mor_common_or_basic": {
+      "mor_common": {
         "balance_colors": true,
         "total_weight": 60,
         "cards": {
@@ -42763,7 +42763,7 @@
     "boosters": [
       {
         "sheets": {
-          "dis_common_or_basic_unbalanced": 11,
+          "dis_common_unbalanced": 11,
           "dis_uncommon": 3,
           "dis_rare": 1
         },
@@ -42771,7 +42771,7 @@
       },
       {
         "sheets": {
-          "dis_common_or_basic_unbalanced": 10,
+          "dis_common_unbalanced": 10,
           "dis_uncommon": 3,
           "dis_rare": 1,
           "dis_foil": 1
@@ -42780,7 +42780,7 @@
       }
     ],
     "sheets": {
-      "dis_common_or_basic_unbalanced": {
+      "dis_common_unbalanced": {
         "total_weight": 60,
         "cards": {
           "dis:1": 1,
@@ -43168,7 +43168,7 @@
     "boosters": [
       {
         "sheets": {
-          "gpt_common_or_basic_unbalanced": 11,
+          "gpt_common_unbalanced": 11,
           "gpt_uncommon": 3,
           "gpt_rare": 1
         },
@@ -43176,7 +43176,7 @@
       },
       {
         "sheets": {
-          "gpt_common_or_basic_unbalanced": 10,
+          "gpt_common_unbalanced": 10,
           "gpt_uncommon": 3,
           "gpt_rare": 1,
           "gpt_foil": 1
@@ -43185,7 +43185,7 @@
       }
     ],
     "sheets": {
-      "gpt_common_or_basic_unbalanced": {
+      "gpt_common_unbalanced": {
         "total_weight": 55,
         "cards": {
           "gpt:1": 1,
@@ -44962,7 +44962,7 @@
     "boosters": [
       {
         "sheets": {
-          "sok_common_or_basic": 11,
+          "sok_common": 11,
           "sok_uncommon": 3,
           "sok_rare": 1
         },
@@ -44970,7 +44970,7 @@
       },
       {
         "sheets": {
-          "sok_common_or_basic": 10,
+          "sok_common": 10,
           "sok_uncommon": 3,
           "sok_rare": 1,
           "sok_foil": 1
@@ -44979,7 +44979,7 @@
       }
     ],
     "sheets": {
-      "sok_common_or_basic": {
+      "sok_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
@@ -45338,7 +45338,7 @@
     "boosters": [
       {
         "sheets": {
-          "bok_common_or_basic": 11,
+          "bok_common": 11,
           "bok_uncommon": 3,
           "bok_rare": 1
         },
@@ -45346,7 +45346,7 @@
       },
       {
         "sheets": {
-          "bok_common_or_basic": 10,
+          "bok_common": 10,
           "bok_uncommon": 3,
           "bok_rare": 1,
           "bok_foil": 1
@@ -45355,7 +45355,7 @@
       }
     ],
     "sheets": {
-      "bok_common_or_basic": {
+      "bok_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
@@ -46708,7 +46708,7 @@
     "boosters": [
       {
         "sheets": {
-          "5dn_common_or_basic": 11,
+          "5dn_common": 11,
           "5dn_uncommon": 3,
           "5dn_rare": 1
         },
@@ -46716,7 +46716,7 @@
       },
       {
         "sheets": {
-          "5dn_common_or_basic": 10,
+          "5dn_common": 10,
           "5dn_uncommon": 3,
           "5dn_rare": 1,
           "5dn_foil": 1
@@ -46725,7 +46725,7 @@
       }
     ],
     "sheets": {
-      "5dn_common_or_basic": {
+      "5dn_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
@@ -47084,7 +47084,7 @@
     "boosters": [
       {
         "sheets": {
-          "dst_common_or_basic": 11,
+          "dst_common": 11,
           "dst_uncommon": 3,
           "dst_rare": 1
         },
@@ -47092,7 +47092,7 @@
       },
       {
         "sheets": {
-          "dst_common_or_basic": 10,
+          "dst_common": 10,
           "dst_uncommon": 3,
           "dst_rare": 1,
           "dst_foil": 1
@@ -47101,7 +47101,7 @@
       }
     ],
     "sheets": {
-      "dst_common_or_basic": {
+      "dst_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
