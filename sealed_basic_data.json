@@ -56748,7 +56748,7 @@
     "boosters": [
       {
         "sheets": {
-          "usg_common_or_basic": 11,
+          "usg_common": 11,
           "usg_uncommon": 3,
           "usg_rare": 1
         },
@@ -56756,9 +56756,9 @@
       }
     ],
     "sheets": {
-      "usg_common_or_basic": {
+      "usg_common": {
         "balance_colors": true,
-        "total_weight": 130,
+        "total_weight": 110,
         "cards": {
           "usg:10": 1,
           "usg:104": 1,
@@ -56842,26 +56842,6 @@
           "usg:324": 1,
           "usg:327": 1,
           "usg:328": 1,
-          "usg:331": 1,
-          "usg:332": 1,
-          "usg:333": 1,
-          "usg:334": 1,
-          "usg:335": 1,
-          "usg:336": 1,
-          "usg:337": 1,
-          "usg:338": 1,
-          "usg:339": 1,
-          "usg:340": 1,
-          "usg:341": 1,
-          "usg:342": 1,
-          "usg:343": 1,
-          "usg:344": 1,
-          "usg:345": 1,
-          "usg:346": 1,
-          "usg:347": 1,
-          "usg:348": 1,
-          "usg:349": 1,
-          "usg:350": 1,
           "usg:36": 1,
           "usg:37": 1,
           "usg:38": 1,
@@ -57255,7 +57235,7 @@
     "boosters": [
       {
         "sheets": {
-          "exo_common_or_basic": 11,
+          "exo_common": 11,
           "exo_uncommon": 3,
           "exo_rare": 1
         },
@@ -57263,7 +57243,7 @@
       }
     ],
     "sheets": {
-      "exo_common_or_basic": {
+      "exo_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
@@ -57627,7 +57607,7 @@
     "boosters": [
       {
         "sheets": {
-          "sth_common_or_basic": 11,
+          "sth_common": 11,
           "sth_uncommon": 3,
           "sth_rare": 1
         },
@@ -57635,7 +57615,7 @@
       }
     ],
     "sheets": {
-      "sth_common_or_basic": {
+      "sth_common": {
         "balance_colors": true,
         "total_weight": 55,
         "cards": {
@@ -57802,7 +57782,7 @@
     "boosters": [
       {
         "sheets": {
-          "tmp_common_or_basic": 11,
+          "tmp_common": 11,
           "tmp_uncommon": 3,
           "tmp_rare": 1
         },
@@ -57810,9 +57790,9 @@
       }
     ],
     "sheets": {
-      "tmp_common_or_basic": {
+      "tmp_common": {
         "balance_colors": true,
-        "total_weight": 130,
+        "total_weight": 110,
         "cards": {
           "tmp:1": 1,
           "tmp:10": 1,
@@ -57898,27 +57878,7 @@
           "tmp:3": 1,
           "tmp:30": 1,
           "tmp:309": 1,
-          "tmp:331": 1,
-          "tmp:332": 1,
-          "tmp:333": 1,
-          "tmp:334": 1,
-          "tmp:335": 1,
-          "tmp:336": 1,
-          "tmp:337": 1,
-          "tmp:338": 1,
-          "tmp:339": 1,
           "tmp:34": 1,
-          "tmp:340": 1,
-          "tmp:341": 1,
-          "tmp:342": 1,
-          "tmp:343": 1,
-          "tmp:344": 1,
-          "tmp:345": 1,
-          "tmp:346": 1,
-          "tmp:347": 1,
-          "tmp:348": 1,
-          "tmp:349": 1,
-          "tmp:350": 1,
           "tmp:43": 1,
           "tmp:44": 1,
           "tmp:47": 1,
@@ -58184,7 +58144,7 @@
     "boosters": [
       {
         "sheets": {
-          "wth_common_or_basic": 11,
+          "wth_common": 11,
           "wth_uncommon": 3,
           "wth_rare": 1
         },
@@ -58192,7 +58152,7 @@
       }
     ],
     "sheets": {
-      "wth_common_or_basic": {
+      "wth_common": {
         "balance_colors": true,
         "total_weight": 62,
         "cards": {
@@ -59111,7 +59071,7 @@
     "boosters": [
       {
         "sheets": {
-          "vis_common_or_basic": 11,
+          "vis_common": 11,
           "vis_uncommon": 3,
           "vis_rare": 1
         },
@@ -59119,7 +59079,7 @@
       }
     ],
     "sheets": {
-      "vis_common_or_basic": {
+      "vis_common": {
         "balance_colors": true,
         "total_weight": 62,
         "cards": {
@@ -59310,7 +59270,7 @@
     "boosters": [
       {
         "sheets": {
-          "mir_common_or_basic": 11,
+          "mir_common": 11,
           "mir_uncommon": 3,
           "mir_rare": 1
         },
@@ -59318,9 +59278,9 @@
       }
     ],
     "sheets": {
-      "mir_common_or_basic": {
+      "mir_common": {
         "balance_colors": true,
-        "total_weight": 130,
+        "total_weight": 110,
         "cards": {
           "mir:10": 1,
           "mir:106": 1,
@@ -59400,27 +59360,7 @@
           "mir:29": 1,
           "mir:30": 1,
           "mir:32": 1,
-          "mir:331": 1,
-          "mir:332": 1,
-          "mir:333": 1,
-          "mir:334": 1,
-          "mir:335": 1,
-          "mir:336": 1,
-          "mir:337": 1,
-          "mir:338": 1,
-          "mir:339": 1,
           "mir:34": 1,
-          "mir:340": 1,
-          "mir:341": 1,
-          "mir:342": 1,
-          "mir:343": 1,
-          "mir:344": 1,
-          "mir:345": 1,
-          "mir:346": 1,
-          "mir:347": 1,
-          "mir:348": 1,
-          "mir:349": 1,
-          "mir:350": 1,
           "mir:36": 1,
           "mir:4": 1,
           "mir:43": 1,
@@ -60237,7 +60177,7 @@
     "boosters": [
       {
         "sheets": {
-          "ice_common_or_basic": 11,
+          "ice_common": 11,
           "ice_uncommon": 3,
           "ice_rare": 1
         },
@@ -60245,9 +60185,9 @@
       }
     ],
     "sheets": {
-      "ice_common_or_basic": {
+      "ice_common": {
         "balance_colors": true,
-        "total_weight": 141,
+        "total_weight": 121,
         "cards": {
           "ice:1": 1,
           "ice:100": 1,
@@ -60343,26 +60283,6 @@
           "ice:312": 1,
           "ice:33": 1,
           "ice:35": 1,
-          "ice:364": 1,
-          "ice:365": 1,
-          "ice:366": 1,
-          "ice:367": 1,
-          "ice:368": 1,
-          "ice:369": 1,
-          "ice:370": 1,
-          "ice:371": 1,
-          "ice:372": 1,
-          "ice:373": 1,
-          "ice:374": 1,
-          "ice:375": 1,
-          "ice:376": 1,
-          "ice:377": 1,
-          "ice:378": 1,
-          "ice:379": 1,
-          "ice:380": 1,
-          "ice:381": 1,
-          "ice:382": 1,
-          "ice:383": 1,
           "ice:4": 1,
           "ice:40": 1,
           "ice:41": 1,
