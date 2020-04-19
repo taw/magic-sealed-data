@@ -38344,7 +38344,7 @@
           "shm:275:foil": 282,
           "shm:276:foil": 282,
           "shm:277:foil": 141,
-          "shm:278★:foil": 141,
+          "shm:278†:foil": 141,
           "shm:279:foil": 282,
           "shm:27:foil": 400,
           "shm:280:foil": 141,
@@ -61456,17 +61456,16 @@
     "boosters": [
       {
         "sheets": {
-          "3ed_common_or_basic": 11,
-          "3ed_uncommon": 3,
-          "3ed_rare": 1
+          "3ed_explicit_common": 11,
+          "3ed_explicit_uncommon": 3,
+          "3ed_explicit_rare": 1
         },
         "weight": 1
       }
     ],
     "sheets": {
-      "3ed_common_or_basic": {
-        "balance_colors": true,
-        "total_weight": 90,
+      "3ed_explicit_common": {
+        "total_weight": 121,
         "cards": {
           "3ed:10": 1,
           "3ed:106": 1,
@@ -61523,22 +61522,22 @@
           "3ed:230": 1,
           "3ed:24": 1,
           "3ed:28": 1,
-          "3ed:292": 1,
-          "3ed:293": 1,
-          "3ed:294": 1,
-          "3ed:295": 1,
-          "3ed:296": 1,
-          "3ed:297": 1,
-          "3ed:298": 1,
-          "3ed:299": 1,
+          "3ed:292": 2,
+          "3ed:293": 3,
+          "3ed:294": 3,
+          "3ed:295": 3,
+          "3ed:296": 4,
+          "3ed:297": 3,
+          "3ed:298": 3,
+          "3ed:299": 3,
           "3ed:30": 1,
-          "3ed:300": 1,
-          "3ed:301": 1,
-          "3ed:302": 1,
-          "3ed:303": 1,
-          "3ed:304": 1,
-          "3ed:305": 1,
-          "3ed:306": 1,
+          "3ed:300": 3,
+          "3ed:301": 4,
+          "3ed:302": 3,
+          "3ed:303": 3,
+          "3ed:304": 3,
+          "3ed:305": 2,
+          "3ed:306": 4,
           "3ed:38": 1,
           "3ed:4": 1,
           "3ed:49": 1,
@@ -61560,8 +61559,8 @@
           "3ed:99": 1
         }
       },
-      "3ed_uncommon": {
-        "total_weight": 95,
+      "3ed_explicit_uncommon": {
+        "total_weight": 121,
         "cards": {
           "3ed:101": 1,
           "3ed:105": 1,
@@ -61628,6 +61627,19 @@
           "3ed:278": 1,
           "3ed:279": 1,
           "3ed:281": 1,
+          "3ed:292": 3,
+          "3ed:293": 2,
+          "3ed:294": 1,
+          "3ed:296": 1,
+          "3ed:297": 1,
+          "3ed:298": 3,
+          "3ed:299": 3,
+          "3ed:301": 2,
+          "3ed:302": 2,
+          "3ed:303": 2,
+          "3ed:304": 3,
+          "3ed:305": 2,
+          "3ed:306": 1,
           "3ed:33": 1,
           "3ed:34": 1,
           "3ed:36": 1,
@@ -61660,7 +61672,7 @@
           "3ed:98": 1
         }
       },
-      "3ed_rare": {
+      "3ed_explicit_rare": {
         "total_weight": 121,
         "cards": {
           "3ed:1": 1,
@@ -62036,17 +62048,16 @@
     "boosters": [
       {
         "sheets": {
-          "2ed_common_or_basic": 11,
-          "2ed_uncommon": 3,
-          "2ed_rare": 1
+          "2ed_explicit_common": 11,
+          "2ed_explicit_uncommon": 3,
+          "2ed_explicit_rare": 1
         },
         "weight": 1
       }
     ],
     "sheets": {
-      "2ed_common_or_basic": {
-        "balance_colors": true,
-        "total_weight": 90,
+      "2ed_explicit_common": {
+        "total_weight": 121,
         "cards": {
           "2ed:10": 1,
           "2ed:106": 1,
@@ -62103,22 +62114,22 @@
           "2ed:230": 1,
           "2ed:24": 1,
           "2ed:25": 1,
-          "2ed:288": 1,
-          "2ed:289": 1,
+          "2ed:288": 2,
+          "2ed:289": 3,
           "2ed:29": 1,
-          "2ed:290": 1,
-          "2ed:291": 1,
-          "2ed:292": 1,
-          "2ed:293": 1,
-          "2ed:294": 1,
-          "2ed:295": 1,
-          "2ed:296": 1,
-          "2ed:297": 1,
-          "2ed:298": 1,
-          "2ed:299": 1,
-          "2ed:300": 1,
-          "2ed:301": 1,
-          "2ed:302": 1,
+          "2ed:290": 3,
+          "2ed:291": 3,
+          "2ed:292": 4,
+          "2ed:293": 3,
+          "2ed:294": 3,
+          "2ed:295": 3,
+          "2ed:296": 3,
+          "2ed:297": 4,
+          "2ed:298": 3,
+          "2ed:299": 3,
+          "2ed:300": 3,
+          "2ed:301": 3,
+          "2ed:302": 3,
           "2ed:31": 1,
           "2ed:38": 1,
           "2ed:4": 1,
@@ -62140,8 +62151,8 @@
           "2ed:99": 1
         }
       },
-      "2ed_uncommon": {
-        "total_weight": 95,
+      "2ed_explicit_uncommon": {
+        "total_weight": 121,
         "cards": {
           "2ed:101": 1,
           "2ed:105": 1,
@@ -62209,6 +62220,20 @@
           "2ed:274": 1,
           "2ed:277": 1,
           "2ed:28": 1,
+          "2ed:288": 2,
+          "2ed:289": 2,
+          "2ed:290": 2,
+          "2ed:291": 1,
+          "2ed:292": 1,
+          "2ed:294": 2,
+          "2ed:295": 2,
+          "2ed:296": 2,
+          "2ed:297": 2,
+          "2ed:298": 2,
+          "2ed:299": 2,
+          "2ed:300": 2,
+          "2ed:301": 2,
+          "2ed:302": 2,
           "2ed:34": 1,
           "2ed:35": 1,
           "2ed:40": 1,
@@ -62240,8 +62265,8 @@
           "2ed:98": 1
         }
       },
-      "2ed_rare": {
-        "total_weight": 117,
+      "2ed_explicit_rare": {
+        "total_weight": 121,
         "cards": {
           "2ed:1": 1,
           "2ed:100": 1,
@@ -62331,6 +62356,8 @@
           "2ed:285": 1,
           "2ed:286": 1,
           "2ed:287": 1,
+          "2ed:292": 2,
+          "2ed:293": 2,
           "2ed:3": 1,
           "2ed:30": 1,
           "2ed:32": 1,
@@ -62370,17 +62397,16 @@
     "boosters": [
       {
         "sheets": {
-          "leb_common_or_basic": 11,
-          "leb_uncommon": 3,
-          "leb_rare": 1
+          "leb_explicit_common": 11,
+          "leb_explicit_uncommon": 3,
+          "leb_explicit_rare": 1
         },
         "weight": 1
       }
     ],
     "sheets": {
-      "leb_common_or_basic": {
-        "balance_colors": true,
-        "total_weight": 90,
+      "leb_explicit_common": {
+        "total_weight": 121,
         "cards": {
           "leb:10": 1,
           "leb:106": 1,
@@ -62437,22 +62463,22 @@
           "leb:230": 1,
           "leb:24": 1,
           "leb:25": 1,
-          "leb:288": 1,
-          "leb:289": 1,
+          "leb:288": 2,
+          "leb:289": 3,
           "leb:29": 1,
-          "leb:290": 1,
-          "leb:291": 1,
-          "leb:292": 1,
-          "leb:293": 1,
-          "leb:294": 1,
-          "leb:295": 1,
-          "leb:296": 1,
-          "leb:297": 1,
-          "leb:298": 1,
-          "leb:299": 1,
-          "leb:300": 1,
-          "leb:301": 1,
-          "leb:302": 1,
+          "leb:290": 3,
+          "leb:291": 3,
+          "leb:292": 4,
+          "leb:293": 3,
+          "leb:294": 3,
+          "leb:295": 3,
+          "leb:296": 3,
+          "leb:297": 3,
+          "leb:298": 3,
+          "leb:299": 4,
+          "leb:300": 3,
+          "leb:301": 3,
+          "leb:302": 3,
           "leb:31": 1,
           "leb:38": 1,
           "leb:4": 1,
@@ -62474,8 +62500,8 @@
           "leb:99": 1
         }
       },
-      "leb_uncommon": {
-        "total_weight": 95,
+      "leb_explicit_uncommon": {
+        "total_weight": 121,
         "cards": {
           "leb:101": 1,
           "leb:105": 1,
@@ -62543,6 +62569,20 @@
           "leb:274": 1,
           "leb:277": 1,
           "leb:28": 1,
+          "leb:288": 2,
+          "leb:289": 2,
+          "leb:290": 2,
+          "leb:292": 1,
+          "leb:293": 1,
+          "leb:294": 2,
+          "leb:295": 2,
+          "leb:296": 2,
+          "leb:297": 2,
+          "leb:298": 2,
+          "leb:299": 2,
+          "leb:300": 2,
+          "leb:301": 2,
+          "leb:302": 2,
           "leb:34": 1,
           "leb:35": 1,
           "leb:40": 1,
@@ -62574,8 +62614,8 @@
           "leb:98": 1
         }
       },
-      "leb_rare": {
-        "total_weight": 117,
+      "leb_explicit_rare": {
+        "total_weight": 121,
         "cards": {
           "leb:1": 1,
           "leb:100": 1,
@@ -62665,6 +62705,8 @@
           "leb:285": 1,
           "leb:286": 1,
           "leb:287": 1,
+          "leb:291": 2,
+          "leb:292": 2,
           "leb:3": 1,
           "leb:30": 1,
           "leb:32": 1,
@@ -62704,17 +62746,16 @@
     "boosters": [
       {
         "sheets": {
-          "lea_common_or_basic": 11,
-          "lea_uncommon": 3,
-          "lea_rare": 1
+          "lea_explicit_common": 11,
+          "lea_explicit_uncommon": 3,
+          "lea_explicit_rare": 1
         },
         "weight": 1
       }
     ],
     "sheets": {
-      "lea_common_or_basic": {
-        "balance_colors": true,
-        "total_weight": 84,
+      "lea_explicit_common": {
+        "total_weight": 121,
         "cards": {
           "lea:10": 1,
           "lea:105": 1,
@@ -62771,16 +62812,16 @@
           "lea:23": 1,
           "lea:24": 1,
           "lea:28": 1,
-          "lea:286": 1,
-          "lea:287": 1,
-          "lea:288": 1,
-          "lea:289": 1,
-          "lea:290": 1,
-          "lea:291": 1,
-          "lea:292": 1,
-          "lea:293": 1,
-          "lea:294": 1,
-          "lea:295": 1,
+          "lea:286": 5,
+          "lea:287": 4,
+          "lea:288": 5,
+          "lea:289": 5,
+          "lea:290": 5,
+          "lea:291": 4,
+          "lea:292": 5,
+          "lea:293": 4,
+          "lea:294": 5,
+          "lea:295": 5,
           "lea:30": 1,
           "lea:37": 1,
           "lea:4": 1,
@@ -62802,8 +62843,8 @@
           "lea:98": 1
         }
       },
-      "lea_uncommon": {
-        "total_weight": 95,
+      "lea_explicit_uncommon": {
+        "total_weight": 121,
         "cards": {
           "lea:100": 1,
           "lea:104": 1,
@@ -62871,6 +62912,16 @@
           "lea:270": 1,
           "lea:273": 1,
           "lea:276": 1,
+          "lea:286": 3,
+          "lea:287": 3,
+          "lea:288": 1,
+          "lea:289": 1,
+          "lea:290": 3,
+          "lea:291": 3,
+          "lea:292": 3,
+          "lea:293": 3,
+          "lea:294": 3,
+          "lea:295": 3,
           "lea:33": 1,
           "lea:34": 1,
           "lea:39": 1,
@@ -62902,8 +62953,8 @@
           "lea:97": 1
         }
       },
-      "lea_rare": {
-        "total_weight": 116,
+      "lea_explicit_rare": {
+        "total_weight": 121,
         "cards": {
           "lea:1": 1,
           "lea:101": 1,
@@ -62991,6 +63042,8 @@
           "lea:283": 1,
           "lea:284": 1,
           "lea:285": 1,
+          "lea:288": 3,
+          "lea:289": 2,
           "lea:29": 1,
           "lea:3": 1,
           "lea:31": 1,
