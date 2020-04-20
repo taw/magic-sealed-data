@@ -2,6 +2,8 @@
   {
     "name": "Ikoria: Lair of Behemoths",
     "code": "iko",
+    "set_code": "iko",
+    "set_name": "Ikoria: Lair of Behemoths",
     "boosters": [
       {
         "sheets": {
@@ -603,6 +605,8 @@
   {
     "name": "Theros Beyond Death",
     "code": "thb",
+    "set_code": "thb",
+    "set_name": "Theros Beyond Death",
     "boosters": [
       {
         "sheets": {
@@ -1164,6 +1168,8 @@
   {
     "name": "Mystery Booster",
     "code": "mb1",
+    "set_code": "mb1",
+    "set_name": "Mystery Booster",
     "boosters": [
       {
         "sheets": {
@@ -3082,6 +3088,8 @@
   {
     "name": "Mystery Booster Playtest Cards",
     "code": "cmb1",
+    "set_code": "cmb1",
+    "set_name": "Mystery Booster Playtest Cards",
     "boosters": [
       {
         "sheets": {
@@ -5000,6 +5008,8 @@
   {
     "name": "Throne of Eldraine",
     "code": "eld",
+    "set_code": "eld",
+    "set_name": "Throne of Eldraine",
     "boosters": [
       {
         "sheets": {
@@ -5591,6 +5601,8 @@
   {
     "name": "Core Set 2020",
     "code": "m20",
+    "set_code": "m20",
+    "set_name": "Core Set 2020",
     "boosters": [
       {
         "sheets": {
@@ -6204,6 +6216,8 @@
   {
     "name": "Modern Horizons",
     "code": "mh1",
+    "set_code": "mh1",
+    "set_name": "Modern Horizons",
     "boosters": [
       {
         "sheets": {
@@ -6765,6 +6779,8 @@
   {
     "name": "War of the Spark",
     "code": "war",
+    "set_code": "war",
+    "set_name": "War of the Spark",
     "boosters": [
       {
         "sheets": {
@@ -7377,6 +7393,8 @@
   {
     "name": "Ravnica Allegiance",
     "code": "rna",
+    "set_code": "rna",
+    "set_name": "Ravnica Allegiance",
     "boosters": [
       {
         "sheets": {
@@ -7948,6 +7966,8 @@
   {
     "name": "Ultimate Masters",
     "code": "uma",
+    "set_code": "uma",
+    "set_name": "Ultimate Masters",
     "boosters": [
       {
         "sheets": {
@@ -8494,6 +8514,8 @@
   {
     "name": "Guilds of Ravnica",
     "code": "grn",
+    "set_code": "grn",
+    "set_name": "Guilds of Ravnica",
     "boosters": [
       {
         "sheets": {
@@ -9065,6 +9087,8 @@
   {
     "name": "Core Set 2019",
     "code": "m19",
+    "set_code": "m19",
+    "set_name": "Core Set 2019",
     "boosters": [
       {
         "sheets": {
@@ -9678,6 +9702,8 @@
   {
     "name": "Battlebond",
     "code": "bbd",
+    "set_code": "bbd",
+    "set_name": "Battlebond",
     "boosters": [
       {
         "sheets": {
@@ -10305,6 +10331,8 @@
   {
     "name": "Dominaria",
     "code": "dom",
+    "set_code": "dom",
+    "set_name": "Dominaria",
     "boosters": [
       {
         "sheets": {
@@ -10948,6 +10976,8 @@
   {
     "name": "Masters 25",
     "code": "a25",
+    "set_code": "a25",
+    "set_name": "Masters 25",
     "boosters": [
       {
         "sheets": {
@@ -11484,6 +11514,8 @@
   {
     "name": "Rivals of Ixalan",
     "code": "rix",
+    "set_code": "rix",
+    "set_name": "Rivals of Ixalan",
     "boosters": [
       {
         "sheets": {
@@ -11929,6 +11961,8 @@
   {
     "name": "Unstable",
     "code": "ust",
+    "set_code": "ust",
+    "set_name": "Unstable",
     "boosters": [
       {
         "sheets": {
@@ -12555,6 +12589,8 @@
   {
     "name": "Iconic Masters",
     "code": "ima",
+    "set_code": "ima",
+    "set_name": "Iconic Masters",
     "boosters": [
       {
         "sheets": {
@@ -13091,6 +13127,8 @@
   {
     "name": "Ixalan",
     "code": "xln",
+    "set_code": "xln",
+    "set_name": "Ixalan",
     "boosters": [
       {
         "sheets": {
@@ -13702,6 +13740,8 @@
   {
     "name": "Hour of Devastation",
     "code": "hou",
+    "set_code": "hou",
+    "set_name": "Hour of Devastation",
     "boosters": [
       {
         "sheets": {
@@ -14177,6 +14217,8 @@
   {
     "name": "Amonkhet",
     "code": "akh",
+    "set_code": "akh",
+    "set_name": "Amonkhet",
     "boosters": [
       {
         "sheets": {
@@ -14798,6 +14840,8 @@
   {
     "name": "Modern Masters 2017",
     "code": "mm3",
+    "set_code": "mm3",
+    "set_name": "Modern Masters 2017",
     "boosters": [
       {
         "sheets": {
@@ -15334,6 +15378,8 @@
   {
     "name": "Aether Revolt",
     "code": "aer",
+    "set_code": "aer",
+    "set_name": "Aether Revolt",
     "boosters": [
       {
         "sheets": {
@@ -15772,6 +15818,8 @@
   {
     "name": "Kaladesh",
     "code": "kld",
+    "set_code": "kld",
+    "set_name": "Kaladesh",
     "boosters": [
       {
         "sheets": {
@@ -16383,6 +16431,8 @@
   {
     "name": "Conspiracy: Take the Crown",
     "code": "cn2",
+    "set_code": "cn2",
+    "set_name": "Conspiracy: Take the Crown",
     "boosters": [
       {
         "sheets": {
@@ -16902,6 +16952,8 @@
   {
     "name": "Eldritch Moon",
     "code": "emn",
+    "set_code": "emn",
+    "set_name": "Eldritch Moon",
     "boosters": [
       {
         "sheets": {
@@ -17391,6 +17443,8 @@
   {
     "name": "Eternal Masters",
     "code": "ema",
+    "set_code": "ema",
+    "set_name": "Eternal Masters",
     "boosters": [
       {
         "sheets": {
@@ -17927,6 +17981,8 @@
   {
     "name": "Shadows over Innistrad",
     "code": "soi",
+    "set_code": "soi",
+    "set_name": "Shadows over Innistrad",
     "boosters": [
       {
         "sheets": {
@@ -18609,6 +18665,8 @@
   {
     "name": "Oath of the Gatewatch",
     "code": "ogw",
+    "set_code": "ogw",
+    "set_name": "Oath of the Gatewatch",
     "boosters": [
       {
         "sheets": {
@@ -19050,6 +19108,8 @@
   {
     "name": "Battle for Zendikar",
     "code": "bfz",
+    "set_code": "bfz",
+    "set_name": "Battle for Zendikar",
     "boosters": [
       {
         "sheets": {
@@ -19676,6 +19736,8 @@
   {
     "name": "Magic Origins",
     "code": "ori",
+    "set_code": "ori",
+    "set_name": "Magic Origins",
     "boosters": [
       {
         "sheets": {
@@ -20273,6 +20335,8 @@
   {
     "name": "Modern Masters 2015",
     "code": "mm2",
+    "set_code": "mm2",
+    "set_name": "Modern Masters 2015",
     "boosters": [
       {
         "sheets": {
@@ -20809,6 +20873,8 @@
   {
     "name": "Tempest Remastered",
     "code": "tpr",
+    "set_code": "tpr",
+    "set_name": "Tempest Remastered",
     "boosters": [
       {
         "sheets": {
@@ -21400,6 +21466,8 @@
   {
     "name": "Dragons of Tarkir",
     "code": "dtk",
+    "set_code": "dtk",
+    "set_name": "Dragons of Tarkir",
     "boosters": [
       {
         "sheets": {
@@ -21981,6 +22049,8 @@
   {
     "name": "Fate Reforged",
     "code": "frf",
+    "set_code": "frf",
+    "set_name": "Fate Reforged",
     "boosters": [
       {
         "sheets": {
@@ -22399,6 +22469,8 @@
   {
     "name": "Khans of Tarkir",
     "code": "ktk",
+    "set_code": "ktk",
+    "set_name": "Khans of Tarkir",
     "boosters": [
       {
         "sheets": {
@@ -22990,6 +23062,8 @@
   {
     "name": "Magic 2015",
     "code": "m15",
+    "set_code": "m15",
+    "set_name": "Magic 2015",
     "boosters": [
       {
         "sheets": {
@@ -23581,6 +23655,8 @@
   {
     "name": "Vintage Masters",
     "code": "vma",
+    "set_code": "vma",
+    "set_name": "Vintage Masters",
     "boosters": [
       {
         "sheets": {
@@ -24269,6 +24345,8 @@
   {
     "name": "Conspiracy",
     "code": "cns",
+    "set_code": "cns",
+    "set_name": "Conspiracy",
     "boosters": [
       {
         "sheets": {
@@ -24766,6 +24844,8 @@
   {
     "name": "Journey into Nyx",
     "code": "jou",
+    "set_code": "jou",
+    "set_name": "Journey into Nyx",
     "boosters": [
       {
         "sheets": {
@@ -25168,6 +25248,8 @@
   {
     "name": "Born of the Gods",
     "code": "bng",
+    "set_code": "bng",
+    "set_name": "Born of the Gods",
     "boosters": [
       {
         "sheets": {
@@ -25544,6 +25626,8 @@
   {
     "name": "Theros",
     "code": "ths",
+    "set_code": "ths",
+    "set_name": "Theros",
     "boosters": [
       {
         "sheets": {
@@ -26095,6 +26179,8 @@
   {
     "name": "Magic 2014",
     "code": "m14",
+    "set_code": "m14",
+    "set_name": "Magic 2014",
     "boosters": [
       {
         "sheets": {
@@ -26646,6 +26732,8 @@
   {
     "name": "Modern Masters",
     "code": "mma",
+    "set_code": "mma",
+    "set_name": "Modern Masters",
     "boosters": [
       {
         "sheets": {
@@ -27142,6 +27230,8 @@
   {
     "name": "Dragon's Maze",
     "code": "dgm",
+    "set_code": "dgm",
+    "set_name": "Dragon's Maze",
     "boosters": [
       {
         "sheets": {
@@ -27517,6 +27607,8 @@
   {
     "name": "Gatecrash",
     "code": "gtc",
+    "set_code": "gtc",
+    "set_name": "Gatecrash",
     "boosters": [
       {
         "sheets": {
@@ -28061,6 +28153,8 @@
   {
     "name": "Return to Ravnica",
     "code": "rtr",
+    "set_code": "rtr",
+    "set_name": "Return to Ravnica",
     "boosters": [
       {
         "sheets": {
@@ -28662,6 +28756,8 @@
   {
     "name": "Magic 2013",
     "code": "m13",
+    "set_code": "m13",
+    "set_name": "Magic 2013",
     "boosters": [
       {
         "sheets": {
@@ -29213,6 +29309,8 @@
   {
     "name": "Avacyn Restored",
     "code": "avr",
+    "set_code": "avr",
+    "set_name": "Avacyn Restored",
     "boosters": [
       {
         "sheets": {
@@ -29754,6 +29852,8 @@
   {
     "name": "Dark Ascension",
     "code": "dka",
+    "set_code": "dka",
+    "set_name": "Dark Ascension",
     "boosters": [
       {
         "sheets": {
@@ -30123,6 +30223,8 @@
   {
     "name": "Innistrad",
     "code": "isd",
+    "set_code": "isd",
+    "set_name": "Innistrad",
     "boosters": [
       {
         "sheets": {
@@ -30711,6 +30813,8 @@
   {
     "name": "Magic 2012",
     "code": "m12",
+    "set_code": "m12",
+    "set_name": "Magic 2012",
     "boosters": [
       {
         "sheets": {
@@ -31262,6 +31366,8 @@
   {
     "name": "New Phyrexia",
     "code": "nph",
+    "set_code": "nph",
+    "set_name": "New Phyrexia",
     "boosters": [
       {
         "sheets": {
@@ -31665,6 +31771,8 @@
   {
     "name": "Mirrodin Besieged",
     "code": "mbs",
+    "set_code": "mbs",
+    "set_name": "Mirrodin Besieged",
     "boosters": [
       {
         "sheets": {
@@ -32028,6 +32136,8 @@
   {
     "name": "Masters Edition IV",
     "code": "me4",
+    "set_code": "me4",
+    "set_name": "Masters Edition IV",
     "boosters": [
       {
         "sheets": {
@@ -32619,6 +32729,8 @@
   {
     "name": "Scars of Mirrodin",
     "code": "som",
+    "set_code": "som",
+    "set_name": "Scars of Mirrodin",
     "boosters": [
       {
         "sheets": {
@@ -33170,6 +33282,8 @@
   {
     "name": "Magic 2011",
     "code": "m11",
+    "set_code": "m11",
+    "set_name": "Magic 2011",
     "boosters": [
       {
         "sheets": {
@@ -33721,6 +33835,8 @@
   {
     "name": "Rise of the Eldrazi",
     "code": "roe",
+    "set_code": "roe",
+    "set_name": "Rise of the Eldrazi",
     "boosters": [
       {
         "sheets": {
@@ -34270,6 +34386,8 @@
   {
     "name": "Worldwake",
     "code": "wwk",
+    "set_code": "wwk",
+    "set_name": "Worldwake",
     "boosters": [
       {
         "sheets": {
@@ -34606,6 +34724,8 @@
   {
     "name": "Zendikar",
     "code": "zen",
+    "set_code": "zen",
+    "set_name": "Zendikar",
     "boosters": [
       {
         "sheets": {
@@ -35197,6 +35317,8 @@
   {
     "name": "Masters Edition III",
     "code": "me3",
+    "set_code": "me3",
+    "set_name": "Masters Edition III",
     "boosters": [
       {
         "sheets": {
@@ -35710,6 +35832,8 @@
   {
     "name": "Magic 2010",
     "code": "m10",
+    "set_code": "m10",
+    "set_name": "Magic 2010",
     "boosters": [
       {
         "sheets": {
@@ -36261,6 +36385,8 @@
   {
     "name": "Alara Reborn",
     "code": "arb",
+    "set_code": "arb",
+    "set_name": "Alara Reborn",
     "boosters": [
       {
         "sheets": {
@@ -36596,6 +36722,8 @@
   {
     "name": "Conflux",
     "code": "con",
+    "set_code": "con",
+    "set_name": "Conflux",
     "boosters": [
       {
         "sheets": {
@@ -36932,6 +37060,8 @@
   {
     "name": "Shards of Alara",
     "code": "ala",
+    "set_code": "ala",
+    "set_name": "Shards of Alara",
     "boosters": [
       {
         "sheets": {
@@ -37482,6 +37612,8 @@
   {
     "name": "Alara Premium Foil Booster",
     "code": "ala-premium",
+    "set_code": "ala",
+    "set_name": "Shards of Alara",
     "boosters": [
       {
         "sheets": {
@@ -38058,6 +38190,8 @@
   {
     "name": "Masters Edition II",
     "code": "me2",
+    "set_code": "me2",
+    "set_name": "Masters Edition II",
     "boosters": [
       {
         "sheets": {
@@ -38601,6 +38735,8 @@
   {
     "name": "Eventide",
     "code": "eve",
+    "set_code": "eve",
+    "set_name": "Eventide",
     "boosters": [
       {
         "sheets": {
@@ -39006,6 +39142,8 @@
   {
     "name": "Shadowmoor",
     "code": "shm",
+    "set_code": "shm",
+    "set_name": "Shadowmoor",
     "boosters": [
       {
         "sheets": {
@@ -39633,6 +39771,8 @@
   {
     "name": "Morningtide",
     "code": "mor",
+    "set_code": "mor",
+    "set_name": "Morningtide",
     "boosters": [
       {
         "sheets": {
@@ -39979,6 +40119,8 @@
   {
     "name": "Lorwyn",
     "code": "lrw",
+    "set_code": "lrw",
+    "set_name": "Lorwyn",
     "boosters": [
       {
         "sheets": {
@@ -40607,6 +40749,8 @@
   {
     "name": "Masters Edition",
     "code": "me1",
+    "set_code": "me1",
+    "set_name": "Masters Edition",
     "boosters": [
       {
         "sheets": {
@@ -41050,6 +41194,8 @@
   {
     "name": "Tenth Edition",
     "code": "10e",
+    "set_code": "10e",
+    "set_name": "Tenth Edition",
     "boosters": [
       {
         "sheets": {
@@ -41869,6 +42015,8 @@
   {
     "name": "Future Sight",
     "code": "fut",
+    "set_code": "fut",
+    "set_name": "Future Sight",
     "boosters": [
       {
         "sheets": {
@@ -42275,6 +42423,8 @@
   {
     "name": "Planar Chaos",
     "code": "plc",
+    "set_code": "plc",
+    "set_name": "Planar Chaos",
     "boosters": [
       {
         "sheets": {
@@ -42664,6 +42814,8 @@
   {
     "name": "Time Spiral",
     "code": "tsp",
+    "set_code": "tsp",
+    "set_name": "Time Spiral",
     "boosters": [
       {
         "sheets": {
@@ -43541,6 +43693,8 @@
   {
     "name": "Coldsnap",
     "code": "csp",
+    "set_code": "csp",
+    "set_name": "Coldsnap",
     "boosters": [
       {
         "sheets": {
@@ -43897,6 +44051,8 @@
   {
     "name": "Dissension",
     "code": "dis",
+    "set_code": "dis",
+    "set_name": "Dissension",
     "boosters": [
       {
         "sheets": {
@@ -44302,6 +44458,8 @@
   {
     "name": "Guildpact",
     "code": "gpt",
+    "set_code": "gpt",
+    "set_name": "Guildpact",
     "boosters": [
       {
         "sheets": {
@@ -44677,6 +44835,8 @@
   {
     "name": "Ravnica: City of Guilds",
     "code": "rav",
+    "set_code": "rav",
+    "set_name": "Ravnica: City of Guilds",
     "boosters": [
       {
         "sheets": {
@@ -45314,6 +45474,8 @@
   {
     "name": "Ninth Edition",
     "code": "9ed",
+    "set_code": "9ed",
+    "set_name": "Ninth Edition",
     "boosters": [
       {
         "sheets": {
@@ -46076,6 +46238,8 @@
   {
     "name": "Saviors of Kamigawa",
     "code": "sok",
+    "set_code": "sok",
+    "set_name": "Saviors of Kamigawa",
     "boosters": [
       {
         "sheets": {
@@ -46452,6 +46616,8 @@
   {
     "name": "Betrayers of Kamigawa",
     "code": "bok",
+    "set_code": "bok",
+    "set_name": "Betrayers of Kamigawa",
     "boosters": [
       {
         "sheets": {
@@ -46828,6 +46994,8 @@
   {
     "name": "Unhinged",
     "code": "unh",
+    "set_code": "unh",
+    "set_name": "Unhinged",
     "boosters": [
       {
         "sheets": {
@@ -47162,6 +47330,8 @@
   {
     "name": "Champions of Kamigawa",
     "code": "chk",
+    "set_code": "chk",
+    "set_name": "Champions of Kamigawa",
     "boosters": [
       {
         "sheets": {
@@ -47802,6 +47972,8 @@
   {
     "name": "Fifth Dawn",
     "code": "5dn",
+    "set_code": "5dn",
+    "set_name": "Fifth Dawn",
     "boosters": [
       {
         "sheets": {
@@ -48178,6 +48350,8 @@
   {
     "name": "Darksteel",
     "code": "dst",
+    "set_code": "dst",
+    "set_name": "Darksteel",
     "boosters": [
       {
         "sheets": {
@@ -48554,6 +48728,8 @@
   {
     "name": "Mirrodin",
     "code": "mrd",
+    "set_code": "mrd",
+    "set_name": "Mirrodin",
     "boosters": [
       {
         "sheets": {
@@ -49192,6 +49368,8 @@
   {
     "name": "Eighth Edition",
     "code": "8ed",
+    "set_code": "8ed",
+    "set_name": "Eighth Edition",
     "boosters": [
       {
         "sheets": {
@@ -49952,6 +50130,8 @@
   {
     "name": "Scourge",
     "code": "scg",
+    "set_code": "scg",
+    "set_name": "Scourge",
     "boosters": [
       {
         "sheets": {
@@ -50284,6 +50464,8 @@
   {
     "name": "Legions",
     "code": "lgn",
+    "set_code": "lgn",
+    "set_name": "Legions",
     "boosters": [
       {
         "sheets": {
@@ -50620,6 +50802,8 @@
   {
     "name": "Onslaught",
     "code": "ons",
+    "set_code": "ons",
+    "set_name": "Onslaught",
     "boosters": [
       {
         "sheets": {
@@ -51346,6 +51530,8 @@
   {
     "name": "Judgment",
     "code": "jud",
+    "set_code": "jud",
+    "set_name": "Judgment",
     "boosters": [
       {
         "sheets": {
@@ -51677,6 +51863,8 @@
   {
     "name": "Torment",
     "code": "tor",
+    "set_code": "tor",
+    "set_name": "Torment",
     "boosters": [
       {
         "sheets": {
@@ -52009,6 +52197,8 @@
   {
     "name": "Odyssey",
     "code": "ody",
+    "set_code": "ody",
+    "set_name": "Odyssey",
     "boosters": [
       {
         "sheets": {
@@ -52735,6 +52925,8 @@
   {
     "name": "Apocalypse",
     "code": "apc",
+    "set_code": "apc",
+    "set_name": "Apocalypse",
     "boosters": [
       {
         "sheets": {
@@ -53066,6 +53258,8 @@
   {
     "name": "Seventh Edition",
     "code": "7ed",
+    "set_code": "7ed",
+    "set_name": "Seventh Edition",
     "boosters": [
       {
         "sheets": {
@@ -53819,6 +54013,8 @@
   {
     "name": "Planeshift",
     "code": "pls",
+    "set_code": "pls",
+    "set_name": "Planeshift",
     "boosters": [
       {
         "sheets": {
@@ -54154,6 +54350,8 @@
   {
     "name": "Invasion",
     "code": "inv",
+    "set_code": "inv",
+    "set_name": "Invasion",
     "boosters": [
       {
         "sheets": {
@@ -54880,6 +55078,8 @@
   {
     "name": "Prophecy",
     "code": "pcy",
+    "set_code": "pcy",
+    "set_name": "Prophecy",
     "boosters": [
       {
         "sheets": {
@@ -55212,6 +55412,8 @@
   {
     "name": "Nemesis",
     "code": "nem",
+    "set_code": "nem",
+    "set_name": "Nemesis",
     "boosters": [
       {
         "sheets": {
@@ -55544,6 +55746,8 @@
   {
     "name": "Mercadian Masques",
     "code": "mmq",
+    "set_code": "mmq",
+    "set_name": "Mercadian Masques",
     "boosters": [
       {
         "sheets": {
@@ -56270,6 +56474,8 @@
   {
     "name": "Starter 1999",
     "code": "s99",
+    "set_code": "s99",
+    "set_name": "Starter 1999",
     "boosters": [
       {
         "sheets": {
@@ -56481,6 +56687,8 @@
   {
     "name": "Urza's Destiny",
     "code": "uds",
+    "set_code": "uds",
+    "set_name": "Urza's Destiny",
     "boosters": [
       {
         "sheets": {
@@ -56813,6 +57021,8 @@
   {
     "name": "Portal Three Kingdoms",
     "code": "ptk",
+    "set_code": "ptk",
+    "set_name": "Portal Three Kingdoms",
     "boosters": [
       {
         "sheets": {
@@ -57031,6 +57241,8 @@
   {
     "name": "Classic Sixth Edition",
     "code": "6ed",
+    "set_code": "6ed",
+    "set_name": "Classic Sixth Edition",
     "boosters": [
       {
         "sheets": {
@@ -57393,6 +57605,8 @@
   {
     "name": "Urza's Legacy",
     "code": "ulg",
+    "set_code": "ulg",
+    "set_name": "Urza's Legacy",
     "boosters": [
       {
         "sheets": {
@@ -57725,6 +57939,8 @@
   {
     "name": "Urza's Saga",
     "code": "usg",
+    "set_code": "usg",
+    "set_name": "Urza's Saga",
     "boosters": [
       {
         "sheets": {
@@ -58087,6 +58303,8 @@
   {
     "name": "Unglued",
     "code": "ugl",
+    "set_code": "ugl",
+    "set_name": "Unglued",
     "boosters": [
       {
         "sheets": {
@@ -58212,6 +58430,8 @@
   {
     "name": "Exodus",
     "code": "exo",
+    "set_code": "exo",
+    "set_name": "Exodus",
     "boosters": [
       {
         "sheets": {
@@ -58387,6 +58607,8 @@
   {
     "name": "Portal Second Age",
     "code": "p02",
+    "set_code": "p02",
+    "set_name": "Portal Second Age",
     "boosters": [
       {
         "sheets": {
@@ -58590,6 +58812,8 @@
   {
     "name": "Stronghold",
     "code": "sth",
+    "set_code": "sth",
+    "set_name": "Stronghold",
     "boosters": [
       {
         "sheets": {
@@ -58765,6 +58989,8 @@
   {
     "name": "Tempest",
     "code": "tmp",
+    "set_code": "tmp",
+    "set_name": "Tempest",
     "boosters": [
       {
         "sheets": {
@@ -59127,6 +59353,8 @@
   {
     "name": "Weatherlight",
     "code": "wth",
+    "set_code": "wth",
+    "set_name": "Weatherlight",
     "boosters": [
       {
         "sheets": {
@@ -59326,6 +59554,8 @@
   {
     "name": "Portal",
     "code": "por",
+    "set_code": "por",
+    "set_name": "Portal",
     "boosters": [
       {
         "sheets": {
@@ -59579,6 +59809,8 @@
   {
     "name": "Fifth Edition",
     "code": "5ed",
+    "set_code": "5ed",
+    "set_name": "Fifth Edition",
     "boosters": [
       {
         "sheets": {
@@ -60040,6 +60272,8 @@
   {
     "name": "Visions",
     "code": "vis",
+    "set_code": "vis",
+    "set_name": "Visions",
     "boosters": [
       {
         "sheets": {
@@ -60239,6 +60473,8 @@
   {
     "name": "Mirage",
     "code": "mir",
+    "set_code": "mir",
+    "set_name": "Mirage",
     "boosters": [
       {
         "sheets": {
@@ -60601,6 +60837,8 @@
   {
     "name": "Alliances",
     "code": "all",
+    "set_code": "all",
+    "set_name": "Alliances",
     "boosters": [
       {
         "sheets": {
@@ -60831,6 +61069,8 @@
   {
     "name": "Homelands",
     "code": "hml",
+    "set_code": "hml",
+    "set_name": "Homelands",
     "boosters": [
       {
         "sheets": {
@@ -60996,6 +61236,8 @@
   {
     "name": "Chronicles",
     "code": "chr",
+    "set_code": "chr",
+    "set_name": "Chronicles",
     "boosters": [
       {
         "sheets": {
@@ -61146,6 +61388,8 @@
   {
     "name": "Ice Age",
     "code": "ice",
+    "set_code": "ice",
+    "set_name": "Ice Age",
     "boosters": [
       {
         "sheets": {
@@ -61541,6 +61785,8 @@
   {
     "name": "Fourth Edition",
     "code": "4ed",
+    "set_code": "4ed",
+    "set_name": "Fourth Edition",
     "boosters": [
       {
         "sheets": {
@@ -61936,6 +62182,8 @@
   {
     "name": "Fallen Empires",
     "code": "fem",
+    "set_code": "fem",
+    "set_name": "Fallen Empires",
     "boosters": [
       {
         "sheets": {
@@ -62148,6 +62396,8 @@
   {
     "name": "The Dark",
     "code": "drk",
+    "set_code": "drk",
+    "set_name": "The Dark",
     "boosters": [
       {
         "sheets": {
@@ -62292,6 +62542,8 @@
   {
     "name": "Legends",
     "code": "leg",
+    "set_code": "leg",
+    "set_name": "Legends",
     "boosters": [
       {
         "sheets": {
@@ -62633,6 +62885,8 @@
   {
     "name": "Revised Edition",
     "code": "3ed",
+    "set_code": "3ed",
+    "set_name": "Revised Edition",
     "boosters": [
       {
         "sheets": {
@@ -62983,6 +63237,8 @@
   {
     "name": "Antiquities",
     "code": "atq",
+    "set_code": "atq",
+    "set_name": "Antiquities",
     "boosters": [
       {
         "sheets": {
@@ -63108,6 +63364,8 @@
   {
     "name": "Arabian Nights",
     "code": "arn",
+    "set_code": "arn",
+    "set_name": "Arabian Nights",
     "boosters": [
       {
         "sheets": {
@@ -63225,6 +63483,8 @@
   {
     "name": "Unlimited Edition",
     "code": "2ed",
+    "set_code": "2ed",
+    "set_name": "Unlimited Edition",
     "boosters": [
       {
         "sheets": {
@@ -63574,6 +63834,8 @@
   {
     "name": "Limited Edition Beta",
     "code": "leb",
+    "set_code": "leb",
+    "set_name": "Limited Edition Beta",
     "boosters": [
       {
         "sheets": {
@@ -63923,6 +64185,8 @@
   {
     "name": "Limited Edition Alpha",
     "code": "lea",
+    "set_code": "lea",
+    "set_name": "Limited Edition Alpha",
     "boosters": [
       {
         "sheets": {
