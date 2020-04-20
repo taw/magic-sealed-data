@@ -5,8 +5,8 @@
     "boosters": [
       {
         "sheets": {
-          "iko_basic": 1,
-          "iko_common": 10,
+          "iko_basic_or_gainland": 1,
+          "iko_nongainland_common": 10,
           "iko_uncommon": 3,
           "iko_rare_mythic": 1
         },
@@ -14,8 +14,8 @@
       },
       {
         "sheets": {
-          "iko_basic": 1,
-          "iko_common": 9,
+          "iko_basic_or_gainland": 1,
+          "iko_nongainland_common": 9,
           "iko_uncommon": 3,
           "iko_rare_mythic": 1,
           "iko_foil": 1
@@ -24,9 +24,19 @@
       }
     ],
     "sheets": {
-      "iko_basic": {
-        "total_weight": 15,
+      "iko_basic_or_gainland": {
+        "total_weight": 25,
         "cards": {
+          "iko:243": 1,
+          "iko:244": 1,
+          "iko:246": 1,
+          "iko:249": 1,
+          "iko:252": 1,
+          "iko:254": 1,
+          "iko:255": 1,
+          "iko:256": 1,
+          "iko:257": 1,
+          "iko:258": 1,
           "iko:260": 1,
           "iko:261": 1,
           "iko:262": 1,
@@ -44,9 +54,9 @@
           "iko:274": 1
         }
       },
-      "iko_common": {
+      "iko_nongainland_common": {
         "balance_colors": true,
-        "total_weight": 111,
+        "total_weight": 101,
         "cards": {
           "iko:1": 1,
           "iko:10": 1,
@@ -100,18 +110,8 @@
           "iko:23": 1,
           "iko:240": 1,
           "iko:241": 1,
-          "iko:243": 1,
-          "iko:244": 1,
-          "iko:246": 1,
           "iko:247": 1,
-          "iko:249": 1,
           "iko:25": 1,
-          "iko:252": 1,
-          "iko:254": 1,
-          "iko:255": 1,
-          "iko:256": 1,
-          "iko:257": 1,
-          "iko:258": 1,
           "iko:26": 1,
           "iko:27": 1,
           "iko:29": 1,
@@ -5594,8 +5594,8 @@
     "boosters": [
       {
         "sheets": {
-          "m20_basic": 1,
-          "m20_common": 10,
+          "m20_basic_or_common_land": 1,
+          "m20_nonland_common": 10,
           "m20_uncommon": 3,
           "m20_rare_mythic": 1
         },
@@ -5603,8 +5603,8 @@
       },
       {
         "sheets": {
-          "m20_basic": 1,
-          "m20_common": 9,
+          "m20_basic_or_common_land": 1,
+          "m20_nonland_common": 9,
           "m20_uncommon": 3,
           "m20_rare_mythic": 1,
           "m20_foil": 1
@@ -5613,9 +5613,20 @@
       }
     ],
     "sheets": {
-      "m20_basic": {
-        "total_weight": 20,
+      "m20_basic_or_common_land": {
+        "total_weight": 31,
         "cards": {
+          "m20:242": 1,
+          "m20:243": 1,
+          "m20:245": 1,
+          "m20:246": 1,
+          "m20:248": 1,
+          "m20:250": 1,
+          "m20:251": 1,
+          "m20:252": 1,
+          "m20:258": 1,
+          "m20:259": 1,
+          "m20:260": 1,
           "m20:261": 1,
           "m20:262": 1,
           "m20:263": 1,
@@ -5638,9 +5649,9 @@
           "m20:280": 1
         }
       },
-      "m20_common": {
+      "m20_nonland_common": {
         "balance_colors": true,
-        "total_weight": 112,
+        "total_weight": 101,
         "cards": {
           "m20:1": 1,
           "m20:100": 1,
@@ -5704,18 +5715,7 @@
           "m20:24": 1,
           "m20:240": 1,
           "m20:241": 1,
-          "m20:242": 1,
-          "m20:243": 1,
-          "m20:245": 1,
-          "m20:246": 1,
-          "m20:248": 1,
           "m20:25": 1,
-          "m20:250": 1,
-          "m20:251": 1,
-          "m20:252": 1,
-          "m20:258": 1,
-          "m20:259": 1,
-          "m20:260": 1,
           "m20:30": 1,
           "m20:31": 1,
           "m20:32": 1,
@@ -9068,8 +9068,8 @@
     "boosters": [
       {
         "sheets": {
-          "m19_basic": 1,
-          "m19_common": 10,
+          "m19_basic_or_common_land": 1,
+          "m19_nonland_common": 10,
           "m19_uncommon": 3,
           "m19_rare_mythic": 1
         },
@@ -9077,8 +9077,8 @@
       },
       {
         "sheets": {
-          "m19_basic": 1,
-          "m19_common": 9,
+          "m19_basic_or_common_land": 1,
+          "m19_nonland_common": 9,
           "m19_uncommon": 3,
           "m19_rare_mythic": 1,
           "m19_foil": 1
@@ -9087,9 +9087,19 @@
       }
     ],
     "sheets": {
-      "m19_basic": {
-        "total_weight": 20,
+      "m19_basic_or_common_land": {
+        "total_weight": 30,
         "cards": {
+          "m19:248": 1,
+          "m19:250": 1,
+          "m19:251": 1,
+          "m19:252": 1,
+          "m19:253": 1,
+          "m19:256": 1,
+          "m19:257": 1,
+          "m19:258": 1,
+          "m19:259": 1,
+          "m19:260": 1,
           "m19:261": 1,
           "m19:262": 1,
           "m19:263": 1,
@@ -9112,9 +9122,9 @@
           "m19:280": 1
         }
       },
-      "m19_common": {
+      "m19_nonland_common": {
         "balance_colors": true,
-        "total_weight": 111,
+        "total_weight": 101,
         "cards": {
           "m19:10": 1,
           "m19:100": 1,
@@ -9181,17 +9191,7 @@
           "m19:24": 1,
           "m19:240": 1,
           "m19:245": 1,
-          "m19:248": 1,
           "m19:25": 1,
-          "m19:250": 1,
-          "m19:251": 1,
-          "m19:252": 1,
-          "m19:253": 1,
-          "m19:256": 1,
-          "m19:257": 1,
-          "m19:258": 1,
-          "m19:259": 1,
-          "m19:260": 1,
           "m19:28": 1,
           "m19:31": 1,
           "m19:32": 1,
