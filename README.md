@@ -106,9 +106,13 @@ Order of cards on this list doesn't matter.
 
 Every card is indicated by `<set_code>:<card_number>` (like `thb:100`) or `<set_code>:<card_number>:foil` (like `thb:100:foil`).
 
+Weights are typically very low, but for some sheets they can be very high. This is especially true for foil sheets (which aren't reals physical sheets, just our estimated ratios of different kinds of foil cards) and software should be able to handle `total_weight` in millions.
+
 Sheet can also have optional `"balance_colors": true`, which recommends using color-balancing algorithm to pick cards.
 
-Weights are typically very low, but for some sheets they can be very high. This is especially true for foil sheets (which aren't reals physical sheets, just our estimated ratios of different kinds of foil cards) and software should be able to handle `total_weight` in millions.
+Sheet can also have optional `"partner": true`, which means if a card is chosen, its appropriate partner must be chosen as well.
+
+I intend to phase out both `balance_colors` and `partner` and replace them with some extra sheets that end up having same overall effect.
 
 ### `sheets` field in `sealed_extended_data.json`
 
