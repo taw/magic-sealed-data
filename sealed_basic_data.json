@@ -9712,7 +9712,7 @@
           "bbd_bbd_uncommon": 3,
           "bbd_bbd_rare_mythic": 1
         },
-        "weight": 170
+        "weight": 57970
       },
       {
         "sheets": {
@@ -9722,17 +9722,17 @@
           "bbd_bbd_uncommon": 3,
           "bbd_bbd_rare_mythic": 1
         },
-        "weight": 70
+        "weight": 23870
       },
       {
         "sheets": {
           "bbd_basic": 1,
           "bbd_common": 10,
           "bbd_bbd_uncommon": 1,
-          "bbd_bbd_uncommon_partner": 2,
+          "bbd_bbd_uncommon_partner_1": 2,
           "bbd_bbd_rare_mythic": 1
         },
-        "weight": 60
+        "weight": 4092
       },
       {
         "sheets": {
@@ -9740,19 +9740,103 @@
           "bbd_common": 9,
           "bbd_bbd_foil": 1,
           "bbd_bbd_uncommon": 1,
-          "bbd_bbd_uncommon_partner": 2,
+          "bbd_bbd_uncommon_partner_1": 2,
           "bbd_bbd_rare_mythic": 1
         },
-        "weight": 20
+        "weight": 1364
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 10,
+          "bbd_bbd_uncommon": 1,
+          "bbd_bbd_uncommon_partner_2": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 4092
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_foil": 1,
+          "bbd_bbd_uncommon": 1,
+          "bbd_bbd_uncommon_partner_2": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 1364
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 10,
+          "bbd_bbd_uncommon": 1,
+          "bbd_bbd_uncommon_partner_3": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 4092
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_foil": 1,
+          "bbd_bbd_uncommon": 1,
+          "bbd_bbd_uncommon_partner_3": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 1364
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 10,
+          "bbd_bbd_uncommon": 1,
+          "bbd_bbd_uncommon_partner_4": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 4092
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_foil": 1,
+          "bbd_bbd_uncommon": 1,
+          "bbd_bbd_uncommon_partner_4": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 1364
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 10,
+          "bbd_bbd_uncommon": 1,
+          "bbd_bbd_uncommon_partner_5": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 4092
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_foil": 1,
+          "bbd_bbd_uncommon": 1,
+          "bbd_bbd_uncommon_partner_5": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 1364
       },
       {
         "sheets": {
           "bbd_basic": 1,
           "bbd_common": 10,
           "bbd_bbd_uncommon": 2,
-          "bbd_bbd_rare_mythic_partner": 2
+          "bbd_bbd_rare_partner_1": 2
         },
-        "weight": 30
+        "weight": 1860
       },
       {
         "sheets": {
@@ -9760,19 +9844,214 @@
           "bbd_common": 9,
           "bbd_bbd_foil": 1,
           "bbd_bbd_uncommon": 2,
-          "bbd_bbd_rare_mythic_partner": 2
+          "bbd_bbd_rare_partner_1": 2
         },
-        "weight": 10
+        "weight": 620
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 10,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_rare_partner_2": 2
+        },
+        "weight": 1860
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_foil": 1,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_rare_partner_2": 2
+        },
+        "weight": 620
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 10,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_rare_partner_3": 2
+        },
+        "weight": 1860
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_foil": 1,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_rare_partner_3": 2
+        },
+        "weight": 620
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 10,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_rare_partner_4": 2
+        },
+        "weight": 1860
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_foil": 1,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_rare_partner_4": 2
+        },
+        "weight": 620
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 10,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_rare_partner_5": 2
+        },
+        "weight": 1860
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_foil": 1,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_rare_partner_5": 2
+        },
+        "weight": 620
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 10,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_mythic_partner_1": 2
+        },
+        "weight": 930
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_foil": 1,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_mythic_partner_1": 2
+        },
+        "weight": 310
       },
       {
         "sheets": {
           "bbd_basic": 1,
           "bbd_common": 9,
           "bbd_bbd_uncommon": 2,
-          "bbd_bbd_foil_partner": 2,
+          "bbd_bbd_foil_mythic_partner_1": 2,
           "bbd_bbd_rare_mythic": 1
         },
-        "weight": 4
+        "weight": 44
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_foil_rare_partner_1": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 88
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_foil_rare_partner_2": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 88
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_foil_rare_partner_3": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 88
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_foil_rare_partner_4": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 88
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_foil_rare_partner_5": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 88
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_foil_uncommon_partner_1": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 176
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_foil_uncommon_partner_2": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 176
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_foil_uncommon_partner_3": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 176
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_foil_uncommon_partner_4": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 176
+      },
+      {
+        "sheets": {
+          "bbd_basic": 1,
+          "bbd_common": 9,
+          "bbd_bbd_uncommon": 2,
+          "bbd_bbd_foil_uncommon_partner_5": 2,
+          "bbd_bbd_rare_mythic": 1
+        },
+        "weight": 176
       }
     ],
     "sheets": {
@@ -10266,64 +10545,158 @@
           "bbd:99:foil": 17325
         }
       },
-      "bbd_bbd_uncommon_partner": {
-        "partner": true,
-        "total_weight": 10,
+      "bbd_bbd_uncommon_partner_1": {
+        "total_weight": 2,
         "cards": {
           "bbd:13": 1,
-          "bbd:14": 1,
+          "bbd:14": 1
+        }
+      },
+      "bbd_bbd_uncommon_partner_2": {
+        "total_weight": 2,
+        "cards": {
           "bbd:15": 1,
-          "bbd:16": 1,
+          "bbd:16": 1
+        }
+      },
+      "bbd_bbd_uncommon_partner_3": {
+        "total_weight": 2,
+        "cards": {
           "bbd:17": 1,
-          "bbd:18": 1,
+          "bbd:18": 1
+        }
+      },
+      "bbd_bbd_uncommon_partner_4": {
+        "total_weight": 2,
+        "cards": {
           "bbd:19": 1,
-          "bbd:20": 1,
+          "bbd:20": 1
+        }
+      },
+      "bbd_bbd_uncommon_partner_5": {
+        "total_weight": 2,
+        "cards": {
           "bbd:21": 1,
           "bbd:22": 1
         }
       },
-      "bbd_bbd_rare_mythic_partner": {
-        "total_weight": 22,
+      "bbd_bbd_rare_partner_1": {
+        "total_weight": 2,
         "cards": {
-          "bbd:1": 1,
-          "bbd:10": 2,
-          "bbd:11": 2,
-          "bbd:12": 2,
-          "bbd:2": 1,
-          "bbd:3": 2,
-          "bbd:4": 2,
-          "bbd:5": 2,
-          "bbd:6": 2,
-          "bbd:7": 2,
-          "bbd:8": 2,
-          "bbd:9": 2
+          "bbd:3": 1,
+          "bbd:4": 1
         }
       },
-      "bbd_bbd_foil_partner": {
-        "total_weight": 62,
+      "bbd_bbd_rare_partner_2": {
+        "total_weight": 2,
         "cards": {
-          "bbd:10:foil": 2,
-          "bbd:11:foil": 2,
-          "bbd:12:foil": 2,
-          "bbd:13:foil": 4,
-          "bbd:14:foil": 4,
-          "bbd:15:foil": 4,
-          "bbd:16:foil": 4,
-          "bbd:17:foil": 4,
-          "bbd:18:foil": 4,
-          "bbd:19:foil": 4,
-          "bbd:20:foil": 4,
-          "bbd:21:foil": 4,
-          "bbd:22:foil": 4,
+          "bbd:5": 1,
+          "bbd:6": 1
+        }
+      },
+      "bbd_bbd_rare_partner_3": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:7": 1,
+          "bbd:8": 1
+        }
+      },
+      "bbd_bbd_rare_partner_4": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:10": 1,
+          "bbd:9": 1
+        }
+      },
+      "bbd_bbd_rare_partner_5": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:11": 1,
+          "bbd:12": 1
+        }
+      },
+      "bbd_bbd_mythic_partner_1": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:1": 1,
+          "bbd:2": 1
+        }
+      },
+      "bbd_bbd_foil_mythic_partner_1": {
+        "total_weight": 2,
+        "cards": {
           "bbd:255:foil": 1,
-          "bbd:256:foil": 1,
-          "bbd:3:foil": 2,
-          "bbd:4:foil": 2,
-          "bbd:5:foil": 2,
-          "bbd:6:foil": 2,
-          "bbd:7:foil": 2,
-          "bbd:8:foil": 2,
-          "bbd:9:foil": 2
+          "bbd:256:foil": 1
+        }
+      },
+      "bbd_bbd_foil_rare_partner_1": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:3:foil": 1,
+          "bbd:4:foil": 1
+        }
+      },
+      "bbd_bbd_foil_rare_partner_2": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:5:foil": 1,
+          "bbd:6:foil": 1
+        }
+      },
+      "bbd_bbd_foil_rare_partner_3": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:7:foil": 1,
+          "bbd:8:foil": 1
+        }
+      },
+      "bbd_bbd_foil_rare_partner_4": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:10:foil": 1,
+          "bbd:9:foil": 1
+        }
+      },
+      "bbd_bbd_foil_rare_partner_5": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:11:foil": 1,
+          "bbd:12:foil": 1
+        }
+      },
+      "bbd_bbd_foil_uncommon_partner_1": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:13:foil": 1,
+          "bbd:14:foil": 1
+        }
+      },
+      "bbd_bbd_foil_uncommon_partner_2": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:15:foil": 1,
+          "bbd:16:foil": 1
+        }
+      },
+      "bbd_bbd_foil_uncommon_partner_3": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:17:foil": 1,
+          "bbd:18:foil": 1
+        }
+      },
+      "bbd_bbd_foil_uncommon_partner_4": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:19:foil": 1,
+          "bbd:20:foil": 1
+        }
+      },
+      "bbd_bbd_foil_uncommon_partner_5": {
+        "total_weight": 2,
+        "cards": {
+          "bbd:21:foil": 1,
+          "bbd:22:foil": 1
         }
       }
     }

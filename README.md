@@ -110,9 +110,7 @@ Weights are typically very low, but for some sheets they can be very high. This 
 
 Sheet can also have optional `"balance_colors": true`, which recommends using color-balancing algorithm to pick cards.
 
-Sheet can also have optional `"partner": true`, which means if a card is chosen, its appropriate partner must be chosen as well.
-
-I intend to phase out both `balance_colors` and `partner` and replace them with some extra sheets that end up having same overall effect.
+I intend to phase out `balance_colors` and replace it with some extra sheets that end up having same overall effect.
 
 ### `sheets` field in `sealed_extended_data.json`
 
