@@ -37674,7 +37674,7 @@
         {
           "weight": 3,
           "contents": {
-            "commonUnbalanced": 11,
+            "common": 11,
             "uncommon": 3,
             "rareMythic": 1
           }
@@ -37682,7 +37682,7 @@
         {
           "weight": 1,
           "contents": {
-            "commonUnbalanced": 10,
+            "common": 10,
             "uncommon": 3,
             "rareMythic": 1,
             "foil": 1
@@ -37691,7 +37691,7 @@
       ],
       "boostersTotalWeight": 4,
       "sheets": {
-        "commonUnbalanced": {
+        "common": {
           "cards": {
             "03d0d403-4f3e-54a8-8a4e-5108b1ab27d2": 1,
             "0af14731-f74a-5646-b1df-591944567448": 1,
@@ -38356,7 +38356,7 @@
           "weight": 3,
           "contents": {
             "basic": 1,
-            "commonUnbalanced": 10,
+            "common": 10,
             "uncommon": 3,
             "rareMythic": 1
           }
@@ -38365,7 +38365,7 @@
           "weight": 1,
           "contents": {
             "basic": 1,
-            "commonUnbalanced": 9,
+            "common": 9,
             "uncommon": 3,
             "rareMythic": 1,
             "foil": 1
@@ -38400,7 +38400,7 @@
           "foil": false,
           "totalWeight": 20
         },
-        "commonUnbalanced": {
+        "common": {
           "cards": {
             "056cda7c-cd3c-55b7-ae32-1fcae68dd747": 1,
             "06a1518d-2adc-5ad0-aa44-a184b403f1e1": 1,
@@ -40040,7 +40040,7 @@
         {
           "weight": 3,
           "contents": {
-            "commonUnbalanced": 11,
+            "common": 11,
             "uncommon": 3,
             "rare": 1
           }
@@ -40048,7 +40048,7 @@
         {
           "weight": 1,
           "contents": {
-            "commonUnbalanced": 10,
+            "common": 10,
             "uncommon": 3,
             "rare": 1,
             "foil": 1
@@ -40057,7 +40057,7 @@
       ],
       "boostersTotalWeight": 4,
       "sheets": {
-        "commonUnbalanced": {
+        "common": {
           "cards": {
             "0253fcda-ea84-55c8-bdad-8cf4b1402929": 1,
             "0a4b88f6-d3f6-5b02-9a74-4ce1e14bd49b": 1,
@@ -40450,7 +40450,7 @@
         {
           "weight": 3,
           "contents": {
-            "commonUnbalanced": 11,
+            "common": 11,
             "uncommon": 3,
             "rare": 1
           }
@@ -40458,7 +40458,7 @@
         {
           "weight": 1,
           "contents": {
-            "commonUnbalanced": 10,
+            "common": 10,
             "uncommon": 3,
             "rare": 1,
             "foil": 1
@@ -40467,7 +40467,7 @@
       ],
       "boostersTotalWeight": 4,
       "sheets": {
-        "commonUnbalanced": {
+        "common": {
           "cards": {
             "03379d11-8e3a-5be8-9b87-a0bbd788df65": 1,
             "0342634c-da9d-5923-a34c-9fadee5fab4b": 1,
@@ -45391,7 +45391,7 @@
         {
           "weight": 3,
           "contents": {
-            "commonUnbalanced": 11,
+            "common": 11,
             "uncommon": 3,
             "rare": 1
           }
@@ -45399,7 +45399,7 @@
         {
           "weight": 1,
           "contents": {
-            "commonUnbalanced": 10,
+            "common": 10,
             "uncommon": 3,
             "rare": 1,
             "foil": 1
@@ -45408,7 +45408,7 @@
       ],
       "boostersTotalWeight": 4,
       "sheets": {
-        "commonUnbalanced": {
+        "common": {
           "cards": {
             "012737db-f4a8-57a8-a9e0-448f9ed76f52": 1,
             "024b530e-b7e8-53c1-8e15-b67debca1dc0": 1,
@@ -45801,7 +45801,7 @@
         {
           "weight": 3,
           "contents": {
-            "commonUnbalanced": 11,
+            "common": 11,
             "uncommon": 3,
             "rare": 1
           }
@@ -45809,7 +45809,7 @@
         {
           "weight": 1,
           "contents": {
-            "commonUnbalanced": 10,
+            "common": 10,
             "uncommon": 3,
             "rare": 1,
             "foil": 1
@@ -45818,7 +45818,7 @@
       ],
       "boostersTotalWeight": 4,
       "sheets": {
-        "commonUnbalanced": {
+        "common": {
           "cards": {
             "0fbb3a2e-ffb9-5754-a780-e6a3a4db4175": 1,
             "1d20b2a5-dfec-5348-91c5-18b7419a1ed9": 1,
@@ -46181,7 +46181,7 @@
         {
           "weight": 3,
           "contents": {
-            "commonUnbalanced": 11,
+            "common": 11,
             "uncommon": 3,
             "rare": 1
           }
@@ -46189,7 +46189,7 @@
         {
           "weight": 1,
           "contents": {
-            "commonUnbalanced": 10,
+            "common": 10,
             "uncommon": 3,
             "rare": 1,
             "foil": 1
@@ -46198,7 +46198,7 @@
       ],
       "boostersTotalWeight": 4,
       "sheets": {
-        "commonUnbalanced": {
+        "common": {
           "cards": {
             "049ef686-e83d-570a-b556-2cce6b894a1a": 1,
             "06a16194-03a3-5508-b5c4-6a047c0b49e2": 1,
@@ -52918,7 +52918,7 @@
         {
           "weight": 3,
           "contents": {
-            "commonUnbalanced": 11,
+            "common": 11,
             "uncommon": 3,
             "rare": 1
           }
@@ -52926,7 +52926,7 @@
         {
           "weight": 1,
           "contents": {
-            "commonUnbalanced": 10,
+            "common": 10,
             "uncommon": 3,
             "rare": 1,
             "foil": 1
@@ -52935,7 +52935,7 @@
       ],
       "boostersTotalWeight": 4,
       "sheets": {
-        "commonUnbalanced": {
+        "common": {
           "cards": {
             "0438673a-0a2b-5f99-8878-17ab85f23ac4": 1,
             "11da5c4a-f9b0-5190-b35d-6493e1d209d2": 1,
@@ -54322,7 +54322,7 @@
         {
           "weight": 3,
           "contents": {
-            "commonUnbalanced": 11,
+            "common": 11,
             "uncommon": 3,
             "rare": 1
           }
@@ -54330,7 +54330,7 @@
         {
           "weight": 1,
           "contents": {
-            "commonUnbalanced": 10,
+            "common": 10,
             "uncommon": 3,
             "rare": 1,
             "foil": 1
@@ -54339,7 +54339,7 @@
       ],
       "boostersTotalWeight": 4,
       "sheets": {
-        "commonUnbalanced": {
+        "common": {
           "cards": {
             "0a8ab1ff-d427-5e6a-a019-8f1c8ee3b547": 1,
             "11f8be4a-e525-594f-94d2-ebb5227fe356": 1,
@@ -59739,7 +59739,7 @@
           "weight": 1,
           "contents": {
             "basic": 1,
-            "commonUnbalanced": 6,
+            "common": 6,
             "uncommon": 2,
             "rare": 1
           }
@@ -59758,7 +59758,7 @@
           "foil": false,
           "totalWeight": 5
         },
-        "commonUnbalanced": {
+        "common": {
           "cards": {
             "11c7cd84-3539-5fb7-a1d9-b9f7fe06a665": 1,
             "13090dc7-8f83-584d-9472-f34c3234ba80": 1,
