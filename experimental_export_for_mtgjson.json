@@ -3720,27 +3720,27 @@
         {
           "weight": 1,
           "contents": {
-            "mb1WhiteA": 1,
-            "mb1WhiteB": 1,
-            "mb1BlueA": 1,
-            "mb1BlueB": 1,
-            "mb1BlackA": 1,
-            "mb1BlackB": 1,
-            "mb1RedA": 1,
-            "mb1RedB": 1,
-            "mb1GreenA": 1,
-            "mb1GreenB": 1,
-            "mb1Multicolor": 1,
-            "mb1Colorless": 1,
-            "mb1OldFrame": 1,
-            "mb1Rare": 1,
-            "mb1Playtest": 1
+            "whiteA": 1,
+            "whiteB": 1,
+            "blueA": 1,
+            "blueB": 1,
+            "blackA": 1,
+            "blackB": 1,
+            "redA": 1,
+            "redB": 1,
+            "greenA": 1,
+            "greenB": 1,
+            "multicolor": 1,
+            "colorless": 1,
+            "oldFrame": 1,
+            "rare": 1,
+            "playtest": 1
           }
         }
       ],
       "boostersTotalWeight": 1,
       "sheets": {
-        "mb1WhiteA": {
+        "whiteA": {
           "cards": {
             "02d460bc-2c7f-5949-b375-aa6c6fa4e038": 1,
             "02eb4d81-e3b7-573d-bc01-e58392d2d2b6": 1,
@@ -3867,7 +3867,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1WhiteB": {
+        "whiteB": {
           "cards": {
             "00c93a6d-4ef4-5dee-959a-a536e3e80b91": 1,
             "01f41d39-1b54-51ee-82c3-c2982c9ffe0c": 1,
@@ -3994,7 +3994,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1BlueA": {
+        "blueA": {
           "cards": {
             "03e79717-7025-5ac4-9fee-7cb89e648c5c": 1,
             "053a4510-e1b8-5bf3-a570-7810074dff1f": 1,
@@ -4121,7 +4121,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1BlueB": {
+        "blueB": {
           "cards": {
             "030981eb-a355-5b16-b26b-d297f0ef919a": 1,
             "042f147c-aca4-5635-a6e8-7e4a1f2c1130": 1,
@@ -4248,7 +4248,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1BlackA": {
+        "blackA": {
           "cards": {
             "0075caf5-445f-5f92-a4da-6456947fcfc7": 1,
             "06a1f640-1b58-56fb-b874-462451881fca": 1,
@@ -4375,7 +4375,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1BlackB": {
+        "blackB": {
           "cards": {
             "009061d4-d705-51bf-8d52-641ff1ede416": 1,
             "020040d2-1af5-5d79-90b1-386c9b8225b7": 1,
@@ -4502,7 +4502,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1RedA": {
+        "redA": {
           "cards": {
             "042a3fa9-81d9-5b5e-944d-e27a2319a4ad": 1,
             "047788fa-6254-5187-8227-5c1541b5c0bc": 1,
@@ -4629,7 +4629,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1RedB": {
+        "redB": {
           "cards": {
             "04a8fe46-6f54-5b01-842c-49b50d015039": 1,
             "0909de78-c2fc-52aa-9ae2-7ddcd1c214b5": 1,
@@ -4756,7 +4756,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1GreenA": {
+        "greenA": {
           "cards": {
             "006525e3-6adc-5e3d-84b5-23c6feb54dd0": 1,
             "014eb58f-59f0-594d-a41b-4f52a6102286": 1,
@@ -4883,7 +4883,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1GreenB": {
+        "greenB": {
           "cards": {
             "02fa07c6-ddf4-5912-a3eb-d111b9e3a1a5": 1,
             "0648be27-e010-591a-b87a-4580a114d0f0": 1,
@@ -5010,7 +5010,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1Multicolor": {
+        "multicolor": {
           "cards": {
             "00a771ef-9700-52b6-bc23-2dc5d47cc5e9": 1,
             "037f8a35-4f11-5be0-93d7-4a0f0b52a287": 1,
@@ -5137,7 +5137,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1Colorless": {
+        "colorless": {
           "cards": {
             "0149a26c-2b7f-546b-9478-bd9f12373b4f": 1,
             "02cd177d-d4d8-5776-9b21-2942295d3aec": 1,
@@ -5264,7 +5264,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1OldFrame": {
+        "oldFrame": {
           "cards": {
             "0254d6f0-9da4-5cc4-b398-51f5b0c1d945": 1,
             "047ebef8-eef5-5da6-bbad-d0af9054ec7b": 1,
@@ -5391,7 +5391,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1Rare": {
+        "rare": {
           "cards": {
             "00893d36-669e-5335-a374-8e3fb52b161e": 1,
             "020b4ea5-d1b4-5325-a02f-0be93eb81754": 1,
@@ -5518,7 +5518,7 @@
           "foil": false,
           "totalWeight": 121
         },
-        "mb1Playtest": {
+        "playtest": {
           "cards": {
             "01fddb82-59c6-5bb2-abfe-1c4b1de68115": 1,
             "02942084-4281-5d10-bd42-4f72f0f2d7b7": 1,
