@@ -3,27 +3,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "m21Basic": 1,
             "m21Common": 10,
             "m21Uncommon": 3,
             "m21RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "m21Basic": 1,
             "m21Common": 9,
             "m21Uncommon": 3,
             "m21RareMythic": 1,
             "m21Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "m21Basic": {
           "cards": {
             "02b44836-a5f9-56b0-9c2c-e2138e63332b": 1,
@@ -610,27 +610,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "ikoBasicOrGainland": 1,
             "ikoNongainlandCommon": 10,
             "ikoUncommon": 3,
             "ikoRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "ikoBasicOrGainland": 1,
             "ikoNongainlandCommon": 9,
             "ikoUncommon": 3,
             "ikoRareMythic": 1,
             "ikoFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "ikoBasicOrGainland": {
           "cards": {
             "08bfb64f-9a6c-5ff0-bd24-c766279463ac": 1,
@@ -1217,27 +1217,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "thbBasic": 1,
             "thbCommon": 10,
             "thbUncommon": 3,
             "thbRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "thbBasic": 1,
             "thbCommon": 9,
             "thbUncommon": 3,
             "thbRareMythic": 1,
             "thbFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "thbBasic": {
           "cards": {
             "1e12b68d-d81d-5169-8f3a-4700816406e8": 1,
@@ -1784,7 +1784,8 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "mb1Mb1WhiteA": 1,
             "mb1Mb1WhiteB": 1,
             "mb1Mb1BlueA": 1,
@@ -1800,12 +1801,11 @@
             "mb1Mb1OldFrame": 1,
             "mb1Mb1Rare": 1,
             "mb1Mb1Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "mb1Mb1WhiteA": {
           "cards": {
             "02d460bc-2c7f-5949-b375-aa6c6fa4e038": 1,
@@ -3718,7 +3718,8 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "cmb1Mb1WhiteA": 1,
             "cmb1Mb1WhiteB": 1,
             "cmb1Mb1BlueA": 1,
@@ -3734,12 +3735,11 @@
             "cmb1Mb1OldFrame": 1,
             "cmb1Mb1Rare": 1,
             "cmb1Mb1Playtest": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "cmb1Mb1WhiteA": {
           "cards": {
             "02d460bc-2c7f-5949-b375-aa6c6fa4e038": 1,
@@ -5652,27 +5652,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "eldBasic": 1,
             "eldCommon": 10,
             "eldUncommon": 3,
             "eldRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "eldBasic": 1,
             "eldCommon": 9,
             "eldUncommon": 3,
             "eldRareMythic": 1,
             "eldFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "eldBasic": {
           "cards": {
             "0daaa094-e0b4-5ff8-8937-15ea24137549": 1,
@@ -6249,27 +6249,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "m20BasicOrCommonLand": 1,
             "m20NonlandCommon": 10,
             "m20Uncommon": 3,
             "m20RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "m20BasicOrCommonLand": 1,
             "m20NonlandCommon": 9,
             "m20Uncommon": 3,
             "m20RareMythic": 1,
             "m20Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "m20BasicOrCommonLand": {
           "cards": {
             "18eac8df-d2d6-51d5-b544-fa900dcab5a2": 1,
@@ -6868,27 +6868,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "mh1Basic": 1,
             "mh1Common": 10,
             "mh1Uncommon": 3,
             "mh1RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "mh1Basic": 1,
             "mh1Common": 9,
             "mh1Uncommon": 3,
             "mh1RareMythic": 1,
             "mh1Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "mh1Basic": {
           "cards": {
             "1ef5c7e7-125d-538c-930c-dd4bdf568382": 1,
@@ -7435,48 +7435,48 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 87,
+          "contents": {
             "warBasic": 1,
             "warCommon": 10,
             "warWarNonplaneswalkerUncommon": 3,
             "warWarPlaneswalkerRareMythic": 1
-          },
-          "weight": 87
+          }
         },
         {
-          "sheets": {
+          "weight": 29,
+          "contents": {
             "warBasic": 1,
             "warCommon": 9,
             "warWarNonplaneswalkerUncommon": 3,
             "warWarPlaneswalkerRareMythic": 1,
             "warWarFoil": 1
-          },
-          "weight": 29
+          }
         },
         {
-          "sheets": {
+          "weight": 276,
+          "contents": {
             "warBasic": 1,
             "warCommon": 10,
             "warWarNonplaneswalkerUncommon": 2,
             "warWarPlaneswalkerUncommon": 1,
             "warWarNonplaneswalkerRareMythic": 1
-          },
-          "weight": 276
+          }
         },
         {
-          "sheets": {
+          "weight": 92,
+          "contents": {
             "warBasic": 1,
             "warCommon": 9,
             "warWarNonplaneswalkerUncommon": 2,
             "warWarPlaneswalkerUncommon": 1,
             "warWarNonplaneswalkerRareMythic": 1,
             "warWarFoil": 1
-          },
-          "weight": 92
+          }
         }
       ],
       "boostersTotalWeight": 484,
-      "contents": {
+      "sheets": {
         "warBasic": {
           "cards": {
             "0f9a002f-002a-5d24-b8d2-84c27d01bf21": 1,
@@ -8055,27 +8055,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "rnaRnaCommon": 10,
             "rnaUncommon": 3,
             "rnaRareMythic": 1,
             "rnaRnaLand": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "rnaRnaCommon": 9,
             "rnaUncommon": 3,
             "rnaRareMythic": 1,
             "rnaRnaLand": 1,
             "rnaFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "rnaRnaCommon": {
           "balanceColors": true,
           "cards": {
@@ -8632,17 +8632,17 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "umaCommon": 10,
             "umaUncommon": 3,
             "umaRareMythic": 1,
             "umaFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "umaCommon": {
           "balanceColors": true,
           "cards": {
@@ -9183,27 +9183,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "grnGrnCommon": 10,
             "grnUncommon": 3,
             "grnRareMythic": 1,
             "grnGrnLand": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "grnGrnCommon": 9,
             "grnUncommon": 3,
             "grnRareMythic": 1,
             "grnGrnLand": 1,
             "grnFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "grnGrnCommon": {
           "balanceColors": true,
           "cards": {
@@ -9760,27 +9760,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "m19BasicOrCommonLand": 1,
             "m19NonlandCommon": 10,
             "m19Uncommon": 3,
             "m19RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "m19BasicOrCommonLand": 1,
             "m19NonlandCommon": 9,
             "m19Uncommon": 3,
             "m19RareMythic": 1,
             "m19Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "m19BasicOrCommonLand": {
           "cards": {
             "00f61f45-9c52-53f2-b9fa-072fdd5c96e5": 1,
@@ -10379,356 +10379,356 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 28985,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 10,
             "bbdBbdUncommon": 3,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 28985
+          }
         },
         {
-          "sheets": {
+          "weight": 11935,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdFoil": 1,
             "bbdBbdUncommon": 3,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 11935
+          }
         },
         {
-          "sheets": {
+          "weight": 2046,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 10,
             "bbdBbdUncommon": 1,
             "bbdBbdUncommonPartner1": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 2046
+          }
         },
         {
-          "sheets": {
+          "weight": 682,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdFoil": 1,
             "bbdBbdUncommon": 1,
             "bbdBbdUncommonPartner1": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 682
+          }
         },
         {
-          "sheets": {
+          "weight": 2046,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 10,
             "bbdBbdUncommon": 1,
             "bbdBbdUncommonPartner2": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 2046
+          }
         },
         {
-          "sheets": {
+          "weight": 682,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdFoil": 1,
             "bbdBbdUncommon": 1,
             "bbdBbdUncommonPartner2": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 682
+          }
         },
         {
-          "sheets": {
+          "weight": 2046,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 10,
             "bbdBbdUncommon": 1,
             "bbdBbdUncommonPartner3": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 2046
+          }
         },
         {
-          "sheets": {
+          "weight": 682,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdFoil": 1,
             "bbdBbdUncommon": 1,
             "bbdBbdUncommonPartner3": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 682
+          }
         },
         {
-          "sheets": {
+          "weight": 2046,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 10,
             "bbdBbdUncommon": 1,
             "bbdBbdUncommonPartner4": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 2046
+          }
         },
         {
-          "sheets": {
+          "weight": 682,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdFoil": 1,
             "bbdBbdUncommon": 1,
             "bbdBbdUncommonPartner4": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 682
+          }
         },
         {
-          "sheets": {
+          "weight": 2046,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 10,
             "bbdBbdUncommon": 1,
             "bbdBbdUncommonPartner5": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 2046
+          }
         },
         {
-          "sheets": {
+          "weight": 682,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdFoil": 1,
             "bbdBbdUncommon": 1,
             "bbdBbdUncommonPartner5": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 682
+          }
         },
         {
-          "sheets": {
+          "weight": 930,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 10,
             "bbdBbdUncommon": 2,
             "bbdBbdRarePartner1": 2
-          },
-          "weight": 930
+          }
         },
         {
-          "sheets": {
+          "weight": 310,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdFoil": 1,
             "bbdBbdUncommon": 2,
             "bbdBbdRarePartner1": 2
-          },
-          "weight": 310
+          }
         },
         {
-          "sheets": {
+          "weight": 930,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 10,
             "bbdBbdUncommon": 2,
             "bbdBbdRarePartner2": 2
-          },
-          "weight": 930
+          }
         },
         {
-          "sheets": {
+          "weight": 310,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdFoil": 1,
             "bbdBbdUncommon": 2,
             "bbdBbdRarePartner2": 2
-          },
-          "weight": 310
+          }
         },
         {
-          "sheets": {
+          "weight": 930,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 10,
             "bbdBbdUncommon": 2,
             "bbdBbdRarePartner3": 2
-          },
-          "weight": 930
+          }
         },
         {
-          "sheets": {
+          "weight": 310,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdFoil": 1,
             "bbdBbdUncommon": 2,
             "bbdBbdRarePartner3": 2
-          },
-          "weight": 310
+          }
         },
         {
-          "sheets": {
+          "weight": 930,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 10,
             "bbdBbdUncommon": 2,
             "bbdBbdRarePartner4": 2
-          },
-          "weight": 930
+          }
         },
         {
-          "sheets": {
+          "weight": 310,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdFoil": 1,
             "bbdBbdUncommon": 2,
             "bbdBbdRarePartner4": 2
-          },
-          "weight": 310
+          }
         },
         {
-          "sheets": {
+          "weight": 930,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 10,
             "bbdBbdUncommon": 2,
             "bbdBbdRarePartner5": 2
-          },
-          "weight": 930
+          }
         },
         {
-          "sheets": {
+          "weight": 310,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdFoil": 1,
             "bbdBbdUncommon": 2,
             "bbdBbdRarePartner5": 2
-          },
-          "weight": 310
+          }
         },
         {
-          "sheets": {
+          "weight": 465,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 10,
             "bbdBbdUncommon": 2,
             "bbdBbdMythicPartner1": 2
-          },
-          "weight": 465
+          }
         },
         {
-          "sheets": {
+          "weight": 155,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdFoil": 1,
             "bbdBbdUncommon": 2,
             "bbdBbdMythicPartner1": 2
-          },
-          "weight": 155
+          }
         },
         {
-          "sheets": {
+          "weight": 22,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdUncommon": 2,
             "bbdBbdFoilMythicPartner1": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 22
+          }
         },
         {
-          "sheets": {
+          "weight": 44,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdUncommon": 2,
             "bbdBbdFoilRarePartner1": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 44
+          }
         },
         {
-          "sheets": {
+          "weight": 44,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdUncommon": 2,
             "bbdBbdFoilRarePartner2": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 44
+          }
         },
         {
-          "sheets": {
+          "weight": 44,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdUncommon": 2,
             "bbdBbdFoilRarePartner3": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 44
+          }
         },
         {
-          "sheets": {
+          "weight": 44,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdUncommon": 2,
             "bbdBbdFoilRarePartner4": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 44
+          }
         },
         {
-          "sheets": {
+          "weight": 44,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdUncommon": 2,
             "bbdBbdFoilRarePartner5": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 44
+          }
         },
         {
-          "sheets": {
+          "weight": 88,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdUncommon": 2,
             "bbdBbdFoilUncommonPartner1": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 88
+          }
         },
         {
-          "sheets": {
+          "weight": 88,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdUncommon": 2,
             "bbdBbdFoilUncommonPartner2": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 88
+          }
         },
         {
-          "sheets": {
+          "weight": 88,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdUncommon": 2,
             "bbdBbdFoilUncommonPartner3": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 88
+          }
         },
         {
-          "sheets": {
+          "weight": 88,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdUncommon": 2,
             "bbdBbdFoilUncommonPartner4": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 88
+          }
         },
         {
-          "sheets": {
+          "weight": 88,
+          "contents": {
             "bbdBasic": 1,
             "bbdCommon": 9,
             "bbdBbdUncommon": 2,
             "bbdBbdFoilUncommonPartner5": 2,
             "bbdBbdRareMythic": 1
-          },
-          "weight": 88
+          }
         }
       ],
       "boostersTotalWeight": 62062,
-      "contents": {
+      "sheets": {
         "bbdBasic": {
           "cards": {
             "2124afbc-1315-5301-84a9-3a8ff2f4df36": 1,
@@ -11407,69 +11407,69 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3267,
+          "contents": {
             "domBasic": 1,
             "domCommon": 10,
             "domDomNonlegendaryUncommon": 3,
             "domDomLegendaryRareMythic": 1
-          },
-          "weight": 3267
+          }
         },
         {
-          "sheets": {
+          "weight": 1089,
+          "contents": {
             "domBasic": 1,
             "domCommon": 9,
             "domDomNonlegendaryUncommon": 3,
             "domDomLegendaryRareMythic": 1,
             "domFoil": 1
-          },
-          "weight": 1089
+          }
         },
         {
-          "sheets": {
+          "weight": 621,
+          "contents": {
             "domBasic": 1,
             "domCommon": 10,
             "domDomNonlegendaryUncommon": 2,
             "domDomLegendaryUncommon": 1,
             "domDomLegendaryRareMythic": 1
-          },
-          "weight": 621
+          }
         },
         {
-          "sheets": {
+          "weight": 207,
+          "contents": {
             "domBasic": 1,
             "domCommon": 9,
             "domDomNonlegendaryUncommon": 2,
             "domDomLegendaryUncommon": 1,
             "domDomLegendaryRareMythic": 1,
             "domFoil": 1
-          },
-          "weight": 207
+          }
         },
         {
-          "sheets": {
+          "weight": 9180,
+          "contents": {
             "domBasic": 1,
             "domCommon": 10,
             "domDomNonlegendaryUncommon": 2,
             "domDomLegendaryUncommon": 1,
             "domDomNonlegendaryRareMythic": 1
-          },
-          "weight": 9180
+          }
         },
         {
-          "sheets": {
+          "weight": 3060,
+          "contents": {
             "domBasic": 1,
             "domCommon": 9,
             "domDomNonlegendaryUncommon": 2,
             "domDomLegendaryUncommon": 1,
             "domDomNonlegendaryRareMythic": 1,
             "domFoil": 1
-          },
-          "weight": 3060
+          }
         }
       ],
       "boostersTotalWeight": 17424,
-      "contents": {
+      "sheets": {
         "domBasic": {
           "cards": {
             "024eab49-9633-54a0-b9dc-b3a5c55c6f5b": 1,
@@ -12058,17 +12058,17 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "a25Common": 10,
             "a25Uncommon": 3,
             "a25RareMythic": 1,
             "a25Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "a25Common": {
           "balanceColors": true,
           "cards": {
@@ -12599,27 +12599,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "rixBasic": 1,
             "rixCommon": 10,
             "rixUncommon": 3,
             "rixRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "rixBasic": 1,
             "rixCommon": 9,
             "rixUncommon": 3,
             "rixRareMythic": 1,
             "rixFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "rixBasic": {
           "cards": {
             "16f997f6-588d-5153-a574-e95ed9f012ac": 1,
@@ -13050,50 +13050,50 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 27,
+          "contents": {
             "ustUstBasic": 1,
             "ustUstContraption": 2,
             "ustUstCommon": 8,
             "ustUstUncommon": 3,
             "ustUstRareMythic": 1
-          },
-          "weight": 27
+          }
         },
         {
-          "sheets": {
+          "weight": 10,
+          "contents": {
             "ustUstBasic": 1,
             "ustUstContraption": 2,
             "ustUstFoil": 1,
             "ustUstCommon": 7,
             "ustUstUncommon": 3,
             "ustUstRareMythic": 1
-          },
-          "weight": 10
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "ustUstBasicFoil": 1,
             "ustUstContraption": 2,
             "ustUstCommon": 8,
             "ustUstUncommon": 3,
             "ustUstRareMythic": 1
-          },
-          "weight": 1
+          }
         },
         {
-          "sheets": {
+          "weight": 2,
+          "contents": {
             "ustUstBasic": 1,
             "ustUstContraption": 1,
             "ustUstContraptionFoil": 1,
             "ustUstCommon": 8,
             "ustUstUncommon": 3,
             "ustUstRareMythic": 1
-          },
-          "weight": 2
+          }
         }
       ],
       "boostersTotalWeight": 40,
-      "contents": {
+      "sheets": {
         "ustUstBasic": {
           "cards": {
             "76821bd1-492c-52e5-b7bf-c9ed9b7bfc3b": 24,
@@ -13685,17 +13685,17 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "imaCommon": 10,
             "imaUncommon": 3,
             "imaRareMythic": 1,
             "imaFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "imaCommon": {
           "balanceColors": true,
           "cards": {
@@ -14226,27 +14226,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "xlnBasic": 1,
             "xlnCommon": 10,
             "xlnUncommon": 3,
             "xlnRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "xlnBasic": 1,
             "xlnCommon": 9,
             "xlnUncommon": 3,
             "xlnRareMythic": 1,
             "xlnFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "xlnBasic": {
           "cards": {
             "1424de77-2ddb-55f2-8eac-859f70dd93ef": 1,
@@ -14843,27 +14843,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "houBasic": 1,
             "houCommon": 10,
             "houUncommon": 3,
             "houRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "houBasic": 1,
             "houCommon": 9,
             "houUncommon": 3,
             "houRareMythic": 1,
             "houFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "houBasic": {
           "cards": {
             "3f1326b1-318b-5b79-be48-e2ced60edebf": 1,
@@ -15324,27 +15324,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "akhBasic": 1,
             "akhCommon": 10,
             "akhUncommon": 3,
             "akhRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "akhBasic": 1,
             "akhCommon": 9,
             "akhUncommon": 3,
             "akhRareMythic": 1,
             "akhFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "akhBasic": {
           "cards": {
             "0258375f-ec09-5c2f-b226-2b8fa0041cf6": 1,
@@ -15951,17 +15951,17 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "mm3Common": 10,
             "mm3Uncommon": 3,
             "mm3RareMythic": 1,
             "mm3Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "mm3Common": {
           "balanceColors": true,
           "cards": {
@@ -16492,25 +16492,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "aerCommon": 11,
             "aerUncommon": 3,
             "aerRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "aerCommon": 10,
             "aerUncommon": 3,
             "aerRareMythic": 1,
             "aerFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "aerCommon": {
           "balanceColors": true,
           "cards": {
@@ -16935,27 +16935,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "kldBasic": 1,
             "kldCommon": 10,
             "kldUncommon": 3,
             "kldRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "kldBasic": 1,
             "kldCommon": 9,
             "kldUncommon": 3,
             "kldRareMythic": 1,
             "kldFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "kldBasic": {
           "cards": {
             "1254b3a3-b486-512f-a2fc-c63e205a2b2c": 1,
@@ -17552,46 +17552,46 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 117,
+          "contents": {
             "cn2Cn2Conspiracy": 1,
             "cn2Cn2NonconspiracyCommon": 10,
             "cn2Cn2NonconspiracyUncommon": 3,
             "cn2Cn2NonconspiracyRareMythic": 1
-          },
-          "weight": 117
+          }
         },
         {
-          "sheets": {
+          "weight": 39,
+          "contents": {
             "cn2Cn2Conspiracy": 1,
             "cn2Cn2NonconspiracyCommon": 9,
             "cn2Cn2NonconspiracyUncommon": 3,
             "cn2Cn2NonconspiracyRareMythic": 1,
             "cn2Cn2NonconspiracyFoil": 1
-          },
-          "weight": 39
+          }
         },
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "cn2Cn2ConspiracyFoil": 1,
             "cn2Cn2NonconspiracyCommon": 10,
             "cn2Cn2NonconspiracyUncommon": 3,
             "cn2Cn2NonconspiracyRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "cn2Cn2ConspiracyFoil": 1,
             "cn2Cn2NonconspiracyCommon": 9,
             "cn2Cn2NonconspiracyUncommon": 3,
             "cn2Cn2NonconspiracyRareMythic": 1,
             "cn2Cn2NonconspiracyFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 160,
-      "contents": {
+      "sheets": {
         "cn2Cn2Conspiracy": {
           "cards": {
             "1796bce4-1831-5443-8c60-567c5bcb4394": 2,
@@ -18078,48 +18078,48 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 21,
+          "contents": {
             "emnSfcCommon": 10,
             "emnSfcUncommon": 3,
             "emnSfcRareMythic": 1,
             "emnEmnDfcCommonUncommon": 1
-          },
-          "weight": 21
+          }
         },
         {
-          "sheets": {
+          "weight": 7,
+          "contents": {
             "emnSfcCommon": 9,
             "emnSfcUncommon": 3,
             "emnSfcRareMythic": 1,
             "emnEmnDfcCommonUncommon": 1,
             "emnFoil": 1
-          },
-          "weight": 7
+          }
         },
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "emnSfcCommon": 9,
             "emnSfcUncommon": 3,
             "emnSfcRareMythic": 1,
             "emnEmnDfcCommonUncommon": 1,
             "emnEmnDfcRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "emnSfcCommon": 8,
             "emnSfcUncommon": 3,
             "emnSfcRareMythic": 1,
             "emnEmnDfcCommonUncommon": 1,
             "emnEmnDfcRareMythic": 1,
             "emnFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 32,
-      "contents": {
+      "sheets": {
         "emnSfcCommon": {
           "balanceColors": true,
           "cards": {
@@ -18574,17 +18574,17 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "emaCommon": 10,
             "emaUncommon": 3,
             "emaRareMythic": 1,
             "emaFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "emaCommon": {
           "balanceColors": true,
           "cards": {
@@ -19115,39 +19115,40 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 21,
+          "contents": {
             "soiBasic": 1,
             "soiSfcCommon": 9,
             "soiSfcUncommon": 3,
             "soiSfcRareMythic": 1,
             "soiSoiDfcCommonUncommon": 1
-          },
-          "weight": 21
+          }
         },
         {
-          "sheets": {
+          "weight": 7,
+          "contents": {
             "soiBasic": 1,
             "soiSfcCommon": 8,
             "soiSfcUncommon": 3,
             "soiSfcRareMythic": 1,
             "soiSoiDfcCommonUncommon": 1,
             "soiFoil": 1
-          },
-          "weight": 7
+          }
         },
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "soiBasic": 1,
             "soiSfcCommon": 8,
             "soiSfcUncommon": 3,
             "soiSfcRareMythic": 1,
             "soiSoiDfcCommonUncommon": 1,
             "soiSoiDfcRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "soiBasic": 1,
             "soiSfcCommon": 7,
             "soiSfcUncommon": 3,
@@ -19155,12 +19156,11 @@
             "soiSoiDfcCommonUncommon": 1,
             "soiSoiDfcRareMythic": 1,
             "soiFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 32,
-      "contents": {
+      "sheets": {
         "soiBasic": {
           "cards": {
             "1563d6c1-23e2-59eb-833b-e7b46f5b0df2": 1,
@@ -19805,27 +19805,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "ogwBasic": 1,
             "ogwCommon": 10,
             "ogwUncommon": 3,
             "ogwRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "ogwBasic": 1,
             "ogwCommon": 9,
             "ogwUncommon": 3,
             "ogwRareMythic": 1,
             "ogwFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "ogwBasic": {
           "cards": {
             "1ee4a08c-d4bb-5798-bb9c-671e1617fe5f": 1,
@@ -20252,27 +20252,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "bfzBasic": 1,
             "bfzCommon": 10,
             "bfzUncommon": 3,
             "bfzRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "bfzBasic": 1,
             "bfzCommon": 9,
             "bfzUncommon": 3,
             "bfzRareMythic": 1,
             "bfzFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "bfzBasic": {
           "cards": {
             "07682498-7ca8-5f82-ba4d-63928d04774e": 1,
@@ -20884,27 +20884,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "oriBasic": 1,
             "oriCommon": 10,
             "oriUncommon": 3,
             "oriRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "oriBasic": 1,
             "oriCommon": 9,
             "oriUncommon": 3,
             "oriRareMythic": 1,
             "oriFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "oriBasic": {
           "cards": {
             "027a6e6a-fcf7-5bfc-9a26-3767371a9695": 1,
@@ -21487,17 +21487,17 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "mm2Common": 10,
             "mm2Uncommon": 3,
             "mm2RareMythic": 1,
             "mm2Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "mm2Common": {
           "balanceColors": true,
           "cards": {
@@ -22028,27 +22028,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "tprBasic": 1,
             "tprCommon": 10,
             "tprUncommon": 3,
             "tprRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "tprBasic": 1,
             "tprCommon": 9,
             "tprUncommon": 3,
             "tprRareMythic": 1,
             "tprFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "tprBasic": {
           "cards": {
             "25a2cb7d-3a66-5a34-9180-ccae2d6ecfc7": 1,
@@ -22625,27 +22625,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "dtkBasic": 1,
             "dtkCommon": 10,
             "dtkUncommon": 3,
             "dtkRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "dtkBasic": 1,
             "dtkCommon": 9,
             "dtkUncommon": 3,
             "dtkRareMythic": 1,
             "dtkFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "dtkBasic": {
           "cards": {
             "065d144c-1cd3-5e3e-a37a-c87e202fbf7d": 1,
@@ -23212,27 +23212,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "frfFrfCommon": 10,
             "frfUncommon": 3,
             "frfRareMythic": 1,
             "frfFrfLand": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "frfFrfCommon": 9,
             "frfUncommon": 3,
             "frfRareMythic": 1,
             "frfFrfLand": 1,
             "frfFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "frfFrfCommon": {
           "balanceColors": true,
           "cards": {
@@ -23636,27 +23636,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "ktkBasic": 1,
             "ktkCommon": 10,
             "ktkUncommon": 3,
             "ktkRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "ktkBasic": 1,
             "ktkCommon": 9,
             "ktkUncommon": 3,
             "ktkRareMythic": 1,
             "ktkFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "ktkBasic": {
           "cards": {
             "0e96db31-ef57-55db-ac0c-4ab094c79049": 1,
@@ -24233,27 +24233,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "m15Basic": 1,
             "m15Common": 10,
             "m15Uncommon": 3,
             "m15RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "m15Basic": 1,
             "m15Common": 9,
             "m15Uncommon": 3,
             "m15RareMythic": 1,
             "m15Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "m15Basic": {
           "cards": {
             "03a9270a-611b-513e-bb75-956eb583f75a": 1,
@@ -24830,26 +24830,26 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 9,
+          "contents": {
             "vmaCommon": 10,
             "vmaUncommon": 3,
             "vmaRareMythic": 1,
             "vmaVmaSpecial": 1
-          },
-          "weight": 9
+          }
         },
         {
-          "sheets": {
+          "weight": 471,
+          "contents": {
             "vmaCommon": 10,
             "vmaUncommon": 3,
             "vmaRareMythic": 1,
             "vmaVmaFoil": 1
-          },
-          "weight": 471
+          }
         }
       ],
       "boostersTotalWeight": 480,
-      "contents": {
+      "sheets": {
         "vmaCommon": {
           "balanceColors": true,
           "cards": {
@@ -25538,46 +25538,46 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 117,
+          "contents": {
             "cnsCnsDraft": 1,
             "cnsCnsNondraftCommon": 10,
             "cnsCnsNondraftUncommon": 3,
             "cnsCnsNondraftRareMythic": 1
-          },
-          "weight": 117
+          }
         },
         {
-          "sheets": {
+          "weight": 39,
+          "contents": {
             "cnsCnsDraft": 1,
             "cnsCnsNondraftCommon": 9,
             "cnsCnsNondraftUncommon": 3,
             "cnsCnsNondraftRareMythic": 1,
             "cnsCnsNondraftFoil": 1
-          },
-          "weight": 39
+          }
         },
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "cnsCnsDraftFoil": 1,
             "cnsCnsNondraftCommon": 10,
             "cnsCnsNondraftUncommon": 3,
             "cnsCnsNondraftRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "cnsCnsDraftFoil": 1,
             "cnsCnsNondraftCommon": 9,
             "cnsCnsNondraftUncommon": 3,
             "cnsCnsNondraftRareMythic": 1,
             "cnsCnsNondraftFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 160,
-      "contents": {
+      "sheets": {
         "cnsCnsDraft": {
           "cards": {
             "0222e471-d1db-55eb-a891-bd825ff20234": 2,
@@ -26042,31 +26042,31 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 12957,
+          "contents": {
             "jouCommon": 11,
             "jouUncommon": 3,
             "jouRareMythic": 1
-          },
-          "weight": 12957
+          }
         },
         {
-          "sheets": {
+          "weight": 4319,
+          "contents": {
             "jouCommon": 10,
             "jouUncommon": 3,
             "jouRareMythic": 1,
             "jouFoil": 1
-          },
-          "weight": 4319
+          }
         },
         {
-          "sheets": {
+          "weight": 4,
+          "contents": {
             "jouTherosGods": 15
-          },
-          "weight": 4
+          }
         }
       ],
       "boostersTotalWeight": 17280,
-      "contents": {
+      "sheets": {
         "jouCommon": {
           "balanceColors": true,
           "cards": {
@@ -26450,25 +26450,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "bngCommon": 11,
             "bngUncommon": 3,
             "bngRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "bngCommon": 10,
             "bngUncommon": 3,
             "bngRareMythic": 1,
             "bngFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "bngCommon": {
           "balanceColors": true,
           "cards": {
@@ -26831,27 +26831,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "thsBasic": 1,
             "thsCommon": 10,
             "thsUncommon": 3,
             "thsRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "thsBasic": 1,
             "thsCommon": 9,
             "thsUncommon": 3,
             "thsRareMythic": 1,
             "thsFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "thsBasic": {
           "cards": {
             "053b4d7d-c306-563c-b29d-65fbbc04e23b": 1,
@@ -27388,27 +27388,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "m14Basic": 1,
             "m14Common": 10,
             "m14Uncommon": 3,
             "m14RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "m14Basic": 1,
             "m14Common": 9,
             "m14Uncommon": 3,
             "m14RareMythic": 1,
             "m14Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "m14Basic": {
           "cards": {
             "016ce418-2fba-57a0-9f16-0815f7bdb01d": 1,
@@ -27945,17 +27945,17 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "mmaCommon": 10,
             "mmaUncommon": 3,
             "mmaRareMythic": 1,
             "mmaFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "mmaCommon": {
           "balanceColors": true,
           "cards": {
@@ -28446,27 +28446,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "dgmDgmCommon": 10,
             "dgmUncommon": 3,
             "dgmDgmRareMythic": 1,
             "dgmDgmLand": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "dgmDgmCommon": 9,
             "dgmUncommon": 3,
             "dgmDgmRareMythic": 1,
             "dgmDgmLand": 1,
             "dgmFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "dgmDgmCommon": {
           "balanceColors": true,
           "cards": {
@@ -28827,25 +28827,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "gtcCommon": 11,
             "gtcUncommon": 3,
             "gtcRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "gtcCommon": 10,
             "gtcUncommon": 3,
             "gtcRareMythic": 1,
             "gtcFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "gtcCommon": {
           "balanceColors": true,
           "cards": {
@@ -29376,27 +29376,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "rtrBasic": 1,
             "rtrCommon": 10,
             "rtrUncommon": 3,
             "rtrRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "rtrBasic": 1,
             "rtrCommon": 9,
             "rtrUncommon": 3,
             "rtrRareMythic": 1,
             "rtrFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "rtrBasic": {
           "cards": {
             "07186ab6-94d4-558b-9a6d-b906cd19b021": 1,
@@ -29983,27 +29983,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "m13Basic": 1,
             "m13Common": 10,
             "m13Uncommon": 3,
             "m13RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "m13Basic": 1,
             "m13Common": 9,
             "m13Uncommon": 3,
             "m13RareMythic": 1,
             "m13Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "m13Basic": {
           "cards": {
             "0718db2c-1b94-5568-b182-cbc997eace79": 1,
@@ -30540,27 +30540,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "avrBasic": 1,
             "avrCommon": 10,
             "avrUncommon": 3,
             "avrRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "avrBasic": 1,
             "avrCommon": 9,
             "avrUncommon": 3,
             "avrRareMythic": 1,
             "avrFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "avrBasic": {
           "cards": {
             "49093a66-f6d9-548f-a2bf-855cdd6991f9": 1,
@@ -31087,27 +31087,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "dkaDkaDfc": 1,
             "dkaSfcCommon": 10,
             "dkaSfcUncommon": 3,
             "dkaSfcRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "dkaDkaDfc": 1,
             "dkaSfcCommon": 9,
             "dkaSfcUncommon": 3,
             "dkaSfcRareMythic": 1,
             "dkaFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "dkaDkaDfc": {
           "cards": {
             "1df3d787-6fae-5594-8b9d-9491147cb4d7": 6,
@@ -31462,29 +31462,29 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "isdIsdDfc": 1,
             "isdBasic": 1,
             "isdSfcCommon": 9,
             "isdSfcUncommon": 3,
             "isdSfcRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "isdIsdDfc": 1,
             "isdBasic": 1,
             "isdSfcCommon": 8,
             "isdSfcUncommon": 3,
             "isdSfcRareMythic": 1,
             "isdFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "isdIsdDfc": {
           "cards": {
             "0300dd62-cc80-5efb-a2c2-0483a8bbfc16": 11,
@@ -32057,27 +32057,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "m12Basic": 1,
             "m12Common": 10,
             "m12Uncommon": 3,
             "m12RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "m12Basic": 1,
             "m12Common": 9,
             "m12Uncommon": 3,
             "m12RareMythic": 1,
             "m12Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "m12Basic": {
           "cards": {
             "03d226af-17c3-5f0f-a35a-49df55b705bb": 1,
@@ -32614,27 +32614,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "nphBasic": 1,
             "nphCommon": 10,
             "nphUncommon": 3,
             "nphRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "nphBasic": 1,
             "nphCommon": 9,
             "nphUncommon": 3,
             "nphRareMythic": 1,
             "nphFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "nphBasic": {
           "cards": {
             "581e12ed-c803-5315-93d4-8823f5a1bfe2": 1,
@@ -33023,27 +33023,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "mbsBasic": 1,
             "mbsCommon": 10,
             "mbsUncommon": 3,
             "mbsRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "mbsBasic": 1,
             "mbsCommon": 9,
             "mbsUncommon": 3,
             "mbsRareMythic": 1,
             "mbsFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "mbsBasic": {
           "cards": {
             "01a6757e-3cbf-5b55-92d4-988fb9a35412": 1,
@@ -33392,27 +33392,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "me4Basic": 1,
             "me4Common": 10,
             "me4Uncommon": 3,
             "me4RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "me4Basic": 1,
             "me4Common": 9,
             "me4Uncommon": 3,
             "me4RareMythic": 1,
             "me4Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "me4Basic": {
           "cards": {
             "38209ddb-ccec-5012-a0c6-2a1adcdfc739": 1,
@@ -33989,27 +33989,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "somBasic": 1,
             "somCommon": 10,
             "somUncommon": 3,
             "somRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "somBasic": 1,
             "somCommon": 9,
             "somUncommon": 3,
             "somRareMythic": 1,
             "somFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "somBasic": {
           "cards": {
             "128960f7-d2ca-5dc5-a4c9-1c0b6354dc98": 1,
@@ -34546,27 +34546,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "m11Basic": 1,
             "m11Common": 10,
             "m11Uncommon": 3,
             "m11RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "m11Basic": 1,
             "m11Common": 9,
             "m11Uncommon": 3,
             "m11RareMythic": 1,
             "m11Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "m11Basic": {
           "cards": {
             "0af08b48-aa42-5631-8144-791a2229a4c8": 1,
@@ -35103,27 +35103,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "roeBasic": 1,
             "roeCommon": 10,
             "roeUncommon": 3,
             "roeRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "roeBasic": 1,
             "roeCommon": 9,
             "roeUncommon": 3,
             "roeRareMythic": 1,
             "roeFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "roeBasic": {
           "cards": {
             "0590d1f3-7b89-552f-bcec-7a512ebb5ec3": 1,
@@ -35658,25 +35658,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "wwkCommon": 11,
             "wwkUncommon": 3,
             "wwkRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "wwkCommon": 10,
             "wwkUncommon": 3,
             "wwkRareMythic": 1,
             "wwkFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "wwkCommon": {
           "balanceColors": true,
           "cards": {
@@ -35999,27 +35999,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "zenBasic": 1,
             "zenCommon": 10,
             "zenUncommon": 3,
             "zenRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "zenBasic": 1,
             "zenCommon": 9,
             "zenUncommon": 3,
             "zenRareMythic": 1,
             "zenFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "zenBasic": {
           "cards": {
             "01cbba40-e339-5288-bc31-0e5f5d11ec24": 1,
@@ -36596,27 +36596,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "me3Basic": 1,
             "me3Common": 10,
             "me3Uncommon": 3,
             "me3RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "me3Basic": 1,
             "me3Common": 9,
             "me3Uncommon": 3,
             "me3RareMythic": 1,
             "me3Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "me3Basic": {
           "cards": {
             "10e29dc7-2021-58ff-9cd1-bdef5d9af7e5": 1,
@@ -37115,27 +37115,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "m10Basic": 1,
             "m10Common": 10,
             "m10Uncommon": 3,
             "m10RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "m10Basic": 1,
             "m10Common": 9,
             "m10Uncommon": 3,
             "m10RareMythic": 1,
             "m10Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "m10Basic": {
           "cards": {
             "1b2bc113-c5eb-502b-b0c3-14d1f7edab1f": 1,
@@ -37672,25 +37672,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "arbCommonUnbalanced": 11,
             "arbUncommon": 3,
             "arbRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "arbCommonUnbalanced": 10,
             "arbUncommon": 3,
             "arbRareMythic": 1,
             "arbFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "arbCommonUnbalanced": {
           "cards": {
             "03d0d403-4f3e-54a8-8a4e-5108b1ab27d2": 1,
@@ -38012,25 +38012,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "conCommon": 11,
             "conUncommon": 3,
             "conRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "conCommon": 10,
             "conUncommon": 3,
             "conRareMythic": 1,
             "conFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "conCommon": {
           "balanceColors": true,
           "cards": {
@@ -38353,27 +38353,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "alaBasic": 1,
             "alaCommonUnbalanced": 10,
             "alaUncommon": 3,
             "alaRareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "alaBasic": 1,
             "alaCommonUnbalanced": 9,
             "alaUncommon": 3,
             "alaRareMythic": 1,
             "alaFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "alaBasic": {
           "cards": {
             "02684cd8-cd9a-5d29-bcbe-b0d3d849791d": 1,
@@ -38908,17 +38908,17 @@
       "name": "Alara Premium Foil Booster",
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "alaAlaraPremiumBasic": 1,
             "alaAlaraPremiumCommon": 10,
             "alaAlaraPremiumUncommon": 3,
             "alaAlaraPremiumRareMythic": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "alaAlaraPremiumBasic": {
           "cards": {
             "02684cd8-cd9a-5d29-bcbe-b0d3d849791d": 1,
@@ -39489,27 +39489,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "me2Basic": 1,
             "me2Common": 10,
             "me2Uncommon": 3,
             "me2RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "me2Basic": 1,
             "me2Common": 9,
             "me2Uncommon": 3,
             "me2RareMythic": 1,
             "me2Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "me2Basic": {
           "cards": {
             "36564403-1415-5caa-b7c0-418317d9714c": 1,
@@ -40038,25 +40038,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "eveCommonUnbalanced": 11,
             "eveUncommon": 3,
             "eveRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "eveCommonUnbalanced": 10,
             "eveUncommon": 3,
             "eveRare": 1,
             "eveFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "eveCommonUnbalanced": {
           "cards": {
             "0253fcda-ea84-55c8-bdad-8cf4b1402929": 1,
@@ -40448,25 +40448,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "shmCommonUnbalanced": 11,
             "shmUncommon": 3,
             "shmRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "shmCommonUnbalanced": 10,
             "shmUncommon": 3,
             "shmRare": 1,
             "shmFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "shmCommonUnbalanced": {
           "cards": {
             "03379d11-8e3a-5be8-9b87-a0bbd788df65": 1,
@@ -41080,25 +41080,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "morCommon": 11,
             "morUncommon": 3,
             "morRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "morCommon": 10,
             "morUncommon": 3,
             "morRare": 1,
             "morFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "morCommon": {
           "balanceColors": true,
           "cards": {
@@ -41431,25 +41431,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "lrwCommon": 11,
             "lrwUncommon": 3,
             "lrwRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "lrwCommon": 10,
             "lrwUncommon": 3,
             "lrwRare": 1,
             "lrwFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "lrwCommon": {
           "balanceColors": true,
           "cards": {
@@ -42064,27 +42064,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "me1Basic": 1,
             "me1Common": 10,
             "me1Uncommon": 3,
             "me1RareMythic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "me1Basic": 1,
             "me1Common": 9,
             "me1Uncommon": 3,
             "me1RareMythic": 1,
             "me1Foil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "me1Basic": {
           "cards": {
             "0cfd3027-5c47-5e64-97a5-a06f342c5546": 1,
@@ -42513,27 +42513,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "10eBasic": 1,
             "10eCommon": 10,
             "10eUncommon": 3,
             "10eRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "10eBasic": 1,
             "10eCommon": 9,
             "10eUncommon": 3,
             "10eRare": 1,
             "10eFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "10eBasic": {
           "cards": {
             "0646aa70-1849-58bc-8553-232ec3b4caaa": 1,
@@ -43338,25 +43338,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "futCommon": 11,
             "futUncommon": 3,
             "futRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "futCommon": 10,
             "futUncommon": 3,
             "futRare": 1,
             "futFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "futCommon": {
           "balanceColors": true,
           "cards": {
@@ -43749,29 +43749,29 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "plcPcCommon": 8,
             "plcPcUncommon": 2,
             "plcPcRare": 1,
             "plcPcCsCommon": 3,
             "plcPcCsUncommonRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "plcPcCommon": 7,
             "plcPcUncommon": 2,
             "plcPcRare": 1,
             "plcPcCsCommon": 3,
             "plcPcCsUncommonRare": 1,
             "plcFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "plcPcCommon": {
           "cards": {
             "00206dc7-f7d1-5c9f-b29a-2b1f04d03692": 1,
@@ -44145,27 +44145,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "tspCommon": 10,
             "tspUncommon": 3,
             "tspRare": 1,
             "tspTsts": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "tspCommon": 9,
             "tspUncommon": 3,
             "tspRare": 1,
             "tspTsts": 1,
             "tspTsFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "tspCommon": {
           "balanceColors": true,
           "cards": {
@@ -45028,25 +45028,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "cspCommonOrBasic": 11,
             "cspUncommon": 3,
             "cspRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "cspCommonOrBasic": 10,
             "cspUncommon": 3,
             "cspRare": 1,
             "cspFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "cspCommonOrBasic": {
           "balanceColors": true,
           "cards": {
@@ -45389,25 +45389,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "disCommonUnbalanced": 11,
             "disUncommon": 3,
             "disRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "disCommonUnbalanced": 10,
             "disUncommon": 3,
             "disRare": 1,
             "disFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "disCommonUnbalanced": {
           "cards": {
             "012737db-f4a8-57a8-a9e0-448f9ed76f52": 1,
@@ -45799,25 +45799,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "gptCommonUnbalanced": 11,
             "gptUncommon": 3,
             "gptRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "gptCommonUnbalanced": 10,
             "gptUncommon": 3,
             "gptRare": 1,
             "gptFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "gptCommonUnbalanced": {
           "cards": {
             "0fbb3a2e-ffb9-5754-a780-e6a3a4db4175": 1,
@@ -46179,25 +46179,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "ravCommonUnbalanced": 11,
             "ravUncommon": 3,
             "ravRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "ravCommonUnbalanced": 10,
             "ravUncommon": 3,
             "ravRare": 1,
             "ravFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "ravCommonUnbalanced": {
           "cards": {
             "049ef686-e83d-570a-b556-2cce6b894a1a": 1,
@@ -46821,27 +46821,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "9edBasic": 1,
             "9edCommon": 10,
             "9edUncommon": 3,
             "9edRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "9edBasic": 1,
             "9edCommon": 9,
             "9edUncommon": 3,
             "9edRare": 1,
             "9edFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "9edBasic": {
           "cards": {
             "069bad3c-39fc-59fc-a5fe-bf9233b86cec": 1,
@@ -47589,25 +47589,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "sokCommon": 11,
             "sokUncommon": 3,
             "sokRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "sokCommon": 10,
             "sokUncommon": 3,
             "sokRare": 1,
             "sokFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "sokCommon": {
           "balanceColors": true,
           "cards": {
@@ -47970,25 +47970,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "bokCommon": 11,
             "bokUncommon": 3,
             "bokRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "bokCommon": 10,
             "bokUncommon": 3,
             "bokRare": 1,
             "bokFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "bokCommon": {
           "balanceColors": true,
           "cards": {
@@ -48351,27 +48351,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "unhCommon": 10,
             "unhUncommon": 3,
             "unhRareMythic": 1,
             "unhBasic": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "unhCommon": 9,
             "unhUncommon": 3,
             "unhRareMythic": 1,
             "unhBasic": 1,
             "unhUnhingedFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "unhCommon": {
           "balanceColors": true,
           "cards": {
@@ -48691,25 +48691,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "chkCommon": 11,
             "chkUncommon": 3,
             "chkRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "chkCommon": 10,
             "chkUncommon": 3,
             "chkRare": 1,
             "chkFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "chkCommon": {
           "balanceColors": true,
           "cards": {
@@ -49336,25 +49336,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "5dnCommon": 11,
             "5dnUncommon": 3,
             "5dnRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "5dnCommon": 10,
             "5dnUncommon": 3,
             "5dnRare": 1,
             "5dnFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "5dnCommon": {
           "balanceColors": true,
           "cards": {
@@ -49717,25 +49717,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "dstCommon": 11,
             "dstUncommon": 3,
             "dstRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "dstCommon": 10,
             "dstUncommon": 3,
             "dstRare": 1,
             "dstFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "dstCommon": {
           "balanceColors": true,
           "cards": {
@@ -50098,25 +50098,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "mrdCommon": 11,
             "mrdUncommon": 3,
             "mrdRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "mrdCommon": 10,
             "mrdUncommon": 3,
             "mrdRare": 1,
             "mrdFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "mrdCommon": {
           "balanceColors": true,
           "cards": {
@@ -50741,27 +50741,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "8edBasic": 1,
             "8edCommon": 10,
             "8edUncommon": 3,
             "8edRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "8edBasic": 1,
             "8edCommon": 9,
             "8edUncommon": 3,
             "8edRare": 1,
             "8edFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "8edBasic": {
           "cards": {
             "0439c479-e225-51a3-9825-6c30e44d4fd6": 1,
@@ -51507,25 +51507,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "scgCommon": 11,
             "scgUncommon": 3,
             "scgRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "scgCommon": 10,
             "scgUncommon": 3,
             "scgRare": 1,
             "scgFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "scgCommon": {
           "balanceColors": true,
           "cards": {
@@ -51844,25 +51844,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "lgnCommon": 11,
             "lgnUncommon": 3,
             "lgnRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "lgnCommon": 10,
             "lgnUncommon": 3,
             "lgnRare": 1,
             "lgnFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "lgnCommon": {
           "balanceColors": true,
           "cards": {
@@ -52185,25 +52185,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "onsCommon": 11,
             "onsUncommon": 3,
             "onsRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "onsCommon": 10,
             "onsUncommon": 3,
             "onsRare": 1,
             "onsFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "onsCommon": {
           "balanceColors": true,
           "cards": {
@@ -52916,25 +52916,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "judCommonUnbalanced": 11,
             "judUncommon": 3,
             "judRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "judCommonUnbalanced": 10,
             "judUncommon": 3,
             "judRare": 1,
             "judFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "judCommonUnbalanced": {
           "cards": {
             "0438673a-0a2b-5f99-8878-17ab85f23ac4": 1,
@@ -53252,25 +53252,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "torCommon": 11,
             "torUncommon": 3,
             "torRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "torCommon": 10,
             "torUncommon": 3,
             "torRare": 1,
             "torFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "torCommon": {
           "balanceColors": true,
           "cards": {
@@ -53589,25 +53589,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "odyCommon": 11,
             "odyUncommon": 3,
             "odyRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "odyCommon": 10,
             "odyUncommon": 3,
             "odyRare": 1,
             "odyFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "odyCommon": {
           "balanceColors": true,
           "cards": {
@@ -54320,25 +54320,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "apcCommonUnbalanced": 11,
             "apcUncommon": 3,
             "apcRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "apcCommonUnbalanced": 10,
             "apcUncommon": 3,
             "apcRare": 1,
             "apcFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "apcCommonUnbalanced": {
           "cards": {
             "0a8ab1ff-d427-5e6a-a019-8f1c8ee3b547": 1,
@@ -54656,27 +54656,27 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "7edBasic": 1,
             "7edCommon": 10,
             "7edUncommon": 3,
             "7edRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "7edBasic": 1,
             "7edCommon": 9,
             "7edUncommon": 3,
             "7edRare": 1,
             "7edFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "7edBasic": {
           "cards": {
             "1883cc42-3dff-5a23-b8ea-f423b0b12a67": 1,
@@ -55415,25 +55415,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "plsCommon": 11,
             "plsUncommon": 3,
             "plsRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "plsCommon": 10,
             "plsUncommon": 3,
             "plsRare": 1,
             "plsFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "plsCommon": {
           "balanceColors": true,
           "cards": {
@@ -55755,25 +55755,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "invCommon": 11,
             "invUncommon": 3,
             "invRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "invCommon": 10,
             "invUncommon": 3,
             "invRare": 1,
             "invFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "invCommon": {
           "balanceColors": true,
           "cards": {
@@ -56486,25 +56486,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "pcyCommon": 11,
             "pcyUncommon": 3,
             "pcyRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "pcyCommon": 10,
             "pcyUncommon": 3,
             "pcyRare": 1,
             "pcyFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "pcyCommon": {
           "balanceColors": true,
           "cards": {
@@ -56823,25 +56823,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "nemCommon": 11,
             "nemUncommon": 3,
             "nemRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "nemCommon": 10,
             "nemUncommon": 3,
             "nemRare": 1,
             "nemFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "nemCommon": {
           "balanceColors": true,
           "cards": {
@@ -57160,25 +57160,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "mmqCommon": 11,
             "mmqUncommon": 3,
             "mmqRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "mmqCommon": 10,
             "mmqUncommon": 3,
             "mmqRare": 1,
             "mmqFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "mmqCommon": {
           "balanceColors": true,
           "cards": {
@@ -57891,17 +57891,17 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "s99Basic": 2,
             "s99Common": 9,
             "s99Uncommon": 3,
             "s99Rare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "s99Basic": {
           "cards": {
             "00646ec1-fb16-5626-a7d4-d89483b54529": 1,
@@ -58107,25 +58107,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "udsCommon": 11,
             "udsUncommon": 3,
             "udsRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "udsCommon": 10,
             "udsUncommon": 3,
             "udsRare": 1,
             "udsFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "udsCommon": {
           "balanceColors": true,
           "cards": {
@@ -58444,17 +58444,17 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "ptkBasic": 2,
             "ptkCommon": 5,
             "ptkUncommon": 2,
             "ptkRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "ptkBasic": {
           "cards": {
             "07aef689-ac7e-5ac4-ab51-0d495e1e9623": 1,
@@ -58667,16 +58667,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "6edCommon": 11,
             "6edUncommon": 3,
             "6edRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "6edCommon": {
           "balanceColors": true,
           "cards": {
@@ -59033,25 +59033,25 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 3,
+          "contents": {
             "ulgCommon": 11,
             "ulgUncommon": 3,
             "ulgRare": 1
-          },
-          "weight": 3
+          }
         },
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "ulgCommon": 10,
             "ulgUncommon": 3,
             "ulgRare": 1,
             "ulgFoil": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 4,
-      "contents": {
+      "sheets": {
         "ulgCommon": {
           "balanceColors": true,
           "cards": {
@@ -59370,16 +59370,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "usgCommon": 11,
             "usgUncommon": 3,
             "usgRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "usgCommon": {
           "balanceColors": true,
           "cards": {
@@ -59736,17 +59736,17 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "uglBasic": 1,
             "uglCommonUnbalanced": 6,
             "uglUncommon": 2,
             "uglRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "uglBasic": {
           "cards": {
             "1d7d8dfa-8705-55a8-aac5-375ea3ec36ba": 1,
@@ -59866,16 +59866,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "exoCommon": 11,
             "exoUncommon": 3,
             "exoRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "exoCommon": {
           "balanceColors": true,
           "cards": {
@@ -60045,17 +60045,17 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "p02Basic": 2,
             "p02Common": 9,
             "p02Uncommon": 3,
             "p02Rare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "p02Basic": {
           "cards": {
             "0417976d-99b6-5d9c-9a67-ecb369a948b3": 1,
@@ -60253,16 +60253,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "sthCommon": 11,
             "sthUncommon": 3,
             "sthRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "sthCommon": {
           "balanceColors": true,
           "cards": {
@@ -60432,16 +60432,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "tmpCommon": 11,
             "tmpUncommon": 3,
             "tmpRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "tmpCommon": {
           "balanceColors": true,
           "cards": {
@@ -60798,16 +60798,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "wthCommon": 11,
             "wthUncommon": 3,
             "wthRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "wthCommon": {
           "balanceColors": true,
           "cards": {
@@ -61001,17 +61001,17 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "porBasic": 2,
             "porCommon": 9,
             "porUncommon": 3,
             "porRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "porBasic": {
           "cards": {
             "00622bc8-187d-5dd9-97d9-d9063eec7c84": 1,
@@ -61259,16 +61259,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "5edCommon": 11,
             "5edUncommon": 3,
             "5edRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "5edCommon": {
           "balanceColors": true,
           "cards": {
@@ -61724,16 +61724,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "visCommon": 11,
             "visUncommon": 3,
             "visRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "visCommon": {
           "balanceColors": true,
           "cards": {
@@ -61927,16 +61927,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "mirCommon": 11,
             "mirUncommon": 3,
             "mirRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "mirCommon": {
           "balanceColors": true,
           "cards": {
@@ -62293,16 +62293,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "allExplicitCommon": 8,
             "allExplicitUncommon": 3,
             "allExplicitRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "allExplicitCommon": {
           "cards": {
             "02f5e291-0935-58e9-a7d3-172903e307f4": 1,
@@ -62527,15 +62527,15 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "hmlExplicitCommon": 6,
             "hmlExplicitUncommon": 2
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "hmlExplicitCommon": {
           "cards": {
             "00028782-6ec2-54fe-8633-2c906d8f1076": 1,
@@ -62695,15 +62695,15 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "chrExplicitCommon": 9,
             "chrExplicitUncommon": 3
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "chrExplicitCommon": {
           "cards": {
             "00a42434-4df3-5acc-8ebc-782a172a2d7b": 1,
@@ -62848,16 +62848,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "iceCommon": 11,
             "iceUncommon": 3,
             "iceRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "iceCommon": {
           "balanceColors": true,
           "cards": {
@@ -63247,16 +63247,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "4edCommon": 11,
             "4edUncommon": 3,
             "4edRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "4edCommon": {
           "balanceColors": true,
           "cards": {
@@ -63646,15 +63646,15 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "femExplicitCommon": 6,
             "femExplicitUncommon": 2
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "femExplicitCommon": {
           "cards": {
             "01afa13f-f720-562c-9c8f-19b3e7e60536": 1,
@@ -63861,15 +63861,15 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "drkExplicitCommon": 6,
             "drkExplicitUncommon": 2
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "drkExplicitCommon": {
           "cards": {
             "08f9b3db-7972-55b4-abc7-a22ffd31f9a9": 3,
@@ -64008,16 +64008,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "legExplicitCommon": 12,
             "legExplicitUncommon": 3,
             "legExplicitRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "legExplicitCommon": {
           "cards": {
             "0023f3b8-5c96-569e-8371-30f094814dad": 2,
@@ -64353,16 +64353,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "3edExplicitCommon": 11,
             "3edExplicitUncommon": 3,
             "3edExplicitRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "3edExplicitCommon": {
           "cards": {
             "00cb47e0-88f2-5e2f-a72c-45afb3adfa18": 1,
@@ -64707,15 +64707,15 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "atqExplicitCommon": 6,
             "atqExplicitUncommon": 2
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "atqExplicitCommon": {
           "cards": {
             "068c53e8-2e3d-5bad-b18c-23ea1d596126": 1,
@@ -64835,15 +64835,15 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "arnExplicitCommon": 6,
             "arnExplicitUncommon": 2
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "arnExplicitCommon": {
           "cards": {
             "00807199-5c7b-51d5-b3e7-fb14388c3de8": 1,
@@ -64955,16 +64955,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "2edExplicitCommon": 11,
             "2edExplicitUncommon": 3,
             "2edExplicitRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "2edExplicitCommon": {
           "cards": {
             "0510ea8f-a884-5a0a-98ff-3ed9e9b870c6": 1,
@@ -65308,16 +65308,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "lebExplicitCommon": 11,
             "lebExplicitUncommon": 3,
             "lebExplicitRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "lebExplicitCommon": {
           "cards": {
             "00e025f1-5b3f-5ae0-be8b-90c41cba2953": 1,
@@ -65661,16 +65661,16 @@
     "default": {
       "boosters": [
         {
-          "sheets": {
+          "weight": 1,
+          "contents": {
             "leaExplicitCommon": 11,
             "leaExplicitUncommon": 3,
             "leaExplicitRare": 1
-          },
-          "weight": 1
+          }
         }
       ],
       "boostersTotalWeight": 1,
-      "contents": {
+      "sheets": {
         "leaExplicitCommon": {
           "cards": {
             "015b8beb-90d5-56bd-ad19-7c8ce0afd128": 1,
