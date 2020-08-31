@@ -47229,7 +47229,7 @@
       },
       "9ed_common": {
         "balance_colors": true,
-        "total_weight": 116,
+        "total_weight": 110,
         "cards": {
           "9ed:100": 1,
           "9ed:107": 1,
@@ -47340,17 +47340,11 @@
           "9ed:96": 1,
           "9ed:97": 1,
           "9ed:98": 1,
-          "9ed:99": 1,
-          "9ed:S1": 1,
-          "9ed:S10": 1,
-          "9ed:S3": 1,
-          "9ed:S4": 1,
-          "9ed:S5": 1,
-          "9ed:S8": 1
+          "9ed:99": 1
         }
       },
       "9ed_uncommon": {
-        "total_weight": 112,
+        "total_weight": 110,
         "cards": {
           "9ed:1": 1,
           "9ed:10": 1,
@@ -47461,13 +47455,11 @@
           "9ed:9": 1,
           "9ed:91": 1,
           "9ed:92": 1,
-          "9ed:94": 1,
-          "9ed:S2": 1,
-          "9ed:S9": 1
+          "9ed:94": 1
         }
       },
       "9ed_rare": {
-        "total_weight": 111,
+        "total_weight": 110,
         "cards": {
           "9ed:102": 1,
           "9ed:105": 1,
@@ -47578,8 +47570,7 @@
           "9ed:85": 1,
           "9ed:87": 1,
           "9ed:89": 1,
-          "9ed:90": 1,
-          "9ed:S7": 1
+          "9ed:90": 1
         }
       },
       "9ed_foil": {
@@ -51123,7 +51114,7 @@
       },
       "8ed_common": {
         "balance_colors": true,
-        "total_weight": 113,
+        "total_weight": 110,
         "cards": {
           "8ed:101": 1,
           "8ed:104": 1,
@@ -51234,14 +51225,11 @@
           "8ed:90": 1,
           "8ed:95": 1,
           "8ed:98": 1,
-          "8ed:99": 1,
-          "8ed:S1": 1,
-          "8ed:S3": 1,
-          "8ed:S4": 1
+          "8ed:99": 1
         }
       },
       "8ed_uncommon": {
-        "total_weight": 113,
+        "total_weight": 110,
         "cards": {
           "8ed:1": 1,
           "8ed:10": 1,
@@ -51352,14 +51340,11 @@
           "8ed:91": 1,
           "8ed:93": 1,
           "8ed:94": 1,
-          "8ed:96": 1,
-          "8ed:S2": 1,
-          "8ed:S6": 1,
-          "8ed:S7": 1
+          "8ed:96": 1
         }
       },
       "8ed_rare": {
-        "total_weight": 111,
+        "total_weight": 110,
         "cards": {
           "8ed:100": 1,
           "8ed:106": 1,
@@ -51470,8 +51455,7 @@
           "8ed:86": 1,
           "8ed:88": 1,
           "8ed:92": 1,
-          "8ed:97": 1,
-          "8ed:S5": 1
+          "8ed:97": 1
         }
       },
       "8ed_foil": {
@@ -61299,7 +61283,7 @@
       },
       "por_common": {
         "balance_colors": true,
-        "total_weight": 85,
+        "total_weight": 86,
         "cards": {
           "por:10": 1,
           "por:100": 1,
@@ -61379,6 +61363,7 @@
           "por:75": 1,
           "por:76": 1,
           "por:77": 1,
+          "por:80a": 1,
           "por:81": 1,
           "por:82": 1,
           "por:85": 1,
