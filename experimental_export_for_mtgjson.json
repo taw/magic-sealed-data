@@ -61821,7 +61821,6 @@
             "e5735040-dfc6-5f31-b313-99b521cc0a23": 1,
             "e5eb9aa4-3039-503e-aa33-011b1a247492": 1,
             "e89e626b-34a4-5560-93e8-25f3af514a9d": 1,
-            "f22e8485-7401-5486-83a5-a980edf79cf6": 1,
             "f2aca4ce-dfa6-57e8-aa78-f8bef39d4c61": 1,
             "f48b65ad-b88c-5204-b83a-f3e5007ac0c9": 1,
             "f51a448b-fef0-50c1-9814-8d0b5cd92260": 1,
@@ -61830,7 +61829,7 @@
             "fc006f54-6a8f-52d0-a0db-41305cac4d7f": 1
           },
           "foil": false,
-          "totalWeight": 86
+          "totalWeight": 85
         },
         "uncommon": {
           "cards": {
