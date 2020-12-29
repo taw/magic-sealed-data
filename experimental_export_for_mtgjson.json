@@ -12069,7 +12069,6 @@
         {
           "weight": 29,
           "contents": {
-            "basic": 1,
             "common": 10,
             "nonplaneswalkerUncommon": 3,
             "planeswalkerRareMythic": 1
@@ -12078,7 +12077,6 @@
         {
           "weight": 92,
           "contents": {
-            "basic": 1,
             "common": 10,
             "nonplaneswalkerUncommon": 2,
             "planeswalkerUncommon": 1,
@@ -12088,27 +12086,6 @@
       ],
       "boostersTotalWeight": 121,
       "sheets": {
-        "basic": {
-          "cards": {
-            "00ec69b3-2ee6-505c-a5aa-190713ce2342": 1,
-            "02ef4428-b7c7-55b2-84ed-e07e26d44bcc": 1,
-            "27ecba1a-6dd3-5611-9054-5be611b73349": 1,
-            "29c0a93a-31d3-5e34-a3e1-dfe16c7979c4": 1,
-            "3cef4025-fecf-5c80-aa2d-e01726d40852": 1,
-            "3ff03579-4891-5929-8e6d-516c9e18fffb": 1,
-            "6398dfb7-92c3-514e-9dcd-56eb5cf61407": 1,
-            "84f7df64-3236-5564-af46-d92f8bf3d82c": 1,
-            "8a7eda3c-35ce-58d2-8a46-51f5a0fae7e0": 1,
-            "9a3c07b1-7f17-582c-a32f-711c63fd7023": 1,
-            "b641bd1b-2b9d-5354-9c63-d47ed4aa3741": 1,
-            "e604ae3d-dde1-50d6-b3f2-b05995c79cf3": 1,
-            "f752014a-4084-5cf0-8ad8-ef1abbc42ee6": 1,
-            "ffc29ec9-5994-5857-8963-37987b5ff2da": 1,
-            "ffc37bdd-e379-5cad-851a-b18eeee2d857": 1
-          },
-          "foil": false,
-          "totalWeight": 15
-        },
         "common": {
           "balanceColors": true,
           "cards": {
@@ -17293,7 +17270,6 @@
         {
           "weight": 4356,
           "contents": {
-            "basic": 1,
             "common": 10,
             "nonlegendaryUncommon": 3,
             "legendaryRareMythic": 1
@@ -17302,7 +17278,6 @@
         {
           "weight": 828,
           "contents": {
-            "basic": 1,
             "common": 10,
             "nonlegendaryUncommon": 2,
             "legendaryUncommon": 1,
@@ -17312,7 +17287,6 @@
         {
           "weight": 12240,
           "contents": {
-            "basic": 1,
             "common": 10,
             "nonlegendaryUncommon": 2,
             "legendaryUncommon": 1,
@@ -17322,32 +17296,6 @@
       ],
       "boostersTotalWeight": 17424,
       "sheets": {
-        "basic": {
-          "cards": {
-            "01980ea4-a5ae-5636-9ad8-fdbbfb108471": 1,
-            "11378eb6-370a-5245-998a-a71db992db07": 1,
-            "166a204a-e494-50d7-adb6-d2e63d88d17b": 1,
-            "18f89524-412e-56e5-8d1a-5a59d0252b20": 1,
-            "1e201b24-b700-5de8-92ea-5ebb3d48cb27": 1,
-            "2aa273a5-4859-5224-bde4-ab1be38b47cf": 1,
-            "2e1410b5-1fe1-59d4-a19d-41b4b4045807": 1,
-            "30844257-fa7d-5454-abd2-39527a602158": 1,
-            "3833ab30-e75a-5854-927f-c7dc8303b56b": 1,
-            "5b771097-73cc-55e4-ae61-3c82f878ccd8": 1,
-            "674340b1-db35-559c-998f-fb9691af0bdb": 1,
-            "6cd09e64-a1bf-5977-b6b5-89041a871172": 1,
-            "88ba47e5-5b95-5a66-8d1a-52b8a2a79793": 1,
-            "91e8ca13-bb2d-5972-9be9-336ede64f1bd": 1,
-            "a607c46a-777b-52df-a377-9ca1e7d225d1": 1,
-            "bc124941-2502-5add-acba-b5611c757dd3": 1,
-            "cb5b693c-afbb-5e7d-82ee-dda0da3dcae0": 1,
-            "ce47df56-badc-5f62-8e12-c0a95dfc824a": 1,
-            "de94d1ad-c734-585b-90c8-fc459fda52bb": 1,
-            "e9284d61-d2f9-585b-a85a-109a0e9c4d83": 1
-          },
-          "foil": false,
-          "totalWeight": 20
-        },
         "common": {
           "balanceColors": true,
           "cards": {

@@ -11990,7 +11990,6 @@
     "boosters": [
       {
         "sheets": {
-          "war_basic": 1,
           "war_common": 10,
           "war_war_nonplaneswalker_uncommon": 3,
           "war_war_planeswalker_rare_mythic": 1
@@ -11999,7 +11998,6 @@
       },
       {
         "sheets": {
-          "war_basic": 1,
           "war_common": 10,
           "war_war_nonplaneswalker_uncommon": 2,
           "war_war_planeswalker_uncommon": 1,
@@ -12009,26 +12007,6 @@
       }
     ],
     "sheets": {
-      "war_basic": {
-        "total_weight": 15,
-        "cards": {
-          "war:250": 1,
-          "war:251": 1,
-          "war:252": 1,
-          "war:253": 1,
-          "war:254": 1,
-          "war:255": 1,
-          "war:256": 1,
-          "war:257": 1,
-          "war:258": 1,
-          "war:259": 1,
-          "war:260": 1,
-          "war:261": 1,
-          "war:262": 1,
-          "war:263": 1,
-          "war:264": 1
-        }
-      },
       "war_common": {
         "balance_colors": true,
         "total_weight": 101,
@@ -17157,7 +17135,6 @@
     "boosters": [
       {
         "sheets": {
-          "dom_basic": 1,
           "dom_common": 10,
           "dom_dom_nonlegendary_uncommon": 3,
           "dom_dom_legendary_rare_mythic": 1
@@ -17166,7 +17143,6 @@
       },
       {
         "sheets": {
-          "dom_basic": 1,
           "dom_common": 10,
           "dom_dom_nonlegendary_uncommon": 2,
           "dom_dom_legendary_uncommon": 1,
@@ -17176,7 +17152,6 @@
       },
       {
         "sheets": {
-          "dom_basic": 1,
           "dom_common": 10,
           "dom_dom_nonlegendary_uncommon": 2,
           "dom_dom_legendary_uncommon": 1,
@@ -17186,31 +17161,6 @@
       }
     ],
     "sheets": {
-      "dom_basic": {
-        "total_weight": 20,
-        "cards": {
-          "dom:250": 1,
-          "dom:251": 1,
-          "dom:252": 1,
-          "dom:253": 1,
-          "dom:254": 1,
-          "dom:255": 1,
-          "dom:256": 1,
-          "dom:257": 1,
-          "dom:258": 1,
-          "dom:259": 1,
-          "dom:260": 1,
-          "dom:261": 1,
-          "dom:262": 1,
-          "dom:263": 1,
-          "dom:264": 1,
-          "dom:265": 1,
-          "dom:266": 1,
-          "dom:267": 1,
-          "dom:268": 1,
-          "dom:269": 1
-        }
-      },
       "dom_common": {
         "balance_colors": true,
         "total_weight": 101,
