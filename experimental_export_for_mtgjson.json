@@ -6,8 +6,8 @@
         {
           "weight": 1,
           "contents": {
-            "basic": 1,
-            "common": 10,
+            "basictype": 1,
+            "nonBasictypeCommon": 10,
             "uncommon": 3,
             "rareMythic": 1
           }
@@ -15,30 +15,39 @@
       ],
       "boostersTotalWeight": 1,
       "sheets": {
-        "basic": {
+        "basictype": {
           "cards": {
+            "0d72a768-d9e2-5ce7-9669-5fb60a8df59a": 1,
             "19bff48a-5ca1-5d8a-80bc-a24646ad3e39": 1,
+            "20d52f69-a760-5bed-a044-121dec642bea": 1,
+            "31c34df2-fdef-5be4-943c-eedc7b505681": 1,
+            "35800369-cffd-577a-af13-db87d5251ecc": 1,
+            "38302237-8c95-5b98-b71f-57dbdbac1043": 1,
+            "3fa97c34-f069-59ca-8bc1-f439569cf53f": 1,
             "55df79fb-15ed-52e0-ae57-640b8d75017b": 1,
             "58d852c8-bfda-5a91-a64e-0be4e9cdae33": 1,
+            "66df352f-9038-570b-9a8f-d0a8442e01a7": 1,
+            "6d49419f-fc98-58a7-93b0-0f5fbaf57c69": 1,
             "735b562f-3493-51d3-b05d-ac1345b5e52a": 1,
             "74deed74-3933-5e68-988a-f08094168137": 1,
             "835738a8-792c-5adb-bfb5-44e7a6b9a705": 1,
             "9726c83a-67d0-5b08-b262-2f642844344f": 1,
+            "d0b666aa-d8d8-5c7a-8b3c-e56f4d593822": 1,
             "d72df22a-c715-5e98-ac07-2073ddd29bb8": 1,
             "e465e355-ab30-52dc-be34-457f7efbf059": 1,
-            "e6be6f72-a8f7-5482-9d9b-8c590834d628": 1
+            "e6be6f72-a8f7-5482-9d9b-8c590834d628": 1,
+            "eafca210-0895-5530-bf33-f42d940c3366": 1
           },
           "foil": false,
-          "totalWeight": 10
+          "totalWeight": 20
         },
-        "common": {
+        "nonBasictypeCommon": {
           "balanceColors": true,
           "cards": {
             "027d4611-2917-5151-87a9-9ff81dc88ebb": 1,
             "066332db-776e-5646-8f3d-aba9d1817e46": 1,
             "0b22426f-ecc6-5764-a565-773defb71153": 1,
             "0c42baf0-07ca-5275-837b-19a8b872495f": 1,
-            "0d72a768-d9e2-5ce7-9669-5fb60a8df59a": 1,
             "0e766ded-2ce3-5dab-b3e2-2a34af815683": 1,
             "10bad46d-c75f-5116-983b-5d355ff250de": 1,
             "119d316d-24b8-5822-9d8d-0f3600317151": 1,
@@ -49,7 +58,6 @@
             "1853e26f-51f9-5af2-96c8-a7d35efc45e5": 1,
             "1ce4b8ac-8b77-5f81-80c8-4c03fe84dbd0": 1,
             "20474ed9-5d72-5d30-ace0-90dfe4d34a56": 1,
-            "20d52f69-a760-5bed-a044-121dec642bea": 1,
             "215312ae-6b48-52d9-880c-84c2ef1e8564": 1,
             "219aed18-2b7e-515c-b216-233bc8ad02b7": 1,
             "21a797d8-808a-5a9f-b9d8-3fb7eb97d56c": 1,
@@ -60,11 +68,7 @@
             "27d5bbe9-af5a-5b4a-9fca-b8168d1f02df": 1,
             "2c2bc6eb-da19-554c-a303-d4a0b90557ed": 1,
             "2e6cca3c-78ca-55c3-a76e-9025d20a04bb": 1,
-            "31c34df2-fdef-5be4-943c-eedc7b505681": 1,
-            "35800369-cffd-577a-af13-db87d5251ecc": 1,
-            "38302237-8c95-5b98-b71f-57dbdbac1043": 1,
             "3f2e7535-d519-55b1-bd9b-2ad30b737cf9": 1,
-            "3fa97c34-f069-59ca-8bc1-f439569cf53f": 1,
             "40774957-fa82-5429-965b-af22a04d23eb": 1,
             "40b80c8b-8fcb-56a3-ad06-dc58068c67c7": 1,
             "41439043-57d3-5073-9916-f68ef0d6c039": 1,
@@ -80,10 +84,8 @@
             "6254f38b-e7c9-5ab3-8ee3-9e5fc4fc1c10": 1,
             "6478c624-a012-5c22-acc1-a252d892e8e1": 1,
             "66d20282-5804-54f0-a579-ffc6351a6fe2": 1,
-            "66df352f-9038-570b-9a8f-d0a8442e01a7": 1,
             "6902c497-9f91-5883-9e6e-e1b07f39ee8d": 1,
             "696ed9e8-c0ee-5ace-832d-68b01466842d": 1,
-            "6d49419f-fc98-58a7-93b0-0f5fbaf57c69": 1,
             "6ff16380-e799-5ddd-9871-6c1f781b2a97": 1,
             "70a8163d-984f-50f7-8b8f-ce52c846dba4": 1,
             "70dcac83-8e4c-5031-b3f5-bec4b0f6e07a": 1,
@@ -127,7 +129,6 @@
             "c492a467-330b-5150-b578-618582d3fe41": 1,
             "cb67b8d3-adf3-5d7c-9743-f3916d541472": 1,
             "ce0eab62-b27a-5457-9210-fb12f5a28739": 1,
-            "d0b666aa-d8d8-5c7a-8b3c-e56f4d593822": 1,
             "d29e6261-9ec8-50bd-b0c5-f035845cdd65": 1,
             "d2db699c-fb42-5d8c-81e6-949ad41377a6": 1,
             "d61ea09b-d6ea-587a-91b6-be39545db745": 1,
@@ -138,7 +139,6 @@
             "e7ac699e-d07d-5eb1-8104-6271fd16ea67": 1,
             "e853058d-143c-5383-912f-1d168473f5df": 1,
             "ea839ef5-2602-5fcc-bb8e-b886b256561a": 1,
-            "eafca210-0895-5530-bf33-f42d940c3366": 1,
             "ee6cba4d-91a8-5449-973e-e222bd277959": 1,
             "ef594038-38fb-5c7c-bd4c-58234de87400": 1,
             "fa644feb-bf18-5bcc-8f1a-496c8dc3836b": 1,
@@ -147,7 +147,7 @@
             "fe1fe8c7-a986-5d62-8553-aafe64f8d2cd": 1
           },
           "foil": false,
-          "totalWeight": 111
+          "totalWeight": 101
         },
         "uncommon": {
           "cards": {
@@ -332,8 +332,8 @@
         {
           "weight": 3,
           "contents": {
-            "basic": 1,
-            "common": 10,
+            "basictype": 1,
+            "nonBasictypeCommon": 10,
             "uncommon": 3,
             "rareMythic": 1
           }
@@ -341,8 +341,8 @@
         {
           "weight": 1,
           "contents": {
-            "basic": 1,
-            "common": 9,
+            "basictype": 1,
+            "nonBasictypeCommon": 9,
             "uncommon": 3,
             "rareMythic": 1,
             "foil": 1
@@ -351,30 +351,39 @@
       ],
       "boostersTotalWeight": 4,
       "sheets": {
-        "basic": {
+        "basictype": {
           "cards": {
+            "0d72a768-d9e2-5ce7-9669-5fb60a8df59a": 1,
             "19bff48a-5ca1-5d8a-80bc-a24646ad3e39": 1,
+            "20d52f69-a760-5bed-a044-121dec642bea": 1,
+            "31c34df2-fdef-5be4-943c-eedc7b505681": 1,
+            "35800369-cffd-577a-af13-db87d5251ecc": 1,
+            "38302237-8c95-5b98-b71f-57dbdbac1043": 1,
+            "3fa97c34-f069-59ca-8bc1-f439569cf53f": 1,
             "55df79fb-15ed-52e0-ae57-640b8d75017b": 1,
             "58d852c8-bfda-5a91-a64e-0be4e9cdae33": 1,
+            "66df352f-9038-570b-9a8f-d0a8442e01a7": 1,
+            "6d49419f-fc98-58a7-93b0-0f5fbaf57c69": 1,
             "735b562f-3493-51d3-b05d-ac1345b5e52a": 1,
             "74deed74-3933-5e68-988a-f08094168137": 1,
             "835738a8-792c-5adb-bfb5-44e7a6b9a705": 1,
             "9726c83a-67d0-5b08-b262-2f642844344f": 1,
+            "d0b666aa-d8d8-5c7a-8b3c-e56f4d593822": 1,
             "d72df22a-c715-5e98-ac07-2073ddd29bb8": 1,
             "e465e355-ab30-52dc-be34-457f7efbf059": 1,
-            "e6be6f72-a8f7-5482-9d9b-8c590834d628": 1
+            "e6be6f72-a8f7-5482-9d9b-8c590834d628": 1,
+            "eafca210-0895-5530-bf33-f42d940c3366": 1
           },
           "foil": false,
-          "totalWeight": 10
+          "totalWeight": 20
         },
-        "common": {
+        "nonBasictypeCommon": {
           "balanceColors": true,
           "cards": {
             "027d4611-2917-5151-87a9-9ff81dc88ebb": 1,
             "066332db-776e-5646-8f3d-aba9d1817e46": 1,
             "0b22426f-ecc6-5764-a565-773defb71153": 1,
             "0c42baf0-07ca-5275-837b-19a8b872495f": 1,
-            "0d72a768-d9e2-5ce7-9669-5fb60a8df59a": 1,
             "0e766ded-2ce3-5dab-b3e2-2a34af815683": 1,
             "10bad46d-c75f-5116-983b-5d355ff250de": 1,
             "119d316d-24b8-5822-9d8d-0f3600317151": 1,
@@ -385,7 +394,6 @@
             "1853e26f-51f9-5af2-96c8-a7d35efc45e5": 1,
             "1ce4b8ac-8b77-5f81-80c8-4c03fe84dbd0": 1,
             "20474ed9-5d72-5d30-ace0-90dfe4d34a56": 1,
-            "20d52f69-a760-5bed-a044-121dec642bea": 1,
             "215312ae-6b48-52d9-880c-84c2ef1e8564": 1,
             "219aed18-2b7e-515c-b216-233bc8ad02b7": 1,
             "21a797d8-808a-5a9f-b9d8-3fb7eb97d56c": 1,
@@ -396,11 +404,7 @@
             "27d5bbe9-af5a-5b4a-9fca-b8168d1f02df": 1,
             "2c2bc6eb-da19-554c-a303-d4a0b90557ed": 1,
             "2e6cca3c-78ca-55c3-a76e-9025d20a04bb": 1,
-            "31c34df2-fdef-5be4-943c-eedc7b505681": 1,
-            "35800369-cffd-577a-af13-db87d5251ecc": 1,
-            "38302237-8c95-5b98-b71f-57dbdbac1043": 1,
             "3f2e7535-d519-55b1-bd9b-2ad30b737cf9": 1,
-            "3fa97c34-f069-59ca-8bc1-f439569cf53f": 1,
             "40774957-fa82-5429-965b-af22a04d23eb": 1,
             "40b80c8b-8fcb-56a3-ad06-dc58068c67c7": 1,
             "41439043-57d3-5073-9916-f68ef0d6c039": 1,
@@ -416,10 +420,8 @@
             "6254f38b-e7c9-5ab3-8ee3-9e5fc4fc1c10": 1,
             "6478c624-a012-5c22-acc1-a252d892e8e1": 1,
             "66d20282-5804-54f0-a579-ffc6351a6fe2": 1,
-            "66df352f-9038-570b-9a8f-d0a8442e01a7": 1,
             "6902c497-9f91-5883-9e6e-e1b07f39ee8d": 1,
             "696ed9e8-c0ee-5ace-832d-68b01466842d": 1,
-            "6d49419f-fc98-58a7-93b0-0f5fbaf57c69": 1,
             "6ff16380-e799-5ddd-9871-6c1f781b2a97": 1,
             "70a8163d-984f-50f7-8b8f-ce52c846dba4": 1,
             "70dcac83-8e4c-5031-b3f5-bec4b0f6e07a": 1,
@@ -463,7 +465,6 @@
             "c492a467-330b-5150-b578-618582d3fe41": 1,
             "cb67b8d3-adf3-5d7c-9743-f3916d541472": 1,
             "ce0eab62-b27a-5457-9210-fb12f5a28739": 1,
-            "d0b666aa-d8d8-5c7a-8b3c-e56f4d593822": 1,
             "d29e6261-9ec8-50bd-b0c5-f035845cdd65": 1,
             "d2db699c-fb42-5d8c-81e6-949ad41377a6": 1,
             "d61ea09b-d6ea-587a-91b6-be39545db745": 1,
@@ -474,7 +475,6 @@
             "e7ac699e-d07d-5eb1-8104-6271fd16ea67": 1,
             "e853058d-143c-5383-912f-1d168473f5df": 1,
             "ea839ef5-2602-5fcc-bb8e-b886b256561a": 1,
-            "eafca210-0895-5530-bf33-f42d940c3366": 1,
             "ee6cba4d-91a8-5449-973e-e222bd277959": 1,
             "ef594038-38fb-5c7c-bd4c-58234de87400": 1,
             "fa644feb-bf18-5bcc-8f1a-496c8dc3836b": 1,
@@ -483,7 +483,7 @@
             "fe1fe8c7-a986-5d62-8553-aafe64f8d2cd": 1
           },
           "foil": false,
-          "totalWeight": 111
+          "totalWeight": 101
         },
         "uncommon": {
           "cards": {
