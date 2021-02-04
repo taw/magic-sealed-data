@@ -7,7 +7,7 @@
     "boosters": [
       {
         "sheets": {
-          "khm_basictype": 1,
+          "khm_khm_basictype": 1,
           "khm_non_basictype_common": 10,
           "khm_uncommon": 3,
           "khm_rare_mythic": 1
@@ -16,29 +16,29 @@
       }
     ],
     "sheets": {
-      "khm_basictype": {
-        "total_weight": 20,
+      "khm_khm_basictype": {
+        "total_weight": 120,
         "cards": {
-          "khm:248": 1,
-          "khm:249": 1,
-          "khm:257": 1,
-          "khm:261": 1,
-          "khm:262": 1,
-          "khm:266": 1,
-          "khm:269": 1,
-          "khm:270": 1,
-          "khm:273": 1,
-          "khm:274": 1,
-          "khm:276": 1,
-          "khm:277": 1,
-          "khm:278": 1,
-          "khm:279": 1,
-          "khm:280": 1,
-          "khm:281": 1,
-          "khm:282": 1,
-          "khm:283": 1,
-          "khm:284": 1,
-          "khm:285": 1
+          "khm:248": 5,
+          "khm:249": 5,
+          "khm:257": 5,
+          "khm:261": 5,
+          "khm:262": 5,
+          "khm:266": 5,
+          "khm:269": 5,
+          "khm:270": 5,
+          "khm:273": 5,
+          "khm:274": 5,
+          "khm:276": 7,
+          "khm:277": 7,
+          "khm:278": 7,
+          "khm:279": 7,
+          "khm:280": 7,
+          "khm:281": 7,
+          "khm:282": 7,
+          "khm:283": 7,
+          "khm:284": 7,
+          "khm:285": 7
         }
       },
       "khm_non_basictype_common": {
@@ -332,7 +332,7 @@
     "boosters": [
       {
         "sheets": {
-          "khm_basictype": 1,
+          "khm_khm_basictype": 1,
           "khm_non_basictype_common": 10,
           "khm_uncommon": 3,
           "khm_rare_mythic": 1
@@ -341,7 +341,7 @@
       },
       {
         "sheets": {
-          "khm_basictype": 1,
+          "khm_khm_basictype": 1,
           "khm_non_basictype_common": 9,
           "khm_uncommon": 3,
           "khm_rare_mythic": 1,
@@ -351,29 +351,29 @@
       }
     ],
     "sheets": {
-      "khm_basictype": {
-        "total_weight": 20,
+      "khm_khm_basictype": {
+        "total_weight": 120,
         "cards": {
-          "khm:248": 1,
-          "khm:249": 1,
-          "khm:257": 1,
-          "khm:261": 1,
-          "khm:262": 1,
-          "khm:266": 1,
-          "khm:269": 1,
-          "khm:270": 1,
-          "khm:273": 1,
-          "khm:274": 1,
-          "khm:276": 1,
-          "khm:277": 1,
-          "khm:278": 1,
-          "khm:279": 1,
-          "khm:280": 1,
-          "khm:281": 1,
-          "khm:282": 1,
-          "khm:283": 1,
-          "khm:284": 1,
-          "khm:285": 1
+          "khm:248": 5,
+          "khm:249": 5,
+          "khm:257": 5,
+          "khm:261": 5,
+          "khm:262": 5,
+          "khm:266": 5,
+          "khm:269": 5,
+          "khm:270": 5,
+          "khm:273": 5,
+          "khm:274": 5,
+          "khm:276": 7,
+          "khm:277": 7,
+          "khm:278": 7,
+          "khm:279": 7,
+          "khm:280": 7,
+          "khm:281": 7,
+          "khm:282": 7,
+          "khm:283": 7,
+          "khm:284": 7,
+          "khm:285": 7
         }
       },
       "khm_non_basictype_common": {
