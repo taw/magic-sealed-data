@@ -330,7 +330,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 2,
           "contents": {
             "basictype": 1,
             "nonBasictypeCommon": 10,
@@ -349,7 +349,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 3,
       "sheets": {
         "basictype": {
           "cards": {
@@ -2354,7 +2354,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 81,
+          "weight": 54,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -2373,7 +2373,7 @@
           }
         },
         {
-          "weight": 363,
+          "weight": 242,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -2394,7 +2394,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 592,
+      "boostersTotalWeight": 444,
       "sheets": {
         "basic": {
           "cards": {
@@ -4374,7 +4374,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 2,
           "contents": {
             "basicOrGainland": 1,
             "nongainlandCommon": 10,
@@ -4393,7 +4393,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 3,
       "sheets": {
         "basicOrGainland": {
           "cards": {
@@ -5307,7 +5307,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 2,
           "contents": {
             "basicOrGainland": 1,
             "nongainlandCommon": 10,
@@ -5326,7 +5326,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 3,
       "sheets": {
         "basicOrGainland": {
           "cards": {
@@ -6198,7 +6198,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 2,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -6217,7 +6217,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 3,
       "sheets": {
         "basic": {
           "cards": {
@@ -10917,7 +10917,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 2,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -10936,7 +10936,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 3,
       "sheets": {
         "basic": {
           "cards": {
@@ -11836,7 +11836,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 2,
           "contents": {
             "basicOrCommonLand": 1,
             "nonlandCommon": 10,
@@ -11855,7 +11855,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 3,
       "sheets": {
         "basicOrCommonLand": {
           "cards": {
@@ -12455,7 +12455,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -12464,7 +12464,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -12474,7 +12474,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -13327,7 +13327,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 87,
+          "weight": 899,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -13336,7 +13336,7 @@
           }
         },
         {
-          "weight": 29,
+          "weight": 261,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -13346,7 +13346,7 @@
           }
         },
         {
-          "weight": 276,
+          "weight": 2852,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -13356,7 +13356,7 @@
           }
         },
         {
-          "weight": 92,
+          "weight": 828,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -13367,7 +13367,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 484,
+      "boostersTotalWeight": 4840,
       "sheets": {
         "basic": {
           "cards": {
@@ -14248,7 +14248,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -14257,7 +14257,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 9,
             "uncommon": 3,
@@ -14267,7 +14267,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -15677,7 +15677,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -15686,7 +15686,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 9,
             "uncommon": 3,
@@ -15696,7 +15696,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -16576,7 +16576,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basicOrCommonLand": 1,
             "nonlandCommon": 10,
@@ -16585,7 +16585,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basicOrCommonLand": 1,
             "nonlandCommon": 9,
@@ -16595,7 +16595,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basicOrCommonLand": {
           "cards": {
@@ -18537,7 +18537,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3267,
+          "weight": 33759,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -18546,7 +18546,7 @@
           }
         },
         {
-          "weight": 1089,
+          "weight": 9801,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -18556,7 +18556,7 @@
           }
         },
         {
-          "weight": 621,
+          "weight": 6417,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -18566,7 +18566,7 @@
           }
         },
         {
-          "weight": 207,
+          "weight": 1863,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -18577,7 +18577,7 @@
           }
         },
         {
-          "weight": 9180,
+          "weight": 94860,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -18587,7 +18587,7 @@
           }
         },
         {
-          "weight": 3060,
+          "weight": 27540,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -18598,7 +18598,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 17424,
+      "boostersTotalWeight": 174240,
       "sheets": {
         "basic": {
           "cards": {
@@ -19955,7 +19955,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -19964,7 +19964,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -19974,7 +19974,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -21876,7 +21876,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -21885,7 +21885,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -21895,7 +21895,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -22493,7 +22493,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -22502,7 +22502,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -22512,7 +22512,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -22974,7 +22974,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -22983,7 +22983,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -22993,7 +22993,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -24142,7 +24142,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 11,
             "uncommon": 3,
@@ -24150,7 +24150,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -24159,7 +24159,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -24585,7 +24585,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -24594,7 +24594,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -24604,7 +24604,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -25202,7 +25202,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 117,
+          "weight": 2046,
           "contents": {
             "conspiracy": 1,
             "nonconspiracyCommon": 10,
@@ -25211,7 +25211,7 @@
           }
         },
         {
-          "weight": 39,
+          "weight": 594,
           "contents": {
             "conspiracy": 1,
             "nonconspiracyCommon": 9,
@@ -25221,7 +25221,7 @@
           }
         },
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "conspiracyFoil": 1,
             "nonconspiracyCommon": 10,
@@ -25230,7 +25230,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "conspiracyFoil": 1,
             "nonconspiracyCommon": 9,
@@ -25240,7 +25240,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 160,
+      "boostersTotalWeight": 2680,
       "sheets": {
         "conspiracy": {
           "cards": {
@@ -25728,7 +25728,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 21,
+          "weight": 217,
           "contents": {
             "sfcCommon": 10,
             "sfcUncommon": 3,
@@ -25737,7 +25737,7 @@
           }
         },
         {
-          "weight": 7,
+          "weight": 63,
           "contents": {
             "sfcCommon": 9,
             "sfcUncommon": 3,
@@ -25747,7 +25747,7 @@
           }
         },
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "sfcCommon": 9,
             "sfcUncommon": 3,
@@ -25757,7 +25757,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "sfcCommon": 8,
             "sfcUncommon": 3,
@@ -25768,7 +25768,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 32,
+      "boostersTotalWeight": 320,
       "sheets": {
         "sfcCommon": {
           "balanceColors": true,
@@ -26765,7 +26765,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 21,
+          "weight": 217,
           "contents": {
             "basic": 1,
             "sfcCommon": 9,
@@ -26775,7 +26775,7 @@
           }
         },
         {
-          "weight": 7,
+          "weight": 63,
           "contents": {
             "basic": 1,
             "sfcCommon": 8,
@@ -26786,7 +26786,7 @@
           }
         },
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "sfcCommon": 8,
@@ -26797,7 +26797,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "sfcCommon": 7,
@@ -26809,7 +26809,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 32,
+      "boostersTotalWeight": 320,
       "sheets": {
         "basic": {
           "cards": {
@@ -27455,7 +27455,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -27464,7 +27464,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -27474,7 +27474,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -27902,7 +27902,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -27911,7 +27911,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -27921,7 +27921,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -28534,7 +28534,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -28543,7 +28543,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -28553,7 +28553,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -29678,7 +29678,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -29687,7 +29687,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -29697,7 +29697,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -30275,7 +30275,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -30284,7 +30284,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -30294,7 +30294,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -30862,7 +30862,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -30871,7 +30871,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 9,
             "uncommon": 3,
@@ -30881,7 +30881,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -31286,7 +31286,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -31295,7 +31295,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -31305,7 +31305,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -31883,7 +31883,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -31892,7 +31892,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -31902,7 +31902,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -33188,7 +33188,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 117,
+          "weight": 2046,
           "contents": {
             "draft": 1,
             "nondraftCommon": 10,
@@ -33197,7 +33197,7 @@
           }
         },
         {
-          "weight": 39,
+          "weight": 594,
           "contents": {
             "draft": 1,
             "nondraftCommon": 9,
@@ -33207,7 +33207,7 @@
           }
         },
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "draftFoil": 1,
             "nondraftCommon": 10,
@@ -33216,7 +33216,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "draftFoil": 1,
             "nondraftCommon": 9,
@@ -33226,7 +33226,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 160,
+      "boostersTotalWeight": 2680,
       "sheets": {
         "draft": {
           "cards": {
@@ -33692,7 +33692,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 12957,
+          "weight": 133889,
           "contents": {
             "common": 11,
             "uncommon": 3,
@@ -33700,7 +33700,7 @@
           }
         },
         {
-          "weight": 4319,
+          "weight": 38871,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -33709,13 +33709,13 @@
           }
         },
         {
-          "weight": 4,
+          "weight": 40,
           "contents": {
             "therosGods": 15
           }
         }
       ],
-      "boostersTotalWeight": 17280,
+      "boostersTotalWeight": 172800,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -34100,7 +34100,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 11,
             "uncommon": 3,
@@ -34108,7 +34108,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -34117,7 +34117,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -34481,7 +34481,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -34490,7 +34490,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -34500,7 +34500,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -35038,7 +35038,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -35047,7 +35047,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -35057,7 +35057,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -36096,7 +36096,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -36105,7 +36105,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 9,
             "uncommon": 3,
@@ -36115,7 +36115,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -36477,7 +36477,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 11,
             "uncommon": 3,
@@ -36485,7 +36485,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -36494,7 +36494,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -37026,7 +37026,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -37035,7 +37035,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -37045,7 +37045,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -37633,7 +37633,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -37642,7 +37642,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -37652,7 +37652,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -38190,7 +38190,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -38199,7 +38199,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -38209,7 +38209,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -38737,7 +38737,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "dfc": 1,
             "sfcCommon": 10,
@@ -38746,7 +38746,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "dfc": 1,
             "sfcCommon": 9,
@@ -38756,7 +38756,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "dfc": {
           "cards": {
@@ -39112,7 +39112,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "dfc": 1,
             "basic": 1,
@@ -39122,7 +39122,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "dfc": 1,
             "basic": 1,
@@ -39133,7 +39133,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "dfc": {
           "cards": {
@@ -39707,7 +39707,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -39716,7 +39716,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -39726,7 +39726,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -40264,7 +40264,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -40273,7 +40273,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -40283,7 +40283,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -40673,7 +40673,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -40682,7 +40682,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -40692,7 +40692,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -41042,7 +41042,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -41051,7 +41051,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -41061,7 +41061,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -41639,7 +41639,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -41648,7 +41648,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -41658,7 +41658,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -42196,7 +42196,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -42205,7 +42205,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -42215,7 +42215,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -42753,7 +42753,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -42762,7 +42762,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -42772,7 +42772,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -43308,7 +43308,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 11,
             "uncommon": 3,
@@ -43316,7 +43316,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -43325,7 +43325,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -43649,7 +43649,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -43658,7 +43658,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -43668,7 +43668,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -44246,7 +44246,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -44255,7 +44255,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -44265,7 +44265,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -44765,7 +44765,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -44774,7 +44774,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -44784,7 +44784,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -45322,7 +45322,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 11,
             "uncommon": 3,
@@ -45330,7 +45330,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -45339,7 +45339,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "cards": {
@@ -45662,7 +45662,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 11,
             "uncommon": 3,
@@ -45670,7 +45670,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -45679,7 +45679,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -46583,7 +46583,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -46592,7 +46592,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -46602,7 +46602,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -47139,7 +47139,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -47148,7 +47148,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -47158,7 +47158,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -47688,7 +47688,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 11,
             "uncommon": 3,
@@ -47696,7 +47696,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -47705,7 +47705,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "cards": {
@@ -48098,7 +48098,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 11,
             "uncommon": 3,
@@ -48106,7 +48106,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -48115,7 +48115,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "cards": {
@@ -48730,7 +48730,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 11,
             "uncommon": 3,
@@ -48738,7 +48738,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -48747,7 +48747,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -49081,7 +49081,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 11,
             "uncommon": 3,
@@ -49089,7 +49089,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -49098,7 +49098,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -49714,7 +49714,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "basic": 1,
             "common": 10,
@@ -49723,7 +49723,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "basic": 1,
             "common": 9,
@@ -49733,7 +49733,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "basic": {
           "cards": {
@@ -51147,7 +51147,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 11,
             "uncommon": 3,
@@ -51155,7 +51155,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -51164,7 +51164,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -51558,7 +51558,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "pcCommon": 8,
             "pcUncommon": 2,
@@ -51568,7 +51568,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "pcCommon": 7,
             "pcUncommon": 2,
@@ -51579,7 +51579,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "pcCommon": {
           "cards": {
@@ -51954,7 +51954,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -51963,7 +51963,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 9,
             "uncommon": 3,
@@ -51973,7 +51973,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,
@@ -52837,7 +52837,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "commonOrBasic": 11,
             "uncommon": 3,
@@ -52845,7 +52845,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "commonOrBasic": 10,
             "uncommon": 3,
@@ -52854,7 +52854,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "commonOrBasic": {
           "balanceColors": true,
@@ -56645,7 +56645,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 3,
+          "weight": 31,
           "contents": {
             "common": 10,
             "uncommon": 3,
@@ -56654,7 +56654,7 @@
           }
         },
         {
-          "weight": 1,
+          "weight": 9,
           "contents": {
             "common": 9,
             "uncommon": 3,
@@ -56664,7 +56664,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 4,
+      "boostersTotalWeight": 40,
       "sheets": {
         "common": {
           "balanceColors": true,

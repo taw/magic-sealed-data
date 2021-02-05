@@ -337,7 +337,7 @@
           "khm_uncommon": 3,
           "khm_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 2
       },
       {
         "sheets": {
@@ -2349,7 +2349,7 @@
           "znr_sfc_uncommon": 3,
           "znr_modaldfc_rare_mythic": 1
         },
-        "weight": 81
+        "weight": 54
       },
       {
         "sheets": {
@@ -2369,7 +2369,7 @@
           "znr_sfc_uncommon": 2,
           "znr_sfc_rare_mythic": 1
         },
-        "weight": 363
+        "weight": 242
       },
       {
         "sheets": {
@@ -4355,7 +4355,7 @@
           "m21_uncommon": 3,
           "m21_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 2
       },
       {
         "sheets": {
@@ -5282,7 +5282,7 @@
           "iko_uncommon": 3,
           "iko_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 2
       },
       {
         "sheets": {
@@ -6168,7 +6168,7 @@
           "thb_uncommon": 3,
           "thb_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 2
       },
       {
         "sheets": {
@@ -10854,7 +10854,7 @@
           "eld_uncommon": 3,
           "eld_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 2
       },
       {
         "sheets": {
@@ -11767,7 +11767,7 @@
           "m20_uncommon": 3,
           "m20_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 2
       },
       {
         "sheets": {
@@ -12382,7 +12382,7 @@
           "mh1_uncommon": 3,
           "mh1_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -12392,7 +12392,7 @@
           "mh1_rare_mythic": 1,
           "mh1_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -13247,7 +13247,7 @@
           "war_war_nonplaneswalker_uncommon": 3,
           "war_war_planeswalker_rare_mythic": 1
         },
-        "weight": 87
+        "weight": 899
       },
       {
         "sheets": {
@@ -13257,7 +13257,7 @@
           "war_war_planeswalker_rare_mythic": 1,
           "war_war_foil": 1
         },
-        "weight": 29
+        "weight": 261
       },
       {
         "sheets": {
@@ -13267,7 +13267,7 @@
           "war_war_planeswalker_uncommon": 1,
           "war_war_nonplaneswalker_rare_mythic": 1
         },
-        "weight": 276
+        "weight": 2852
       },
       {
         "sheets": {
@@ -13278,7 +13278,7 @@
           "war_war_nonplaneswalker_rare_mythic": 1,
           "war_war_foil": 1
         },
-        "weight": 92
+        "weight": 828
       }
     ],
     "sheets": {
@@ -14160,7 +14160,7 @@
           "rna_rare_mythic": 1,
           "rna_rna_land": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -14170,7 +14170,7 @@
           "rna_rna_land": 1,
           "rna_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -15580,7 +15580,7 @@
           "grn_rare_mythic": 1,
           "grn_grn_land": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -15590,7 +15590,7 @@
           "grn_grn_land": 1,
           "grn_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -16473,7 +16473,7 @@
           "m19_uncommon": 3,
           "m19_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -16483,7 +16483,7 @@
           "m19_rare_mythic": 1,
           "m19_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -18401,7 +18401,7 @@
           "dom_dom_nonlegendary_uncommon": 3,
           "dom_dom_legendary_rare_mythic": 1
         },
-        "weight": 3267
+        "weight": 33759
       },
       {
         "sheets": {
@@ -18411,7 +18411,7 @@
           "dom_dom_legendary_rare_mythic": 1,
           "dom_foil": 1
         },
-        "weight": 1089
+        "weight": 9801
       },
       {
         "sheets": {
@@ -18421,7 +18421,7 @@
           "dom_dom_legendary_uncommon": 1,
           "dom_dom_legendary_rare_mythic": 1
         },
-        "weight": 621
+        "weight": 6417
       },
       {
         "sheets": {
@@ -18432,7 +18432,7 @@
           "dom_dom_legendary_rare_mythic": 1,
           "dom_foil": 1
         },
-        "weight": 207
+        "weight": 1863
       },
       {
         "sheets": {
@@ -18442,7 +18442,7 @@
           "dom_dom_legendary_uncommon": 1,
           "dom_dom_nonlegendary_rare_mythic": 1
         },
-        "weight": 9180
+        "weight": 94860
       },
       {
         "sheets": {
@@ -18453,7 +18453,7 @@
           "dom_dom_nonlegendary_rare_mythic": 1,
           "dom_foil": 1
         },
-        "weight": 3060
+        "weight": 27540
       }
     ],
     "sheets": {
@@ -19809,7 +19809,7 @@
           "rix_uncommon": 3,
           "rix_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -19819,7 +19819,7 @@
           "rix_rare_mythic": 1,
           "rix_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -21715,7 +21715,7 @@
           "xln_uncommon": 3,
           "xln_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -21725,7 +21725,7 @@
           "xln_rare_mythic": 1,
           "xln_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -22328,7 +22328,7 @@
           "hou_uncommon": 3,
           "hou_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -22338,7 +22338,7 @@
           "hou_rare_mythic": 1,
           "hou_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -22805,7 +22805,7 @@
           "akh_uncommon": 3,
           "akh_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -22815,7 +22815,7 @@
           "akh_rare_mythic": 1,
           "akh_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -23965,7 +23965,7 @@
           "aer_uncommon": 3,
           "aer_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -23974,7 +23974,7 @@
           "aer_rare_mythic": 1,
           "aer_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -24406,7 +24406,7 @@
           "kld_uncommon": 3,
           "kld_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -24416,7 +24416,7 @@
           "kld_rare_mythic": 1,
           "kld_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -25019,7 +25019,7 @@
           "cn2_cn2_nonconspiracy_uncommon": 3,
           "cn2_cn2_nonconspiracy_rare_mythic": 1
         },
-        "weight": 117
+        "weight": 2046
       },
       {
         "sheets": {
@@ -25029,7 +25029,7 @@
           "cn2_cn2_nonconspiracy_rare_mythic": 1,
           "cn2_cn2_nonconspiracy_foil": 1
         },
-        "weight": 39
+        "weight": 594
       },
       {
         "sheets": {
@@ -25038,7 +25038,7 @@
           "cn2_cn2_nonconspiracy_uncommon": 3,
           "cn2_cn2_nonconspiracy_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -25048,7 +25048,7 @@
           "cn2_cn2_nonconspiracy_rare_mythic": 1,
           "cn2_cn2_nonconspiracy_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -25540,7 +25540,7 @@
           "emn_sfc_rare_mythic": 1,
           "emn_emn_dfc_common_uncommon": 1
         },
-        "weight": 21
+        "weight": 217
       },
       {
         "sheets": {
@@ -25550,7 +25550,7 @@
           "emn_emn_dfc_common_uncommon": 1,
           "emn_foil": 1
         },
-        "weight": 7
+        "weight": 63
       },
       {
         "sheets": {
@@ -25560,7 +25560,7 @@
           "emn_emn_dfc_common_uncommon": 1,
           "emn_emn_dfc_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -25571,7 +25571,7 @@
           "emn_emn_dfc_rare_mythic": 1,
           "emn_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -26570,7 +26570,7 @@
           "soi_sfc_rare_mythic": 1,
           "soi_soi_dfc_common_uncommon": 1
         },
-        "weight": 21
+        "weight": 217
       },
       {
         "sheets": {
@@ -26581,7 +26581,7 @@
           "soi_soi_dfc_common_uncommon": 1,
           "soi_foil": 1
         },
-        "weight": 7
+        "weight": 63
       },
       {
         "sheets": {
@@ -26592,7 +26592,7 @@
           "soi_soi_dfc_common_uncommon": 1,
           "soi_soi_dfc_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -26604,7 +26604,7 @@
           "soi_soi_dfc_rare_mythic": 1,
           "soi_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -27253,7 +27253,7 @@
           "ogw_uncommon": 3,
           "ogw_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -27263,7 +27263,7 @@
           "ogw_rare_mythic": 1,
           "ogw_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -27696,7 +27696,7 @@
           "bfz_uncommon": 3,
           "bfz_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -27706,7 +27706,7 @@
           "bfz_rare_mythic": 1,
           "bfz_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -28324,7 +28324,7 @@
           "ori_uncommon": 3,
           "ori_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -28334,7 +28334,7 @@
           "ori_rare_mythic": 1,
           "ori_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -29461,7 +29461,7 @@
           "tpr_uncommon": 3,
           "tpr_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -29471,7 +29471,7 @@
           "tpr_rare_mythic": 1,
           "tpr_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -30054,7 +30054,7 @@
           "dtk_uncommon": 3,
           "dtk_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -30064,7 +30064,7 @@
           "dtk_rare_mythic": 1,
           "dtk_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -30637,7 +30637,7 @@
           "frf_rare_mythic": 1,
           "frf_frf_land": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -30647,7 +30647,7 @@
           "frf_frf_land": 1,
           "frf_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -31057,7 +31057,7 @@
           "ktk_uncommon": 3,
           "ktk_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -31067,7 +31067,7 @@
           "ktk_rare_mythic": 1,
           "ktk_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -31650,7 +31650,7 @@
           "m15_uncommon": 3,
           "m15_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -31660,7 +31660,7 @@
           "m15_rare_mythic": 1,
           "m15_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -32947,7 +32947,7 @@
           "cns_cns_nondraft_uncommon": 3,
           "cns_cns_nondraft_rare_mythic": 1
         },
-        "weight": 117
+        "weight": 2046
       },
       {
         "sheets": {
@@ -32957,7 +32957,7 @@
           "cns_cns_nondraft_rare_mythic": 1,
           "cns_cns_nondraft_foil": 1
         },
-        "weight": 39
+        "weight": 594
       },
       {
         "sheets": {
@@ -32966,7 +32966,7 @@
           "cns_cns_nondraft_uncommon": 3,
           "cns_cns_nondraft_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -32976,7 +32976,7 @@
           "cns_cns_nondraft_rare_mythic": 1,
           "cns_cns_nondraft_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -33445,7 +33445,7 @@
           "jou_uncommon": 3,
           "jou_rare_mythic": 1
         },
-        "weight": 12957
+        "weight": 133889
       },
       {
         "sheets": {
@@ -33454,13 +33454,13 @@
           "jou_rare_mythic": 1,
           "jou_foil": 1
         },
-        "weight": 4319
+        "weight": 38871
       },
       {
         "sheets": {
           "jou_theros_gods": 15
         },
-        "weight": 4
+        "weight": 40
       }
     ],
     "sheets": {
@@ -33849,7 +33849,7 @@
           "bng_uncommon": 3,
           "bng_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -33858,7 +33858,7 @@
           "bng_rare_mythic": 1,
           "bng_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -34228,7 +34228,7 @@
           "ths_uncommon": 3,
           "ths_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -34238,7 +34238,7 @@
           "ths_rare_mythic": 1,
           "ths_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -34781,7 +34781,7 @@
           "m14_uncommon": 3,
           "m14_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -34791,7 +34791,7 @@
           "m14_rare_mythic": 1,
           "m14_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -35832,7 +35832,7 @@
           "dgm_dgm_rare_mythic": 1,
           "dgm_dgm_land": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -35842,7 +35842,7 @@
           "dgm_dgm_land": 1,
           "dgm_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -36208,7 +36208,7 @@
           "gtc_uncommon": 3,
           "gtc_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -36217,7 +36217,7 @@
           "gtc_rare_mythic": 1,
           "gtc_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -36755,7 +36755,7 @@
           "rtr_uncommon": 3,
           "rtr_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -36765,7 +36765,7 @@
           "rtr_rare_mythic": 1,
           "rtr_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -37358,7 +37358,7 @@
           "m13_uncommon": 3,
           "m13_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -37368,7 +37368,7 @@
           "m13_rare_mythic": 1,
           "m13_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -37911,7 +37911,7 @@
           "avr_uncommon": 3,
           "avr_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -37921,7 +37921,7 @@
           "avr_rare_mythic": 1,
           "avr_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -38454,7 +38454,7 @@
           "dka_sfc_uncommon": 3,
           "dka_sfc_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -38464,7 +38464,7 @@
           "dka_sfc_rare_mythic": 1,
           "dka_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -38826,7 +38826,7 @@
           "isd_sfc_uncommon": 3,
           "isd_sfc_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -38837,7 +38837,7 @@
           "isd_sfc_rare_mythic": 1,
           "isd_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -39415,7 +39415,7 @@
           "m12_uncommon": 3,
           "m12_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -39425,7 +39425,7 @@
           "m12_rare_mythic": 1,
           "m12_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -39968,7 +39968,7 @@
           "nph_uncommon": 3,
           "nph_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -39978,7 +39978,7 @@
           "nph_rare_mythic": 1,
           "nph_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -40373,7 +40373,7 @@
           "mbs_uncommon": 3,
           "mbs_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -40383,7 +40383,7 @@
           "mbs_rare_mythic": 1,
           "mbs_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -40738,7 +40738,7 @@
           "me4_uncommon": 3,
           "me4_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -40748,7 +40748,7 @@
           "me4_rare_mythic": 1,
           "me4_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -41331,7 +41331,7 @@
           "som_uncommon": 3,
           "som_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -41341,7 +41341,7 @@
           "som_rare_mythic": 1,
           "som_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -41884,7 +41884,7 @@
           "m11_uncommon": 3,
           "m11_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -41894,7 +41894,7 @@
           "m11_rare_mythic": 1,
           "m11_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -42437,7 +42437,7 @@
           "roe_uncommon": 3,
           "roe_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -42447,7 +42447,7 @@
           "roe_rare_mythic": 1,
           "roe_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -42987,7 +42987,7 @@
           "wwk_uncommon": 3,
           "wwk_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -42996,7 +42996,7 @@
           "wwk_rare_mythic": 1,
           "wwk_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -43326,7 +43326,7 @@
           "zen_uncommon": 3,
           "zen_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -43336,7 +43336,7 @@
           "zen_rare_mythic": 1,
           "zen_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -43919,7 +43919,7 @@
           "me3_uncommon": 3,
           "me3_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -43929,7 +43929,7 @@
           "me3_rare_mythic": 1,
           "me3_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -44434,7 +44434,7 @@
           "m10_uncommon": 3,
           "m10_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -44444,7 +44444,7 @@
           "m10_rare_mythic": 1,
           "m10_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -44986,7 +44986,7 @@
           "arb_uncommon": 3,
           "arb_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -44995,7 +44995,7 @@
           "arb_rare_mythic": 1,
           "arb_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -45323,7 +45323,7 @@
           "con_uncommon": 3,
           "con_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -45332,7 +45332,7 @@
           "con_rare_mythic": 1,
           "con_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -46240,7 +46240,7 @@
           "ala_uncommon": 3,
           "ala_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -46250,7 +46250,7 @@
           "ala_rare_mythic": 1,
           "ala_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -46792,7 +46792,7 @@
           "me2_uncommon": 3,
           "me2_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -46802,7 +46802,7 @@
           "me2_rare_mythic": 1,
           "me2_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -47336,7 +47336,7 @@
           "eve_uncommon": 3,
           "eve_rare": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -47345,7 +47345,7 @@
           "eve_rare": 1,
           "eve_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -47743,7 +47743,7 @@
           "shm_uncommon": 3,
           "shm_rare": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -47752,7 +47752,7 @@
           "shm_rare": 1,
           "shm_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -48372,7 +48372,7 @@
           "mor_uncommon": 3,
           "mor_rare": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -48381,7 +48381,7 @@
           "mor_rare": 1,
           "mor_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -48720,7 +48720,7 @@
           "lrw_uncommon": 3,
           "lrw_rare": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -48729,7 +48729,7 @@
           "lrw_rare": 1,
           "lrw_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -49351,7 +49351,7 @@
           "me1_uncommon": 3,
           "me1_rare_mythic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -49361,7 +49361,7 @@
           "me1_rare_mythic": 1,
           "me1_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -50772,7 +50772,7 @@
           "fut_uncommon": 3,
           "fut_rare": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -50781,7 +50781,7 @@
           "fut_rare": 1,
           "fut_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -51182,7 +51182,7 @@
           "plc_pc_cs_common": 3,
           "plc_pc_cs_uncommon_rare": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -51193,7 +51193,7 @@
           "plc_pc_cs_uncommon_rare": 1,
           "plc_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -51572,7 +51572,7 @@
           "tsp_rare": 1,
           "tsp_tsts": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -51582,7 +51582,7 @@
           "tsp_tsts": 1,
           "tsp_ts_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -52450,7 +52450,7 @@
           "csp_uncommon": 3,
           "csp_rare": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -52459,7 +52459,7 @@
           "csp_rare": 1,
           "csp_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
@@ -56224,7 +56224,7 @@
           "unh_rare_mythic": 1,
           "unh_basic": 1
         },
-        "weight": 3
+        "weight": 31
       },
       {
         "sheets": {
@@ -56234,7 +56234,7 @@
           "unh_basic": 1,
           "unh_unhinged_foil": 1
         },
-        "weight": 1
+        "weight": 9
       }
     ],
     "sheets": {
