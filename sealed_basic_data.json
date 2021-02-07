@@ -49796,7 +49796,7 @@
           "10e_uncommon": 3,
           "10e_common": 10
         },
-        "weight": 8556273
+        "weight": 1913922
       },
       {
         "sheets": {
@@ -49806,7 +49806,7 @@
           "10e_common": 9,
           "10e_foil_common": 1
         },
-        "weight": 950697
+        "weight": 318987
       },
       {
         "sheets": {
@@ -49816,7 +49816,7 @@
           "10e_foil_uncommon": 1,
           "10e_common": 10
         },
-        "weight": 264627
+        "weight": 85698
       },
       {
         "sheets": {
@@ -49827,7 +49827,7 @@
           "10e_common": 9,
           "10e_foil_common": 1
         },
-        "weight": 29403
+        "weight": 14283
       },
       {
         "sheets": {
@@ -49836,7 +49836,7 @@
           "10e_uncommon": 3,
           "10e_common": 10
         },
-        "weight": 86427
+        "weight": 27738
       },
       {
         "sheets": {
@@ -49846,7 +49846,7 @@
           "10e_common": 9,
           "10e_foil_common": 1
         },
-        "weight": 9603
+        "weight": 4623
       },
       {
         "sheets": {
@@ -49856,7 +49856,7 @@
           "10e_foil_uncommon": 1,
           "10e_common": 10
         },
-        "weight": 2673
+        "weight": 1242
       },
       {
         "sheets": {
@@ -49867,7 +49867,7 @@
           "10e_common": 9,
           "10e_foil_common": 1
         },
-        "weight": 297
+        "weight": 207
       },
       {
         "sheets": {
@@ -49876,7 +49876,7 @@
           "10e_uncommon": 3,
           "10e_common": 10
         },
-        "weight": 86427
+        "weight": 27738
       },
       {
         "sheets": {
@@ -49886,7 +49886,7 @@
           "10e_common": 9,
           "10e_foil_common": 1
         },
-        "weight": 9603
+        "weight": 4623
       },
       {
         "sheets": {
@@ -49896,7 +49896,7 @@
           "10e_foil_uncommon": 1,
           "10e_common": 10
         },
-        "weight": 2673
+        "weight": 1242
       },
       {
         "sheets": {
@@ -49907,7 +49907,7 @@
           "10e_common": 9,
           "10e_foil_common": 1
         },
-        "weight": 297
+        "weight": 207
       },
       {
         "sheets": {
@@ -49916,7 +49916,7 @@
           "10e_uncommon": 3,
           "10e_common": 10
         },
-        "weight": 873
+        "weight": 402
       },
       {
         "sheets": {
@@ -49926,7 +49926,7 @@
           "10e_common": 9,
           "10e_foil_common": 1
         },
-        "weight": 97
+        "weight": 67
       },
       {
         "sheets": {
@@ -49936,7 +49936,7 @@
           "10e_foil_uncommon": 1,
           "10e_common": 10
         },
-        "weight": 27
+        "weight": 18
       },
       {
         "sheets": {
@@ -52808,7 +52808,7 @@
           "dis_uncommon": 3,
           "dis_common_unbalanced": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -52817,7 +52817,7 @@
           "dis_common_unbalanced": 10,
           "dis_foil_common": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -52826,7 +52826,7 @@
           "dis_foil_uncommon": 1,
           "dis_common_unbalanced": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -52836,7 +52836,7 @@
           "dis_common_unbalanced": 10,
           "dis_foil_common": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -52844,7 +52844,7 @@
           "dis_uncommon": 3,
           "dis_common_unbalanced": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -52853,7 +52853,7 @@
           "dis_common_unbalanced": 10,
           "dis_foil_common": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -52862,7 +52862,7 @@
           "dis_foil_uncommon": 1,
           "dis_common_unbalanced": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {
@@ -53280,7 +53280,7 @@
           "gpt_uncommon": 3,
           "gpt_common_unbalanced": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -53289,7 +53289,7 @@
           "gpt_common_unbalanced": 10,
           "gpt_foil_common": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -53298,7 +53298,7 @@
           "gpt_foil_uncommon": 1,
           "gpt_common_unbalanced": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -53308,7 +53308,7 @@
           "gpt_common_unbalanced": 10,
           "gpt_foil_common": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -53316,7 +53316,7 @@
           "gpt_uncommon": 3,
           "gpt_common_unbalanced": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -53325,7 +53325,7 @@
           "gpt_common_unbalanced": 10,
           "gpt_foil_common": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -53334,7 +53334,7 @@
           "gpt_foil_uncommon": 1,
           "gpt_common_unbalanced": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {
@@ -53722,7 +53722,7 @@
           "rav_uncommon": 3,
           "rav_common_unbalanced": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -53731,7 +53731,7 @@
           "rav_common_unbalanced": 10,
           "rav_foil_common_or_basic": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -53740,7 +53740,7 @@
           "rav_foil_uncommon": 1,
           "rav_common_unbalanced": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -53750,7 +53750,7 @@
           "rav_common_unbalanced": 10,
           "rav_foil_common_or_basic": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -53758,7 +53758,7 @@
           "rav_uncommon": 3,
           "rav_common_unbalanced": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -53767,7 +53767,7 @@
           "rav_common_unbalanced": 10,
           "rav_foil_common_or_basic": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -53776,7 +53776,7 @@
           "rav_foil_uncommon": 1,
           "rav_common_unbalanced": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {
@@ -54427,7 +54427,7 @@
           "9ed_uncommon": 3,
           "9ed_common": 10
         },
-        "weight": 8556273
+        "weight": 1913922
       },
       {
         "sheets": {
@@ -54437,7 +54437,7 @@
           "9ed_common": 9,
           "9ed_foil_common": 1
         },
-        "weight": 950697
+        "weight": 318987
       },
       {
         "sheets": {
@@ -54447,7 +54447,7 @@
           "9ed_foil_uncommon": 1,
           "9ed_common": 10
         },
-        "weight": 264627
+        "weight": 85698
       },
       {
         "sheets": {
@@ -54458,7 +54458,7 @@
           "9ed_common": 9,
           "9ed_foil_common": 1
         },
-        "weight": 29403
+        "weight": 14283
       },
       {
         "sheets": {
@@ -54467,7 +54467,7 @@
           "9ed_uncommon": 3,
           "9ed_common": 10
         },
-        "weight": 86427
+        "weight": 27738
       },
       {
         "sheets": {
@@ -54477,7 +54477,7 @@
           "9ed_common": 9,
           "9ed_foil_common": 1
         },
-        "weight": 9603
+        "weight": 4623
       },
       {
         "sheets": {
@@ -54487,7 +54487,7 @@
           "9ed_foil_uncommon": 1,
           "9ed_common": 10
         },
-        "weight": 2673
+        "weight": 1242
       },
       {
         "sheets": {
@@ -54498,7 +54498,7 @@
           "9ed_common": 9,
           "9ed_foil_common": 1
         },
-        "weight": 297
+        "weight": 207
       },
       {
         "sheets": {
@@ -54507,7 +54507,7 @@
           "9ed_uncommon": 3,
           "9ed_common": 10
         },
-        "weight": 86427
+        "weight": 27738
       },
       {
         "sheets": {
@@ -54517,7 +54517,7 @@
           "9ed_common": 9,
           "9ed_foil_common": 1
         },
-        "weight": 9603
+        "weight": 4623
       },
       {
         "sheets": {
@@ -54527,7 +54527,7 @@
           "9ed_foil_uncommon": 1,
           "9ed_common": 10
         },
-        "weight": 2673
+        "weight": 1242
       },
       {
         "sheets": {
@@ -54538,7 +54538,7 @@
           "9ed_common": 9,
           "9ed_foil_common": 1
         },
-        "weight": 297
+        "weight": 207
       },
       {
         "sheets": {
@@ -54547,7 +54547,7 @@
           "9ed_uncommon": 3,
           "9ed_common": 10
         },
-        "weight": 873
+        "weight": 402
       },
       {
         "sheets": {
@@ -54557,7 +54557,7 @@
           "9ed_common": 9,
           "9ed_foil_common": 1
         },
-        "weight": 97
+        "weight": 67
       },
       {
         "sheets": {
@@ -54567,7 +54567,7 @@
           "9ed_foil_uncommon": 1,
           "9ed_common": 10
         },
-        "weight": 27
+        "weight": 18
       },
       {
         "sheets": {
@@ -55337,7 +55337,7 @@
           "sok_uncommon": 3,
           "sok_common": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -55346,7 +55346,7 @@
           "sok_common": 10,
           "sok_foil_common": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -55355,7 +55355,7 @@
           "sok_foil_uncommon": 1,
           "sok_common": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -55365,7 +55365,7 @@
           "sok_common": 10,
           "sok_foil_common": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -55373,7 +55373,7 @@
           "sok_uncommon": 3,
           "sok_common": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -55382,7 +55382,7 @@
           "sok_common": 10,
           "sok_foil_common": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -55391,7 +55391,7 @@
           "sok_foil_uncommon": 1,
           "sok_common": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {
@@ -55780,7 +55780,7 @@
           "bok_uncommon": 3,
           "bok_common": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -55789,7 +55789,7 @@
           "bok_common": 10,
           "bok_foil_common": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -55798,7 +55798,7 @@
           "bok_foil_uncommon": 1,
           "bok_common": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -55808,7 +55808,7 @@
           "bok_common": 10,
           "bok_foil_common": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -55816,7 +55816,7 @@
           "bok_uncommon": 3,
           "bok_common": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -55825,7 +55825,7 @@
           "bok_common": 10,
           "bok_foil_common": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -55834,7 +55834,7 @@
           "bok_foil_uncommon": 1,
           "bok_common": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {
@@ -56559,7 +56559,7 @@
           "chk_uncommon": 3,
           "chk_common": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -56568,7 +56568,7 @@
           "chk_common": 10,
           "chk_foil_common_or_basic": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -56577,7 +56577,7 @@
           "chk_foil_uncommon": 1,
           "chk_common": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -56587,7 +56587,7 @@
           "chk_common": 10,
           "chk_foil_common_or_basic": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -56595,7 +56595,7 @@
           "chk_uncommon": 3,
           "chk_common": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -56604,7 +56604,7 @@
           "chk_common": 10,
           "chk_foil_common_or_basic": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -56613,7 +56613,7 @@
           "chk_foil_uncommon": 1,
           "chk_common": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {
@@ -57266,7 +57266,7 @@
           "5dn_uncommon": 3,
           "5dn_common": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -57275,7 +57275,7 @@
           "5dn_common": 10,
           "5dn_foil_common": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -57284,7 +57284,7 @@
           "5dn_foil_uncommon": 1,
           "5dn_common": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -57294,7 +57294,7 @@
           "5dn_common": 10,
           "5dn_foil_common": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -57302,7 +57302,7 @@
           "5dn_uncommon": 3,
           "5dn_common": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -57311,7 +57311,7 @@
           "5dn_common": 10,
           "5dn_foil_common": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -57320,7 +57320,7 @@
           "5dn_foil_uncommon": 1,
           "5dn_common": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {
@@ -57709,7 +57709,7 @@
           "dst_uncommon": 3,
           "dst_common": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -57718,7 +57718,7 @@
           "dst_common": 10,
           "dst_foil_common": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -57727,7 +57727,7 @@
           "dst_foil_uncommon": 1,
           "dst_common": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -57737,7 +57737,7 @@
           "dst_common": 10,
           "dst_foil_common": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -57745,7 +57745,7 @@
           "dst_uncommon": 3,
           "dst_common": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -57754,7 +57754,7 @@
           "dst_common": 10,
           "dst_foil_common": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -57763,7 +57763,7 @@
           "dst_foil_uncommon": 1,
           "dst_common": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {
@@ -58152,7 +58152,7 @@
           "mrd_uncommon": 3,
           "mrd_common": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -58161,7 +58161,7 @@
           "mrd_common": 10,
           "mrd_foil_common_or_basic": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -58170,7 +58170,7 @@
           "mrd_foil_uncommon": 1,
           "mrd_common": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -58180,7 +58180,7 @@
           "mrd_common": 10,
           "mrd_foil_common_or_basic": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -58188,7 +58188,7 @@
           "mrd_uncommon": 3,
           "mrd_common": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -58197,7 +58197,7 @@
           "mrd_common": 10,
           "mrd_foil_common_or_basic": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -58206,7 +58206,7 @@
           "mrd_foil_uncommon": 1,
           "mrd_common": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {
@@ -58858,7 +58858,7 @@
           "8ed_uncommon": 3,
           "8ed_common": 10
         },
-        "weight": 8556273
+        "weight": 1913922
       },
       {
         "sheets": {
@@ -58868,7 +58868,7 @@
           "8ed_common": 9,
           "8ed_foil_common": 1
         },
-        "weight": 950697
+        "weight": 318987
       },
       {
         "sheets": {
@@ -58878,7 +58878,7 @@
           "8ed_foil_uncommon": 1,
           "8ed_common": 10
         },
-        "weight": 264627
+        "weight": 85698
       },
       {
         "sheets": {
@@ -58889,7 +58889,7 @@
           "8ed_common": 9,
           "8ed_foil_common": 1
         },
-        "weight": 29403
+        "weight": 14283
       },
       {
         "sheets": {
@@ -58898,7 +58898,7 @@
           "8ed_uncommon": 3,
           "8ed_common": 10
         },
-        "weight": 86427
+        "weight": 27738
       },
       {
         "sheets": {
@@ -58908,7 +58908,7 @@
           "8ed_common": 9,
           "8ed_foil_common": 1
         },
-        "weight": 9603
+        "weight": 4623
       },
       {
         "sheets": {
@@ -58918,7 +58918,7 @@
           "8ed_foil_uncommon": 1,
           "8ed_common": 10
         },
-        "weight": 2673
+        "weight": 1242
       },
       {
         "sheets": {
@@ -58929,7 +58929,7 @@
           "8ed_common": 9,
           "8ed_foil_common": 1
         },
-        "weight": 297
+        "weight": 207
       },
       {
         "sheets": {
@@ -58938,7 +58938,7 @@
           "8ed_uncommon": 3,
           "8ed_common": 10
         },
-        "weight": 86427
+        "weight": 27738
       },
       {
         "sheets": {
@@ -58948,7 +58948,7 @@
           "8ed_common": 9,
           "8ed_foil_common": 1
         },
-        "weight": 9603
+        "weight": 4623
       },
       {
         "sheets": {
@@ -58958,7 +58958,7 @@
           "8ed_foil_uncommon": 1,
           "8ed_common": 10
         },
-        "weight": 2673
+        "weight": 1242
       },
       {
         "sheets": {
@@ -58969,7 +58969,7 @@
           "8ed_common": 9,
           "8ed_foil_common": 1
         },
-        "weight": 297
+        "weight": 207
       },
       {
         "sheets": {
@@ -58978,7 +58978,7 @@
           "8ed_uncommon": 3,
           "8ed_common": 10
         },
-        "weight": 873
+        "weight": 402
       },
       {
         "sheets": {
@@ -58988,7 +58988,7 @@
           "8ed_common": 9,
           "8ed_foil_common": 1
         },
-        "weight": 97
+        "weight": 67
       },
       {
         "sheets": {
@@ -58998,7 +58998,7 @@
           "8ed_foil_uncommon": 1,
           "8ed_common": 10
         },
-        "weight": 27
+        "weight": 18
       },
       {
         "sheets": {
@@ -59768,7 +59768,7 @@
           "scg_uncommon": 3,
           "scg_common": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -59777,7 +59777,7 @@
           "scg_common": 10,
           "scg_foil_common": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -59786,7 +59786,7 @@
           "scg_foil_uncommon": 1,
           "scg_common": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -59796,7 +59796,7 @@
           "scg_common": 10,
           "scg_foil_common": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -59804,7 +59804,7 @@
           "scg_uncommon": 3,
           "scg_common": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -59813,7 +59813,7 @@
           "scg_common": 10,
           "scg_foil_common": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -59822,7 +59822,7 @@
           "scg_foil_uncommon": 1,
           "scg_common": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {
@@ -60167,7 +60167,7 @@
           "lgn_uncommon": 3,
           "lgn_common": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -60176,7 +60176,7 @@
           "lgn_common": 10,
           "lgn_foil_common": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -60185,7 +60185,7 @@
           "lgn_foil_uncommon": 1,
           "lgn_common": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -60195,7 +60195,7 @@
           "lgn_common": 10,
           "lgn_foil_common": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -60203,7 +60203,7 @@
           "lgn_uncommon": 3,
           "lgn_common": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -60212,7 +60212,7 @@
           "lgn_common": 10,
           "lgn_foil_common": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -60221,7 +60221,7 @@
           "lgn_foil_uncommon": 1,
           "lgn_common": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {
@@ -60570,7 +60570,7 @@
           "ons_uncommon": 3,
           "ons_common": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -60579,7 +60579,7 @@
           "ons_common": 10,
           "ons_foil_common_or_basic": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -60588,7 +60588,7 @@
           "ons_foil_uncommon": 1,
           "ons_common": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -60598,7 +60598,7 @@
           "ons_common": 10,
           "ons_foil_common_or_basic": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -60606,7 +60606,7 @@
           "ons_uncommon": 3,
           "ons_common": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -60615,7 +60615,7 @@
           "ons_common": 10,
           "ons_foil_common_or_basic": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -60624,7 +60624,7 @@
           "ons_foil_uncommon": 1,
           "ons_common": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {
@@ -61363,7 +61363,7 @@
           "jud_uncommon": 3,
           "jud_common_unbalanced": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -61372,7 +61372,7 @@
           "jud_common_unbalanced": 10,
           "jud_foil_common": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -61381,7 +61381,7 @@
           "jud_foil_uncommon": 1,
           "jud_common_unbalanced": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -61391,7 +61391,7 @@
           "jud_common_unbalanced": 10,
           "jud_foil_common": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -61399,7 +61399,7 @@
           "jud_uncommon": 3,
           "jud_common_unbalanced": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -61408,7 +61408,7 @@
           "jud_common_unbalanced": 10,
           "jud_foil_common": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -61417,7 +61417,7 @@
           "jud_foil_uncommon": 1,
           "jud_common_unbalanced": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {
@@ -61761,7 +61761,7 @@
           "tor_uncommon": 3,
           "tor_common": 11
         },
-        "weight": 854667
+        "weight": 272757
       },
       {
         "sheets": {
@@ -61770,7 +61770,7 @@
           "tor_common": 10,
           "tor_foil_common": 1
         },
-        "weight": 105633
+        "weight": 50853
       },
       {
         "sheets": {
@@ -61779,7 +61779,7 @@
           "tor_foil_uncommon": 1,
           "tor_common": 11
         },
-        "weight": 26433
+        "weight": 12213
       },
       {
         "sheets": {
@@ -61789,7 +61789,7 @@
           "tor_common": 10,
           "tor_foil_common": 1
         },
-        "weight": 3267
+        "weight": 2277
       },
       {
         "sheets": {
@@ -61797,7 +61797,7 @@
           "tor_uncommon": 3,
           "tor_common": 11
         },
-        "weight": 8633
+        "weight": 3953
       },
       {
         "sheets": {
@@ -61806,7 +61806,7 @@
           "tor_common": 10,
           "tor_foil_common": 1
         },
-        "weight": 1067
+        "weight": 737
       },
       {
         "sheets": {
@@ -61815,7 +61815,7 @@
           "tor_foil_uncommon": 1,
           "tor_common": 11
         },
-        "weight": 267
+        "weight": 177
       },
       {
         "sheets": {

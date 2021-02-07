@@ -50163,7 +50163,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 8556273,
+          "weight": 1913922,
           "contents": {
             "basic": 1,
             "rare": 1,
@@ -50172,7 +50172,7 @@
           }
         },
         {
-          "weight": 950697,
+          "weight": 318987,
           "contents": {
             "basic": 1,
             "rare": 1,
@@ -50182,7 +50182,7 @@
           }
         },
         {
-          "weight": 264627,
+          "weight": 85698,
           "contents": {
             "basic": 1,
             "rare": 1,
@@ -50192,7 +50192,7 @@
           }
         },
         {
-          "weight": 29403,
+          "weight": 14283,
           "contents": {
             "basic": 1,
             "rare": 1,
@@ -50203,7 +50203,7 @@
           }
         },
         {
-          "weight": 86427,
+          "weight": 27738,
           "contents": {
             "basic": 1,
             "foilRare": 1,
@@ -50212,7 +50212,7 @@
           }
         },
         {
-          "weight": 9603,
+          "weight": 4623,
           "contents": {
             "basic": 1,
             "foilRare": 1,
@@ -50222,7 +50222,7 @@
           }
         },
         {
-          "weight": 2673,
+          "weight": 1242,
           "contents": {
             "basic": 1,
             "foilRare": 1,
@@ -50232,7 +50232,7 @@
           }
         },
         {
-          "weight": 297,
+          "weight": 207,
           "contents": {
             "basic": 1,
             "foilRare": 1,
@@ -50243,7 +50243,7 @@
           }
         },
         {
-          "weight": 86427,
+          "weight": 27738,
           "contents": {
             "foilBasic": 1,
             "rare": 1,
@@ -50252,7 +50252,7 @@
           }
         },
         {
-          "weight": 9603,
+          "weight": 4623,
           "contents": {
             "foilBasic": 1,
             "rare": 1,
@@ -50262,7 +50262,7 @@
           }
         },
         {
-          "weight": 2673,
+          "weight": 1242,
           "contents": {
             "foilBasic": 1,
             "rare": 1,
@@ -50272,7 +50272,7 @@
           }
         },
         {
-          "weight": 297,
+          "weight": 207,
           "contents": {
             "foilBasic": 1,
             "rare": 1,
@@ -50283,7 +50283,7 @@
           }
         },
         {
-          "weight": 873,
+          "weight": 402,
           "contents": {
             "foilBasic": 1,
             "foilRare": 1,
@@ -50292,7 +50292,7 @@
           }
         },
         {
-          "weight": 97,
+          "weight": 67,
           "contents": {
             "foilBasic": 1,
             "foilRare": 1,
@@ -50302,7 +50302,7 @@
           }
         },
         {
-          "weight": 27,
+          "weight": 18,
           "contents": {
             "foilBasic": 1,
             "foilRare": 1,
@@ -50323,7 +50323,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 10000000,
+      "boostersTotalWeight": 2401000,
       "sheets": {
         "basic": {
           "cards": {
@@ -53198,7 +53198,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -53206,7 +53206,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -53215,7 +53215,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -53224,7 +53224,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -53234,7 +53234,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -53242,7 +53242,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -53251,7 +53251,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -53270,7 +53270,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
@@ -53675,7 +53675,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -53683,7 +53683,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -53692,7 +53692,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -53701,7 +53701,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -53711,7 +53711,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -53719,7 +53719,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -53728,7 +53728,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -53747,7 +53747,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
@@ -54122,7 +54122,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -54130,7 +54130,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -54139,7 +54139,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -54148,7 +54148,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -54158,7 +54158,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -54166,7 +54166,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -54175,7 +54175,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -54194,7 +54194,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
@@ -54831,7 +54831,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 8556273,
+          "weight": 1913922,
           "contents": {
             "basic": 1,
             "rare": 1,
@@ -54840,7 +54840,7 @@
           }
         },
         {
-          "weight": 950697,
+          "weight": 318987,
           "contents": {
             "basic": 1,
             "rare": 1,
@@ -54850,7 +54850,7 @@
           }
         },
         {
-          "weight": 264627,
+          "weight": 85698,
           "contents": {
             "basic": 1,
             "rare": 1,
@@ -54860,7 +54860,7 @@
           }
         },
         {
-          "weight": 29403,
+          "weight": 14283,
           "contents": {
             "basic": 1,
             "rare": 1,
@@ -54871,7 +54871,7 @@
           }
         },
         {
-          "weight": 86427,
+          "weight": 27738,
           "contents": {
             "basic": 1,
             "foilRare": 1,
@@ -54880,7 +54880,7 @@
           }
         },
         {
-          "weight": 9603,
+          "weight": 4623,
           "contents": {
             "basic": 1,
             "foilRare": 1,
@@ -54890,7 +54890,7 @@
           }
         },
         {
-          "weight": 2673,
+          "weight": 1242,
           "contents": {
             "basic": 1,
             "foilRare": 1,
@@ -54900,7 +54900,7 @@
           }
         },
         {
-          "weight": 297,
+          "weight": 207,
           "contents": {
             "basic": 1,
             "foilRare": 1,
@@ -54911,7 +54911,7 @@
           }
         },
         {
-          "weight": 86427,
+          "weight": 27738,
           "contents": {
             "foilBasic": 1,
             "rare": 1,
@@ -54920,7 +54920,7 @@
           }
         },
         {
-          "weight": 9603,
+          "weight": 4623,
           "contents": {
             "foilBasic": 1,
             "rare": 1,
@@ -54930,7 +54930,7 @@
           }
         },
         {
-          "weight": 2673,
+          "weight": 1242,
           "contents": {
             "foilBasic": 1,
             "rare": 1,
@@ -54940,7 +54940,7 @@
           }
         },
         {
-          "weight": 297,
+          "weight": 207,
           "contents": {
             "foilBasic": 1,
             "rare": 1,
@@ -54951,7 +54951,7 @@
           }
         },
         {
-          "weight": 873,
+          "weight": 402,
           "contents": {
             "foilBasic": 1,
             "foilRare": 1,
@@ -54960,7 +54960,7 @@
           }
         },
         {
-          "weight": 97,
+          "weight": 67,
           "contents": {
             "foilBasic": 1,
             "foilRare": 1,
@@ -54970,7 +54970,7 @@
           }
         },
         {
-          "weight": 27,
+          "weight": 18,
           "contents": {
             "foilBasic": 1,
             "foilRare": 1,
@@ -54991,7 +54991,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 10000000,
+      "boostersTotalWeight": 2401000,
       "sheets": {
         "basic": {
           "cards": {
@@ -55749,7 +55749,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -55757,7 +55757,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -55766,7 +55766,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -55775,7 +55775,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -55785,7 +55785,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -55793,7 +55793,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -55802,7 +55802,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -55821,7 +55821,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
@@ -56197,7 +56197,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -56205,7 +56205,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -56214,7 +56214,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -56223,7 +56223,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -56233,7 +56233,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -56241,7 +56241,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -56250,7 +56250,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -56269,7 +56269,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
@@ -56985,7 +56985,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -56993,7 +56993,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -57002,7 +57002,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -57011,7 +57011,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -57021,7 +57021,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -57029,7 +57029,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -57038,7 +57038,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -57057,7 +57057,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
@@ -57697,7 +57697,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -57705,7 +57705,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -57714,7 +57714,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -57723,7 +57723,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -57733,7 +57733,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -57741,7 +57741,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -57750,7 +57750,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -57769,7 +57769,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
@@ -58145,7 +58145,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -58153,7 +58153,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -58162,7 +58162,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -58171,7 +58171,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -58181,7 +58181,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -58189,7 +58189,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -58198,7 +58198,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -58217,7 +58217,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
@@ -58593,7 +58593,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -58601,7 +58601,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -58610,7 +58610,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -58619,7 +58619,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -58629,7 +58629,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -58637,7 +58637,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -58646,7 +58646,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -58665,7 +58665,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
@@ -59303,7 +59303,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 8556273,
+          "weight": 1913922,
           "contents": {
             "basic": 1,
             "rare": 1,
@@ -59312,7 +59312,7 @@
           }
         },
         {
-          "weight": 950697,
+          "weight": 318987,
           "contents": {
             "basic": 1,
             "rare": 1,
@@ -59322,7 +59322,7 @@
           }
         },
         {
-          "weight": 264627,
+          "weight": 85698,
           "contents": {
             "basic": 1,
             "rare": 1,
@@ -59332,7 +59332,7 @@
           }
         },
         {
-          "weight": 29403,
+          "weight": 14283,
           "contents": {
             "basic": 1,
             "rare": 1,
@@ -59343,7 +59343,7 @@
           }
         },
         {
-          "weight": 86427,
+          "weight": 27738,
           "contents": {
             "basic": 1,
             "foilRare": 1,
@@ -59352,7 +59352,7 @@
           }
         },
         {
-          "weight": 9603,
+          "weight": 4623,
           "contents": {
             "basic": 1,
             "foilRare": 1,
@@ -59362,7 +59362,7 @@
           }
         },
         {
-          "weight": 2673,
+          "weight": 1242,
           "contents": {
             "basic": 1,
             "foilRare": 1,
@@ -59372,7 +59372,7 @@
           }
         },
         {
-          "weight": 297,
+          "weight": 207,
           "contents": {
             "basic": 1,
             "foilRare": 1,
@@ -59383,7 +59383,7 @@
           }
         },
         {
-          "weight": 86427,
+          "weight": 27738,
           "contents": {
             "foilBasic": 1,
             "rare": 1,
@@ -59392,7 +59392,7 @@
           }
         },
         {
-          "weight": 9603,
+          "weight": 4623,
           "contents": {
             "foilBasic": 1,
             "rare": 1,
@@ -59402,7 +59402,7 @@
           }
         },
         {
-          "weight": 2673,
+          "weight": 1242,
           "contents": {
             "foilBasic": 1,
             "rare": 1,
@@ -59412,7 +59412,7 @@
           }
         },
         {
-          "weight": 297,
+          "weight": 207,
           "contents": {
             "foilBasic": 1,
             "rare": 1,
@@ -59423,7 +59423,7 @@
           }
         },
         {
-          "weight": 873,
+          "weight": 402,
           "contents": {
             "foilBasic": 1,
             "foilRare": 1,
@@ -59432,7 +59432,7 @@
           }
         },
         {
-          "weight": 97,
+          "weight": 67,
           "contents": {
             "foilBasic": 1,
             "foilRare": 1,
@@ -59442,7 +59442,7 @@
           }
         },
         {
-          "weight": 27,
+          "weight": 18,
           "contents": {
             "foilBasic": 1,
             "foilRare": 1,
@@ -59463,7 +59463,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 10000000,
+      "boostersTotalWeight": 2401000,
       "sheets": {
         "basic": {
           "cards": {
@@ -60221,7 +60221,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -60229,7 +60229,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -60238,7 +60238,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -60247,7 +60247,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -60257,7 +60257,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -60265,7 +60265,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -60274,7 +60274,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -60293,7 +60293,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
@@ -60625,7 +60625,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -60633,7 +60633,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -60642,7 +60642,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -60651,7 +60651,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -60661,7 +60661,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -60669,7 +60669,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -60678,7 +60678,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -60697,7 +60697,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
@@ -61033,7 +61033,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -61041,7 +61041,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -61050,7 +61050,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -61059,7 +61059,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -61069,7 +61069,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -61077,7 +61077,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -61086,7 +61086,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -61105,7 +61105,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
@@ -61831,7 +61831,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -61839,7 +61839,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -61848,7 +61848,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -61857,7 +61857,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -61867,7 +61867,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -61875,7 +61875,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -61884,7 +61884,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -61903,7 +61903,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
@@ -62234,7 +62234,7 @@
     "default": {
       "boosters": [
         {
-          "weight": 854667,
+          "weight": 272757,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -62242,7 +62242,7 @@
           }
         },
         {
-          "weight": 105633,
+          "weight": 50853,
           "contents": {
             "rare": 1,
             "uncommon": 3,
@@ -62251,7 +62251,7 @@
           }
         },
         {
-          "weight": 26433,
+          "weight": 12213,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -62260,7 +62260,7 @@
           }
         },
         {
-          "weight": 3267,
+          "weight": 2277,
           "contents": {
             "rare": 1,
             "uncommon": 2,
@@ -62270,7 +62270,7 @@
           }
         },
         {
-          "weight": 8633,
+          "weight": 3953,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -62278,7 +62278,7 @@
           }
         },
         {
-          "weight": 1067,
+          "weight": 737,
           "contents": {
             "foilRare": 1,
             "uncommon": 3,
@@ -62287,7 +62287,7 @@
           }
         },
         {
-          "weight": 267,
+          "weight": 177,
           "contents": {
             "foilRare": 1,
             "uncommon": 2,
@@ -62306,7 +62306,7 @@
           }
         }
       ],
-      "boostersTotalWeight": 1000000,
+      "boostersTotalWeight": 343000,
       "sheets": {
         "rare": {
           "cards": {
