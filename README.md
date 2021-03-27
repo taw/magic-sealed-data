@@ -171,11 +171,9 @@ For picking booster version, just pick proportional to its weight.
 
 For picking a single card from a sheet, just pick proportional to its weight.
 
-For picking multiple cards from a sheet, avoid duplicates. Rerolling a card when you get duplicate is the easiest way.
+For picking multiple cards from a sheet, you can just pick one at a time, but there's an extra step. If you already have a card with the same name from this sheet, reroll it. This includes identical card printings, and different card printings with same name (like showcase and non-showcase). Print sheets are intentionally arranged so that multiple copies of the same cards shouldn't appear in the same booster, so it should be simulated.
 
-This is not quite mathematically correct if cards have different weights, but errors are very small.
-
-There's no need to run any kind of deduplication between sheets.
+This deduplication should only be done per-sheet, not per-booster. It's possible to open multiple copies of the same card if they come from different sheets. This most frequently happens with foil and nonfoil of the same card, but for some older sets the same card was sometimes on multiple sheets - for example Alpha had Island on common, uncommon, and rare sheets, so you could open 3 Islands in one booster.
 
 If the sheet specifies color balancing, it is recommended to pick one card of each color, and then pick the rest at random, again rerolling card in case of a duplicate.
 
