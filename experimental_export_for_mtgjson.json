@@ -21506,6 +21506,7 @@
           "totalWeight": 205
         },
         "common": {
+          "balanceColors": true,
           "cards": {
             "00c24f80-3f6a-5d77-a9d1-aa60a8a02126": 1,
             "00ff33b2-92ea-56b0-9c2c-bba965f10d5f": 1,

@@ -21340,6 +21340,7 @@
         }
       },
       "ust_ust_common": {
+        "balance_colors": true,
         "total_weight": 82,
         "cards": {
           "ust:1": 1,
