@@ -10,7 +10,7 @@
           "sta": 1,
           "lesson": 1,
           "nonlesson_common": 9,
-          "nonlesson_uncommon": 3,
+          "uncommon": 3,
           "nonlesson_rare_mythic": 1
         },
         "weight": 1
@@ -86,28 +86,23 @@
         }
       },
       "lesson": {
-        "total_weight": 103,
+        "total_weight": 110,
         "cards": {
-          "stx:1": 8,
+          "stx:1": 11,
           "stx:108": 2,
-          "stx:114": 4,
           "stx:120": 2,
-          "stx:125": 4,
-          "stx:183": 8,
-          "stx:187": 8,
-          "stx:195": 8,
-          "stx:2": 8,
-          "stx:211": 8,
-          "stx:236": 8,
-          "stx:25": 4,
-          "stx:3": 8,
-          "stx:4": 8,
-          "stx:47": 4,
+          "stx:183": 11,
+          "stx:187": 11,
+          "stx:195": 11,
+          "stx:2": 11,
+          "stx:211": 11,
+          "stx:236": 11,
+          "stx:3": 11,
+          "stx:4": 11,
           "stx:5": 1,
           "stx:57": 2,
           "stx:67": 2,
-          "stx:7": 2,
-          "stx:78": 4
+          "stx:7": 2
         }
       },
       "nonlesson_common": {
@@ -212,8 +207,8 @@
           "stx:99": 1
         }
       },
-      "nonlesson_uncommon": {
-        "total_weight": 75,
+      "uncommon": {
+        "total_weight": 80,
         "cards": {
           "stx:10": 1,
           "stx:100": 1,
@@ -221,8 +216,10 @@
           "stx:105": 1,
           "stx:107": 1,
           "stx:110": 1,
+          "stx:114": 1,
           "stx:115": 1,
           "stx:123": 1,
+          "stx:125": 1,
           "stx:126": 1,
           "stx:129": 1,
           "stx:13": 1,
@@ -262,6 +259,7 @@
           "stx:24": 1,
           "stx:242": 1,
           "stx:247": 1,
+          "stx:25": 1,
           "stx:250": 1,
           "stx:257": 1,
           "stx:258": 1,
@@ -275,6 +273,7 @@
           "stx:41": 1,
           "stx:45": 1,
           "stx:46": 1,
+          "stx:47": 1,
           "stx:53": 1,
           "stx:54": 1,
           "stx:56": 1,
@@ -285,6 +284,7 @@
           "stx:71": 1,
           "stx:72": 1,
           "stx:76": 1,
+          "stx:78": 1,
           "stx:81": 1,
           "stx:88": 1,
           "stx:89": 1,
@@ -394,7 +394,7 @@
           "sta": 1,
           "lesson": 1,
           "nonlesson_common": 9,
-          "nonlesson_uncommon": 3,
+          "uncommon": 3,
           "nonlesson_rare_mythic": 1
         },
         "weight": 2
@@ -404,7 +404,7 @@
           "sta": 1,
           "lesson": 1,
           "nonlesson_common": 8,
-          "nonlesson_uncommon": 3,
+          "uncommon": 3,
           "nonlesson_rare_mythic": 1,
           "foil": 1
         },
@@ -481,28 +481,23 @@
         }
       },
       "lesson": {
-        "total_weight": 103,
+        "total_weight": 110,
         "cards": {
-          "stx:1": 8,
+          "stx:1": 11,
           "stx:108": 2,
-          "stx:114": 4,
           "stx:120": 2,
-          "stx:125": 4,
-          "stx:183": 8,
-          "stx:187": 8,
-          "stx:195": 8,
-          "stx:2": 8,
-          "stx:211": 8,
-          "stx:236": 8,
-          "stx:25": 4,
-          "stx:3": 8,
-          "stx:4": 8,
-          "stx:47": 4,
+          "stx:183": 11,
+          "stx:187": 11,
+          "stx:195": 11,
+          "stx:2": 11,
+          "stx:211": 11,
+          "stx:236": 11,
+          "stx:3": 11,
+          "stx:4": 11,
           "stx:5": 1,
           "stx:57": 2,
           "stx:67": 2,
-          "stx:7": 2,
-          "stx:78": 4
+          "stx:7": 2
         }
       },
       "nonlesson_common": {
@@ -607,8 +602,8 @@
           "stx:99": 1
         }
       },
-      "nonlesson_uncommon": {
-        "total_weight": 75,
+      "uncommon": {
+        "total_weight": 80,
         "cards": {
           "stx:10": 1,
           "stx:100": 1,
@@ -616,8 +611,10 @@
           "stx:105": 1,
           "stx:107": 1,
           "stx:110": 1,
+          "stx:114": 1,
           "stx:115": 1,
           "stx:123": 1,
+          "stx:125": 1,
           "stx:126": 1,
           "stx:129": 1,
           "stx:13": 1,
@@ -657,6 +654,7 @@
           "stx:24": 1,
           "stx:242": 1,
           "stx:247": 1,
+          "stx:25": 1,
           "stx:250": 1,
           "stx:257": 1,
           "stx:258": 1,
@@ -670,6 +668,7 @@
           "stx:41": 1,
           "stx:45": 1,
           "stx:46": 1,
+          "stx:47": 1,
           "stx:53": 1,
           "stx:54": 1,
           "stx:56": 1,
@@ -680,6 +679,7 @@
           "stx:71": 1,
           "stx:72": 1,
           "stx:76": 1,
+          "stx:78": 1,
           "stx:81": 1,
           "stx:88": 1,
           "stx:89": 1,

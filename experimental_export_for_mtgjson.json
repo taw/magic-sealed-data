@@ -9,7 +9,7 @@
             "sta": 1,
             "lesson": 1,
             "nonlessonCommon": 9,
-            "nonlessonUncommon": 3,
+            "uncommon": 3,
             "nonlessonRareMythic": 1
           }
         }
@@ -87,29 +87,24 @@
         },
         "lesson": {
           "cards": {
-            "0194f654-381c-5aea-97c8-bd0f80e7851a": 8,
+            "0194f654-381c-5aea-97c8-bd0f80e7851a": 11,
             "0ccc2be8-b6ca-5a71-89fc-d3d1a7cd6958": 1,
-            "3686b458-2c93-5b15-a9a6-726b1d20fb4c": 8,
-            "3ec41a53-ce44-5e06-8dbf-e328262afea3": 8,
-            "4b57cc09-bd57-5507-80fc-603941958f13": 8,
-            "55be78d3-bbe2-53e3-89ba-b158134f7a66": 8,
-            "5a61dcea-89f2-5df0-9544-a4e017d4037d": 4,
+            "3686b458-2c93-5b15-a9a6-726b1d20fb4c": 11,
+            "3ec41a53-ce44-5e06-8dbf-e328262afea3": 11,
+            "4b57cc09-bd57-5507-80fc-603941958f13": 11,
+            "55be78d3-bbe2-53e3-89ba-b158134f7a66": 11,
             "5d44e374-6a7d-5ab4-b7fe-4d99917cf401": 2,
-            "7a0b2101-f675-58c9-9f46-ca36c277e601": 4,
-            "7be72d1b-6bfa-5d0c-a777-6c173fcb5cf3": 4,
-            "841e8b02-e657-5bcb-81c9-82c8040d3b9f": 8,
-            "85a585d3-dcd9-5282-929c-8fbb8b89470b": 8,
+            "841e8b02-e657-5bcb-81c9-82c8040d3b9f": 11,
+            "85a585d3-dcd9-5282-929c-8fbb8b89470b": 11,
             "90ddb56f-87c5-5098-8223-1d88b6f2bf66": 2,
-            "a18d7e04-9518-5f89-ab40-72dc8f3f84b9": 4,
             "d08ea3e8-cc7c-5572-af80-31b0d59ebd85": 2,
-            "e1c806ac-37fd-5c4c-82dc-f195730479f2": 4,
             "e24f3df3-b854-5f68-8202-00815862746f": 2,
-            "ee54b9ff-a776-567a-b149-ca32caf17076": 8,
+            "ee54b9ff-a776-567a-b149-ca32caf17076": 11,
             "f67fa68e-5cc3-5601-9fac-2f696dd08b86": 2,
-            "f7c19487-0efe-5a39-a2d1-dc3f99dbcecc": 8
+            "f7c19487-0efe-5a39-a2d1-dc3f99dbcecc": 11
           },
           "foil": false,
-          "totalWeight": 103
+          "totalWeight": 110
         },
         "nonlessonCommon": {
           "balanceColors": true,
@@ -214,7 +209,7 @@
           "foil": false,
           "totalWeight": 96
         },
-        "nonlessonUncommon": {
+        "uncommon": {
           "cards": {
             "09661ca1-1ab2-57ec-afca-96fe858c246b": 1,
             "0b939e2f-5c3d-546e-a082-a1dc92915758": 1,
@@ -241,6 +236,7 @@
             "55b4c151-2e0f-5312-9c39-13eff8e7584a": 1,
             "55dc28b3-b20f-538d-a0eb-aafcb348be3b": 1,
             "570678c8-43af-59b5-953c-560ac094d548": 1,
+            "5a61dcea-89f2-5df0-9544-a4e017d4037d": 1,
             "621be861-9c88-54df-bbb2-87e0cfdf7a3c": 1,
             "62e66ae0-25fc-5ef9-a175-0f05ed8acc3f": 1,
             "665afe18-cb19-5c67-bd20-5997935152a5": 1,
@@ -249,6 +245,8 @@
             "6e57ad82-b39a-5912-9073-39660c19a007": 1,
             "72922bde-a549-58ab-a50e-ee62898e1b59": 1,
             "73bdcc8e-07df-5e45-807b-e4c2878208c8": 1,
+            "7a0b2101-f675-58c9-9f46-ca36c277e601": 1,
+            "7be72d1b-6bfa-5d0c-a777-6c173fcb5cf3": 1,
             "7ebe8288-c967-5f4a-a5f5-5fd3c94ed922": 1,
             "82ee6986-02f8-50fb-81a5-26f0d3bc0b92": 1,
             "853765a2-31e0-5322-b76b-75f9ebf724ba": 1,
@@ -270,6 +268,7 @@
             "9fe6076d-f2c0-551d-ba6f-0799f3bbddbf": 1,
             "a16ef2e1-3688-523e-a270-07fcf4b08fdb": 1,
             "a18d1d5d-f2de-5a01-9606-e5d2033ffec3": 1,
+            "a18d7e04-9518-5f89-ab40-72dc8f3f84b9": 1,
             "a1eda01b-93cf-54b5-b34d-88e61c23f2ed": 1,
             "ae6067fc-2e5b-583c-8eda-4e2413bae84c": 1,
             "aeff99be-3903-5e42-b542-12a223428105": 1,
@@ -284,6 +283,7 @@
             "cf587c42-c21d-5f6e-864a-270d29cef923": 1,
             "d2e148ea-4041-54f6-bccb-95f7893fc346": 1,
             "de47c882-1f2d-5fb9-8e17-20f7a6bb98b5": 1,
+            "e1c806ac-37fd-5c4c-82dc-f195730479f2": 1,
             "e5b182c7-8cd0-5456-8ac1-bcbd341a3d69": 1,
             "e6d5f05d-3e03-5867-a9b5-cec843880e74": 1,
             "efb7cdaa-e1da-5140-a372-6119ccb3ebba": 1,
@@ -293,7 +293,7 @@
             "fe4758ca-e854-53c7-800f-8aceb676821d": 1
           },
           "foil": false,
-          "totalWeight": 75
+          "totalWeight": 80
         },
         "nonlessonRareMythic": {
           "cards": {
@@ -395,7 +395,7 @@
             "sta": 1,
             "lesson": 1,
             "nonlessonCommon": 9,
-            "nonlessonUncommon": 3,
+            "uncommon": 3,
             "nonlessonRareMythic": 1
           }
         },
@@ -405,7 +405,7 @@
             "sta": 1,
             "lesson": 1,
             "nonlessonCommon": 8,
-            "nonlessonUncommon": 3,
+            "uncommon": 3,
             "nonlessonRareMythic": 1,
             "foil": 1
           }
@@ -484,29 +484,24 @@
         },
         "lesson": {
           "cards": {
-            "0194f654-381c-5aea-97c8-bd0f80e7851a": 8,
+            "0194f654-381c-5aea-97c8-bd0f80e7851a": 11,
             "0ccc2be8-b6ca-5a71-89fc-d3d1a7cd6958": 1,
-            "3686b458-2c93-5b15-a9a6-726b1d20fb4c": 8,
-            "3ec41a53-ce44-5e06-8dbf-e328262afea3": 8,
-            "4b57cc09-bd57-5507-80fc-603941958f13": 8,
-            "55be78d3-bbe2-53e3-89ba-b158134f7a66": 8,
-            "5a61dcea-89f2-5df0-9544-a4e017d4037d": 4,
+            "3686b458-2c93-5b15-a9a6-726b1d20fb4c": 11,
+            "3ec41a53-ce44-5e06-8dbf-e328262afea3": 11,
+            "4b57cc09-bd57-5507-80fc-603941958f13": 11,
+            "55be78d3-bbe2-53e3-89ba-b158134f7a66": 11,
             "5d44e374-6a7d-5ab4-b7fe-4d99917cf401": 2,
-            "7a0b2101-f675-58c9-9f46-ca36c277e601": 4,
-            "7be72d1b-6bfa-5d0c-a777-6c173fcb5cf3": 4,
-            "841e8b02-e657-5bcb-81c9-82c8040d3b9f": 8,
-            "85a585d3-dcd9-5282-929c-8fbb8b89470b": 8,
+            "841e8b02-e657-5bcb-81c9-82c8040d3b9f": 11,
+            "85a585d3-dcd9-5282-929c-8fbb8b89470b": 11,
             "90ddb56f-87c5-5098-8223-1d88b6f2bf66": 2,
-            "a18d7e04-9518-5f89-ab40-72dc8f3f84b9": 4,
             "d08ea3e8-cc7c-5572-af80-31b0d59ebd85": 2,
-            "e1c806ac-37fd-5c4c-82dc-f195730479f2": 4,
             "e24f3df3-b854-5f68-8202-00815862746f": 2,
-            "ee54b9ff-a776-567a-b149-ca32caf17076": 8,
+            "ee54b9ff-a776-567a-b149-ca32caf17076": 11,
             "f67fa68e-5cc3-5601-9fac-2f696dd08b86": 2,
-            "f7c19487-0efe-5a39-a2d1-dc3f99dbcecc": 8
+            "f7c19487-0efe-5a39-a2d1-dc3f99dbcecc": 11
           },
           "foil": false,
-          "totalWeight": 103
+          "totalWeight": 110
         },
         "nonlessonCommon": {
           "balanceColors": true,
@@ -611,7 +606,7 @@
           "foil": false,
           "totalWeight": 96
         },
-        "nonlessonUncommon": {
+        "uncommon": {
           "cards": {
             "09661ca1-1ab2-57ec-afca-96fe858c246b": 1,
             "0b939e2f-5c3d-546e-a082-a1dc92915758": 1,
@@ -638,6 +633,7 @@
             "55b4c151-2e0f-5312-9c39-13eff8e7584a": 1,
             "55dc28b3-b20f-538d-a0eb-aafcb348be3b": 1,
             "570678c8-43af-59b5-953c-560ac094d548": 1,
+            "5a61dcea-89f2-5df0-9544-a4e017d4037d": 1,
             "621be861-9c88-54df-bbb2-87e0cfdf7a3c": 1,
             "62e66ae0-25fc-5ef9-a175-0f05ed8acc3f": 1,
             "665afe18-cb19-5c67-bd20-5997935152a5": 1,
@@ -646,6 +642,8 @@
             "6e57ad82-b39a-5912-9073-39660c19a007": 1,
             "72922bde-a549-58ab-a50e-ee62898e1b59": 1,
             "73bdcc8e-07df-5e45-807b-e4c2878208c8": 1,
+            "7a0b2101-f675-58c9-9f46-ca36c277e601": 1,
+            "7be72d1b-6bfa-5d0c-a777-6c173fcb5cf3": 1,
             "7ebe8288-c967-5f4a-a5f5-5fd3c94ed922": 1,
             "82ee6986-02f8-50fb-81a5-26f0d3bc0b92": 1,
             "853765a2-31e0-5322-b76b-75f9ebf724ba": 1,
@@ -667,6 +665,7 @@
             "9fe6076d-f2c0-551d-ba6f-0799f3bbddbf": 1,
             "a16ef2e1-3688-523e-a270-07fcf4b08fdb": 1,
             "a18d1d5d-f2de-5a01-9606-e5d2033ffec3": 1,
+            "a18d7e04-9518-5f89-ab40-72dc8f3f84b9": 1,
             "a1eda01b-93cf-54b5-b34d-88e61c23f2ed": 1,
             "ae6067fc-2e5b-583c-8eda-4e2413bae84c": 1,
             "aeff99be-3903-5e42-b542-12a223428105": 1,
@@ -681,6 +680,7 @@
             "cf587c42-c21d-5f6e-864a-270d29cef923": 1,
             "d2e148ea-4041-54f6-bccb-95f7893fc346": 1,
             "de47c882-1f2d-5fb9-8e17-20f7a6bb98b5": 1,
+            "e1c806ac-37fd-5c4c-82dc-f195730479f2": 1,
             "e5b182c7-8cd0-5456-8ac1-bcbd341a3d69": 1,
             "e6d5f05d-3e03-5867-a9b5-cec843880e74": 1,
             "efb7cdaa-e1da-5140-a372-6119ccb3ebba": 1,
@@ -690,7 +690,7 @@
             "fe4758ca-e854-53c7-800f-8aceb676821d": 1
           },
           "foil": false,
-          "totalWeight": 75
+          "totalWeight": 80
         },
         "nonlessonRareMythic": {
           "cards": {
