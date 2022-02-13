@@ -7,6 +7,7 @@
     "boosters": [
       {
         "sheets": {
+          "land": 1,
           "dfc_common_uncommon": 1,
           "sfc_common": 9,
           "sfc_uncommon": 3,
@@ -16,6 +17,41 @@
       }
     ],
     "sheets": {
+      "land": {
+        "total_weight": 30,
+        "cards": {
+          "neo:264": 1,
+          "neo:265": 1,
+          "neo:267": 1,
+          "neo:269": 1,
+          "neo:273": 1,
+          "neo:274": 1,
+          "neo:277": 1,
+          "neo:279": 1,
+          "neo:280": 1,
+          "neo:282": 1,
+          "neo:283": 1,
+          "neo:284": 1,
+          "neo:285": 1,
+          "neo:286": 1,
+          "neo:287": 1,
+          "neo:288": 1,
+          "neo:289": 1,
+          "neo:290": 1,
+          "neo:291": 1,
+          "neo:292": 1,
+          "neo:293": 1,
+          "neo:294": 1,
+          "neo:295": 1,
+          "neo:296": 1,
+          "neo:297": 1,
+          "neo:298": 1,
+          "neo:299": 1,
+          "neo:300": 1,
+          "neo:301": 1,
+          "neo:302": 1
+        }
+      },
       "dfc_common_uncommon": {
         "total_weight": 240,
         "cards": {
@@ -329,7 +365,7 @@
     "boosters": [
       {
         "sheets": {
-          "basic": 1,
+          "land": 1,
           "dfc_common_uncommon": 1,
           "sfc_common": 9,
           "sfc_uncommon": 3,
@@ -339,7 +375,7 @@
       },
       {
         "sheets": {
-          "basic": 1,
+          "land": 1,
           "dfc_common_uncommon": 1,
           "sfc_common": 8,
           "sfc_uncommon": 3,
@@ -350,19 +386,29 @@
       }
     ],
     "sheets": {
-      "basic": {
+      "land": {
         "total_weight": 30,
         "cards": {
-          "neo:283": 2,
-          "neo:284": 2,
-          "neo:285": 2,
-          "neo:286": 2,
-          "neo:287": 2,
-          "neo:288": 2,
-          "neo:289": 2,
-          "neo:290": 2,
-          "neo:291": 2,
-          "neo:292": 2,
+          "neo:264": 1,
+          "neo:265": 1,
+          "neo:267": 1,
+          "neo:269": 1,
+          "neo:273": 1,
+          "neo:274": 1,
+          "neo:277": 1,
+          "neo:279": 1,
+          "neo:280": 1,
+          "neo:282": 1,
+          "neo:283": 1,
+          "neo:284": 1,
+          "neo:285": 1,
+          "neo:286": 1,
+          "neo:287": 1,
+          "neo:288": 1,
+          "neo:289": 1,
+          "neo:290": 1,
+          "neo:291": 1,
+          "neo:292": 1,
           "neo:293": 1,
           "neo:294": 1,
           "neo:295": 1,
@@ -396,7 +442,7 @@
       },
       "sfc_common": {
         "balance_colors": true,
-        "total_weight": 111,
+        "total_weight": 101,
         "cards": {
           "neo:1": 1,
           "neo:10": 1,
@@ -467,18 +513,8 @@
           "neo:258": 1,
           "neo:259": 1,
           "neo:261": 1,
-          "neo:264": 1,
-          "neo:265": 1,
-          "neo:267": 1,
-          "neo:269": 1,
           "neo:27": 1,
-          "neo:273": 1,
-          "neo:274": 1,
-          "neo:277": 1,
-          "neo:279": 1,
-          "neo:280": 1,
           "neo:281": 1,
-          "neo:282": 1,
           "neo:30": 1,
           "neo:32": 1,
           "neo:33": 1,
