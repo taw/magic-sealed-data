@@ -7,7 +7,7 @@
     "boosters": [
       {
         "sheets": {
-          "common": 9,
+          "common": 10,
           "uncommon": 3,
           "rare_mythic": 1,
           "brr_retro_artifact": 1
@@ -440,7 +440,26 @@
     "boosters": [
       {
         "sheets": {
-          "basic": 1,
+          "common": 10,
+          "uncommon": 3,
+          "rare_mythic": 1,
+          "brr_retro_artifact": 1
+        },
+        "weight": 6
+      },
+      {
+        "sheets": {
+          "common": 9,
+          "uncommon": 3,
+          "rare_mythic": 1,
+          "brr_retro_artifact": 1,
+          "foil": 1
+        },
+        "weight": 3
+      },
+      {
+        "sheets": {
+          "mech_basic": 1,
           "common": 9,
           "uncommon": 3,
           "rare_mythic": 1,
@@ -450,7 +469,7 @@
       },
       {
         "sheets": {
-          "basic": 1,
+          "mech_basic": 1,
           "common": 8,
           "uncommon": 3,
           "rare_mythic": 1,
@@ -461,31 +480,6 @@
       }
     ],
     "sheets": {
-      "basic": {
-        "total_weight": 40,
-        "cards": {
-          "bro:268": 3,
-          "bro:269": 3,
-          "bro:270": 3,
-          "bro:271": 3,
-          "bro:272": 3,
-          "bro:273": 3,
-          "bro:274": 3,
-          "bro:275": 3,
-          "bro:276": 3,
-          "bro:277": 3,
-          "bro:278": 1,
-          "bro:279": 1,
-          "bro:280": 1,
-          "bro:281": 1,
-          "bro:282": 1,
-          "bro:283": 1,
-          "bro:284": 1,
-          "bro:285": 1,
-          "bro:286": 1,
-          "bro:287": 1
-        }
-      },
       "common": {
         "balance_colors": true,
         "total_weight": 101,
@@ -1195,6 +1189,21 @@
           "brr:98:foil": 348,
           "brr:99:foil": 348,
           "brr:9:foil": 348
+        }
+      },
+      "mech_basic": {
+        "total_weight": 10,
+        "cards": {
+          "bro:278": 1,
+          "bro:279": 1,
+          "bro:280": 1,
+          "bro:281": 1,
+          "bro:282": 1,
+          "bro:283": 1,
+          "bro:284": 1,
+          "bro:285": 1,
+          "bro:286": 1,
+          "bro:287": 1
         }
       }
     }
