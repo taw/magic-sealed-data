@@ -11,6 +11,14 @@
           "uncommon": 3,
           "rare_mythic": 1
         },
+        "weight": 59
+      },
+      {
+        "sheets": {
+          "common": 10,
+          "uncommon": 3,
+          "praetor": 1
+        },
         "weight": 1
       }
     ],
@@ -291,6 +299,15 @@
           "one:95": 2,
           "one:98": 2
         }
+      },
+      "praetor": {
+        "total_weight": 4,
+        "cards": {
+          "dmu:107": 1,
+          "khm:199": 1,
+          "neo:59": 1,
+          "snc:129": 1
+        }
       }
     }
   },
@@ -307,7 +324,7 @@
           "uncommon": 3,
           "rare_mythic": 1
         },
-        "weight": 2
+        "weight": 118
       },
       {
         "sheets": {
@@ -315,6 +332,25 @@
           "common": 9,
           "uncommon": 3,
           "rare_mythic": 1,
+          "foil": 1
+        },
+        "weight": 59
+      },
+      {
+        "sheets": {
+          "basic": 1,
+          "common": 10,
+          "uncommon": 3,
+          "praetor": 1
+        },
+        "weight": 2
+      },
+      {
+        "sheets": {
+          "basic": 1,
+          "common": 9,
+          "uncommon": 3,
+          "praetor": 1,
           "foil": 1
         },
         "weight": 1
@@ -887,6 +923,15 @@
           "one:98:foil": 888,
           "one:99:foil": 1295,
           "one:9:foil": 2240
+        }
+      },
+      "praetor": {
+        "total_weight": 4,
+        "cards": {
+          "dmu:107": 1,
+          "khm:199": 1,
+          "neo:59": 1,
+          "snc:129": 1
         }
       }
     }
