@@ -3495,7 +3495,7 @@
     "boosters": [
       {
         "sheets": {
-          "snc_basic": 1,
+          "basic": 1,
           "common": 9,
           "uncommon": 3,
           "rare_mythic": 1,
@@ -3505,7 +3505,7 @@
       },
       {
         "sheets": {
-          "snc_basic": 1,
+          "basic": 1,
           "common": 8,
           "uncommon": 3,
           "rare_mythic": 1,
@@ -3516,29 +3516,19 @@
       }
     ],
     "sheets": {
-      "snc_basic": {
-        "total_weight": 30,
+      "basic": {
+        "total_weight": 10,
         "cards": {
-          "snc:262": 2,
-          "snc:263": 2,
-          "snc:264": 2,
-          "snc:265": 2,
-          "snc:266": 2,
-          "snc:267": 2,
-          "snc:268": 2,
-          "snc:269": 2,
-          "snc:270": 2,
-          "snc:271": 2,
-          "snc:272": 1,
-          "snc:273": 1,
-          "snc:274": 1,
-          "snc:275": 1,
-          "snc:276": 1,
-          "snc:277": 1,
-          "snc:278": 1,
-          "snc:279": 1,
-          "snc:280": 1,
-          "snc:281": 1
+          "unf:235": 1,
+          "unf:236": 1,
+          "unf:237": 1,
+          "unf:238": 1,
+          "unf:239": 1,
+          "unf:240": 1,
+          "unf:241": 1,
+          "unf:242": 1,
+          "unf:243": 1,
+          "unf:244": 1
         }
       },
       "common": {
