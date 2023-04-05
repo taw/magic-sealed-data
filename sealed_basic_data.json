@@ -2392,7 +2392,6 @@
         }
       },
       "common": {
-        "balance_colors": true,
         "total_weight": 101,
         "cards": {
           "one:102": 1,
