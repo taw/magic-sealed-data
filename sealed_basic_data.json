@@ -88218,7 +88218,6 @@
         }
       },
       "common": {
-        "balance_colors": true,
         "total_weight": 55,
         "cards": {
           "ptk:101": 1,
