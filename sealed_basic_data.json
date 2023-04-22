@@ -135783,6 +135783,7 @@
         }
       },
       "basic": {
+        "allow_duplicates": true,
         "total_weight": 20,
         "cards": {
           "6ed:331": 1,
@@ -139004,6 +139005,7 @@
         }
       },
       "basic": {
+        "allow_duplicates": true,
         "total_weight": 20,
         "cards": {
           "5ed:430": 1,
@@ -141337,6 +141339,7 @@
         }
       },
       "basic": {
+        "allow_duplicates": true,
         "total_weight": 15,
         "cards": {
           "4ed:364": 1,
