@@ -2853,6 +2853,346 @@
     }
   },
   {
+    "name": "March of the Machine Jumpstart Booster",
+    "code": "mom-jumpstart",
+    "set_code": "mom",
+    "set_name": "March of the Machine",
+    "boosters": [
+      {
+        "sheets": {
+          "precon_1": 17,
+          "precon_1_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_2": 17,
+          "precon_2_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_3": 17,
+          "precon_3_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_4": 17,
+          "precon_4_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_5": 17,
+          "precon_5_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_6": 17,
+          "precon_6_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_7": 17,
+          "precon_7_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_8": 17,
+          "precon_8_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_9": 17,
+          "precon_9_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_10": 17,
+          "precon_10_foils": 2
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "precon_1": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "mom:10": 1,
+          "mom:18": 1,
+          "mom:277": 5,
+          "mom:282": 1,
+          "mom:29": 1,
+          "mom:3": 1,
+          "mom:323": 1,
+          "mom:324": 1,
+          "mom:325": 1,
+          "mom:39": 1,
+          "mom:4": 1,
+          "mom:44": 1,
+          "mom:5": 1
+        }
+      },
+      "precon_1_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "mom:277:foil": 2
+        }
+      },
+      "precon_2": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "mom:18": 1,
+          "mom:19": 1,
+          "mom:2": 1,
+          "mom:277": 5,
+          "mom:282": 1,
+          "mom:29": 1,
+          "mom:3": 1,
+          "mom:323": 1,
+          "mom:324": 1,
+          "mom:325": 1,
+          "mom:35": 1,
+          "mom:4": 1,
+          "mom:44": 1
+        }
+      },
+      "precon_2_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "mom:277:foil": 2
+        }
+      },
+      "precon_3": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "mom:175": 1,
+          "mom:180": 1,
+          "mom:182": 1,
+          "mom:186": 1,
+          "mom:196": 1,
+          "mom:199": 1,
+          "mom:210": 1,
+          "mom:215": 1,
+          "mom:281": 5,
+          "mom:290": 1,
+          "mom:335": 1,
+          "mom:336": 1,
+          "mom:337": 1
+        }
+      },
+      "precon_3_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "mom:281:foil": 2
+        }
+      },
+      "precon_4": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "mom:175": 1,
+          "mom:177": 1,
+          "mom:180": 1,
+          "mom:196": 1,
+          "mom:199": 1,
+          "mom:208": 1,
+          "mom:210": 1,
+          "mom:215": 1,
+          "mom:281": 5,
+          "mom:290": 1,
+          "mom:335": 1,
+          "mom:336": 1,
+          "mom:337": 1
+        }
+      },
+      "precon_4_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "mom:281:foil": 2
+        }
+      },
+      "precon_5": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "mom:100": 1,
+          "mom:101": 1,
+          "mom:104": 1,
+          "mom:106": 1,
+          "mom:112": 1,
+          "mom:124": 1,
+          "mom:128": 1,
+          "mom:279": 5,
+          "mom:286": 1,
+          "mom:329": 1,
+          "mom:330": 1,
+          "mom:331": 1,
+          "mom:99": 1
+        }
+      },
+      "precon_5_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "mom:279:foil": 2
+        }
+      },
+      "precon_6": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "mom:100": 1,
+          "mom:101": 1,
+          "mom:103": 1,
+          "mom:106": 1,
+          "mom:124": 1,
+          "mom:279": 5,
+          "mom:286": 1,
+          "mom:329": 1,
+          "mom:330": 1,
+          "mom:331": 1,
+          "mom:96": 1,
+          "mom:98": 1,
+          "mom:99": 1
+        }
+      },
+      "precon_6_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "mom:279:foil": 2
+        }
+      },
+      "precon_7": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "mom:278": 5,
+          "mom:284": 1,
+          "mom:326": 1,
+          "mom:327": 1,
+          "mom:328": 1,
+          "mom:55": 1,
+          "mom:56": 1,
+          "mom:66": 1,
+          "mom:71": 1,
+          "mom:73": 1,
+          "mom:80": 1,
+          "mom:81": 1,
+          "mom:82": 1
+        }
+      },
+      "precon_7_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "mom:278:foil": 2
+        }
+      },
+      "precon_8": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "mom:278": 5,
+          "mom:284": 1,
+          "mom:326": 1,
+          "mom:327": 1,
+          "mom:328": 1,
+          "mom:48": 1,
+          "mom:55": 1,
+          "mom:56": 1,
+          "mom:71": 1,
+          "mom:81": 1,
+          "mom:82": 1,
+          "mom:84": 1,
+          "mom:85": 1
+        }
+      },
+      "precon_8_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "mom:278:foil": 2
+        }
+      },
+      "precon_9": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "mom:136": 1,
+          "mom:138": 1,
+          "mom:142": 1,
+          "mom:150": 1,
+          "mom:158": 1,
+          "mom:161": 1,
+          "mom:166": 1,
+          "mom:170": 1,
+          "mom:280": 5,
+          "mom:288": 1,
+          "mom:332": 1,
+          "mom:333": 1,
+          "mom:334": 1
+        }
+      },
+      "precon_9_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "mom:280:foil": 2
+        }
+      },
+      "precon_10": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "mom:138": 1,
+          "mom:142": 1,
+          "mom:150": 1,
+          "mom:154": 1,
+          "mom:161": 1,
+          "mom:164": 1,
+          "mom:168": 1,
+          "mom:170": 1,
+          "mom:280": 5,
+          "mom:288": 1,
+          "mom:332": 1,
+          "mom:333": 1,
+          "mom:334": 1
+        }
+      },
+      "precon_10_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "mom:280:foil": 2
+        }
+      }
+    }
+  },
+  {
     "name": "March of the Machine Set Booster",
     "code": "mom-set",
     "set_code": "mom",
@@ -7506,6 +7846,346 @@
     }
   },
   {
+    "name": "Phyrexia: All Will Be One Jumpstart Booster",
+    "code": "one-jumpstart",
+    "set_code": "one",
+    "set_name": "Phyrexia: All Will Be One",
+    "boosters": [
+      {
+        "sheets": {
+          "precon_1": 17,
+          "precon_1_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_2": 17,
+          "precon_2_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_3": 17,
+          "precon_3_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_4": 17,
+          "precon_4_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_5": 17,
+          "precon_5_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_6": 17,
+          "precon_6_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_7": 17,
+          "precon_7_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_8": 17,
+          "precon_8_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_9": 17,
+          "precon_9_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_10": 17,
+          "precon_10_foils": 2
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "precon_1": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "one:101": 1,
+          "one:103": 1,
+          "one:111": 1,
+          "one:225": 1,
+          "one:251": 1,
+          "one:274": 5,
+          "one:290": 1,
+          "one:406": 1,
+          "one:79": 1,
+          "one:80": 1,
+          "one:81": 1,
+          "one:91": 1,
+          "one:93": 1
+        }
+      },
+      "precon_1_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "one:274:foil": 2
+        }
+      },
+      "precon_2": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "one:101": 1,
+          "one:102": 1,
+          "one:110": 1,
+          "one:111": 1,
+          "one:116": 1,
+          "one:251": 1,
+          "one:274": 5,
+          "one:290": 1,
+          "one:406": 1,
+          "one:83": 1,
+          "one:87": 1,
+          "one:97": 1,
+          "one:99": 1
+        }
+      },
+      "precon_2_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "one:274:foil": 2
+        }
+      },
+      "precon_3": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "one:17": 1,
+          "one:2": 1,
+          "one:252": 1,
+          "one:272": 5,
+          "one:28": 1,
+          "one:285": 1,
+          "one:30": 1,
+          "one:32": 1,
+          "one:36": 1,
+          "one:4": 1,
+          "one:404": 1,
+          "one:6": 1,
+          "one:9": 1
+        }
+      },
+      "precon_3_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "one:272:foil": 2
+        }
+      },
+      "precon_4": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "one:21": 1,
+          "one:252": 1,
+          "one:26": 1,
+          "one:272": 5,
+          "one:285": 1,
+          "one:3": 1,
+          "one:30": 1,
+          "one:36": 1,
+          "one:39": 1,
+          "one:404": 1,
+          "one:7": 1,
+          "one:8": 1,
+          "one:9": 1
+        }
+      },
+      "precon_4_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "one:272:foil": 2
+        }
+      },
+      "precon_5": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "one:260": 1,
+          "one:273": 5,
+          "one:288": 1,
+          "one:405": 1,
+          "one:45": 1,
+          "one:46": 1,
+          "one:54": 1,
+          "one:55": 1,
+          "one:59": 1,
+          "one:62": 1,
+          "one:66": 1,
+          "one:68": 1,
+          "one:69": 1
+        }
+      },
+      "precon_5_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "one:273:foil": 2
+        }
+      },
+      "precon_6": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "one:235": 1,
+          "one:243": 1,
+          "one:260": 1,
+          "one:273": 5,
+          "one:288": 1,
+          "one:405": 1,
+          "one:41": 1,
+          "one:44": 1,
+          "one:45": 1,
+          "one:46": 1,
+          "one:49": 1,
+          "one:62": 1,
+          "one:74": 1
+        }
+      },
+      "precon_6_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "one:273:foil": 2
+        }
+      },
+      "precon_7": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "one:121": 1,
+          "one:126": 1,
+          "one:131": 1,
+          "one:133": 1,
+          "one:136": 1,
+          "one:144": 1,
+          "one:146": 1,
+          "one:155": 1,
+          "one:156": 1,
+          "one:247": 1,
+          "one:275": 5,
+          "one:291": 1,
+          "one:407": 1
+        }
+      },
+      "precon_7_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "one:275:foil": 2
+        }
+      },
+      "precon_8": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "one:121": 1,
+          "one:122": 1,
+          "one:123": 1,
+          "one:136": 1,
+          "one:137": 1,
+          "one:141": 1,
+          "one:143": 1,
+          "one:156": 1,
+          "one:239": 1,
+          "one:247": 1,
+          "one:275": 5,
+          "one:291": 1,
+          "one:407": 1
+        }
+      },
+      "precon_8_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "one:275:foil": 2
+        }
+      },
+      "precon_9": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "one:160": 1,
+          "one:164": 1,
+          "one:165": 1,
+          "one:170": 1,
+          "one:172": 1,
+          "one:178": 1,
+          "one:187": 1,
+          "one:193": 1,
+          "one:237": 1,
+          "one:253": 1,
+          "one:276": 5,
+          "one:294": 1,
+          "one:408": 1
+        }
+      },
+      "precon_9_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "one:276:foil": 2
+        }
+      },
+      "precon_10": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "one:160": 1,
+          "one:164": 1,
+          "one:173": 1,
+          "one:174": 1,
+          "one:178": 1,
+          "one:181": 1,
+          "one:182": 1,
+          "one:190": 1,
+          "one:194": 1,
+          "one:253": 1,
+          "one:276": 5,
+          "one:294": 1,
+          "one:408": 1
+        }
+      },
+      "precon_10_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "one:276:foil": 2
+        }
+      }
+    }
+  },
+  {
     "name": "Phyrexia: All Will Be One Set Booster",
     "code": "one-set",
     "set_code": "one",
@@ -10442,6 +11122,3187 @@
           "dmr:454:foil": 1,
           "dmr:455:foil": 2,
           "dmr:456:foil": 2
+        }
+      }
+    }
+  },
+  {
+    "name": "Jumpstart 2022 Jumpstart Booster",
+    "code": "j22-jumpstart",
+    "set_code": "j22",
+    "set_name": "Jumpstart 2022",
+    "boosters": [
+      {
+        "sheets": {
+          "precon_1": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_2": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_3": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_4": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_5": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_6": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_7": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_8": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_9": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_10": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_11": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_12": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_13": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_14": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_15": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_16": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_17": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_18": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_19": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_20": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_21": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_22": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_23": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_24": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_25": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_26": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_27": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_28": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_29": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_30": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_31": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_32": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_33": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_34": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_35": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_36": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_37": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_38": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_39": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_40": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_41": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_42": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_43": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_44": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_45": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_46": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_47": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_48": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_49": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_50": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_51": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_52": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_53": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_54": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_55": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_56": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_57": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_58": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_59": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_60": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_61": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_62": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_63": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_64": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_65": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_66": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_67": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_68": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_69": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_70": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_71": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_72": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_73": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_74": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_75": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_76": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_77": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_78": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_79": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_80": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_81": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_82": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_83": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_84": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_85": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_86": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_87": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_88": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_89": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_90": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_91": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_92": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_93": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_94": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_95": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_96": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_97": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_98": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_99": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_100": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_101": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_102": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_103": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_104": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_105": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_106": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_107": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_108": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_109": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_110": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_111": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_112": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_113": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_114": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_115": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_116": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_117": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_118": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_119": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_120": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_121": 20
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "precon_1": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:138": 1,
+          "j22:159": 1,
+          "j22:181": 1,
+          "j22:186": 1,
+          "j22:200": 1,
+          "j22:231": 1,
+          "j22:242": 1,
+          "j22:255": 1,
+          "j22:266": 1,
+          "j22:4": 1,
+          "j22:56": 1,
+          "j22:8": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_2": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:159": 1,
+          "j22:172": 1,
+          "j22:180": 1,
+          "j22:181": 1,
+          "j22:196": 1,
+          "j22:200": 1,
+          "j22:202": 1,
+          "j22:231": 1,
+          "j22:242": 1,
+          "j22:264": 1,
+          "j22:4": 1,
+          "j22:56": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_3": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:159": 1,
+          "j22:165": 1,
+          "j22:181": 1,
+          "j22:200": 1,
+          "j22:231": 1,
+          "j22:233": 1,
+          "j22:242": 1,
+          "j22:262": 1,
+          "j22:264": 1,
+          "j22:4": 1,
+          "j22:56": 1,
+          "j22:8": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_4": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:159": 1,
+          "j22:165": 1,
+          "j22:181": 1,
+          "j22:200": 1,
+          "j22:231": 1,
+          "j22:240": 1,
+          "j22:242": 1,
+          "j22:266": 1,
+          "j22:4": 1,
+          "j22:56": 1,
+          "j22:788": 1,
+          "j22:790": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_5": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:24": 1,
+          "j22:27": 1,
+          "j22:389": 1,
+          "j22:420": 1,
+          "j22:445": 1,
+          "j22:447": 1,
+          "j22:453": 1,
+          "j22:455": 1,
+          "j22:461": 1,
+          "j22:471": 1,
+          "j22:488": 1,
+          "j22:73": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_6": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:120": 1,
+          "j22:24": 1,
+          "j22:27": 1,
+          "j22:389": 1,
+          "j22:420": 1,
+          "j22:422": 1,
+          "j22:434": 1,
+          "j22:445": 1,
+          "j22:447": 1,
+          "j22:464": 1,
+          "j22:488": 1,
+          "j22:73": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_7": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:154": 1,
+          "j22:183": 1,
+          "j22:195": 1,
+          "j22:207": 1,
+          "j22:211": 1,
+          "j22:232": 1,
+          "j22:237": 1,
+          "j22:245": 1,
+          "j22:265": 1,
+          "j22:5": 1,
+          "j22:57": 1,
+          "j22:782": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_8": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:184": 1,
+          "j22:195": 1,
+          "j22:207": 1,
+          "j22:211": 1,
+          "j22:214": 1,
+          "j22:229": 1,
+          "j22:237": 1,
+          "j22:251": 1,
+          "j22:259": 1,
+          "j22:265": 1,
+          "j22:5": 1,
+          "j22:57": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_9": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:141": 1,
+          "j22:142": 1,
+          "j22:154": 1,
+          "j22:195": 1,
+          "j22:207": 1,
+          "j22:211": 1,
+          "j22:238": 1,
+          "j22:256": 1,
+          "j22:265": 1,
+          "j22:5": 1,
+          "j22:57": 1,
+          "j22:782": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_10": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:154": 1,
+          "j22:195": 1,
+          "j22:207": 1,
+          "j22:208": 1,
+          "j22:211": 1,
+          "j22:228": 1,
+          "j22:237": 1,
+          "j22:246": 1,
+          "j22:265": 1,
+          "j22:5": 1,
+          "j22:57": 1,
+          "j22:782": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_11": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:151": 1,
+          "j22:158": 1,
+          "j22:163": 1,
+          "j22:182": 1,
+          "j22:185": 1,
+          "j22:191": 1,
+          "j22:227": 1,
+          "j22:247": 1,
+          "j22:248": 1,
+          "j22:257": 1,
+          "j22:3": 1,
+          "j22:58": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_12": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:143": 1,
+          "j22:153": 1,
+          "j22:158": 1,
+          "j22:163": 1,
+          "j22:179": 1,
+          "j22:191": 1,
+          "j22:244": 1,
+          "j22:247": 1,
+          "j22:248": 1,
+          "j22:257": 1,
+          "j22:3": 1,
+          "j22:58": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_13": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:21": 1,
+          "j22:24": 1,
+          "j22:28": 1,
+          "j22:375": 1,
+          "j22:450": 1,
+          "j22:451": 1,
+          "j22:474": 1,
+          "j22:477": 1,
+          "j22:489": 1,
+          "j22:49": 1,
+          "j22:68": 1,
+          "j22:799": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_14": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:21": 1,
+          "j22:24": 1,
+          "j22:28": 1,
+          "j22:375": 1,
+          "j22:388": 1,
+          "j22:437": 1,
+          "j22:442": 1,
+          "j22:448": 1,
+          "j22:456": 1,
+          "j22:49": 1,
+          "j22:68": 1,
+          "j22:799": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_15": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:119": 1,
+          "j22:20": 1,
+          "j22:21": 1,
+          "j22:24": 1,
+          "j22:375": 1,
+          "j22:391": 1,
+          "j22:405": 1,
+          "j22:426": 1,
+          "j22:442": 1,
+          "j22:49": 1,
+          "j22:68": 1,
+          "j22:799": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_16": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:20": 1,
+          "j22:21": 1,
+          "j22:24": 1,
+          "j22:375": 1,
+          "j22:403": 1,
+          "j22:426": 1,
+          "j22:442": 1,
+          "j22:448": 1,
+          "j22:477": 1,
+          "j22:49": 1,
+          "j22:68": 1,
+          "j22:799": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_17": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 6,
+          "j22:131": 1,
+          "j22:37": 1,
+          "j22:520": 1,
+          "j22:540": 1,
+          "j22:567": 1,
+          "j22:580": 1,
+          "j22:583": 1,
+          "j22:588": 1,
+          "j22:590": 1,
+          "j22:599": 1,
+          "j22:625": 1,
+          "j22:78": 1,
+          "j22:814": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_18": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 6,
+          "j22:37": 1,
+          "j22:502": 1,
+          "j22:520": 1,
+          "j22:540": 1,
+          "j22:559": 1,
+          "j22:570": 1,
+          "j22:580": 1,
+          "j22:584": 1,
+          "j22:588": 1,
+          "j22:590": 1,
+          "j22:607": 1,
+          "j22:78": 1,
+          "j22:814": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_19": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:126": 1,
+          "j22:20": 1,
+          "j22:23": 1,
+          "j22:399": 1,
+          "j22:400": 1,
+          "j22:415": 1,
+          "j22:428": 1,
+          "j22:431": 1,
+          "j22:470": 1,
+          "j22:475": 1,
+          "j22:49": 1,
+          "j22:67": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_20": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:20": 1,
+          "j22:23": 1,
+          "j22:397": 1,
+          "j22:398": 1,
+          "j22:399": 1,
+          "j22:400": 1,
+          "j22:402": 1,
+          "j22:406": 1,
+          "j22:463": 1,
+          "j22:475": 1,
+          "j22:49": 1,
+          "j22:67": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_21": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 7,
+          "j22:11": 1,
+          "j22:289": 1,
+          "j22:298": 1,
+          "j22:300": 1,
+          "j22:302": 1,
+          "j22:311": 1,
+          "j22:320": 1,
+          "j22:337": 1,
+          "j22:367": 1,
+          "j22:48": 1,
+          "j22:796": 1,
+          "j22:825": 1,
+          "j22:95": 1
+        }
+      },
+      "precon_22": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 7,
+          "j22:11": 1,
+          "j22:268": 1,
+          "j22:289": 1,
+          "j22:300": 1,
+          "j22:311": 1,
+          "j22:331": 1,
+          "j22:337": 1,
+          "j22:362": 1,
+          "j22:367": 1,
+          "j22:792": 1,
+          "j22:801": 1,
+          "j22:825": 1,
+          "j22:95": 1
+        }
+      },
+      "precon_23": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 7,
+          "j22:11": 1,
+          "j22:289": 1,
+          "j22:300": 1,
+          "j22:311": 1,
+          "j22:317": 1,
+          "j22:337": 1,
+          "j22:347": 1,
+          "j22:348": 1,
+          "j22:367": 1,
+          "j22:372": 1,
+          "j22:48": 1,
+          "j22:825": 1,
+          "j22:95": 1
+        }
+      },
+      "precon_24": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 7,
+          "j22:11": 1,
+          "j22:289": 1,
+          "j22:291": 1,
+          "j22:300": 1,
+          "j22:311": 1,
+          "j22:337": 1,
+          "j22:357": 1,
+          "j22:358": 1,
+          "j22:367": 1,
+          "j22:48": 1,
+          "j22:800": 1,
+          "j22:825": 1,
+          "j22:95": 1
+        }
+      },
+      "precon_25": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:37": 1,
+          "j22:503": 1,
+          "j22:522": 1,
+          "j22:523": 1,
+          "j22:537": 1,
+          "j22:561": 1,
+          "j22:593": 1,
+          "j22:594": 1,
+          "j22:595": 1,
+          "j22:596": 1,
+          "j22:615": 1,
+          "j22:77": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_26": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:37": 1,
+          "j22:524": 1,
+          "j22:525": 1,
+          "j22:537": 1,
+          "j22:561": 1,
+          "j22:566": 1,
+          "j22:594": 1,
+          "j22:596": 1,
+          "j22:604": 1,
+          "j22:615": 1,
+          "j22:763": 1,
+          "j22:77": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_27": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 5,
+          "j22:132": 1,
+          "j22:51": 1,
+          "j22:628": 1,
+          "j22:632": 1,
+          "j22:637": 1,
+          "j22:725": 1,
+          "j22:733": 1,
+          "j22:737": 1,
+          "j22:748": 1,
+          "j22:749": 1,
+          "j22:750": 1,
+          "j22:809": 1,
+          "j22:832": 1,
+          "j22:834": 1,
+          "j22:93": 1
+        }
+      },
+      "precon_28": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:42": 1,
+          "j22:631": 1,
+          "j22:651": 1,
+          "j22:652": 1,
+          "j22:653": 1,
+          "j22:654": 1,
+          "j22:680": 1,
+          "j22:690": 1,
+          "j22:716": 1,
+          "j22:717": 1,
+          "j22:721": 1,
+          "j22:823": 1,
+          "j22:88": 1
+        }
+      },
+      "precon_29": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:42": 1,
+          "j22:631": 1,
+          "j22:651": 1,
+          "j22:652": 1,
+          "j22:653": 1,
+          "j22:665": 1,
+          "j22:677": 1,
+          "j22:680": 1,
+          "j22:690": 1,
+          "j22:716": 1,
+          "j22:721": 1,
+          "j22:823": 1,
+          "j22:88": 1
+        }
+      },
+      "precon_30": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:50": 1,
+          "j22:631": 1,
+          "j22:651": 1,
+          "j22:652": 1,
+          "j22:653": 1,
+          "j22:680": 1,
+          "j22:686": 1,
+          "j22:690": 1,
+          "j22:721": 1,
+          "j22:743": 1,
+          "j22:745": 1,
+          "j22:823": 1,
+          "j22:88": 1
+        }
+      },
+      "precon_31": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:48": 1,
+          "j22:631": 1,
+          "j22:651": 1,
+          "j22:652": 1,
+          "j22:653": 1,
+          "j22:680": 1,
+          "j22:701": 1,
+          "j22:709": 1,
+          "j22:721": 1,
+          "j22:738": 1,
+          "j22:745": 1,
+          "j22:823": 1,
+          "j22:88": 1
+        }
+      },
+      "precon_32": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:34": 1,
+          "j22:35": 1,
+          "j22:510": 1,
+          "j22:526": 1,
+          "j22:532": 1,
+          "j22:551": 1,
+          "j22:555": 1,
+          "j22:569": 1,
+          "j22:598": 1,
+          "j22:605": 1,
+          "j22:626": 1,
+          "j22:822": 1,
+          "j22:83": 1
+        }
+      },
+      "precon_33": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:34": 1,
+          "j22:35": 1,
+          "j22:492": 1,
+          "j22:510": 1,
+          "j22:518": 1,
+          "j22:526": 1,
+          "j22:527": 1,
+          "j22:532": 1,
+          "j22:551": 1,
+          "j22:602": 1,
+          "j22:603": 1,
+          "j22:822": 1,
+          "j22:83": 1
+        }
+      },
+      "precon_34": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 7,
+          "j22:17": 1,
+          "j22:18": 1,
+          "j22:278": 1,
+          "j22:299": 1,
+          "j22:305": 1,
+          "j22:335": 1,
+          "j22:344": 1,
+          "j22:366": 1,
+          "j22:368": 1,
+          "j22:371": 1,
+          "j22:50": 1,
+          "j22:65": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_35": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 7,
+          "j22:17": 1,
+          "j22:18": 1,
+          "j22:295": 1,
+          "j22:305": 1,
+          "j22:335": 1,
+          "j22:344": 1,
+          "j22:349": 1,
+          "j22:352": 1,
+          "j22:353": 1,
+          "j22:366": 1,
+          "j22:50": 1,
+          "j22:65": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_36": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:118": 1,
+          "j22:21": 1,
+          "j22:25": 1,
+          "j22:379": 1,
+          "j22:381": 1,
+          "j22:411": 1,
+          "j22:414": 1,
+          "j22:427": 1,
+          "j22:439": 1,
+          "j22:444": 1,
+          "j22:483": 1,
+          "j22:70": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_37": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:21": 1,
+          "j22:25": 1,
+          "j22:381": 1,
+          "j22:382": 1,
+          "j22:386": 1,
+          "j22:414": 1,
+          "j22:427": 1,
+          "j22:439": 1,
+          "j22:444": 1,
+          "j22:483": 1,
+          "j22:484": 1,
+          "j22:70": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_38": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:117": 1,
+          "j22:21": 1,
+          "j22:376": 1,
+          "j22:380": 1,
+          "j22:386": 1,
+          "j22:427": 1,
+          "j22:439": 1,
+          "j22:444": 1,
+          "j22:449": 1,
+          "j22:476": 1,
+          "j22:483": 1,
+          "j22:70": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_39": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:117": 1,
+          "j22:118": 1,
+          "j22:21": 1,
+          "j22:379": 1,
+          "j22:380": 1,
+          "j22:427": 1,
+          "j22:429": 1,
+          "j22:439": 1,
+          "j22:444": 1,
+          "j22:483": 1,
+          "j22:487": 1,
+          "j22:70": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_40": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:39": 1,
+          "j22:43": 1,
+          "j22:45": 1,
+          "j22:639": 1,
+          "j22:648": 1,
+          "j22:664": 1,
+          "j22:676": 1,
+          "j22:700": 1,
+          "j22:719": 1,
+          "j22:720": 1,
+          "j22:723": 1,
+          "j22:823": 1,
+          "j22:87": 1
+        }
+      },
+      "precon_41": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:39": 1,
+          "j22:45": 1,
+          "j22:639": 1,
+          "j22:648": 1,
+          "j22:664": 1,
+          "j22:668": 1,
+          "j22:676": 1,
+          "j22:695": 1,
+          "j22:720": 1,
+          "j22:722": 1,
+          "j22:723": 1,
+          "j22:823": 1,
+          "j22:87": 1
+        }
+      },
+      "precon_42": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:39": 1,
+          "j22:45": 1,
+          "j22:635": 1,
+          "j22:639": 1,
+          "j22:648": 1,
+          "j22:676": 1,
+          "j22:700": 1,
+          "j22:713": 1,
+          "j22:720": 1,
+          "j22:723": 1,
+          "j22:771": 1,
+          "j22:823": 1,
+          "j22:87": 1
+        }
+      },
+      "precon_43": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 6,
+          "j22:39": 1,
+          "j22:45": 1,
+          "j22:46": 1,
+          "j22:639": 1,
+          "j22:643": 1,
+          "j22:648": 1,
+          "j22:663": 1,
+          "j22:676": 1,
+          "j22:720": 1,
+          "j22:723": 1,
+          "j22:781": 1,
+          "j22:811": 1,
+          "j22:823": 1,
+          "j22:87": 1
+        }
+      },
+      "precon_44": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:32": 1,
+          "j22:34": 1,
+          "j22:511": 1,
+          "j22:512": 1,
+          "j22:513": 1,
+          "j22:514": 1,
+          "j22:515": 1,
+          "j22:531": 1,
+          "j22:579": 1,
+          "j22:606": 1,
+          "j22:624": 1,
+          "j22:822": 1,
+          "j22:84": 1
+        }
+      },
+      "precon_45": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:32": 1,
+          "j22:34": 1,
+          "j22:495": 1,
+          "j22:500": 1,
+          "j22:513": 1,
+          "j22:515": 1,
+          "j22:531": 1,
+          "j22:535": 1,
+          "j22:571": 1,
+          "j22:579": 1,
+          "j22:624": 1,
+          "j22:822": 1,
+          "j22:84": 1
+        }
+      },
+      "precon_46": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:32": 1,
+          "j22:36": 1,
+          "j22:513": 1,
+          "j22:515": 1,
+          "j22:519": 1,
+          "j22:531": 1,
+          "j22:534": 1,
+          "j22:553": 1,
+          "j22:579": 1,
+          "j22:613": 1,
+          "j22:624": 1,
+          "j22:822": 1,
+          "j22:84": 1
+        }
+      },
+      "precon_47": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:32": 1,
+          "j22:36": 1,
+          "j22:500": 1,
+          "j22:513": 1,
+          "j22:515": 1,
+          "j22:517": 1,
+          "j22:531": 1,
+          "j22:579": 1,
+          "j22:597": 1,
+          "j22:618": 1,
+          "j22:624": 1,
+          "j22:822": 1,
+          "j22:84": 1
+        }
+      },
+      "precon_48": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:44": 1,
+          "j22:46": 1,
+          "j22:640": 1,
+          "j22:656": 1,
+          "j22:667": 1,
+          "j22:670": 1,
+          "j22:693": 1,
+          "j22:698": 1,
+          "j22:702": 1,
+          "j22:707": 1,
+          "j22:744": 1,
+          "j22:823": 1,
+          "j22:92": 1
+        }
+      },
+      "precon_49": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:44": 1,
+          "j22:46": 1,
+          "j22:640": 1,
+          "j22:655": 1,
+          "j22:656": 1,
+          "j22:667": 1,
+          "j22:687": 1,
+          "j22:698": 1,
+          "j22:702": 1,
+          "j22:704": 1,
+          "j22:710": 1,
+          "j22:823": 1,
+          "j22:92": 1
+        }
+      },
+      "precon_50": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:10": 1,
+          "j22:101": 7,
+          "j22:115": 1,
+          "j22:116": 1,
+          "j22:15": 1,
+          "j22:267": 1,
+          "j22:276": 1,
+          "j22:279": 1,
+          "j22:286": 1,
+          "j22:290": 1,
+          "j22:333": 1,
+          "j22:363": 1,
+          "j22:60": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_51": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:10": 1,
+          "j22:101": 7,
+          "j22:114": 1,
+          "j22:15": 1,
+          "j22:267": 1,
+          "j22:279": 1,
+          "j22:286": 1,
+          "j22:290": 1,
+          "j22:325": 1,
+          "j22:333": 1,
+          "j22:359": 1,
+          "j22:60": 1,
+          "j22:758": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_52": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:34": 1,
+          "j22:497": 1,
+          "j22:508": 1,
+          "j22:534": 1,
+          "j22:542": 1,
+          "j22:552": 1,
+          "j22:564": 1,
+          "j22:591": 1,
+          "j22:609": 1,
+          "j22:619": 1,
+          "j22:622": 1,
+          "j22:76": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_53": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:34": 1,
+          "j22:508": 1,
+          "j22:534": 1,
+          "j22:536": 1,
+          "j22:542": 1,
+          "j22:546": 1,
+          "j22:547": 1,
+          "j22:548": 1,
+          "j22:554": 1,
+          "j22:591": 1,
+          "j22:619": 1,
+          "j22:76": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_54": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:34": 1,
+          "j22:493": 1,
+          "j22:50": 1,
+          "j22:508": 1,
+          "j22:521": 1,
+          "j22:528": 1,
+          "j22:542": 1,
+          "j22:547": 1,
+          "j22:575": 1,
+          "j22:591": 1,
+          "j22:619": 1,
+          "j22:76": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_55": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:29": 1,
+          "j22:34": 1,
+          "j22:508": 1,
+          "j22:542": 1,
+          "j22:545": 1,
+          "j22:546": 1,
+          "j22:552": 1,
+          "j22:578": 1,
+          "j22:591": 1,
+          "j22:614": 1,
+          "j22:619": 1,
+          "j22:76": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_56": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 6,
+          "j22:137": 1,
+          "j22:26": 1,
+          "j22:377": 1,
+          "j22:378": 1,
+          "j22:401": 1,
+          "j22:408": 1,
+          "j22:409": 1,
+          "j22:425": 1,
+          "j22:441": 1,
+          "j22:473": 1,
+          "j22:49": 1,
+          "j22:491": 1,
+          "j22:72": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_57": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 6,
+          "j22:123": 1,
+          "j22:124": 1,
+          "j22:26": 1,
+          "j22:378": 1,
+          "j22:395": 1,
+          "j22:401": 1,
+          "j22:408": 1,
+          "j22:409": 1,
+          "j22:416": 1,
+          "j22:425": 1,
+          "j22:454": 1,
+          "j22:72": 1,
+          "j22:810": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_58": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:26": 1,
+          "j22:378": 1,
+          "j22:394": 1,
+          "j22:396": 1,
+          "j22:401": 1,
+          "j22:407": 1,
+          "j22:408": 1,
+          "j22:409": 1,
+          "j22:425": 1,
+          "j22:432": 1,
+          "j22:49": 1,
+          "j22:72": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_59": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:127": 1,
+          "j22:24": 1,
+          "j22:26": 1,
+          "j22:378": 1,
+          "j22:401": 1,
+          "j22:408": 1,
+          "j22:409": 1,
+          "j22:425": 1,
+          "j22:452": 1,
+          "j22:485": 1,
+          "j22:490": 1,
+          "j22:72": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_60": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:146": 1,
+          "j22:148": 1,
+          "j22:157": 1,
+          "j22:176": 1,
+          "j22:192": 1,
+          "j22:2": 1,
+          "j22:209": 1,
+          "j22:217": 1,
+          "j22:225": 1,
+          "j22:226": 1,
+          "j22:3": 1,
+          "j22:55": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_61": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:148": 1,
+          "j22:170": 1,
+          "j22:174": 1,
+          "j22:176": 1,
+          "j22:2": 1,
+          "j22:209": 1,
+          "j22:210": 1,
+          "j22:225": 1,
+          "j22:249": 1,
+          "j22:250": 1,
+          "j22:3": 1,
+          "j22:55": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_62": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:148": 1,
+          "j22:169": 1,
+          "j22:170": 1,
+          "j22:176": 1,
+          "j22:199": 1,
+          "j22:209": 1,
+          "j22:225": 1,
+          "j22:241": 1,
+          "j22:261": 1,
+          "j22:3": 1,
+          "j22:51": 1,
+          "j22:55": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_63": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:148": 1,
+          "j22:152": 1,
+          "j22:171": 1,
+          "j22:176": 1,
+          "j22:181": 1,
+          "j22:199": 1,
+          "j22:209": 1,
+          "j22:225": 1,
+          "j22:226": 1,
+          "j22:234": 1,
+          "j22:3": 1,
+          "j22:55": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_64": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:39": 1,
+          "j22:642": 1,
+          "j22:650": 1,
+          "j22:675": 1,
+          "j22:678": 1,
+          "j22:679": 1,
+          "j22:691": 1,
+          "j22:694": 1,
+          "j22:695": 1,
+          "j22:718": 1,
+          "j22:734": 1,
+          "j22:823": 1,
+          "j22:86": 1
+        }
+      },
+      "precon_65": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:39": 1,
+          "j22:47": 1,
+          "j22:642": 1,
+          "j22:675": 1,
+          "j22:679": 1,
+          "j22:682": 1,
+          "j22:683": 1,
+          "j22:691": 1,
+          "j22:694": 1,
+          "j22:718": 1,
+          "j22:760": 1,
+          "j22:823": 1,
+          "j22:86": 1
+        }
+      },
+      "precon_66": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:39": 1,
+          "j22:642": 1,
+          "j22:645": 1,
+          "j22:649": 1,
+          "j22:675": 1,
+          "j22:678": 1,
+          "j22:679": 1,
+          "j22:694": 1,
+          "j22:695": 1,
+          "j22:706": 1,
+          "j22:718": 1,
+          "j22:823": 1,
+          "j22:86": 1
+        }
+      },
+      "precon_67": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:39": 1,
+          "j22:43": 1,
+          "j22:47": 1,
+          "j22:642": 1,
+          "j22:666": 1,
+          "j22:675": 1,
+          "j22:679": 1,
+          "j22:684": 1,
+          "j22:694": 1,
+          "j22:714": 1,
+          "j22:718": 1,
+          "j22:823": 1,
+          "j22:86": 1
+        }
+      },
+      "precon_68": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 6,
+          "j22:14": 1,
+          "j22:15": 1,
+          "j22:272": 1,
+          "j22:275": 1,
+          "j22:302": 1,
+          "j22:303": 1,
+          "j22:348": 1,
+          "j22:360": 1,
+          "j22:51": 1,
+          "j22:66": 1,
+          "j22:752": 1,
+          "j22:767": 1,
+          "j22:820": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_69": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 6,
+          "j22:14": 1,
+          "j22:268": 1,
+          "j22:272": 1,
+          "j22:275": 1,
+          "j22:302": 1,
+          "j22:303": 1,
+          "j22:338": 1,
+          "j22:66": 1,
+          "j22:772": 1,
+          "j22:773": 1,
+          "j22:780": 1,
+          "j22:805": 1,
+          "j22:820": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_70": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 6,
+          "j22:135": 1,
+          "j22:14": 1,
+          "j22:272": 1,
+          "j22:275": 1,
+          "j22:302": 1,
+          "j22:303": 1,
+          "j22:361": 1,
+          "j22:66": 1,
+          "j22:752": 1,
+          "j22:791": 1,
+          "j22:798": 1,
+          "j22:808": 1,
+          "j22:820": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_71": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 5,
+          "j22:14": 1,
+          "j22:272": 1,
+          "j22:275": 1,
+          "j22:302": 1,
+          "j22:303": 1,
+          "j22:48": 1,
+          "j22:66": 1,
+          "j22:752": 1,
+          "j22:755": 1,
+          "j22:761": 1,
+          "j22:795": 1,
+          "j22:797": 1,
+          "j22:816": 1,
+          "j22:820": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_72": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:155": 1,
+          "j22:166": 1,
+          "j22:168": 1,
+          "j22:205": 1,
+          "j22:223": 1,
+          "j22:243": 1,
+          "j22:246": 1,
+          "j22:252": 1,
+          "j22:3": 1,
+          "j22:53": 1,
+          "j22:776": 1,
+          "j22:779": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_73": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 6,
+          "j22:42": 1,
+          "j22:43": 1,
+          "j22:638": 1,
+          "j22:641": 1,
+          "j22:689": 1,
+          "j22:697": 1,
+          "j22:715": 1,
+          "j22:730": 1,
+          "j22:736": 1,
+          "j22:747": 1,
+          "j22:751": 1,
+          "j22:813": 1,
+          "j22:823": 1,
+          "j22:90": 1
+        }
+      },
+      "precon_74": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 6,
+          "j22:42": 1,
+          "j22:43": 1,
+          "j22:629": 1,
+          "j22:630": 1,
+          "j22:636": 1,
+          "j22:638": 1,
+          "j22:660": 1,
+          "j22:669": 1,
+          "j22:697": 1,
+          "j22:730": 1,
+          "j22:736": 1,
+          "j22:813": 1,
+          "j22:823": 1,
+          "j22:90": 1
+        }
+      },
+      "precon_75": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:150": 1,
+          "j22:177": 1,
+          "j22:190": 1,
+          "j22:203": 1,
+          "j22:216": 1,
+          "j22:220": 1,
+          "j22:221": 1,
+          "j22:235": 1,
+          "j22:245": 1,
+          "j22:263": 1,
+          "j22:52": 1,
+          "j22:7": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_76": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:173": 1,
+          "j22:203": 1,
+          "j22:206": 1,
+          "j22:216": 1,
+          "j22:220": 1,
+          "j22:221": 1,
+          "j22:224": 1,
+          "j22:230": 1,
+          "j22:245": 1,
+          "j22:260": 1,
+          "j22:52": 1,
+          "j22:7": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_77": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:145": 1,
+          "j22:189": 1,
+          "j22:190": 1,
+          "j22:203": 1,
+          "j22:216": 1,
+          "j22:220": 1,
+          "j22:221": 1,
+          "j22:235": 1,
+          "j22:245": 1,
+          "j22:260": 1,
+          "j22:52": 1,
+          "j22:7": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_78": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:160": 1,
+          "j22:201": 1,
+          "j22:203": 1,
+          "j22:215": 1,
+          "j22:216": 1,
+          "j22:219": 1,
+          "j22:220": 1,
+          "j22:221": 1,
+          "j22:245": 1,
+          "j22:52": 1,
+          "j22:7": 1,
+          "j22:764": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_79": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 7,
+          "j22:17": 1,
+          "j22:271": 1,
+          "j22:283": 1,
+          "j22:330": 1,
+          "j22:339": 1,
+          "j22:340": 1,
+          "j22:343": 1,
+          "j22:346": 1,
+          "j22:355": 1,
+          "j22:365": 1,
+          "j22:370": 1,
+          "j22:61": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_80": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 7,
+          "j22:15": 1,
+          "j22:17": 1,
+          "j22:18": 1,
+          "j22:283": 1,
+          "j22:330": 1,
+          "j22:339": 1,
+          "j22:342": 1,
+          "j22:356": 1,
+          "j22:365": 1,
+          "j22:370": 1,
+          "j22:373": 1,
+          "j22:61": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_81": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 7,
+          "j22:17": 1,
+          "j22:18": 1,
+          "j22:283": 1,
+          "j22:297": 1,
+          "j22:306": 1,
+          "j22:330": 1,
+          "j22:354": 1,
+          "j22:365": 1,
+          "j22:369": 1,
+          "j22:370": 1,
+          "j22:373": 1,
+          "j22:61": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_82": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 7,
+          "j22:17": 1,
+          "j22:271": 1,
+          "j22:283": 1,
+          "j22:314": 1,
+          "j22:321": 1,
+          "j22:330": 1,
+          "j22:339": 1,
+          "j22:342": 1,
+          "j22:365": 1,
+          "j22:370": 1,
+          "j22:373": 1,
+          "j22:61": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_83": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 6,
+          "j22:121": 1,
+          "j22:128": 1,
+          "j22:136": 1,
+          "j22:23": 1,
+          "j22:27": 1,
+          "j22:383": 1,
+          "j22:408": 1,
+          "j22:436": 1,
+          "j22:458": 1,
+          "j22:459": 1,
+          "j22:486": 1,
+          "j22:74": 1,
+          "j22:817": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_84": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 6,
+          "j22:121": 1,
+          "j22:125": 1,
+          "j22:128": 1,
+          "j22:27": 1,
+          "j22:383": 1,
+          "j22:436": 1,
+          "j22:457": 1,
+          "j22:459": 1,
+          "j22:467": 1,
+          "j22:484": 1,
+          "j22:486": 1,
+          "j22:74": 1,
+          "j22:817": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_85": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:135": 1,
+          "j22:38": 1,
+          "j22:627": 1,
+          "j22:647": 1,
+          "j22:658": 1,
+          "j22:660": 1,
+          "j22:675": 1,
+          "j22:676": 1,
+          "j22:724": 1,
+          "j22:727": 1,
+          "j22:731": 1,
+          "j22:823": 1,
+          "j22:89": 1
+        }
+      },
+      "precon_86": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:135": 1,
+          "j22:38": 1,
+          "j22:647": 1,
+          "j22:675": 1,
+          "j22:676": 1,
+          "j22:685": 1,
+          "j22:699": 1,
+          "j22:711": 1,
+          "j22:712": 1,
+          "j22:727": 1,
+          "j22:735": 1,
+          "j22:823": 1,
+          "j22:89": 1
+        }
+      },
+      "precon_87": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 6,
+          "j22:133": 1,
+          "j22:40": 1,
+          "j22:46": 1,
+          "j22:644": 1,
+          "j22:646": 1,
+          "j22:671": 1,
+          "j22:726": 1,
+          "j22:728": 1,
+          "j22:729": 1,
+          "j22:739": 1,
+          "j22:787": 1,
+          "j22:823": 1,
+          "j22:827": 1,
+          "j22:91": 1
+        }
+      },
+      "precon_88": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:33": 1,
+          "j22:37": 1,
+          "j22:533": 1,
+          "j22:543": 1,
+          "j22:562": 1,
+          "j22:563": 1,
+          "j22:568": 1,
+          "j22:586": 1,
+          "j22:608": 1,
+          "j22:611": 1,
+          "j22:620": 1,
+          "j22:81": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_89": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:33": 1,
+          "j22:37": 1,
+          "j22:533": 1,
+          "j22:539": 1,
+          "j22:556": 1,
+          "j22:563": 1,
+          "j22:569": 1,
+          "j22:608": 1,
+          "j22:611": 1,
+          "j22:620": 1,
+          "j22:756": 1,
+          "j22:81": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_90": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:31": 1,
+          "j22:33": 1,
+          "j22:37": 1,
+          "j22:494": 1,
+          "j22:529": 1,
+          "j22:533": 1,
+          "j22:563": 1,
+          "j22:572": 1,
+          "j22:608": 1,
+          "j22:611": 1,
+          "j22:620": 1,
+          "j22:81": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_91": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:31": 1,
+          "j22:33": 1,
+          "j22:37": 1,
+          "j22:505": 1,
+          "j22:507": 1,
+          "j22:533": 1,
+          "j22:563": 1,
+          "j22:577": 1,
+          "j22:608": 1,
+          "j22:611": 1,
+          "j22:620": 1,
+          "j22:81": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_92": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:122": 1,
+          "j22:19": 1,
+          "j22:24": 1,
+          "j22:384": 1,
+          "j22:387": 1,
+          "j22:392": 1,
+          "j22:412": 1,
+          "j22:466": 1,
+          "j22:480": 1,
+          "j22:481": 1,
+          "j22:71": 1,
+          "j22:777": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_93": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:10": 1,
+          "j22:101": 7,
+          "j22:13": 1,
+          "j22:285": 1,
+          "j22:295": 1,
+          "j22:309": 1,
+          "j22:324": 1,
+          "j22:328": 1,
+          "j22:329": 1,
+          "j22:334": 1,
+          "j22:341": 1,
+          "j22:63": 1,
+          "j22:793": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_94": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:10": 1,
+          "j22:101": 7,
+          "j22:13": 1,
+          "j22:270": 1,
+          "j22:273": 1,
+          "j22:282": 1,
+          "j22:285": 1,
+          "j22:287": 1,
+          "j22:295": 1,
+          "j22:324": 1,
+          "j22:329": 1,
+          "j22:63": 1,
+          "j22:766": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_95": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 7,
+          "j22:16": 1,
+          "j22:269": 1,
+          "j22:281": 1,
+          "j22:283": 1,
+          "j22:304": 1,
+          "j22:315": 1,
+          "j22:316": 1,
+          "j22:323": 1,
+          "j22:62": 1,
+          "j22:757": 1,
+          "j22:775": 1,
+          "j22:803": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_96": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:12": 1,
+          "j22:274": 1,
+          "j22:277": 1,
+          "j22:280": 1,
+          "j22:284": 1,
+          "j22:301": 1,
+          "j22:308": 1,
+          "j22:319": 1,
+          "j22:336": 1,
+          "j22:374": 1,
+          "j22:789": 1,
+          "j22:821": 1,
+          "j22:833": 7,
+          "j22:94": 1
+        }
+      },
+      "precon_97": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:29": 1,
+          "j22:504": 1,
+          "j22:528": 1,
+          "j22:530": 1,
+          "j22:560": 1,
+          "j22:573": 1,
+          "j22:574": 1,
+          "j22:576": 1,
+          "j22:592": 1,
+          "j22:612": 1,
+          "j22:621": 1,
+          "j22:79": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_98": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:129": 1,
+          "j22:130": 1,
+          "j22:30": 1,
+          "j22:516": 1,
+          "j22:541": 1,
+          "j22:544": 1,
+          "j22:557": 1,
+          "j22:585": 1,
+          "j22:594": 1,
+          "j22:600": 1,
+          "j22:784": 1,
+          "j22:82": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_99": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:144": 1,
+          "j22:149": 1,
+          "j22:156": 1,
+          "j22:177": 1,
+          "j22:178": 1,
+          "j22:187": 1,
+          "j22:213": 1,
+          "j22:222": 1,
+          "j22:225": 1,
+          "j22:239": 1,
+          "j22:3": 1,
+          "j22:54": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_100": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:156": 1,
+          "j22:175": 1,
+          "j22:178": 1,
+          "j22:187": 1,
+          "j22:194": 1,
+          "j22:203": 1,
+          "j22:212": 1,
+          "j22:213": 1,
+          "j22:225": 1,
+          "j22:258": 1,
+          "j22:3": 1,
+          "j22:54": 1,
+          "j22:824": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_101": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:1": 1,
+          "j22:113": 1,
+          "j22:147": 1,
+          "j22:162": 1,
+          "j22:165": 1,
+          "j22:167": 1,
+          "j22:198": 1,
+          "j22:2": 1,
+          "j22:218": 1,
+          "j22:253": 1,
+          "j22:59": 1,
+          "j22:762": 1,
+          "j22:819": 1,
+          "j22:824": 1,
+          "j22:98": 6
+        }
+      },
+      "precon_102": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:1": 1,
+          "j22:113": 1,
+          "j22:147": 1,
+          "j22:165": 1,
+          "j22:167": 1,
+          "j22:198": 1,
+          "j22:2": 1,
+          "j22:209": 1,
+          "j22:254": 1,
+          "j22:59": 1,
+          "j22:778": 1,
+          "j22:807": 1,
+          "j22:819": 1,
+          "j22:824": 1,
+          "j22:98": 6
+        }
+      },
+      "precon_103": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 6,
+          "j22:15": 1,
+          "j22:17": 1,
+          "j22:288": 1,
+          "j22:293": 1,
+          "j22:296": 1,
+          "j22:310": 1,
+          "j22:326": 1,
+          "j22:345": 1,
+          "j22:351": 1,
+          "j22:359": 1,
+          "j22:364": 1,
+          "j22:64": 1,
+          "j22:815": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_104": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 7,
+          "j22:15": 1,
+          "j22:17": 1,
+          "j22:292": 1,
+          "j22:296": 1,
+          "j22:326": 1,
+          "j22:332": 1,
+          "j22:351": 1,
+          "j22:359": 1,
+          "j22:364": 1,
+          "j22:64": 1,
+          "j22:774": 1,
+          "j22:825": 1,
+          "j22:9": 1
+        }
+      },
+      "precon_105": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 6,
+          "j22:15": 1,
+          "j22:296": 1,
+          "j22:307": 1,
+          "j22:312": 1,
+          "j22:326": 1,
+          "j22:327": 1,
+          "j22:350": 1,
+          "j22:351": 1,
+          "j22:359": 1,
+          "j22:364": 1,
+          "j22:64": 1,
+          "j22:812": 1,
+          "j22:825": 1,
+          "j22:9": 1
+        }
+      },
+      "precon_106": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:101": 6,
+          "j22:15": 1,
+          "j22:17": 1,
+          "j22:294": 1,
+          "j22:296": 1,
+          "j22:313": 1,
+          "j22:318": 1,
+          "j22:322": 1,
+          "j22:326": 1,
+          "j22:351": 1,
+          "j22:359": 1,
+          "j22:364": 1,
+          "j22:64": 1,
+          "j22:815": 1,
+          "j22:825": 1
+        }
+      },
+      "precon_107": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:48": 1,
+          "j22:501": 1,
+          "j22:506": 1,
+          "j22:509": 1,
+          "j22:549": 1,
+          "j22:589": 1,
+          "j22:601": 1,
+          "j22:610": 1,
+          "j22:616": 1,
+          "j22:623": 1,
+          "j22:769": 1,
+          "j22:80": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_108": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:48": 1,
+          "j22:496": 1,
+          "j22:501": 1,
+          "j22:506": 1,
+          "j22:549": 1,
+          "j22:558": 1,
+          "j22:581": 1,
+          "j22:582": 1,
+          "j22:587": 1,
+          "j22:623": 1,
+          "j22:769": 1,
+          "j22:80": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_109": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:48": 1,
+          "j22:498": 1,
+          "j22:499": 1,
+          "j22:501": 1,
+          "j22:506": 1,
+          "j22:549": 1,
+          "j22:550": 1,
+          "j22:565": 1,
+          "j22:617": 1,
+          "j22:623": 1,
+          "j22:769": 1,
+          "j22:80": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_110": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:107": 7,
+          "j22:48": 1,
+          "j22:501": 1,
+          "j22:506": 1,
+          "j22:538": 1,
+          "j22:549": 1,
+          "j22:558": 1,
+          "j22:565": 1,
+          "j22:616": 1,
+          "j22:623": 1,
+          "j22:768": 1,
+          "j22:769": 1,
+          "j22:80": 1,
+          "j22:822": 1
+        }
+      },
+      "precon_111": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 6,
+          "j22:23": 1,
+          "j22:378": 1,
+          "j22:404": 1,
+          "j22:413": 1,
+          "j22:419": 1,
+          "j22:462": 1,
+          "j22:468": 1,
+          "j22:469": 1,
+          "j22:470": 1,
+          "j22:478": 1,
+          "j22:479": 1,
+          "j22:75": 1,
+          "j22:818": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_112": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:51": 1,
+          "j22:753": 1,
+          "j22:765": 1,
+          "j22:770": 1,
+          "j22:783": 1,
+          "j22:785": 1,
+          "j22:786": 1,
+          "j22:794": 1,
+          "j22:802": 1,
+          "j22:804": 1,
+          "j22:806": 1,
+          "j22:828": 1,
+          "j22:829": 2,
+          "j22:830": 2,
+          "j22:831": 3,
+          "j22:97": 1
+        }
+      },
+      "precon_113": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:139": 1,
+          "j22:140": 1,
+          "j22:161": 1,
+          "j22:164": 1,
+          "j22:188": 1,
+          "j22:193": 1,
+          "j22:197": 1,
+          "j22:204": 1,
+          "j22:236": 1,
+          "j22:6": 1,
+          "j22:754": 1,
+          "j22:824": 1,
+          "j22:96": 1,
+          "j22:98": 7
+        }
+      },
+      "precon_114": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:134": 1,
+          "j22:41": 1,
+          "j22:45": 1,
+          "j22:633": 1,
+          "j22:659": 1,
+          "j22:661": 1,
+          "j22:703": 1,
+          "j22:710": 1,
+          "j22:740": 1,
+          "j22:741": 1,
+          "j22:742": 1,
+          "j22:823": 1,
+          "j22:85": 1
+        }
+      },
+      "precon_115": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:41": 1,
+          "j22:45": 1,
+          "j22:633": 1,
+          "j22:659": 1,
+          "j22:672": 1,
+          "j22:673": 1,
+          "j22:688": 1,
+          "j22:692": 1,
+          "j22:705": 1,
+          "j22:710": 1,
+          "j22:746": 1,
+          "j22:823": 1,
+          "j22:85": 1
+        }
+      },
+      "precon_116": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:41": 1,
+          "j22:45": 1,
+          "j22:633": 1,
+          "j22:657": 1,
+          "j22:659": 1,
+          "j22:674": 1,
+          "j22:681": 1,
+          "j22:708": 1,
+          "j22:710": 1,
+          "j22:732": 1,
+          "j22:742": 1,
+          "j22:823": 1,
+          "j22:85": 1
+        }
+      },
+      "precon_117": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:110": 7,
+          "j22:41": 1,
+          "j22:45": 1,
+          "j22:633": 1,
+          "j22:634": 1,
+          "j22:659": 1,
+          "j22:662": 1,
+          "j22:672": 1,
+          "j22:696": 1,
+          "j22:705": 1,
+          "j22:710": 1,
+          "j22:742": 1,
+          "j22:823": 1,
+          "j22:85": 1
+        }
+      },
+      "precon_118": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:22": 1,
+          "j22:27": 1,
+          "j22:385": 1,
+          "j22:390": 1,
+          "j22:393": 1,
+          "j22:423": 1,
+          "j22:424": 1,
+          "j22:430": 1,
+          "j22:438": 1,
+          "j22:443": 1,
+          "j22:446": 1,
+          "j22:69": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_119": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:22": 1,
+          "j22:27": 1,
+          "j22:385": 1,
+          "j22:390": 1,
+          "j22:393": 1,
+          "j22:418": 1,
+          "j22:424": 1,
+          "j22:433": 1,
+          "j22:438": 1,
+          "j22:460": 1,
+          "j22:472": 1,
+          "j22:69": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_120": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:22": 1,
+          "j22:27": 1,
+          "j22:385": 1,
+          "j22:390": 1,
+          "j22:393": 1,
+          "j22:410": 1,
+          "j22:417": 1,
+          "j22:419": 1,
+          "j22:421": 1,
+          "j22:438": 1,
+          "j22:443": 1,
+          "j22:69": 1,
+          "j22:826": 1
+        }
+      },
+      "precon_121": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "j22:104": 7,
+          "j22:22": 1,
+          "j22:27": 1,
+          "j22:385": 1,
+          "j22:390": 1,
+          "j22:393": 1,
+          "j22:435": 1,
+          "j22:438": 1,
+          "j22:440": 1,
+          "j22:465": 1,
+          "j22:482": 1,
+          "j22:69": 1,
+          "j22:759": 1,
+          "j22:826": 1
         }
       }
     }
@@ -13489,6 +17350,336 @@
           "brr:62": 2,
           "brr:63": 1,
           "brr:9": 1
+        }
+      }
+    }
+  },
+  {
+    "name": "The Brothers' War Jumpstart Booster",
+    "code": "bro-jumpstart",
+    "set_code": "bro",
+    "set_name": "The Brothers' War",
+    "boosters": [
+      {
+        "sheets": {
+          "precon_1": 17,
+          "precon_1_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_2": 17,
+          "precon_2_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_3": 17,
+          "precon_3_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_4": 17,
+          "precon_4_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_5": 17,
+          "precon_5_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_6": 17,
+          "precon_6_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_7": 17,
+          "precon_7_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_8": 17,
+          "precon_8_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_9": 17,
+          "precon_9_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_10": 17,
+          "precon_10_foils": 2
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "precon_1": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "bro:1": 1,
+          "bro:11": 1,
+          "bro:19": 1,
+          "bro:2": 1,
+          "bro:22": 1,
+          "bro:23": 1,
+          "bro:242": 1,
+          "bro:268": 6,
+          "bro:27": 1,
+          "bro:288": 1,
+          "bro:32": 1,
+          "bro:41": 1
+        }
+      },
+      "precon_1_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "bro:268:foil": 2
+        }
+      },
+      "precon_2": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "bro:1": 1,
+          "bro:11": 1,
+          "bro:19": 1,
+          "bro:268": 6,
+          "bro:27": 1,
+          "bro:288": 1,
+          "bro:29": 1,
+          "bro:3": 1,
+          "bro:32": 1,
+          "bro:37": 1,
+          "bro:41": 1,
+          "bro:42": 1
+        }
+      },
+      "precon_2_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "bro:268:foil": 2
+        }
+      },
+      "precon_3": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "bro:270": 6,
+          "bro:289": 1,
+          "bro:55": 1,
+          "bro:64": 1,
+          "bro:65": 1,
+          "bro:67": 1,
+          "bro:68": 1,
+          "bro:69": 1,
+          "bro:71": 1,
+          "bro:72": 1,
+          "bro:77": 1,
+          "bro:80": 1
+        }
+      },
+      "precon_3_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "bro:270:foil": 2
+        }
+      },
+      "precon_4": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "bro:270": 6,
+          "bro:289": 1,
+          "bro:53": 1,
+          "bro:55": 1,
+          "bro:56": 1,
+          "bro:58": 1,
+          "bro:64": 1,
+          "bro:68": 1,
+          "bro:69": 1,
+          "bro:72": 1,
+          "bro:77": 1,
+          "bro:79": 1
+        }
+      },
+      "precon_4_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "bro:270:foil": 2
+        }
+      },
+      "precon_5": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "bro:167": 1,
+          "bro:172": 1,
+          "bro:174": 1,
+          "bro:182": 1,
+          "bro:183": 1,
+          "bro:189": 1,
+          "bro:190": 1,
+          "bro:198": 1,
+          "bro:200": 1,
+          "bro:204": 1,
+          "bro:276": 6,
+          "bro:292": 1
+        }
+      },
+      "precon_5_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "bro:276:foil": 2
+        }
+      },
+      "precon_6": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "bro:168": 1,
+          "bro:174": 1,
+          "bro:176": 1,
+          "bro:188": 1,
+          "bro:189": 1,
+          "bro:190": 1,
+          "bro:191": 1,
+          "bro:198": 1,
+          "bro:200": 1,
+          "bro:204": 1,
+          "bro:276": 6,
+          "bro:292": 1
+        }
+      },
+      "precon_6_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "bro:276:foil": 2
+        }
+      },
+      "precon_7": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "bro:102": 1,
+          "bro:103": 1,
+          "bro:106": 1,
+          "bro:109": 1,
+          "bro:113": 1,
+          "bro:115": 1,
+          "bro:117": 1,
+          "bro:118": 1,
+          "bro:123": 1,
+          "bro:272": 6,
+          "bro:290": 1,
+          "bro:85": 1
+        }
+      },
+      "precon_7_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "bro:272:foil": 2
+        }
+      },
+      "precon_8": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "bro:100": 1,
+          "bro:101": 1,
+          "bro:103": 1,
+          "bro:110": 1,
+          "bro:113": 1,
+          "bro:115": 1,
+          "bro:117": 1,
+          "bro:119": 1,
+          "bro:123": 1,
+          "bro:124": 1,
+          "bro:272": 6,
+          "bro:290": 1
+        }
+      },
+      "precon_8_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "bro:272:foil": 2
+        }
+      },
+      "precon_9": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "bro:127": 1,
+          "bro:134": 1,
+          "bro:138": 1,
+          "bro:140": 1,
+          "bro:145": 1,
+          "bro:155": 1,
+          "bro:157": 1,
+          "bro:159": 1,
+          "bro:161": 1,
+          "bro:164": 1,
+          "bro:274": 6,
+          "bro:291": 1
+        }
+      },
+      "precon_9_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "bro:274:foil": 2
+        }
+      },
+      "precon_10": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "bro:132": 1,
+          "bro:138": 1,
+          "bro:140": 1,
+          "bro:143": 1,
+          "bro:153": 1,
+          "bro:155": 1,
+          "bro:159": 1,
+          "bro:161": 1,
+          "bro:162": 1,
+          "bro:164": 1,
+          "bro:274": 6,
+          "bro:291": 1
+        }
+      },
+      "precon_10_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "bro:274:foil": 2
         }
       }
     }
@@ -19171,6 +23362,354 @@
           "leg:97": 3,
           "leg:98": 15,
           "leg:99": 15
+        }
+      }
+    }
+  },
+  {
+    "name": "Dominaria United Jumpstart Booster",
+    "code": "dmu-jumpstart",
+    "set_code": "dmu",
+    "set_name": "Dominaria United",
+    "boosters": [
+      {
+        "sheets": {
+          "precon_1": 17,
+          "precon_1_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_2": 17,
+          "precon_2_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_3": 17,
+          "precon_3_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_4": 17,
+          "precon_4_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_5": 17,
+          "precon_5_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_6": 17,
+          "precon_6_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_7": 17,
+          "precon_7_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_8": 17,
+          "precon_8_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_9": 17,
+          "precon_9_foils": 2
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_10": 17,
+          "precon_10_foils": 2
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "precon_1": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "dmu:265": 5,
+          "dmu:278": 1,
+          "dmu:283": 1,
+          "dmu:41": 1,
+          "dmu:44": 1,
+          "dmu:47": 1,
+          "dmu:51": 1,
+          "dmu:53": 1,
+          "dmu:54": 1,
+          "dmu:55": 1,
+          "dmu:64": 1,
+          "dmu:66": 1,
+          "dmu:68": 1
+        }
+      },
+      "precon_1_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "dmu:265:foil": 2
+        }
+      },
+      "precon_2": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "dmu:155": 1,
+          "dmu:157": 1,
+          "dmu:159": 1,
+          "dmu:163": 1,
+          "dmu:168": 1,
+          "dmu:172": 1,
+          "dmu:173": 1,
+          "dmu:178": 1,
+          "dmu:181": 1,
+          "dmu:184": 1,
+          "dmu:248": 1,
+          "dmu:253": 1,
+          "dmu:258": 1,
+          "dmu:260": 1,
+          "dmu:274": 1,
+          "dmu:281": 1,
+          "dmu:286": 1
+        }
+      },
+      "precon_2_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "dmu:274:foil": 2
+        }
+      },
+      "precon_3": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "dmu:10": 1,
+          "dmu:13": 1,
+          "dmu:18": 1,
+          "dmu:21": 1,
+          "dmu:25": 1,
+          "dmu:262": 5,
+          "dmu:277": 1,
+          "dmu:28": 1,
+          "dmu:282": 1,
+          "dmu:29": 1,
+          "dmu:4": 1,
+          "dmu:5": 1,
+          "dmu:9": 1
+        }
+      },
+      "precon_3_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "dmu:262:foil": 2
+        }
+      },
+      "precon_4": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "dmu:10": 1,
+          "dmu:18": 1,
+          "dmu:21": 1,
+          "dmu:23": 1,
+          "dmu:25": 1,
+          "dmu:262": 5,
+          "dmu:277": 1,
+          "dmu:28": 1,
+          "dmu:282": 1,
+          "dmu:31": 1,
+          "dmu:35": 1,
+          "dmu:4": 1,
+          "dmu:7": 1
+        }
+      },
+      "precon_4_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "dmu:262:foil": 2
+        }
+      },
+      "precon_5": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "dmu:155": 1,
+          "dmu:163": 1,
+          "dmu:164": 1,
+          "dmu:172": 1,
+          "dmu:174": 1,
+          "dmu:178": 1,
+          "dmu:181": 1,
+          "dmu:184": 1,
+          "dmu:188": 1,
+          "dmu:191": 1,
+          "dmu:248": 1,
+          "dmu:253": 1,
+          "dmu:258": 1,
+          "dmu:260": 1,
+          "dmu:274": 1,
+          "dmu:281": 1,
+          "dmu:286": 1
+        }
+      },
+      "precon_5_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "dmu:274:foil": 2
+        }
+      },
+      "precon_6": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "dmu:265": 5,
+          "dmu:278": 1,
+          "dmu:283": 1,
+          "dmu:41": 1,
+          "dmu:45": 1,
+          "dmu:48": 1,
+          "dmu:50": 1,
+          "dmu:51": 1,
+          "dmu:54": 1,
+          "dmu:55": 1,
+          "dmu:66": 1,
+          "dmu:68": 1,
+          "dmu:72": 1
+        }
+      },
+      "precon_6_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "dmu:265:foil": 2
+        }
+      },
+      "precon_7": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "dmu:118": 1,
+          "dmu:120": 1,
+          "dmu:122": 1,
+          "dmu:125": 1,
+          "dmu:128": 1,
+          "dmu:129": 1,
+          "dmu:134": 1,
+          "dmu:137": 1,
+          "dmu:140": 1,
+          "dmu:149": 1,
+          "dmu:271": 5,
+          "dmu:280": 1,
+          "dmu:285": 1
+        }
+      },
+      "precon_7_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "dmu:271:foil": 2
+        }
+      },
+      "precon_8": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "dmu:116": 1,
+          "dmu:118": 1,
+          "dmu:120": 1,
+          "dmu:122": 1,
+          "dmu:124": 1,
+          "dmu:126": 1,
+          "dmu:134": 1,
+          "dmu:139": 1,
+          "dmu:149": 1,
+          "dmu:152": 1,
+          "dmu:271": 5,
+          "dmu:280": 1,
+          "dmu:285": 1
+        }
+      },
+      "precon_8_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "dmu:271:foil": 2
+        }
+      },
+      "precon_9": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "dmu:100": 1,
+          "dmu:102": 1,
+          "dmu:104": 1,
+          "dmu:115": 1,
+          "dmu:268": 5,
+          "dmu:279": 1,
+          "dmu:284": 1,
+          "dmu:80": 1,
+          "dmu:85": 1,
+          "dmu:92": 1,
+          "dmu:94": 1,
+          "dmu:96": 1,
+          "dmu:99": 1
+        }
+      },
+      "precon_9_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "dmu:268:foil": 2
+        }
+      },
+      "precon_10": {
+        "fixed": true,
+        "total_weight": 17,
+        "cards": {
+          "dmu:100": 1,
+          "dmu:104": 1,
+          "dmu:109": 1,
+          "dmu:268": 5,
+          "dmu:279": 1,
+          "dmu:284": 1,
+          "dmu:80": 1,
+          "dmu:83": 1,
+          "dmu:85": 1,
+          "dmu:88": 1,
+          "dmu:89": 1,
+          "dmu:95": 1,
+          "dmu:99": 1
+        }
+      },
+      "precon_10_foils": {
+        "fixed": true,
+        "total_weight": 2,
+        "cards": {
+          "dmu:268:foil": 2
         }
       }
     }
@@ -73738,6 +78277,3274 @@
           "2xm:380:foil": 1,
           "2xm:381:foil": 1,
           "2xm:382:foil": 1
+        }
+      }
+    }
+  },
+  {
+    "name": "Jumpstart Jumpstart Booster",
+    "code": "jmp-jumpstart",
+    "set_code": "jmp",
+    "set_name": "Jumpstart",
+    "boosters": [
+      {
+        "sheets": {
+          "precon_1": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_2": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_3": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_4": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_5": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_6": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_7": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_8": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_9": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_10": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_11": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_12": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_13": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_14": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_15": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_16": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_17": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_18": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_19": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_20": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_21": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_22": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_23": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_24": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_25": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_26": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_27": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_28": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_29": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_30": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_31": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_32": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_33": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_34": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_35": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_36": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_37": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_38": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_39": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_40": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_41": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_42": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_43": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_44": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_45": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_46": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_47": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_48": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_49": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_50": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_51": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_52": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_53": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_54": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_55": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_56": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_57": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_58": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_59": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_60": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_61": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_62": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_63": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_64": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_65": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_66": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_67": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_68": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_69": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_70": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_71": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_72": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_73": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_74": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_75": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_76": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_77": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_78": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_79": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_80": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_81": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_82": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_83": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_84": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_85": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_86": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_87": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_88": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_89": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_90": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_91": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_92": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_93": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_94": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_95": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_96": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_97": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_98": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_99": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_100": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_101": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_102": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_103": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_104": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_105": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_106": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_107": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_108": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_109": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_110": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_111": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_112": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_113": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_114": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_115": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_116": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_117": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_118": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_119": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_120": 20
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "precon_121": 20
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "precon_1": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:12": 1,
+          "jmp:191": 1,
+          "jmp:36": 1,
+          "jmp:48": 1,
+          "m21:263": 6,
+          "m21:47": 1,
+          "m21:54": 1,
+          "m21:56": 1,
+          "m21:58": 1,
+          "m21:61": 1,
+          "m21:65": 1,
+          "m21:66": 1,
+          "m21:79": 1,
+          "m21:82": 1,
+          "m21:85": 1
+        }
+      },
+      "precon_2": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:12": 1,
+          "jmp:175": 1,
+          "jmp:182": 1,
+          "jmp:36": 1,
+          "jmp:48": 1,
+          "m21:263": 5,
+          "m21:47": 1,
+          "m21:51": 1,
+          "m21:54": 1,
+          "m21:56": 1,
+          "m21:58": 1,
+          "m21:61": 1,
+          "m21:65": 1,
+          "m21:79": 1,
+          "m21:82": 1,
+          "m21:85": 1
+        }
+      },
+      "precon_3": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:191": 1,
+          "jmp:194": 1,
+          "jmp:36": 1,
+          "jmp:48": 1,
+          "m21:263": 7,
+          "m21:47": 1,
+          "m21:51": 1,
+          "m21:54": 1,
+          "m21:56": 1,
+          "m21:61": 1,
+          "m21:65": 1,
+          "m21:79": 1,
+          "m21:82": 1,
+          "m21:85": 1
+        }
+      },
+      "precon_4": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:154": 1,
+          "jmp:195": 1,
+          "jmp:36": 1,
+          "jmp:48": 1,
+          "m21:263": 6,
+          "m21:47": 1,
+          "m21:54": 1,
+          "m21:56": 1,
+          "m21:58": 1,
+          "m21:61": 1,
+          "m21:65": 1,
+          "m21:66": 1,
+          "m21:79": 1,
+          "m21:82": 1,
+          "m21:85": 1
+        }
+      },
+      "precon_5": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:102": 1,
+          "jmp:132": 1,
+          "jmp:137": 1,
+          "jmp:35": 1,
+          "jmp:40": 1,
+          "jmp:467": 1,
+          "jmp:483": 1,
+          "jmp:87": 1,
+          "jmp:88": 1,
+          "m21:11": 1,
+          "m21:19": 1,
+          "m21:260": 6,
+          "m21:3": 1,
+          "m21:4": 1,
+          "m21:6": 1
+        }
+      },
+      "precon_6": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:102": 1,
+          "jmp:119": 1,
+          "jmp:132": 1,
+          "jmp:134": 1,
+          "jmp:35": 1,
+          "jmp:40": 1,
+          "jmp:467": 1,
+          "jmp:483": 1,
+          "jmp:86": 1,
+          "jmp:87": 1,
+          "jmp:88": 1,
+          "m21:11": 1,
+          "m21:260": 6,
+          "m21:3": 1,
+          "m21:4": 1
+        }
+      },
+      "precon_7": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:14": 1,
+          "jmp:150": 1,
+          "jmp:183": 1,
+          "jmp:32": 1,
+          "jmp:36": 1,
+          "jmp:456": 1,
+          "jmp:458": 1,
+          "jmp:462": 1,
+          "jmp:468": 1,
+          "jmp:471": 1,
+          "jmp:474": 1,
+          "jmp:49": 1,
+          "jmp:491": 1,
+          "jmp:9": 2,
+          "m21:263": 5
+        }
+      },
+      "precon_8": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:14": 1,
+          "jmp:150": 1,
+          "jmp:183": 1,
+          "jmp:32": 1,
+          "jmp:36": 1,
+          "jmp:456": 1,
+          "jmp:458": 1,
+          "jmp:464": 1,
+          "jmp:471": 1,
+          "jmp:474": 1,
+          "jmp:488": 1,
+          "jmp:49": 1,
+          "jmp:491": 1,
+          "jmp:9": 2,
+          "m21:263": 5
+        }
+      },
+      "precon_9": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:176": 1,
+          "jmp:183": 1,
+          "jmp:187": 1,
+          "jmp:32": 1,
+          "jmp:36": 1,
+          "jmp:456": 1,
+          "jmp:458": 1,
+          "jmp:468": 1,
+          "jmp:471": 1,
+          "jmp:474": 1,
+          "jmp:49": 1,
+          "jmp:491": 1,
+          "jmp:9": 2,
+          "m21:235": 1,
+          "m21:263": 5
+        }
+      },
+      "precon_10": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:183": 1,
+          "jmp:32": 1,
+          "jmp:36": 1,
+          "jmp:456": 1,
+          "jmp:470": 1,
+          "jmp:471": 1,
+          "jmp:474": 1,
+          "jmp:482": 1,
+          "jmp:484": 1,
+          "jmp:485": 1,
+          "jmp:49": 1,
+          "jmp:491": 1,
+          "jmp:9": 2,
+          "m21:236": 1,
+          "m21:263": 5
+        }
+      },
+      "precon_11": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:114": 1,
+          "jmp:35": 1,
+          "m21:10": 1,
+          "m21:12": 1,
+          "m21:17": 1,
+          "m21:19": 1,
+          "m21:24": 1,
+          "m21:260": 6,
+          "m21:309": 1,
+          "m21:37": 1,
+          "m21:39": 1,
+          "m21:41": 1,
+          "m21:7": 1,
+          "m21:8": 1,
+          "m21:9": 1
+        }
+      },
+      "precon_12": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:386": 1,
+          "jmp:392": 1,
+          "jmp:396": 1,
+          "jmp:397": 1,
+          "jmp:403": 1,
+          "jmp:407": 1,
+          "jmp:412": 1,
+          "jmp:419": 1,
+          "jmp:74": 1,
+          "m21:175": 1,
+          "m21:180": 1,
+          "m21:196": 1,
+          "m21:202": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_13": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:386": 1,
+          "jmp:392": 1,
+          "jmp:396": 1,
+          "jmp:397": 1,
+          "jmp:403": 1,
+          "jmp:407": 1,
+          "jmp:410": 1,
+          "jmp:412": 1,
+          "jmp:418": 1,
+          "jmp:74": 1,
+          "m21:175": 1,
+          "m21:180": 1,
+          "m21:196": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_14": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:315": 1,
+          "jmp:317": 1,
+          "jmp:33": 1,
+          "jmp:336": 1,
+          "jmp:355": 1,
+          "jmp:356": 1,
+          "jmp:372": 1,
+          "m21:135": 1,
+          "m21:136": 1,
+          "m21:137": 2,
+          "m21:138": 1,
+          "m21:165": 1,
+          "m21:269": 6,
+          "m21:312": 1
+        }
+      },
+      "precon_15": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:19": 1,
+          "jmp:26": 1,
+          "jmp:27": 1,
+          "jmp:305": 1,
+          "jmp:306": 1,
+          "jmp:322": 1,
+          "jmp:33": 1,
+          "jmp:333": 1,
+          "jmp:367": 1,
+          "jmp:63": 1,
+          "m21:149": 1,
+          "m21:152": 1,
+          "m21:156": 1,
+          "m21:166": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_16": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:19": 1,
+          "jmp:26": 1,
+          "jmp:27": 1,
+          "jmp:305": 1,
+          "jmp:33": 1,
+          "jmp:333": 1,
+          "jmp:366": 1,
+          "jmp:367": 2,
+          "jmp:63": 1,
+          "m21:149": 1,
+          "m21:152": 1,
+          "m21:156": 1,
+          "m21:166": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_17": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:19": 1,
+          "jmp:26": 1,
+          "jmp:289": 1,
+          "jmp:305": 1,
+          "jmp:306": 1,
+          "jmp:32": 1,
+          "jmp:33": 1,
+          "jmp:367": 1,
+          "jmp:63": 1,
+          "m21:133": 1,
+          "m21:149": 1,
+          "m21:152": 1,
+          "m21:156": 1,
+          "m21:166": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_18": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:19": 1,
+          "jmp:26": 1,
+          "jmp:289": 1,
+          "jmp:292": 1,
+          "jmp:305": 1,
+          "jmp:32": 1,
+          "jmp:33": 1,
+          "jmp:334": 1,
+          "jmp:363": 1,
+          "jmp:63": 1,
+          "m21:149": 1,
+          "m21:152": 1,
+          "m21:156": 1,
+          "m21:166": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_19": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:384": 1,
+          "jmp:386": 1,
+          "jmp:388": 1,
+          "jmp:399": 1,
+          "jmp:416": 1,
+          "jmp:427": 1,
+          "jmp:73": 1,
+          "m21:176": 1,
+          "m21:177": 1,
+          "m21:178": 1,
+          "m21:194": 1,
+          "m21:205": 1,
+          "m21:209": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_20": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:384": 1,
+          "jmp:386": 1,
+          "jmp:388": 1,
+          "jmp:414": 1,
+          "jmp:416": 1,
+          "jmp:427": 1,
+          "jmp:429": 1,
+          "jmp:437": 1,
+          "jmp:73": 1,
+          "m21:176": 1,
+          "m21:178": 1,
+          "m21:186": 1,
+          "m21:194": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_21": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:384": 1,
+          "jmp:386": 1,
+          "jmp:388": 1,
+          "jmp:399": 1,
+          "jmp:416": 1,
+          "jmp:427": 1,
+          "jmp:437": 1,
+          "jmp:73": 1,
+          "m21:176": 1,
+          "m21:177": 1,
+          "m21:178": 1,
+          "m21:194": 1,
+          "m21:210": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_22": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:384": 1,
+          "jmp:388": 1,
+          "jmp:414": 1,
+          "jmp:416": 1,
+          "jmp:423": 1,
+          "jmp:427": 1,
+          "jmp:73": 1,
+          "m21:176": 1,
+          "m21:178": 1,
+          "m21:186": 1,
+          "m21:194": 1,
+          "m21:197": 1,
+          "m21:209": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_23": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:17": 1,
+          "jmp:200": 1,
+          "jmp:214": 1,
+          "jmp:222": 1,
+          "jmp:227": 1,
+          "jmp:233": 1,
+          "jmp:266": 1,
+          "jmp:269": 1,
+          "jmp:279": 1,
+          "jmp:287": 2,
+          "jmp:37": 1,
+          "jmp:55": 1,
+          "m21:115": 1,
+          "m21:266": 6
+        }
+      },
+      "precon_24": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:200": 1,
+          "jmp:214": 1,
+          "jmp:222": 1,
+          "jmp:227": 1,
+          "jmp:233": 1,
+          "jmp:251": 1,
+          "jmp:259": 1,
+          "jmp:266": 1,
+          "jmp:269": 1,
+          "jmp:279": 1,
+          "jmp:287": 2,
+          "jmp:37": 1,
+          "jmp:55": 1,
+          "m21:266": 6
+        }
+      },
+      "precon_25": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:122": 1,
+          "jmp:134": 1,
+          "jmp:2": 1,
+          "jmp:35": 1,
+          "jmp:39": 1,
+          "jmp:93": 1,
+          "m21:17": 1,
+          "m21:22": 1,
+          "m21:25": 1,
+          "m21:260": 6,
+          "m21:31": 1,
+          "m21:38": 1,
+          "m21:4": 1,
+          "m21:40": 1,
+          "m21:8": 1
+        }
+      },
+      "precon_26": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:124": 1,
+          "jmp:2": 1,
+          "jmp:35": 1,
+          "jmp:39": 1,
+          "jmp:6": 1,
+          "jmp:84": 1,
+          "m21:22": 1,
+          "m21:25": 1,
+          "m21:260": 6,
+          "m21:31": 1,
+          "m21:35": 1,
+          "m21:38": 1,
+          "m21:4": 1,
+          "m21:40": 1,
+          "m21:8": 1
+        }
+      },
+      "precon_27": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:122": 1,
+          "jmp:124": 1,
+          "jmp:130": 1,
+          "jmp:2": 1,
+          "jmp:35": 1,
+          "jmp:39": 1,
+          "jmp:84": 1,
+          "m21:17": 1,
+          "m21:22": 1,
+          "m21:25": 1,
+          "m21:260": 6,
+          "m21:31": 1,
+          "m21:4": 1,
+          "m21:40": 1,
+          "m21:8": 1
+        }
+      },
+      "precon_28": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:126": 1,
+          "jmp:2": 1,
+          "jmp:35": 1,
+          "jmp:39": 1,
+          "jmp:6": 1,
+          "jmp:83": 1,
+          "jmp:84": 1,
+          "jmp:93": 1,
+          "jmp:98": 1,
+          "m21:22": 1,
+          "m21:260": 6,
+          "m21:31": 1,
+          "m21:4": 1,
+          "m21:40": 1,
+          "m21:8": 1
+        }
+      },
+      "precon_29": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:125": 1,
+          "jmp:35": 1,
+          "jmp:4": 1,
+          "jmp:45": 1,
+          "jmp:7": 1,
+          "jmp:8": 1,
+          "jmp:81": 1,
+          "jmp:94": 1,
+          "m21:19": 1,
+          "m21:2": 1,
+          "m21:260": 6,
+          "m21:29": 1,
+          "m21:30": 1,
+          "m21:35": 1,
+          "m21:36": 1
+        }
+      },
+      "precon_30": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:113": 1,
+          "jmp:125": 1,
+          "jmp:35": 1,
+          "jmp:4": 1,
+          "jmp:45": 1,
+          "jmp:7": 1,
+          "jmp:8": 1,
+          "jmp:81": 1,
+          "jmp:94": 1,
+          "jmp:99": 1,
+          "m21:2": 1,
+          "m21:260": 6,
+          "m21:29": 1,
+          "m21:30": 1,
+          "m21:35": 1
+        }
+      },
+      "precon_31": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:293": 1,
+          "jmp:308": 1,
+          "jmp:309": 1,
+          "jmp:310": 1,
+          "jmp:312": 1,
+          "jmp:33": 1,
+          "jmp:345": 1,
+          "jmp:358": 1,
+          "jmp:463": 1,
+          "jmp:62": 1,
+          "m21:151": 1,
+          "m21:164": 1,
+          "m21:165": 1,
+          "m21:269": 7
+        }
+      },
+      "precon_32": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:308": 1,
+          "jmp:309": 1,
+          "jmp:310": 1,
+          "jmp:311": 1,
+          "jmp:323": 1,
+          "jmp:33": 1,
+          "jmp:340": 1,
+          "jmp:345": 1,
+          "jmp:358": 1,
+          "jmp:360": 1,
+          "jmp:62": 1,
+          "m21:146": 1,
+          "m21:151": 1,
+          "m21:269": 7
+        }
+      },
+      "precon_33": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:385": 1,
+          "jmp:386": 1,
+          "jmp:389": 1,
+          "jmp:391": 1,
+          "jmp:400": 1,
+          "jmp:420": 1,
+          "jmp:430": 1,
+          "jmp:444": 1,
+          "jmp:77": 1,
+          "m21:189": 1,
+          "m21:193": 1,
+          "m21:206": 1,
+          "m21:210": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_34": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:28": 1,
+          "jmp:34": 1,
+          "jmp:386": 1,
+          "jmp:389": 1,
+          "jmp:408": 1,
+          "jmp:420": 1,
+          "jmp:430": 1,
+          "jmp:444": 1,
+          "jmp:447": 1,
+          "jmp:77": 1,
+          "m21:189": 1,
+          "m21:193": 1,
+          "m21:206": 1,
+          "m21:210": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_35": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:103": 1,
+          "jmp:104": 1,
+          "jmp:109": 1,
+          "jmp:114": 1,
+          "jmp:115": 1,
+          "jmp:116": 1,
+          "jmp:35": 1,
+          "jmp:42": 1,
+          "jmp:6": 1,
+          "jmp:8": 1,
+          "jmp:92": 1,
+          "m21:16": 1,
+          "m21:17": 1,
+          "m21:260": 6,
+          "m21:4": 1
+        }
+      },
+      "precon_36": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:103": 1,
+          "jmp:104": 1,
+          "jmp:109": 1,
+          "jmp:115": 1,
+          "jmp:35": 1,
+          "jmp:42": 1,
+          "jmp:6": 1,
+          "jmp:8": 1,
+          "jmp:82": 1,
+          "jmp:92": 1,
+          "jmp:93": 1,
+          "jmp:96": 1,
+          "m21:17": 1,
+          "m21:260": 6,
+          "m21:39": 1
+        }
+      },
+      "precon_37": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:107": 1,
+          "jmp:124": 1,
+          "jmp:133": 1,
+          "jmp:35": 1,
+          "jmp:44": 1,
+          "jmp:5": 1,
+          "jmp:80": 1,
+          "jmp:99": 1,
+          "m21:11": 1,
+          "m21:12": 1,
+          "m21:18": 1,
+          "m21:20": 1,
+          "m21:260": 6,
+          "m21:44": 1,
+          "m21:5": 1
+        }
+      },
+      "precon_38": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:107": 1,
+          "jmp:133": 1,
+          "jmp:135": 1,
+          "jmp:35": 1,
+          "jmp:44": 1,
+          "jmp:5": 1,
+          "m21:11": 1,
+          "m21:12": 1,
+          "m21:18": 1,
+          "m21:20": 1,
+          "m21:260": 6,
+          "m21:3": 1,
+          "m21:40": 1,
+          "m21:44": 1,
+          "m21:5": 1
+        }
+      },
+      "precon_39": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:107": 1,
+          "jmp:133": 1,
+          "jmp:134": 1,
+          "jmp:35": 1,
+          "jmp:44": 1,
+          "jmp:85": 1,
+          "jmp:99": 1,
+          "m21:11": 1,
+          "m21:12": 1,
+          "m21:18": 1,
+          "m21:20": 1,
+          "m21:260": 6,
+          "m21:40": 1,
+          "m21:44": 1,
+          "m21:5": 1
+        }
+      },
+      "precon_40": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:107": 1,
+          "jmp:133": 1,
+          "jmp:35": 1,
+          "jmp:44": 1,
+          "jmp:79": 1,
+          "jmp:80": 1,
+          "jmp:89": 1,
+          "jmp:90": 1,
+          "jmp:99": 1,
+          "m21:11": 1,
+          "m21:12": 1,
+          "m21:18": 1,
+          "m21:20": 1,
+          "m21:260": 6,
+          "m21:44": 1
+        }
+      },
+      "precon_41": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:373": 1,
+          "jmp:381": 1,
+          "jmp:402": 1,
+          "jmp:416": 1,
+          "jmp:426": 1,
+          "m21:178": 1,
+          "m21:183": 1,
+          "m21:184": 1,
+          "m21:185": 1,
+          "m21:186": 1,
+          "m21:189": 1,
+          "m21:199": 1,
+          "m21:272": 6,
+          "m21:313": 1
+        }
+      },
+      "precon_42": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:24": 1,
+          "jmp:294": 1,
+          "jmp:299": 1,
+          "jmp:325": 1,
+          "jmp:327": 1,
+          "jmp:33": 1,
+          "jmp:330": 1,
+          "jmp:348": 1,
+          "jmp:353": 1,
+          "jmp:354": 1,
+          "jmp:369": 1,
+          "jmp:65": 1,
+          "m21:147": 1,
+          "m21:159": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_43": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:24": 1,
+          "jmp:294": 1,
+          "jmp:299": 1,
+          "jmp:325": 1,
+          "jmp:327": 1,
+          "jmp:33": 1,
+          "jmp:330": 1,
+          "jmp:348": 1,
+          "jmp:353": 1,
+          "jmp:354": 1,
+          "jmp:65": 1,
+          "m21:130": 1,
+          "m21:134": 1,
+          "m21:147": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_44": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:294": 1,
+          "jmp:299": 1,
+          "jmp:324": 1,
+          "jmp:325": 1,
+          "jmp:326": 1,
+          "jmp:327": 1,
+          "jmp:33": 1,
+          "jmp:330": 1,
+          "jmp:348": 1,
+          "jmp:353": 1,
+          "jmp:369": 1,
+          "jmp:65": 1,
+          "m21:147": 1,
+          "m21:159": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_45": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:299": 1,
+          "jmp:325": 1,
+          "jmp:327": 1,
+          "jmp:328": 1,
+          "jmp:329": 1,
+          "jmp:33": 1,
+          "jmp:330": 1,
+          "jmp:339": 1,
+          "jmp:348": 1,
+          "jmp:353": 1,
+          "jmp:354": 1,
+          "jmp:65": 1,
+          "m21:134": 1,
+          "m21:147": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_46": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:118": 1,
+          "jmp:128": 1,
+          "jmp:35": 1,
+          "jmp:43": 1,
+          "jmp:8": 1,
+          "jmp:93": 1,
+          "jmp:95": 1,
+          "m21:10": 1,
+          "m21:19": 1,
+          "m21:26": 1,
+          "m21:260": 6,
+          "m21:35": 1,
+          "m21:37": 1,
+          "m21:41": 1,
+          "m21:8": 1
+        }
+      },
+      "precon_47": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:106": 1,
+          "jmp:118": 1,
+          "jmp:128": 1,
+          "jmp:35": 1,
+          "jmp:43": 1,
+          "jmp:8": 1,
+          "jmp:91": 1,
+          "jmp:93": 1,
+          "jmp:95": 1,
+          "m21:26": 1,
+          "m21:260": 6,
+          "m21:35": 1,
+          "m21:37": 1,
+          "m21:41": 1,
+          "m21:8": 1
+        }
+      },
+      "precon_48": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:100": 1,
+          "jmp:118": 1,
+          "jmp:123": 1,
+          "jmp:128": 1,
+          "jmp:35": 1,
+          "jmp:43": 1,
+          "jmp:7": 1,
+          "jmp:8": 1,
+          "jmp:91": 1,
+          "jmp:93": 1,
+          "m21:10": 1,
+          "m21:26": 1,
+          "m21:260": 6,
+          "m21:41": 1,
+          "m21:8": 1
+        }
+      },
+      "precon_49": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:101": 1,
+          "jmp:108": 1,
+          "jmp:118": 1,
+          "jmp:120": 1,
+          "jmp:35": 1,
+          "jmp:43": 1,
+          "jmp:7": 1,
+          "jmp:8": 1,
+          "jmp:93": 1,
+          "m21:26": 1,
+          "m21:260": 6,
+          "m21:37": 1,
+          "m21:40": 1,
+          "m21:41": 1,
+          "m21:8": 1
+        }
+      },
+      "precon_50": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:379": 1,
+          "jmp:386": 1,
+          "jmp:390": 1,
+          "jmp:394": 1,
+          "jmp:395": 1,
+          "jmp:398": 1,
+          "jmp:435": 1,
+          "jmp:439": 1,
+          "jmp:440": 1,
+          "jmp:444": 1,
+          "jmp:448": 1,
+          "jmp:71": 1,
+          "m21:177": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_51": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:379": 1,
+          "jmp:386": 1,
+          "jmp:390": 1,
+          "jmp:394": 1,
+          "jmp:395": 1,
+          "jmp:398": 1,
+          "jmp:415": 1,
+          "jmp:433": 1,
+          "jmp:435": 1,
+          "jmp:444": 1,
+          "jmp:446": 1,
+          "jmp:71": 1,
+          "m21:177": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_52": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:1": 1,
+          "jmp:110": 1,
+          "jmp:114": 1,
+          "jmp:127": 1,
+          "jmp:129": 1,
+          "jmp:35": 1,
+          "jmp:38": 1,
+          "m21:10": 1,
+          "m21:14": 1,
+          "m21:18": 1,
+          "m21:24": 1,
+          "m21:26": 1,
+          "m21:260": 6,
+          "m21:36": 1,
+          "m21:42": 1
+        }
+      },
+      "precon_53": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:111": 1,
+          "jmp:129": 1,
+          "jmp:35": 1,
+          "jmp:38": 1,
+          "jmp:4": 1,
+          "m21:10": 1,
+          "m21:14": 1,
+          "m21:17": 1,
+          "m21:21": 1,
+          "m21:24": 1,
+          "m21:26": 1,
+          "m21:260": 6,
+          "m21:37": 1,
+          "m21:39": 1,
+          "m21:42": 1
+        }
+      },
+      "precon_54": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:105": 1,
+          "jmp:129": 1,
+          "jmp:35": 1,
+          "jmp:38": 1,
+          "jmp:4": 1,
+          "m21:10": 1,
+          "m21:14": 1,
+          "m21:17": 1,
+          "m21:21": 1,
+          "m21:24": 1,
+          "m21:26": 1,
+          "m21:260": 6,
+          "m21:37": 1,
+          "m21:39": 1,
+          "m21:42": 1
+        }
+      },
+      "precon_55": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:105": 1,
+          "jmp:117": 1,
+          "jmp:121": 1,
+          "jmp:129": 1,
+          "jmp:35": 1,
+          "jmp:38": 1,
+          "m21:10": 1,
+          "m21:14": 1,
+          "m21:17": 1,
+          "m21:24": 1,
+          "m21:26": 1,
+          "m21:260": 6,
+          "m21:36": 1,
+          "m21:37": 1,
+          "m21:42": 1
+        }
+      },
+      "precon_56": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:21": 1,
+          "jmp:22": 2,
+          "jmp:23": 1,
+          "jmp:32": 1,
+          "jmp:33": 1,
+          "jmp:335": 1,
+          "jmp:341": 1,
+          "jmp:342": 1,
+          "jmp:343": 1,
+          "jmp:344": 1,
+          "jmp:345": 1,
+          "jmp:371": 1,
+          "jmp:68": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_57": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:21": 1,
+          "jmp:22": 2,
+          "jmp:23": 1,
+          "jmp:291": 1,
+          "jmp:302": 1,
+          "jmp:32": 1,
+          "jmp:33": 1,
+          "jmp:341": 1,
+          "jmp:343": 1,
+          "jmp:344": 1,
+          "jmp:359": 1,
+          "jmp:371": 1,
+          "jmp:68": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_58": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:205": 1,
+          "jmp:217": 1,
+          "jmp:238": 1,
+          "jmp:250": 1,
+          "jmp:276": 1,
+          "jmp:286": 1,
+          "jmp:37": 1,
+          "m21:101": 1,
+          "m21:108": 1,
+          "m21:109": 1,
+          "m21:110": 1,
+          "m21:111": 1,
+          "m21:119": 1,
+          "m21:266": 6,
+          "m21:311": 1
+        }
+      },
+      "precon_59": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:10": 1,
+          "jmp:141": 1,
+          "jmp:168": 1,
+          "jmp:174": 1,
+          "jmp:180": 1,
+          "jmp:184": 1,
+          "jmp:185": 1,
+          "jmp:186": 1,
+          "jmp:188": 1,
+          "jmp:190": 1,
+          "jmp:36": 1,
+          "jmp:50": 1,
+          "m21:263": 6,
+          "m21:47": 1,
+          "m21:78": 1
+        }
+      },
+      "precon_60": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:15": 1,
+          "jmp:16": 1,
+          "jmp:212": 1,
+          "jmp:226": 1,
+          "jmp:237": 1,
+          "jmp:244": 1,
+          "jmp:277": 1,
+          "jmp:37": 1,
+          "jmp:54": 1,
+          "m21:101": 1,
+          "m21:126": 1,
+          "m21:129": 1,
+          "m21:266": 6,
+          "m21:93": 1,
+          "m21:97": 1
+        }
+      },
+      "precon_61": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:15": 1,
+          "jmp:16": 1,
+          "jmp:213": 1,
+          "jmp:224": 1,
+          "jmp:226": 1,
+          "jmp:228": 1,
+          "jmp:237": 1,
+          "jmp:37": 1,
+          "jmp:54": 1,
+          "m21:101": 1,
+          "m21:126": 1,
+          "m21:129": 1,
+          "m21:266": 6,
+          "m21:93": 1,
+          "m21:97": 1
+        }
+      },
+      "precon_62": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:16": 1,
+          "jmp:224": 1,
+          "jmp:226": 1,
+          "jmp:237": 1,
+          "jmp:248": 1,
+          "jmp:37": 1,
+          "jmp:493": 1,
+          "jmp:54": 1,
+          "m21:101": 1,
+          "m21:109": 1,
+          "m21:126": 1,
+          "m21:129": 1,
+          "m21:266": 5,
+          "m21:93": 1,
+          "m21:97": 1,
+          "m21:98": 1
+        }
+      },
+      "precon_63": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:16": 1,
+          "jmp:226": 1,
+          "jmp:236": 1,
+          "jmp:237": 1,
+          "jmp:244": 1,
+          "jmp:277": 1,
+          "jmp:37": 1,
+          "jmp:54": 1,
+          "m21:101": 1,
+          "m21:109": 1,
+          "m21:126": 1,
+          "m21:129": 1,
+          "m21:266": 6,
+          "m21:97": 1,
+          "m21:98": 1
+        }
+      },
+      "precon_64": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:22": 1,
+          "jmp:25": 1,
+          "jmp:296": 1,
+          "jmp:301": 1,
+          "jmp:321": 1,
+          "jmp:33": 1,
+          "jmp:349": 1,
+          "jmp:350": 1,
+          "jmp:352": 1,
+          "jmp:370": 1,
+          "jmp:469": 1,
+          "jmp:69": 1,
+          "m21:160": 1,
+          "m21:163": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_65": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:22": 1,
+          "jmp:25": 1,
+          "jmp:296": 1,
+          "jmp:301": 1,
+          "jmp:321": 1,
+          "jmp:33": 1,
+          "jmp:349": 1,
+          "jmp:350": 1,
+          "jmp:357": 1,
+          "jmp:69": 1,
+          "m21:160": 1,
+          "m21:163": 1,
+          "m21:166": 1,
+          "m21:170": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_66": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:223": 1,
+          "jmp:227": 1,
+          "jmp:262": 1,
+          "jmp:263": 1,
+          "jmp:264": 1,
+          "jmp:265": 1,
+          "jmp:266": 1,
+          "jmp:267": 1,
+          "jmp:278": 1,
+          "jmp:37": 1,
+          "jmp:475": 1,
+          "jmp:476": 1,
+          "jmp:58": 1,
+          "m21:112": 1,
+          "m21:266": 6
+        }
+      },
+      "precon_67": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:11": 1,
+          "jmp:142": 1,
+          "jmp:144": 1,
+          "jmp:149": 1,
+          "jmp:155": 1,
+          "jmp:165": 1,
+          "jmp:170": 1,
+          "jmp:172": 1,
+          "jmp:178": 1,
+          "jmp:189": 1,
+          "jmp:192": 1,
+          "jmp:36": 1,
+          "jmp:477": 1,
+          "jmp:52": 1,
+          "m21:263": 6
+        }
+      },
+      "precon_68": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:11": 1,
+          "jmp:142": 1,
+          "jmp:148": 1,
+          "jmp:149": 1,
+          "jmp:155": 1,
+          "jmp:165": 1,
+          "jmp:170": 1,
+          "jmp:172": 1,
+          "jmp:178": 1,
+          "jmp:36": 1,
+          "jmp:477": 1,
+          "jmp:52": 1,
+          "m21:263": 6,
+          "m21:47": 1,
+          "m21:62": 1
+        }
+      },
+      "precon_69": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:376": 1,
+          "jmp:377": 1,
+          "jmp:398": 1,
+          "jmp:405": 1,
+          "jmp:413": 1,
+          "jmp:421": 1,
+          "jmp:72": 1,
+          "m21:189": 1,
+          "m21:190": 1,
+          "m21:196": 1,
+          "m21:212": 1,
+          "m21:214": 1,
+          "m21:272": 7
+        }
+      },
+      "precon_70": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:29": 1,
+          "jmp:34": 1,
+          "jmp:376": 1,
+          "jmp:377": 1,
+          "jmp:398": 1,
+          "jmp:405": 1,
+          "jmp:413": 1,
+          "jmp:72": 1,
+          "m21:189": 1,
+          "m21:190": 1,
+          "m21:196": 1,
+          "m21:212": 1,
+          "m21:214": 1,
+          "m21:272": 7
+        }
+      },
+      "precon_71": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:376": 1,
+          "jmp:398": 1,
+          "jmp:404": 1,
+          "jmp:413": 1,
+          "jmp:425": 1,
+          "jmp:428": 1,
+          "jmp:72": 1,
+          "m21:189": 1,
+          "m21:190": 1,
+          "m21:196": 1,
+          "m21:212": 1,
+          "m21:214": 1,
+          "m21:272": 7
+        }
+      },
+      "precon_72": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:29": 1,
+          "jmp:34": 1,
+          "jmp:376": 1,
+          "jmp:383": 1,
+          "jmp:409": 1,
+          "jmp:413": 1,
+          "jmp:428": 1,
+          "jmp:72": 1,
+          "m21:189": 1,
+          "m21:190": 1,
+          "m21:196": 1,
+          "m21:212": 1,
+          "m21:214": 1,
+          "m21:272": 7
+        }
+      },
+      "precon_73": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:30": 1,
+          "jmp:34": 1,
+          "jmp:380": 1,
+          "jmp:386": 1,
+          "jmp:387": 1,
+          "jmp:406": 1,
+          "jmp:431": 1,
+          "jmp:434": 1,
+          "jmp:438": 1,
+          "jmp:473": 1,
+          "jmp:76": 1,
+          "m21:182": 1,
+          "m21:202": 1,
+          "m21:212": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_74": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:30": 1,
+          "jmp:34": 1,
+          "jmp:373": 1,
+          "jmp:380": 1,
+          "jmp:386": 1,
+          "jmp:387": 1,
+          "jmp:406": 1,
+          "jmp:438": 1,
+          "jmp:466": 1,
+          "jmp:473": 1,
+          "jmp:76": 1,
+          "m21:182": 1,
+          "m21:202": 1,
+          "m21:212": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_75": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:380": 1,
+          "jmp:386": 1,
+          "jmp:387": 1,
+          "jmp:406": 1,
+          "jmp:431": 1,
+          "jmp:436": 1,
+          "jmp:438": 1,
+          "jmp:466": 1,
+          "jmp:473": 1,
+          "jmp:76": 1,
+          "m21:182": 1,
+          "m21:202": 1,
+          "m21:212": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_76": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:373": 1,
+          "jmp:380": 1,
+          "jmp:386": 1,
+          "jmp:387": 1,
+          "jmp:406": 1,
+          "jmp:411": 1,
+          "jmp:424": 1,
+          "jmp:434": 1,
+          "jmp:438": 1,
+          "jmp:76": 1,
+          "m21:182": 1,
+          "m21:202": 1,
+          "m21:212": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_77": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:449": 1,
+          "jmp:450": 1,
+          "jmp:451": 1,
+          "jmp:452": 1,
+          "jmp:453": 1,
+          "jmp:454": 1,
+          "jmp:455": 1,
+          "jmp:457": 1,
+          "jmp:461": 1,
+          "jmp:478": 1,
+          "jmp:486": 1,
+          "jmp:492": 1,
+          "jmp:495": 1,
+          "jmp:78": 1,
+          "m21:235": 1,
+          "m21:260": 1,
+          "m21:263": 1,
+          "m21:266": 1,
+          "m21:269": 1,
+          "m21:272": 1
+        }
+      },
+      "precon_78": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:215": 1,
+          "jmp:221": 1,
+          "jmp:235": 1,
+          "jmp:256": 1,
+          "jmp:257": 1,
+          "jmp:270": 1,
+          "jmp:284": 1,
+          "jmp:37": 1,
+          "jmp:56": 1,
+          "m21:101": 1,
+          "m21:119": 1,
+          "m21:266": 6,
+          "m21:88": 1,
+          "m21:93": 1,
+          "m21:97": 1
+        }
+      },
+      "precon_79": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:221": 1,
+          "jmp:235": 1,
+          "jmp:252": 1,
+          "jmp:256": 1,
+          "jmp:257": 1,
+          "jmp:270": 1,
+          "jmp:37": 1,
+          "jmp:56": 1,
+          "m21:100": 1,
+          "m21:101": 1,
+          "m21:119": 1,
+          "m21:266": 6,
+          "m21:92": 1,
+          "m21:93": 1,
+          "m21:97": 1
+        }
+      },
+      "precon_80": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:221": 1,
+          "jmp:230": 1,
+          "jmp:235": 1,
+          "jmp:241": 1,
+          "jmp:256": 1,
+          "jmp:257": 1,
+          "jmp:274": 1,
+          "jmp:288": 1,
+          "jmp:37": 1,
+          "jmp:56": 1,
+          "m21:101": 1,
+          "m21:119": 1,
+          "m21:266": 6,
+          "m21:93": 1,
+          "m21:97": 1
+        }
+      },
+      "precon_81": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:221": 1,
+          "jmp:235": 1,
+          "jmp:256": 1,
+          "jmp:257": 1,
+          "jmp:271": 1,
+          "jmp:280": 1,
+          "jmp:37": 1,
+          "jmp:56": 1,
+          "m21:100": 1,
+          "m21:101": 1,
+          "m21:119": 1,
+          "m21:266": 6,
+          "m21:92": 1,
+          "m21:93": 1,
+          "m21:97": 1
+        }
+      },
+      "precon_82": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:16": 1,
+          "jmp:219": 1,
+          "jmp:220": 1,
+          "jmp:247": 1,
+          "jmp:249": 1,
+          "jmp:258": 1,
+          "jmp:261": 1,
+          "jmp:281": 1,
+          "jmp:37": 1,
+          "jmp:479": 1,
+          "jmp:57": 1,
+          "m21:113": 1,
+          "m21:125": 1,
+          "m21:266": 6,
+          "m21:87": 1
+        }
+      },
+      "precon_83": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:16": 1,
+          "jmp:240": 1,
+          "jmp:249": 1,
+          "jmp:255": 1,
+          "jmp:258": 1,
+          "jmp:261": 1,
+          "jmp:281": 1,
+          "jmp:37": 1,
+          "jmp:479": 1,
+          "jmp:57": 1,
+          "m21:113": 1,
+          "m21:125": 1,
+          "m21:266": 6,
+          "m21:87": 1,
+          "m21:99": 1
+        }
+      },
+      "precon_84": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:290": 1,
+          "jmp:297": 1,
+          "jmp:304": 1,
+          "jmp:33": 1,
+          "jmp:331": 1,
+          "jmp:346": 1,
+          "jmp:347": 1,
+          "jmp:351": 1,
+          "jmp:362": 1,
+          "jmp:364": 1,
+          "jmp:368": 1,
+          "jmp:472": 1,
+          "jmp:64": 1,
+          "m21:171": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_85": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:296": 1,
+          "jmp:300": 1,
+          "jmp:319": 1,
+          "jmp:320": 1,
+          "jmp:33": 1,
+          "jmp:67": 1,
+          "m21:132": 1,
+          "m21:144": 1,
+          "m21:150": 1,
+          "m21:155": 1,
+          "m21:159": 1,
+          "m21:169": 1,
+          "m21:170": 1,
+          "m21:172": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_86": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:296": 1,
+          "jmp:300": 1,
+          "jmp:318": 1,
+          "jmp:320": 1,
+          "jmp:33": 1,
+          "jmp:336": 1,
+          "jmp:67": 1,
+          "m21:132": 1,
+          "m21:144": 1,
+          "m21:150": 1,
+          "m21:155": 1,
+          "m21:169": 1,
+          "m21:172": 1,
+          "m21:236": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_87": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:296": 1,
+          "jmp:300": 1,
+          "jmp:320": 1,
+          "jmp:33": 1,
+          "jmp:332": 1,
+          "jmp:337": 1,
+          "jmp:361": 1,
+          "jmp:67": 1,
+          "m21:132": 1,
+          "m21:144": 1,
+          "m21:150": 1,
+          "m21:155": 1,
+          "m21:169": 1,
+          "m21:170": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_88": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:296": 1,
+          "jmp:298": 1,
+          "jmp:300": 1,
+          "jmp:314": 1,
+          "jmp:320": 1,
+          "jmp:33": 1,
+          "jmp:336": 1,
+          "jmp:67": 1,
+          "m21:132": 1,
+          "m21:144": 1,
+          "m21:145": 1,
+          "m21:150": 1,
+          "m21:155": 1,
+          "m21:169": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_89": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:22": 1,
+          "jmp:23": 1,
+          "jmp:295": 1,
+          "jmp:33": 1,
+          "jmp:336": 1,
+          "jmp:365": 1,
+          "jmp:66": 1,
+          "m21:138": 1,
+          "m21:142": 1,
+          "m21:148": 1,
+          "m21:150": 1,
+          "m21:154": 1,
+          "m21:159": 1,
+          "m21:165": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_90": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:22": 1,
+          "jmp:316": 1,
+          "jmp:33": 1,
+          "jmp:336": 1,
+          "jmp:338": 1,
+          "jmp:365": 1,
+          "jmp:372": 1,
+          "jmp:66": 1,
+          "m21:138": 1,
+          "m21:142": 1,
+          "m21:150": 1,
+          "m21:154": 1,
+          "m21:159": 1,
+          "m21:165": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_91": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:22": 1,
+          "jmp:23": 1,
+          "jmp:303": 1,
+          "jmp:309": 1,
+          "jmp:313": 1,
+          "jmp:33": 1,
+          "jmp:336": 1,
+          "jmp:365": 1,
+          "jmp:66": 1,
+          "m21:138": 1,
+          "m21:150": 1,
+          "m21:154": 1,
+          "m21:159": 1,
+          "m21:165": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_92": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:20": 1,
+          "jmp:22": 1,
+          "jmp:307": 1,
+          "jmp:33": 1,
+          "jmp:336": 1,
+          "jmp:338": 1,
+          "jmp:365": 1,
+          "jmp:66": 1,
+          "m21:138": 1,
+          "m21:140": 1,
+          "m21:150": 1,
+          "m21:154": 1,
+          "m21:159": 1,
+          "m21:165": 1,
+          "m21:269": 6
+        }
+      },
+      "precon_93": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:139": 1,
+          "jmp:140": 1,
+          "jmp:149": 1,
+          "jmp:151": 1,
+          "jmp:157": 1,
+          "jmp:160": 1,
+          "jmp:196": 1,
+          "jmp:36": 1,
+          "jmp:51": 1,
+          "m21:263": 6,
+          "m21:47": 1,
+          "m21:51": 1,
+          "m21:65": 1,
+          "m21:70": 1,
+          "m21:81": 1
+        }
+      },
+      "precon_94": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:139": 1,
+          "jmp:149": 1,
+          "jmp:160": 1,
+          "jmp:166": 1,
+          "jmp:196": 1,
+          "jmp:36": 1,
+          "jmp:51": 1,
+          "m21:263": 6,
+          "m21:47": 1,
+          "m21:51": 1,
+          "m21:63": 1,
+          "m21:65": 1,
+          "m21:66": 1,
+          "m21:70": 1,
+          "m21:81": 1
+        }
+      },
+      "precon_95": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:202": 1,
+          "jmp:212": 1,
+          "jmp:226": 1,
+          "jmp:228": 1,
+          "jmp:242": 1,
+          "jmp:37": 1,
+          "jmp:61": 1,
+          "m21:110": 1,
+          "m21:112": 1,
+          "m21:126": 1,
+          "m21:266": 6,
+          "m21:91": 1,
+          "m21:93": 1,
+          "m21:98": 1,
+          "m21:99": 1
+        }
+      },
+      "precon_96": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:202": 1,
+          "jmp:212": 1,
+          "jmp:213": 1,
+          "jmp:226": 1,
+          "jmp:228": 1,
+          "jmp:242": 1,
+          "jmp:243": 1,
+          "jmp:273": 1,
+          "jmp:37": 1,
+          "jmp:61": 1,
+          "m21:112": 1,
+          "m21:266": 6,
+          "m21:91": 1,
+          "m21:93": 1,
+          "m21:99": 1
+        }
+      },
+      "precon_97": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:212": 1,
+          "jmp:226": 1,
+          "jmp:228": 1,
+          "jmp:242": 1,
+          "jmp:246": 1,
+          "jmp:260": 1,
+          "jmp:37": 1,
+          "jmp:61": 1,
+          "m21:109": 1,
+          "m21:112": 1,
+          "m21:266": 6,
+          "m21:91": 1,
+          "m21:93": 1,
+          "m21:98": 1,
+          "m21:99": 1
+        }
+      },
+      "precon_98": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:204": 1,
+          "jmp:212": 1,
+          "jmp:226": 1,
+          "jmp:228": 1,
+          "jmp:242": 1,
+          "jmp:268": 1,
+          "jmp:273": 1,
+          "jmp:37": 1,
+          "jmp:61": 1,
+          "m21:109": 1,
+          "m21:112": 1,
+          "m21:266": 6,
+          "m21:91": 1,
+          "m21:93": 1,
+          "m21:99": 1
+        }
+      },
+      "precon_99": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:152": 1,
+          "jmp:156": 1,
+          "jmp:164": 1,
+          "jmp:171": 1,
+          "jmp:182": 1,
+          "jmp:36": 1,
+          "m21:263": 6,
+          "m21:310": 1,
+          "m21:59": 1,
+          "m21:75": 1,
+          "m21:76": 1,
+          "m21:77": 1,
+          "m21:78": 1,
+          "m21:80": 1,
+          "m21:83": 1
+        }
+      },
+      "precon_100": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:374": 1,
+          "jmp:375": 1,
+          "jmp:386": 1,
+          "jmp:393": 1,
+          "jmp:412": 1,
+          "jmp:422": 1,
+          "jmp:442": 1,
+          "jmp:70": 1,
+          "m21:174": 1,
+          "m21:187": 1,
+          "m21:193": 1,
+          "m21:207": 1,
+          "m21:213": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_101": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:375": 1,
+          "jmp:386": 1,
+          "jmp:393": 1,
+          "jmp:412": 1,
+          "jmp:422": 1,
+          "jmp:442": 1,
+          "jmp:445": 1,
+          "jmp:70": 1,
+          "m21:174": 1,
+          "m21:187": 1,
+          "m21:193": 1,
+          "m21:207": 1,
+          "m21:213": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_102": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:374": 1,
+          "jmp:375": 1,
+          "jmp:386": 1,
+          "jmp:393": 1,
+          "jmp:412": 1,
+          "jmp:442": 1,
+          "jmp:70": 1,
+          "m21:174": 1,
+          "m21:187": 1,
+          "m21:191": 1,
+          "m21:193": 1,
+          "m21:207": 1,
+          "m21:213": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_103": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:34": 1,
+          "jmp:386": 1,
+          "jmp:393": 1,
+          "jmp:412": 1,
+          "jmp:432": 1,
+          "jmp:441": 1,
+          "jmp:442": 1,
+          "jmp:445": 1,
+          "jmp:70": 1,
+          "m21:174": 1,
+          "m21:187": 1,
+          "m21:193": 1,
+          "m21:207": 1,
+          "m21:213": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_104": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:138": 1,
+          "jmp:161": 1,
+          "jmp:177": 1,
+          "jmp:189": 1,
+          "jmp:192": 1,
+          "jmp:197": 1,
+          "jmp:36": 1,
+          "jmp:46": 1,
+          "jmp:489": 1,
+          "m21:263": 7,
+          "m21:60": 1,
+          "m21:67": 1,
+          "m21:80": 1,
+          "m21:84": 1
+        }
+      },
+      "precon_105": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:138": 1,
+          "jmp:146": 1,
+          "jmp:161": 1,
+          "jmp:177": 1,
+          "jmp:180": 1,
+          "jmp:192": 1,
+          "jmp:193": 1,
+          "jmp:197": 1,
+          "jmp:36": 1,
+          "jmp:46": 1,
+          "jmp:489": 1,
+          "m21:263": 7,
+          "m21:60": 1,
+          "m21:84": 1
+        }
+      },
+      "precon_106": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:1": 1,
+          "jmp:110": 1,
+          "jmp:112": 1,
+          "jmp:122": 1,
+          "jmp:131": 1,
+          "jmp:136": 1,
+          "jmp:2": 1,
+          "jmp:3": 1,
+          "jmp:35": 1,
+          "jmp:41": 1,
+          "jmp:97": 1,
+          "m21:14": 1,
+          "m21:17": 1,
+          "m21:260": 6,
+          "m21:42": 1
+        }
+      },
+      "precon_107": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:16": 1,
+          "jmp:199": 1,
+          "jmp:206": 1,
+          "jmp:209": 1,
+          "jmp:229": 1,
+          "jmp:239": 1,
+          "jmp:245": 1,
+          "jmp:247": 1,
+          "jmp:37": 1,
+          "jmp:60": 1,
+          "m21:100": 1,
+          "m21:121": 1,
+          "m21:122": 1,
+          "m21:127": 1,
+          "m21:266": 6
+        }
+      },
+      "precon_108": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:16": 1,
+          "jmp:199": 1,
+          "jmp:208": 1,
+          "jmp:209": 1,
+          "jmp:218": 1,
+          "jmp:229": 1,
+          "jmp:239": 1,
+          "jmp:247": 1,
+          "jmp:37": 1,
+          "jmp:60": 1,
+          "m21:100": 1,
+          "m21:121": 1,
+          "m21:122": 1,
+          "m21:127": 1,
+          "m21:266": 6
+        }
+      },
+      "precon_109": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:16": 1,
+          "jmp:199": 1,
+          "jmp:209": 1,
+          "jmp:231": 1,
+          "jmp:239": 1,
+          "jmp:247": 1,
+          "jmp:272": 1,
+          "jmp:275": 1,
+          "jmp:285": 1,
+          "jmp:37": 1,
+          "jmp:60": 1,
+          "m21:100": 1,
+          "m21:121": 1,
+          "m21:122": 1,
+          "m21:266": 6
+        }
+      },
+      "precon_110": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:16": 1,
+          "jmp:199": 1,
+          "jmp:209": 1,
+          "jmp:218": 1,
+          "jmp:225": 1,
+          "jmp:232": 1,
+          "jmp:239": 1,
+          "jmp:247": 1,
+          "jmp:254": 1,
+          "jmp:37": 1,
+          "jmp:60": 1,
+          "m21:100": 1,
+          "m21:121": 1,
+          "m21:122": 1,
+          "m21:266": 6
+        }
+      },
+      "precon_111": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:31": 1,
+          "jmp:34": 1,
+          "jmp:378": 1,
+          "jmp:382": 1,
+          "jmp:386": 1,
+          "jmp:401": 1,
+          "jmp:417": 1,
+          "jmp:442": 1,
+          "jmp:443": 1,
+          "jmp:465": 1,
+          "jmp:480": 1,
+          "jmp:490": 1,
+          "jmp:75": 1,
+          "m21:195": 1,
+          "m21:272": 6
+        }
+      },
+      "precon_112": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:13": 1,
+          "jmp:147": 1,
+          "jmp:150": 1,
+          "jmp:159": 1,
+          "jmp:162": 1,
+          "jmp:36": 1,
+          "jmp:481": 1,
+          "jmp:487": 1,
+          "jmp:53": 1,
+          "m21:263": 6,
+          "m21:55": 1,
+          "m21:59": 1,
+          "m21:67": 1,
+          "m21:80": 1,
+          "m21:81": 1
+        }
+      },
+      "precon_113": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:13": 1,
+          "jmp:147": 1,
+          "jmp:150": 1,
+          "jmp:162": 1,
+          "jmp:36": 1,
+          "jmp:459": 1,
+          "jmp:481": 1,
+          "jmp:53": 1,
+          "m21:263": 6,
+          "m21:47": 1,
+          "m21:55": 1,
+          "m21:59": 1,
+          "m21:67": 1,
+          "m21:80": 1,
+          "m21:81": 1
+        }
+      },
+      "precon_114": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:143": 1,
+          "jmp:147": 1,
+          "jmp:150": 1,
+          "jmp:159": 1,
+          "jmp:162": 1,
+          "jmp:169": 1,
+          "jmp:36": 1,
+          "jmp:481": 1,
+          "jmp:487": 1,
+          "jmp:53": 1,
+          "m21:263": 6,
+          "m21:55": 1,
+          "m21:59": 1,
+          "m21:80": 1,
+          "m21:81": 1
+        }
+      },
+      "precon_115": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:143": 1,
+          "jmp:147": 1,
+          "jmp:158": 1,
+          "jmp:162": 1,
+          "jmp:167": 1,
+          "jmp:36": 1,
+          "jmp:481": 1,
+          "jmp:487": 1,
+          "jmp:53": 1,
+          "m21:263": 6,
+          "m21:47": 1,
+          "m21:55": 1,
+          "m21:59": 1,
+          "m21:80": 1,
+          "m21:81": 1
+        }
+      },
+      "precon_116": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:18": 1,
+          "jmp:201": 1,
+          "jmp:210": 1,
+          "jmp:211": 1,
+          "jmp:216": 1,
+          "jmp:234": 2,
+          "jmp:253": 1,
+          "jmp:283": 1,
+          "jmp:37": 1,
+          "jmp:460": 1,
+          "jmp:59": 1,
+          "m21:129": 1,
+          "m21:266": 6,
+          "m21:99": 1
+        }
+      },
+      "precon_117": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:18": 1,
+          "jmp:201": 1,
+          "jmp:203": 1,
+          "jmp:207": 1,
+          "jmp:210": 1,
+          "jmp:211": 1,
+          "jmp:234": 2,
+          "jmp:247": 1,
+          "jmp:282": 1,
+          "jmp:283": 1,
+          "jmp:37": 1,
+          "jmp:460": 1,
+          "jmp:59": 1,
+          "m21:266": 6
+        }
+      },
+      "precon_118": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:140": 1,
+          "jmp:153": 1,
+          "jmp:171": 1,
+          "jmp:181": 1,
+          "jmp:182": 1,
+          "jmp:196": 1,
+          "jmp:198": 1,
+          "jmp:36": 1,
+          "jmp:47": 1,
+          "m21:263": 6,
+          "m21:51": 1,
+          "m21:59": 1,
+          "m21:62": 1,
+          "m21:71": 1,
+          "m21:83": 1
+        }
+      },
+      "precon_119": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:145": 1,
+          "jmp:153": 1,
+          "jmp:171": 1,
+          "jmp:173": 1,
+          "jmp:182": 1,
+          "jmp:196": 1,
+          "jmp:198": 1,
+          "jmp:36": 1,
+          "jmp:47": 1,
+          "jmp:494": 1,
+          "m21:263": 5,
+          "m21:59": 1,
+          "m21:62": 1,
+          "m21:66": 1,
+          "m21:71": 1,
+          "m21:83": 1
+        }
+      },
+      "precon_120": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:171": 1,
+          "jmp:181": 1,
+          "jmp:182": 1,
+          "jmp:196": 1,
+          "jmp:198": 1,
+          "jmp:36": 1,
+          "jmp:47": 1,
+          "m21:263": 6,
+          "m21:47": 1,
+          "m21:59": 1,
+          "m21:62": 1,
+          "m21:71": 1,
+          "m21:77": 1,
+          "m21:82": 1,
+          "m21:83": 1
+        }
+      },
+      "precon_121": {
+        "fixed": true,
+        "total_weight": 20,
+        "cards": {
+          "jmp:163": 1,
+          "jmp:171": 1,
+          "jmp:179": 1,
+          "jmp:182": 1,
+          "jmp:198": 1,
+          "jmp:36": 1,
+          "jmp:47": 1,
+          "m21:263": 6,
+          "m21:45": 1,
+          "m21:51": 1,
+          "m21:61": 1,
+          "m21:62": 1,
+          "m21:71": 1,
+          "m21:77": 1,
+          "m21:83": 1
         }
       }
     }
