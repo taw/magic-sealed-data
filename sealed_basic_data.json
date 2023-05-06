@@ -22323,6 +22323,7 @@
     ],
     "sheets": {
       "nonlegendary_common_with_showcase": {
+        "balance_colors": true,
         "total_weight": 408,
         "cards": {
           "clb:101": 3,
@@ -73894,6 +73895,7 @@
     ],
     "sheets": {
       "nongainland_common": {
+        "balance_colors": true,
         "total_weight": 303,
         "cards": {
           "m21:100": 3,
@@ -75468,6 +75470,7 @@
         }
       },
       "common_with_showcase": {
+        "balance_colors": true,
         "total_weight": 303,
         "cards": {
           "iko:1": 3,
