@@ -104,7 +104,7 @@ It means, when a booster is specified to take a card from `unh_basic` sheet, any
 
 Order of cards on this list doesn't matter.
 
-Every card is indicated by `<set_code>:<card_number>` (like `thb:100`) or `<set_code>:<card_number>:foil` (like `thb:100:foil`).
+Every card is indicated by `<set_code>:<card_number>` (like `thb:100`), `<set_code>:<card_number>:foil` (like `thb:100:foil`), or `<set_code>:<card_number>:etched` for etched foils.
 
 Weights are typically very low, but for some sheets they can be very high. This is especially true for foil sheets (which aren't reals physical sheets, just our estimated ratios of different kinds of foil cards) and software should be able to handle `total_weight` in millions.
 
