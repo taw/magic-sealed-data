@@ -87023,7 +87023,7 @@
         }
       },
       "nonlegendary_rare_mythic": {
-        "total_weight": 542,
+        "total_weight": 534,
         "cards": {
           "cmm:10": 6,
           "cmm:105": 6,
@@ -87147,10 +87147,6 @@
           "cmm:701": 2,
           "cmm:702": 1,
           "cmm:73": 6,
-          "cmm:751": 2,
-          "cmm:760": 2,
-          "cmm:763": 2,
-          "cmm:766": 2,
           "cmm:77": 3,
           "cmm:79": 3,
           "cmm:80": 6,

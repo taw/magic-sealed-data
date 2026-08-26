@@ -87824,7 +87824,6 @@
         "nonlegendaryRareMythic": {
           "cards": {
             "044dd684-f0fc-5014-9951-597c868d8149": 4,
-            "063a0981-78a8-579b-99a4-189afce5263b": 2,
             "0cde0ce5-a769-59fb-ae5d-1caba21a2be7": 6,
             "0da0740b-f737-5c91-b61b-5b79a36778c9": 4,
             "0e3473db-c646-5dad-b725-8a6bd7d03552": 4,
@@ -87884,7 +87883,6 @@
             "763add5a-8e48-5f95-85f8-d30743986ec6": 1,
             "768425b7-a38d-5c4b-9673-b6e45aa26118": 6,
             "775a5140-c383-5b3f-acf6-1e667a69fd13": 6,
-            "7b970425-8df6-5d51-830f-bddfbc9934ca": 2,
             "7bf1379a-31a7-52ad-be47-19850a6a7e5b": 3,
             "7c7d11b5-dafa-50bc-a690-e13d4cb5f7b1": 6,
             "7d55da97-31f0-5388-a85d-bd9ea2e3d612": 2,
@@ -87936,7 +87934,6 @@
             "d1504c58-633c-5a33-8327-5e5c830f4916": 6,
             "d160dcdd-208c-57eb-96a8-5b77731cd07f": 6,
             "d4673c28-b6c3-528b-adb1-bfb2d3d1c5cc": 3,
-            "d6aa8f3f-5a4c-5aff-9af2-8ed8ea8af088": 2,
             "d6c95194-8005-5b27-9655-494ae3eb6949": 6,
             "d6d49893-84f8-57cf-99a3-7cb4bced1413": 4,
             "d9962425-24e7-5cc5-aeef-16c6c88f20c3": 6,
@@ -87951,7 +87948,6 @@
             "f2d7ee8f-f031-5fda-ae70-2ca615da2989": 6,
             "f68050d1-1cc2-531b-9a53-6ca87b93780a": 2,
             "f95fe532-f61a-5034-b96a-12f5de99a2ce": 2,
-            "f9dc96f5-a8ea-5958-b02b-846638988c23": 2,
             "fb58ce8e-db0e-51f3-ad0b-d149ce33faaa": 6,
             "fc201530-28b1-52a7-90ca-9176ec70b5ed": 6,
             "fc6bfd40-5525-530f-995a-9b2318b21bb6": 2,
@@ -87959,7 +87955,7 @@
             "ff5986b7-ba79-5f73-aaee-c4aa1ef23266": 6
           },
           "foil": false,
-          "totalWeight": 542
+          "totalWeight": 534
         },
         "foil": {
           "cards": {
