@@ -86772,7 +86772,7 @@
         }
       },
       "etched_rare_mythic": {
-        "total_weight": 309,
+        "total_weight": 305,
         "cards": {
           "cmm:452:etched": 1,
           "cmm:453:etched": 1,
@@ -86943,11 +86943,7 @@
           "cmm:618:etched": 2,
           "cmm:619:etched": 2,
           "cmm:620:etched": 2,
-          "cmm:621:etched": 2,
-          "cmm:779:etched": 1,
-          "cmm:780:etched": 1,
-          "cmm:781:etched": 1,
-          "cmm:782:etched": 1
+          "cmm:621:etched": 2
         }
       },
       "foil_rare_mythic_showcase": {

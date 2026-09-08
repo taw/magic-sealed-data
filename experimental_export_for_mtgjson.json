@@ -87582,7 +87582,6 @@
             "0ac8e62f-9308-5936-b519-02b4c6ff73a0": 2,
             "0bb928fc-98b7-5f5b-a7c6-debd2500413c": 2,
             "0d5918a8-24cd-57dc-877d-17028d53f18b": 1,
-            "0e26bc84-e053-5231-84cb-23cf2b849208": 1,
             "0efe1fb6-97d3-530d-9b5a-d2ba79a4dbe3": 1,
             "0f5c8f32-0734-5829-a30b-e55325afa590": 1,
             "11752a33-ba97-548c-9742-ecb8fcbe2a3b": 1,
@@ -87645,7 +87644,6 @@
             "63b75d51-338f-57e9-ab6e-c1363634a78e": 1,
             "64721cc9-8da6-5248-9a42-29fa3bb97cba": 2,
             "6597de4b-4d40-5d42-a438-e963037b91b8": 2,
-            "65eca6b6-8a34-5067-909b-660d18009cfa": 1,
             "67fc6663-3658-574b-b9f9-21e50523decd": 1,
             "6ba1443b-fe35-5a31-85e4-d089b3c55d20": 2,
             "6c5ef5e8-797b-5114-a4e4-0282e57d6aae": 2,
@@ -87739,12 +87737,10 @@
             "f9feeb24-4206-573a-8e3f-fa908489400c": 2,
             "fa211ca3-520f-588a-ba26-cd5e7d1a80f3": 2,
             "faaeabfd-ac34-501f-8385-43eec0071813": 2,
-            "fd050589-f035-5ff4-a2dc-db3c8c8248b1": 1,
-            "fefcec91-fd44-5326-a16c-3ed7c79be3ad": 2,
-            "ffe434d9-65a5-5182-847a-caf8c4323443": 1
+            "fefcec91-fd44-5326-a16c-3ed7c79be3ad": 2
           },
           "foil": true,
-          "totalWeight": 309
+          "totalWeight": 305
         },
         "foilRareMythicShowcase": {
           "cards": {
