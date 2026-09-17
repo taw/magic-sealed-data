@@ -212784,16 +212784,17 @@
         }
       },
       "promo": {
-        "total_weight": 8,
+        "total_weight": 17,
         "cards": {
-          "prna:11s:foil": 1,
-          "prna:151s:foil": 1,
-          "prna:15s:foil": 1,
-          "prna:165s:foil": 1,
-          "prna:189s:foil": 1,
-          "prna:29s:foil": 1,
-          "prna:45s:foil": 1,
-          "prna:55s:foil": 1
+          "prna:11s:foil": 2,
+          "prna:151s:foil": 2,
+          "prna:15s:foil": 2,
+          "prna:165s:foil": 2,
+          "prna:169s:foil": 1,
+          "prna:189s:foil": 2,
+          "prna:29s:foil": 2,
+          "prna:45s:foil": 2,
+          "prna:55s:foil": 2
         }
       }
     },
@@ -213011,10 +213012,12 @@
         }
       },
       "promo": {
-        "total_weight": 17,
+        "total_weight": 21,
         "cards": {
           "prna:11s:foil": 2,
           "prna:15s:foil": 2,
+          "prna:170s:foil": 2,
+          "prna:187s:foil": 2,
           "prna:205s:foil": 1,
           "prna:212s:foil": 2,
           "prna:27s:foil": 2,
@@ -215651,18 +215654,16 @@
         }
       },
       "promo": {
-        "total_weight": 19,
+        "total_weight": 15,
         "cards": {
           "pgrn:109s:foil": 2,
-          "pgrn:115s:foil": 2,
           "pgrn:153s:foil": 1,
           "pgrn:165s:foil": 2,
           "pgrn:19s:foil": 2,
           "pgrn:203s:foil": 2,
           "pgrn:204s:foil": 2,
           "pgrn:229sa:foil": 2,
-          "pgrn:4s:foil": 2,
-          "pgrn:8s:foil": 2
+          "pgrn:4s:foil": 2
         }
       }
     },
@@ -215765,7 +215766,7 @@
         }
       },
       "promo": {
-        "total_weight": 17,
+        "total_weight": 15,
         "cards": {
           "pgrn:170s:foil": 2,
           "pgrn:184s:foil": 1,
@@ -215774,7 +215775,6 @@
           "pgrn:44s:foil": 2,
           "pgrn:47s:foil": 2,
           "pgrn:63s:foil": 2,
-          "pgrn:71s:foil": 2,
           "pgrn:84s:foil": 2
         }
       }
@@ -215875,18 +215875,16 @@
         }
       },
       "promo": {
-        "total_weight": 19,
+        "total_weight": 15,
         "cards": {
-          "pgrn:123s:foil": 2,
-          "pgrn:124s:foil": 2,
           "pgrn:132s:foil": 2,
           "pgrn:148s:foil": 2,
+          "pgrn:152s:foil": 2,
           "pgrn:180s:foil": 2,
           "pgrn:211s:foil": 1,
           "pgrn:225sa:foil": 2,
           "pgrn:71s:foil": 2,
-          "pgrn:75s:foil": 2,
-          "pgrn:84s:foil": 2
+          "pgrn:75s:foil": 2
         }
       }
     },
@@ -215983,16 +215981,16 @@
         }
       },
       "promo": {
-        "total_weight": 8,
+        "total_weight": 15,
         "cards": {
-          "pgrn:113s:foil": 1,
-          "pgrn:115s:foil": 1,
-          "pgrn:171s:foil": 1,
-          "pgrn:179s:foil": 1,
-          "pgrn:192s:foil": 1,
-          "pgrn:224sa:foil": 1,
-          "pgrn:47s:foil": 1,
-          "pgrn:51s:foil": 1
+          "pgrn:113s:foil": 2,
+          "pgrn:115s:foil": 2,
+          "pgrn:171s:foil": 2,
+          "pgrn:179s:foil": 2,
+          "pgrn:192s:foil": 2,
+          "pgrn:207s:foil": 1,
+          "pgrn:224sa:foil": 2,
+          "pgrn:51s:foil": 2
         }
       }
     },
@@ -216095,17 +216093,15 @@
         }
       },
       "promo": {
-        "total_weight": 19,
+        "total_weight": 15,
         "cards": {
           "pgrn:123s:foil": 2,
           "pgrn:124s:foil": 2,
-          "pgrn:148s:foil": 2,
           "pgrn:168s:foil": 2,
           "pgrn:183s:foil": 2,
           "pgrn:208s:foil": 1,
           "pgrn:221sa:foil": 2,
           "pgrn:30s:foil": 2,
-          "pgrn:4s:foil": 2,
           "pgrn:8s:foil": 2
         }
       }

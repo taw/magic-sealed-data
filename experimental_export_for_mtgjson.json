@@ -214214,17 +214214,18 @@
         },
         "promo": {
           "cards": {
-            "1d81d309-c1be-5784-a9d1-da6a70d20f49": 1,
-            "24d2d19d-c5a7-50dc-9587-89958c5915d1": 1,
-            "49aa592f-d1c5-5f7a-ac99-3dbe5a6ef814": 1,
-            "96ff7148-1419-53c9-beb2-7a0122feec0e": 1,
-            "c8bb4fdd-9247-5da3-ad5f-86fb2304ede2": 1,
-            "e584a88e-e070-5506-9130-d4e6e792361f": 1,
-            "eba27bf1-5e35-5f06-b941-3012c137aba5": 1,
-            "fd01d4f4-4c76-5665-bae4-5e821676f568": 1
+            "1d81d309-c1be-5784-a9d1-da6a70d20f49": 2,
+            "24d2d19d-c5a7-50dc-9587-89958c5915d1": 2,
+            "49aa592f-d1c5-5f7a-ac99-3dbe5a6ef814": 2,
+            "6b2493a7-9ca1-5dd2-b2cf-bc46ddab6143": 1,
+            "96ff7148-1419-53c9-beb2-7a0122feec0e": 2,
+            "c8bb4fdd-9247-5da3-ad5f-86fb2304ede2": 2,
+            "e584a88e-e070-5506-9130-d4e6e792361f": 2,
+            "eba27bf1-5e35-5f06-b941-3012c137aba5": 2,
+            "fd01d4f4-4c76-5665-bae4-5e821676f568": 2
           },
           "foil": true,
-          "totalWeight": 8
+          "totalWeight": 17
         }
       },
       "sourceSetCodes": [
@@ -214448,13 +214449,15 @@
             "a7e6206e-c345-534d-88f0-e1ec852f1369": 2,
             "ae6ff8da-0adb-500f-9b18-4b5551c8183d": 2,
             "cc4982cb-46a7-59ec-b71d-a72e4bdbfb9a": 2,
+            "d0751b44-0c01-5530-bd91-c67ec563dfa2": 2,
             "e56f9a5d-7048-510a-9686-abe202238289": 2,
             "e584a88e-e070-5506-9130-d4e6e792361f": 2,
+            "f8c28091-c208-5c61-ac76-697eb9d0f076": 2,
             "fbf6dcd5-06d6-50c0-8f13-78ad3843d236": 1,
             "fd01d4f4-4c76-5665-bae4-5e821676f568": 2
           },
           "foil": true,
-          "totalWeight": 17
+          "totalWeight": 21
         }
       },
       "sourceSetCodes": [
@@ -217103,17 +217106,15 @@
           "cards": {
             "1a8994e3-02f5-5906-b212-c89b226b026c": 2,
             "359b838a-d1a0-52c5-acfc-a781bbb30b9f": 1,
-            "3a922767-0dd8-597f-8bd3-a50f2923bd8e": 2,
             "730b9c69-9ae5-5002-b5c1-e09e718df4ef": 2,
             "77e333e5-22c7-5a65-8a0e-cb9223fb7b56": 2,
             "792103d9-00f4-5751-8d52-1b91e8d53b94": 2,
             "8c35d15e-955b-5a1a-aead-099046cf4f26": 2,
             "a0deaf9b-04ad-5ba4-b152-ab3fae1c7f96": 2,
-            "aa9242a8-a33b-5c4a-8b43-a6585f298513": 2,
-            "fd846e4a-2cf9-5ec3-a2bf-aa024fd111d9": 2
+            "aa9242a8-a33b-5c4a-8b43-a6585f298513": 2
           },
           "foil": true,
-          "totalWeight": 19
+          "totalWeight": 15
         }
       },
       "sourceSetCodes": [
@@ -217219,7 +217220,6 @@
             "0422c864-81e0-562c-89df-f28ef00cd73a": 2,
             "0ee94f40-756a-5e02-aa55-52c790da20b8": 2,
             "20ad7a40-1f32-50e7-ac56-be24a2b5d777": 2,
-            "6030e595-ea1d-5baf-a342-e943a44574f8": 2,
             "97a20070-66b1-5350-ad5a-bcbc39d475ef": 2,
             "aeaeaa45-7bf5-518e-b4e5-35c44f432d67": 1,
             "b8fd1d69-560d-5e18-ba59-dcbf415f45a2": 2,
@@ -217227,7 +217227,7 @@
             "f6189a20-1852-585f-9efb-9ee4f40b9d5f": 2
           },
           "foil": true,
-          "totalWeight": 17
+          "totalWeight": 15
         }
       },
       "sourceSetCodes": [
@@ -217327,19 +217327,17 @@
         },
         "promo": {
           "cards": {
-            "0156c9d5-925a-51e0-b34c-77c50205d481": 2,
             "24dcda12-ce84-5e9e-aace-971b9ac8ad5f": 1,
-            "261418f0-5a30-5136-9e1d-3800e1c58d87": 2,
             "3312dca9-66f9-5224-abac-2ec7d4e4f8bd": 2,
+            "450093c3-a48f-5d85-ae9d-5cd812eac46b": 2,
             "6030e595-ea1d-5baf-a342-e943a44574f8": 2,
             "7681e625-2c4c-52b9-84d7-b96325a09f12": 2,
-            "97a20070-66b1-5350-ad5a-bcbc39d475ef": 2,
             "c6b084cc-6365-5959-9f64-45f6a17352fd": 2,
             "e517f1a2-c105-5f67-95b7-651585d449cf": 2,
             "ef28e529-a9ae-522d-8b0e-38747f5d3988": 2
           },
           "foil": true,
-          "totalWeight": 19
+          "totalWeight": 15
         }
       },
       "sourceSetCodes": [
@@ -217436,17 +217434,17 @@
         },
         "promo": {
           "cards": {
-            "04a142de-6a54-5ba0-bb7d-c7ef5da0ea90": 1,
-            "20ad7a40-1f32-50e7-ac56-be24a2b5d777": 1,
-            "2190d8ea-798a-5811-a611-77336126a1f9": 1,
-            "301798ed-fae5-5d64-9d7c-03273fd8b104": 1,
-            "338922ef-fa83-54ba-acb8-a26f22ad2a57": 1,
-            "3650d173-0633-50f4-bd95-f0448154f46c": 1,
-            "3a922767-0dd8-597f-8bd3-a50f2923bd8e": 1,
-            "b2b88124-3684-5798-902e-71032e92ac4a": 1
+            "04a142de-6a54-5ba0-bb7d-c7ef5da0ea90": 2,
+            "2190d8ea-798a-5811-a611-77336126a1f9": 2,
+            "301798ed-fae5-5d64-9d7c-03273fd8b104": 2,
+            "338922ef-fa83-54ba-acb8-a26f22ad2a57": 2,
+            "3650d173-0633-50f4-bd95-f0448154f46c": 2,
+            "3a922767-0dd8-597f-8bd3-a50f2923bd8e": 2,
+            "5e6915b3-e8c7-5537-95da-5e14aa855e0e": 1,
+            "b2b88124-3684-5798-902e-71032e92ac4a": 2
           },
           "foil": true,
-          "totalWeight": 8
+          "totalWeight": 15
         }
       },
       "sourceSetCodes": [
@@ -217555,13 +217553,11 @@
             "32e4aa89-5ae3-595a-aec6-03e102549aa1": 2,
             "6e6631f7-b03a-5f2f-b44a-9675a66df446": 2,
             "6ef64403-65a5-5283-b4f1-46f4a4f072e6": 2,
-            "8c35d15e-955b-5a1a-aead-099046cf4f26": 2,
-            "c6b084cc-6365-5959-9f64-45f6a17352fd": 2,
             "ddd5ed02-9511-5948-a903-a10dd06c1865": 1,
             "fd846e4a-2cf9-5ec3-a2bf-aa024fd111d9": 2
           },
           "foil": true,
-          "totalWeight": 19
+          "totalWeight": 15
         }
       },
       "sourceSetCodes": [
