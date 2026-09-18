@@ -197147,6 +197147,6417 @@
     ]
   },
   {
+    "name": "SLD A Box of Rocks Bonus",
+    "code": "sld-bonus-a-box-of-rocks",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 5,
+        "cards": {
+          "sld:507:foil": 1,
+          "sld:511:foil": 1,
+          "sld:512:foil": 1,
+          "sld:523:foil": 1,
+          "sld:535:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Absolute Annihilation Bonus",
+    "code": "sld-bonus-absolute-annihilation",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:629:foil": 49,
+          "sld:642:foil": 49,
+          "sld:645:foil": 49,
+          "sld:686:foil": 3
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Adventures of the Little Witch Bonus (Foil)",
+    "code": "sld-bonus-adventures-of-the-little-witch",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:813:foil": 4,
+          "sld:838:foil": 49,
+          "sld:841:foil": 49,
+          "sld:849:foil": 49,
+          "sld:862:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Alien Auroras Bonus (Foil)",
+    "code": "sld-bonus-alien-auroras",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 500,
+        "cards": {
+          "sld:818:foil": 5,
+          "sld:888:foil": 99,
+          "sld:889:foil": 99,
+          "sld:890:foil": 99,
+          "sld:891:foil": 99,
+          "sld:892:foil": 99
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Animar and Friends Bonus",
+    "code": "sld-bonus-animar-and-friends",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 250,
+        "cards": {
+          "sld:814:foil": 5,
+          "sld:837:foil": 49,
+          "sld:840:foil": 49,
+          "sld:850:foil": 49,
+          "sld:858:foil": 49,
+          "sld:860:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Avatar The Last Airbender A Lot to Learn Bonus (Foil)",
+    "code": "sld-bonus-avatar-the-last-airbender-a-lot-to-learn",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:7062:foil": 1,
+          "sld:7063:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Avatar The Last Airbender Everything Changed Bonus (Foil)",
+    "code": "sld-bonus-avatar-the-last-airbender-everything-changed",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:7062:foil": 1,
+          "sld:7063:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Avatar The Last Airbender My Cabbages! Bonus (Foil)",
+    "code": "sld-bonus-avatar-the-last-airbender-my-cabbages",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:7062:foil": 1,
+          "sld:7063:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Avatar The Last Airbender One with the Elements Bonus (Foil)",
+    "code": "sld-bonus-avatar-the-last-airbender-one-with-the-elements",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:7062:foil": 1,
+          "sld:7063:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Avatar The Last Airbender The Ember Island Players Bonus (Foil)",
+    "code": "sld-bonus-avatar-the-last-airbender-the-ember-island-players",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:7062:foil": 1,
+          "sld:7063:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Bad to the Bones Bonus",
+    "code": "sld-bonus-bad-to-the-bones",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:621:foil": 1,
+          "sld:627:foil": 1,
+          "sld:651:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Bitterblossom Dreams Bonus",
+    "code": "sld-bonus-bitterblossom-dreams",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 7,
+        "cards": {
+          "sld:503:foil": 1,
+          "sld:520:foil": 1,
+          "sld:521:foil": 1,
+          "sld:523:foil": 1,
+          "sld:524:foil": 1,
+          "sld:527:foil": 1,
+          "sld:530:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Brain Dead New Earth Mentality Bonus (Foil)",
+    "code": "sld-bonus-brain-dead-new-earth-mentality",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:7105:foil": 25,
+          "sld:7106:foil": 25,
+          "sld:7107:foil": 49,
+          "sld:7108:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Buggin Out Bonus",
+    "code": "sld-bonus-buggin-out",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:621:foil": 49,
+          "sld:622:foil": 49,
+          "sld:641:foil": 49,
+          "sld:686:foil": 3
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Calling All Hydra Heads Bonus",
+    "code": "sld-bonus-calling-all-hydra-heads",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:622:foil": 1,
+          "sld:624:foil": 1,
+          "sld:653:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Cats of Chaos Bonus (Foil)",
+    "code": "sld-bonus-cats-of-chaos",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 5,
+        "cards": {
+          "sld:7135:foil": 1,
+          "sld:7138:foil": 1,
+          "sld:7139:foil": 1,
+          "sld:7145:foil": 1,
+          "sld:7152:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD City Styles Bonus",
+    "code": "sld-bonus-city-styles",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:615:foil": 49,
+          "sld:640:foil": 49,
+          "sld:645:foil": 49,
+          "sld:681:foil": 3
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Cool Ocean Breeze Bonus",
+    "code": "sld-bonus-cool-ocean-breeze",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:638:foil": 1,
+          "sld:653:foil": 1,
+          "sld:656:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Death Is Temporary Metal Is Forever Bonus",
+    "code": "sld-bonus-death-is-temporary-metal-is-forever",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:622:foil": 1,
+          "sld:632:foil": 1,
+          "sld:651:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Deceptive Divination Bonus",
+    "code": "sld-bonus-deceptive-divination",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:757:foil": 3,
+          "sld:759:foil": 49,
+          "sld:780:foil": 49,
+          "sld:785:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Diabolical Dioramas Bonus",
+    "code": "sld-bonus-diabolical-dioramas",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:755:foil": 3,
+          "sld:770:foil": 49,
+          "sld:773:foil": 49,
+          "sld:789:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Draw Your Hand Bonus",
+    "code": "sld-bonus-draw-your-hand",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:620:foil": 1,
+          "sld:627:foil": 1,
+          "sld:629:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Dreaming Darkly Bonus (Foil)",
+    "code": "sld-bonus-dreaming-darkly",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 5,
+        "cards": {
+          "sld:888:foil": 1,
+          "sld:889:foil": 1,
+          "sld:890:foil": 1,
+          "sld:891:foil": 1,
+          "sld:892:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Dwarf Fortress Create New World Bonus (Foil)",
+    "code": "sld-bonus-dwarf-fortress-create-new-world-foil",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:7161:foil": 1,
+          "sld:7162:foil": 99
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Dwarf Fortress Create New World Bonus (Nonfoil)",
+    "code": "sld-bonus-dwarf-fortress-create-new-world-nonfoil",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:7161": 1,
+          "sld:7162": 99
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Eldraine Wonderland Bonus",
+    "code": "sld-bonus-eldraine-wonderland",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:503:foil": 1,
+          "sld:504:foil": 1,
+          "sld:505:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD “explosion sounds” Bonus",
+    "code": "sld-bonus-explosion-sounds",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 5,
+        "cards": {
+          "sld:503:foil": 1,
+          "sld:521:foil": 1,
+          "sld:523:foil": 1,
+          "sld:527:foil": 1,
+          "sld:533:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Far Out Man Bonus",
+    "code": "sld-bonus-far-out-man",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2000,
+        "cards": {
+          "sld:540:foil": 93,
+          "sld:541:foil": 93,
+          "sld:542:foil": 93,
+          "sld:543:foil": 93,
+          "sld:546:foil": 93,
+          "sld:547:foil": 93,
+          "sld:550:foil": 93,
+          "sld:551:foil": 93,
+          "sld:552:foil": 93,
+          "sld:556:foil": 93,
+          "sld:559:foil": 93,
+          "sld:565:foil": 93,
+          "sld:570:foil": 93,
+          "sld:571:foil": 93,
+          "sld:572:foil": 93,
+          "sld:573:foil": 93,
+          "sld:574:foil": 93,
+          "sld:576:foil": 93,
+          "sld:577:foil": 93,
+          "sld:578:foil": 93,
+          "sld:595:foil": 20,
+          "sld:598:foil": 20,
+          "sld:603:foil": 20,
+          "sld:604:foil": 20,
+          "sld:605:foil": 20,
+          "sld:606:foil": 20,
+          "sld:607:foil": 20
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Featuring Andrew Maclean Bonus",
+    "code": "sld-bonus-featuring-andrew-maclean",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 250,
+        "cards": {
+          "sld:754:foil": 5,
+          "sld:776:foil": 49,
+          "sld:777:foil": 49,
+          "sld:782:foil": 49,
+          "sld:786:foil": 49,
+          "sld:788:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Featuring Deathburger Bonus (Foil)",
+    "code": "sld-bonus-featuring-deathburger",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 500,
+        "cards": {
+          "sld:818:foil": 5,
+          "sld:888:foil": 99,
+          "sld:889:foil": 99,
+          "sld:890:foil": 99,
+          "sld:891:foil": 99,
+          "sld:892:foil": 99
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Featuring Imiri Sakabashira Bonus (Foil)",
+    "code": "sld-bonus-featuring-imiri-sakabashira",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:7023:foil": 1,
+          "sld:7024:foil": 119,
+          "sld:7025:foil": 70,
+          "sld:7026:foil": 10
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Featuring Julie Bell Bonus",
+    "code": "sld-bonus-featuring-julie-bell",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:752:foil": 3,
+          "sld:774:foil": 49,
+          "sld:776:foil": 49,
+          "sld:786:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Featuring Luke Pearson Bonus",
+    "code": "sld-bonus-featuring-luke-pearson",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:813:foil": 4,
+          "sld:838:foil": 49,
+          "sld:841:foil": 49,
+          "sld:842:foil": 49,
+          "sld:862:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Featuring Peach Momoko Bonus",
+    "code": "sld-bonus-featuring-peach-momoko",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:754:foil": 2,
+          "sld:777:foil": 49,
+          "sld:782:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Full Sleeves The Tattoo Pack Bonus",
+    "code": "sld-bonus-full-sleeves-the-tattoo-pack",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 15,
+        "cards": {
+          "sld:504:foil": 1,
+          "sld:506:foil": 1,
+          "sld:507:foil": 1,
+          "sld:508:foil": 1,
+          "sld:510:foil": 1,
+          "sld:513:foil": 1,
+          "sld:515:foil": 1,
+          "sld:518:foil": 1,
+          "sld:524:foil": 1,
+          "sld:526:foil": 1,
+          "sld:527:foil": 1,
+          "sld:529:foil": 1,
+          "sld:530:foil": 1,
+          "sld:531:foil": 1,
+          "sld:533:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Gift Wrapped Bonus",
+    "code": "sld-bonus-gift-wrapped",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:763:foil": 1,
+          "sld:779:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Goblin and Squabblin Bonus",
+    "code": "sld-bonus-goblin-and-squabblin",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:620:foil": 49,
+          "sld:651:foil": 49,
+          "sld:653:foil": 49,
+          "sld:680:foil": 3
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Happy Yargle Day Bonus",
+    "code": "sld-bonus-happy-yargle-day",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 20,
+        "cards": {
+          "sld:504:foil": 1,
+          "sld:505:foil": 1,
+          "sld:507:foil": 1,
+          "sld:508:foil": 1,
+          "sld:509:foil": 1,
+          "sld:511:foil": 1,
+          "sld:513:foil": 1,
+          "sld:515:foil": 1,
+          "sld:516:foil": 1,
+          "sld:517:foil": 1,
+          "sld:527:foil": 1,
+          "sld:528:foil": 1,
+          "sld:529:foil": 1,
+          "sld:530:foil": 1,
+          "sld:531:foil": 1,
+          "sld:532:foil": 1,
+          "sld:533:foil": 1,
+          "sld:534:foil": 1,
+          "sld:535:foil": 1,
+          "sld:536:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Hard Boiled Thrillers Bonus",
+    "code": "sld-bonus-hard-boiled-thrillers",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:757:foil": 3,
+          "sld:759:foil": 49,
+          "sld:772:foil": 49,
+          "sld:785:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD If Looks Could Kill Bonus",
+    "code": "sld-bonus-if-looks-could-kill",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:628:foil": 31,
+          "sld:629:foil": 31,
+          "sld:636:foil": 31,
+          "sld:641:foil": 31,
+          "sld:653:foil": 31,
+          "sld:667:foil": 31,
+          "sld:682:foil": 4,
+          "sld:691:foil": 2,
+          "sld:692:foil": 2,
+          "sld:693:foil": 2,
+          "sld:694:foil": 2,
+          "sld:695:foil": 2
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Imaginary Friends Bonus",
+    "code": "sld-bonus-imaginary-friends",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:619:foil": 19,
+          "sld:620:foil": 19,
+          "sld:626:foil": 19,
+          "sld:628:foil": 19,
+          "sld:652:foil": 19,
+          "sld:691:foil": 5
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD In Memoriam Jaya Ballard Bonus",
+    "code": "sld-bonus-in-memoriam-jaya-ballard",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:636:foil": 38,
+          "sld:641:foil": 38,
+          "sld:643:foil": 38,
+          "sld:644:foil": 38,
+          "sld:645:foil": 38,
+          "sld:691:foil": 5,
+          "sld:694:foil": 5
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Inked Bonus (Foil)",
+    "code": "sld-bonus-inked",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 250,
+        "cards": {
+          "sld:817:foil": 5,
+          "sld:834:foil": 49,
+          "sld:847:foil": 49,
+          "sld:851:foil": 49,
+          "sld:853:foil": 49,
+          "sld:857:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD International Womens Day 2020 Bonus",
+    "code": "sld-bonus-international-womens-day-2020",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 18,
+        "cards": {
+          "sld:505:foil": 1,
+          "sld:507:foil": 1,
+          "sld:508:foil": 1,
+          "sld:510:foil": 1,
+          "sld:512:foil": 1,
+          "sld:513:foil": 1,
+          "sld:516:foil": 1,
+          "sld:518:foil": 1,
+          "sld:519:foil": 1,
+          "sld:525:foil": 1,
+          "sld:528:foil": 1,
+          "sld:530:foil": 1,
+          "sld:531:foil": 1,
+          "sld:532:foil": 1,
+          "sld:533:foil": 1,
+          "sld:534:foil": 1,
+          "sld:535:foil": 1,
+          "sld:536:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Introducing Kaito Shizuki Bonus",
+    "code": "sld-bonus-introducing-kaito-shizuki",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:599:foil": 4,
+          "sld:607:foil": 10,
+          "sld:617:foil": 31,
+          "sld:628:foil": 31,
+          "sld:646:foil": 31,
+          "sld:647:foil": 31,
+          "sld:649:foil": 31,
+          "sld:657:foil": 31
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Just Add Milk Bonus",
+    "code": "sld-bonus-just-add-milk",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 400,
+        "cards": {
+          "sld:612:foil": 93,
+          "sld:613:foil": 93,
+          "sld:615:foil": 93,
+          "sld:617:foil": 93,
+          "sld:687:foil": 8,
+          "sld:691:foil": 4,
+          "sld:692:foil": 4,
+          "sld:693:foil": 4,
+          "sld:694:foil": 4,
+          "sld:695:foil": 4
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Just Some Totally Normal Guys Bonus",
+    "code": "sld-bonus-just-some-totally-normal-guys",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 300,
+        "cards": {
+          "sld:618:foil": 57,
+          "sld:643:foil": 57,
+          "sld:650:foil": 57,
+          "sld:652:foil": 57,
+          "sld:667:foil": 57,
+          "sld:692:foil": 5,
+          "sld:694:foil": 5,
+          "sld:695:foil": 5
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Kaleidoscope Killers Bonus",
+    "code": "sld-bonus-kaleidoscope-killers",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 7,
+        "cards": {
+          "sld:520:foil": 1,
+          "sld:521:foil": 1,
+          "sld:522:foil": 1,
+          "sld:523:foil": 1,
+          "sld:524:foil": 1,
+          "sld:525:foil": 1,
+          "sld:526:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Kamigawa The Manga The Cards Bonus",
+    "code": "sld-bonus-kamigawa-the-manga-the-cards",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 120,
+        "cards": {
+          "sld:605:foil": 2,
+          "sld:606:foil": 2,
+          "sld:607:foil": 2,
+          "sld:617:foil": 19,
+          "sld:628:foil": 19,
+          "sld:646:foil": 19,
+          "sld:647:foil": 19,
+          "sld:649:foil": 19,
+          "sld:657:foil": 19
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Legendary Flyers Not That Kind Bonus",
+    "code": "sld-bonus-legendary-flyers-not-that-kind",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:612:foil": 1,
+          "sld:621:foil": 1,
+          "sld:629:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Lil Giri Saves The Day Bonus",
+    "code": "sld-bonus-lil-giri-saves-the-day",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 1200,
+        "cards": {
+          "sld:618:foil": 279,
+          "sld:650:foil": 279,
+          "sld:660:foil": 279,
+          "sld:667:foil": 279,
+          "sld:683:foil": 24,
+          "sld:691:foil": 20,
+          "sld:693:foil": 20,
+          "sld:695:foil": 20
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Lil Walkers Bonus",
+    "code": "sld-bonus-lil-walkers",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:599:foil": 4,
+          "sld:605:foil": 5,
+          "sld:607:foil": 5,
+          "sld:617:foil": 31,
+          "sld:628:foil": 31,
+          "sld:646:foil": 31,
+          "sld:647:foil": 31,
+          "sld:649:foil": 31,
+          "sld:657:foil": 31
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Liler Walkers Bonus",
+    "code": "sld-bonus-liler-walkers",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:623:foil": 49,
+          "sld:657:foil": 49,
+          "sld:687:foil": 2
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Look At The Kitties Bonus",
+    "code": "sld-bonus-look-at-the-kitties",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:613:foil": 49,
+          "sld:636:foil": 49,
+          "sld:656:foil": 49,
+          "sld:685:foil": 3
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD MagicCon The Gathering Bonus (Foil)",
+    "code": "sld-bonus-magiccon-the-gathering",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 500,
+        "cards": {
+          "sld:818:foil": 5,
+          "sld:888:foil": 99,
+          "sld:889:foil": 99,
+          "sld:890:foil": 99,
+          "sld:891:foil": 99,
+          "sld:892:foil": 99
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Marvel Dan Hipp Bonus (Nonfoil)",
+    "code": "sld-bonus-marvel-dan-hipp",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 333,
+        "cards": {
+          "sld:7117": 1,
+          "sld:7118": 1,
+          "sld:7119": 1,
+          "sld:7120": 10,
+          "sld:7121": 10,
+          "sld:7122": 10,
+          "sld:7123": 100,
+          "sld:7124": 100,
+          "sld:7125": 100
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Marvel Earths Mightiest Pets Bonus (Nonfoil)",
+    "code": "sld-bonus-marvel-earths-mightiest-pets",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 333,
+        "cards": {
+          "sld:7117": 1,
+          "sld:7118": 1,
+          "sld:7119": 1,
+          "sld:7120": 10,
+          "sld:7121": 10,
+          "sld:7122": 10,
+          "sld:7123": 100,
+          "sld:7124": 100,
+          "sld:7125": 100
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Marvel Spinner Rack Specials Bonus (Nonfoil)",
+    "code": "sld-bonus-marvel-spinner-rack-specials",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 333,
+        "cards": {
+          "sld:7117": 1,
+          "sld:7118": 1,
+          "sld:7119": 1,
+          "sld:7120": 10,
+          "sld:7121": 10,
+          "sld:7122": 10,
+          "sld:7123": 100,
+          "sld:7124": 100,
+          "sld:7125": 100
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Marvel True Believers in Love Bonus (Nonfoil)",
+    "code": "sld-bonus-marvel-true-believers-in-love",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 333,
+        "cards": {
+          "sld:7117": 1,
+          "sld:7118": 1,
+          "sld:7119": 1,
+          "sld:7120": 10,
+          "sld:7121": 10,
+          "sld:7122": 10,
+          "sld:7123": 100,
+          "sld:7124": 100,
+          "sld:7125": 100
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Marvels Deadpool I Fixed It (Youre Welcome) Bonus (Foil)",
+    "code": "sld-bonus-marvels-deadpool-i-fixed-it-youre-welcome-foil",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:7126:foil": 99,
+          "sld:7127:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Marvels Deadpool I Fixed It (Youre Welcome) Bonus (Nonfoil)",
+    "code": "sld-bonus-marvels-deadpool-i-fixed-it-youre-welcome-nonfoil",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:7126": 99,
+          "sld:7127": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Marvels Deadpool I Fixed It (Youre Welcome) Pool Party Bonus (Foil)",
+    "code": "sld-bonus-marvels-deadpool-i-fixed-it-youre-welcome-pool-party-foil",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:7128:foil": 99,
+          "sld:7129:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Marvels Hulk SMASH! Bonus (Nonfoil)",
+    "code": "sld-bonus-marvels-hulk-smash",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 333,
+        "cards": {
+          "sld:7117": 1,
+          "sld:7118": 1,
+          "sld:7119": 1,
+          "sld:7120": 10,
+          "sld:7121": 10,
+          "sld:7122": 10,
+          "sld:7123": 100,
+          "sld:7124": 100,
+          "sld:7125": 100
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Meditations on Nature Bonus",
+    "code": "sld-bonus-meditations-on-nature",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:770:foil": 1,
+          "sld:773:foil": 1,
+          "sld:789:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Monster Movie Marathon Bonus",
+    "code": "sld-bonus-monster-movie-marathon",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 400,
+        "cards": {
+          "sld:540:foil": 19,
+          "sld:541:foil": 19,
+          "sld:542:foil": 19,
+          "sld:543:foil": 19,
+          "sld:544:foil": 19,
+          "sld:548:foil": 19,
+          "sld:549:foil": 19,
+          "sld:554:foil": 19,
+          "sld:555:foil": 19,
+          "sld:558:foil": 19,
+          "sld:559:foil": 19,
+          "sld:564:foil": 19,
+          "sld:566:foil": 19,
+          "sld:568:foil": 19,
+          "sld:569:foil": 19,
+          "sld:570:foil": 19,
+          "sld:573:foil": 19,
+          "sld:575:foil": 19,
+          "sld:576:foil": 19,
+          "sld:579:foil": 19,
+          "sld:603:foil": 5,
+          "sld:604:foil": 5,
+          "sld:606:foil": 5,
+          "sld:607:foil": 5
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Mycosynthwave Bonus",
+    "code": "sld-bonus-mycosynthwave",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:762:foil": 1,
+          "sld:763:foil": 1,
+          "sld:779:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Nature is Adorable Bonus",
+    "code": "sld-bonus-nature-is-adorable",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:621:foil": 1,
+          "sld:632:foil": 1,
+          "sld:635:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Ornithological Studies Bonus",
+    "code": "sld-bonus-ornithological-studies",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:502:foil": 1,
+          "sld:511:foil": 1,
+          "sld:522:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Outlaw Anthology Vol 1 Rebellious Renegades Bonus",
+    "code": "sld-bonus-outlaw-anthology-vol-1-rebellious-renegades",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:765:foil": 1,
+          "sld:767:foil": 1,
+          "sld:769:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Outlaw Anthology Vol 2 Sinister Scoundrels Bonus",
+    "code": "sld-bonus-outlaw-anthology-vol-2-sinister-scoundrels",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:765:foil": 99,
+          "sld:767:foil": 99,
+          "sld:811:foil": 2
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Paradise Frost Bonus",
+    "code": "sld-bonus-paradise-frost",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:756:foil": 3,
+          "sld:762:foil": 49,
+          "sld:763:foil": 49,
+          "sld:783:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Phyrexian Faves Bonus",
+    "code": "sld-bonus-phyrexian-faves",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:633:foil": 49,
+          "sld:635:foil": 49,
+          "sld:659:foil": 49,
+          "sld:681:foil": 3
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Pictures Of The Floating World Bonus",
+    "code": "sld-bonus-pictures-of-the-floating-world",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 120,
+        "cards": {
+          "sld:603:foil": 2,
+          "sld:604:foil": 2,
+          "sld:607:foil": 2,
+          "sld:617:foil": 19,
+          "sld:628:foil": 19,
+          "sld:646:foil": 19,
+          "sld:647:foil": 19,
+          "sld:649:foil": 19,
+          "sld:657:foil": 19
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Pixelsnowlandsjpg Bonus",
+    "code": "sld-bonus-pixelsnowlandsjpg",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 8700,
+        "cards": {
+          "sld:540:foil": 279,
+          "sld:541:foil": 279,
+          "sld:542:foil": 279,
+          "sld:543:foil": 279,
+          "sld:544:foil": 279,
+          "sld:545:foil": 279,
+          "sld:547:foil": 279,
+          "sld:549:foil": 279,
+          "sld:550:foil": 279,
+          "sld:553:foil": 279,
+          "sld:554:foil": 279,
+          "sld:555:foil": 279,
+          "sld:557:foil": 279,
+          "sld:559:foil": 279,
+          "sld:560:foil": 279,
+          "sld:561:foil": 279,
+          "sld:562:foil": 279,
+          "sld:563:foil": 279,
+          "sld:564:foil": 279,
+          "sld:566:foil": 279,
+          "sld:567:foil": 279,
+          "sld:570:foil": 279,
+          "sld:571:foil": 279,
+          "sld:573:foil": 279,
+          "sld:575:foil": 279,
+          "sld:576:foil": 279,
+          "sld:577:foil": 279,
+          "sld:578:foil": 279,
+          "sld:579:foil": 279,
+          "sld:598:foil": 174,
+          "sld:603:foil": 145,
+          "sld:604:foil": 145,
+          "sld:606:foil": 145
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Poker Faces Bonus",
+    "code": "sld-bonus-poker-faces",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:765:foil": 1,
+          "sld:767:foil": 1,
+          "sld:769:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Pride Across The Multiverse Bonus",
+    "code": "sld-bonus-pride-across-the-multiverse",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 40,
+        "cards": {
+          "sld:530:foil": 19,
+          "sld:534:foil": 19,
+          "sld:607:foil": 2
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Prints Charming Bonus (Foil)",
+    "code": "sld-bonus-prints-charming",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 250,
+        "cards": {
+          "sld:7083:foil": 5,
+          "sld:888:foil": 49,
+          "sld:889:foil": 49,
+          "sld:890:foil": 49,
+          "sld:891:foil": 49,
+          "sld:892:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Prints of Darkness Bonus",
+    "code": "sld-bonus-prints-of-darkness",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:752:foil": 3,
+          "sld:774:foil": 49,
+          "sld:776:foil": 49,
+          "sld:786:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Prismatic Nightmares Bonus",
+    "code": "sld-bonus-prismatic-nightmares",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:757:foil": 2,
+          "sld:759:foil": 49,
+          "sld:780:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Purrfection Bonus",
+    "code": "sld-bonus-purrfection",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:576:foil": 93,
+          "sld:598:foil": 2,
+          "sld:605:foil": 5
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Restless in Peace Bonus",
+    "code": "sld-bonus-restless-in-peace",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 4,
+        "cards": {
+          "sld:506:foil": 1,
+          "sld:524:foil": 1,
+          "sld:525:foil": 1,
+          "sld:528:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Roadshow Edition Burning Revelations Bonus",
+    "code": "sld-bonus-roadshow-edition-burning-revelations",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 4,
+        "cards": {
+          "sld:766:foil": 1,
+          "sld:768:foil": 1,
+          "sld:771:foil": 1,
+          "sld:775:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Rule The Room Bonus",
+    "code": "sld-bonus-rule-the-room",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 80,
+        "cards": {
+          "sld:618:foil": 19,
+          "sld:650:foil": 19,
+          "sld:660:foil": 19,
+          "sld:667:foil": 19,
+          "sld:692:foil": 4
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Brain Dead Creatures Bonus",
+    "code": "sld-bonus-secret-lair-x-brain-dead-creatures",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 500,
+        "cards": {
+          "sld:821:foil": 1,
+          "sld:822:foil": 99,
+          "sld:823:foil": 200,
+          "sld:824:foil": 200
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Brain Dead Lands Bonus",
+    "code": "sld-bonus-secret-lair-x-brain-dead-lands",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 500,
+        "cards": {
+          "sld:821:foil": 1,
+          "sld:822:foil": 99,
+          "sld:823:foil": 200,
+          "sld:824:foil": 200
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Brain Dead Staples Bonus",
+    "code": "sld-bonus-secret-lair-x-brain-dead-staples",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 500,
+        "cards": {
+          "sld:821:foil": 1,
+          "sld:822:foil": 99,
+          "sld:823:foil": 200,
+          "sld:824:foil": 200
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Dungeons and Dragons Astarions Thirst Bonus",
+    "code": "sld-bonus-secret-lair-x-dungeons-and-dragons-astarions-thirst",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 1000,
+        "cards": {
+          "sld:874:foil": 199,
+          "sld:875:foil": 199,
+          "sld:876:foil": 199,
+          "sld:877:foil": 199,
+          "sld:878:foil": 199,
+          "sld:879:foil": 5
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Dungeons and Dragons Death is in the Eyes of the Beholder I Bonus",
+    "code": "sld-bonus-secret-lair-x-dungeons-and-dragons-death-is-in-the-eyes-of-the-beholder-i",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 1000,
+        "cards": {
+          "sld:874:foil": 199,
+          "sld:875:foil": 199,
+          "sld:876:foil": 199,
+          "sld:877:foil": 199,
+          "sld:878:foil": 199,
+          "sld:879:foil": 5
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Dungeons and Dragons Death is in the Eyes of the Beholder II Bonus",
+    "code": "sld-bonus-secret-lair-x-dungeons-and-dragons-death-is-in-the-eyes-of-the-beholder-ii",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 1000,
+        "cards": {
+          "sld:874:foil": 199,
+          "sld:875:foil": 199,
+          "sld:876:foil": 199,
+          "sld:877:foil": 199,
+          "sld:878:foil": 199,
+          "sld:879:foil": 5
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Dungeons and Dragons Karlachs Rage Bonus",
+    "code": "sld-bonus-secret-lair-x-dungeons-and-dragons-karlachs-rage",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 1000,
+        "cards": {
+          "sld:874:foil": 199,
+          "sld:875:foil": 199,
+          "sld:876:foil": 199,
+          "sld:877:foil": 199,
+          "sld:878:foil": 199,
+          "sld:879:foil": 5
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Fallout Points of Interest Bonus",
+    "code": "sld-bonus-secret-lair-x-fallout-points-of-interest",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 301,
+        "cards": {
+          "sld:795★:foil": 300,
+          "sld:796★:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Fallout SPECIAL Bonus",
+    "code": "sld-bonus-secret-lair-x-fallout-special",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 301,
+        "cards": {
+          "sld:795★:foil": 300,
+          "sld:796★:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Fallout Vault Boy Bonus",
+    "code": "sld-bonus-secret-lair-x-fallout-vault-boy",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 301,
+        "cards": {
+          "sld:790★:foil": 300,
+          "sld:796★:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x FINAL FANTASY Game Over Bonus (Foil)",
+    "code": "sld-bonus-secret-lair-x-final-fantasy-game-over",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 1500,
+        "cards": {
+          "sld:7001:foil": 1495,
+          "sld:7004:foil": 1,
+          "sld:7005:foil": 1,
+          "sld:7006:foil": 1,
+          "sld:7007:foil": 1,
+          "sld:7008:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x FINAL FANTASY Grimoire Bonus (Foil)",
+    "code": "sld-bonus-secret-lair-x-final-fantasy-grimoire",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 1500,
+        "cards": {
+          "sld:7003:foil": 1495,
+          "sld:7004:foil": 1,
+          "sld:7005:foil": 1,
+          "sld:7006:foil": 1,
+          "sld:7007:foil": 1,
+          "sld:7008:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x FINAL FANTASY Weapons Bonus (Foil)",
+    "code": "sld-bonus-secret-lair-x-final-fantasy-weapons",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 1500,
+        "cards": {
+          "sld:7002:foil": 1495,
+          "sld:7004:foil": 1,
+          "sld:7005:foil": 1,
+          "sld:7006:foil": 1,
+          "sld:7007:foil": 1,
+          "sld:7008:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Flower Power Bonus (Foil)",
+    "code": "sld-bonus-secret-lair-x-flower-power",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 500,
+        "cards": {
+          "sld:819:foil": 5,
+          "sld:888:foil": 99,
+          "sld:889:foil": 99,
+          "sld:890:foil": 99,
+          "sld:891:foil": 99,
+          "sld:892:foil": 99
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Hatsune Miku Digital Sensation English Bonus (Foil)",
+    "code": "sld-bonus-secret-lair-x-hatsune-miku-digital-sensation-english-foil",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:806:foil": 199,
+          "sld:808:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Hatsune Miku Digital Sensation English Bonus (Nonfoil)",
+    "code": "sld-bonus-secret-lair-x-hatsune-miku-digital-sensation-english-nonfoil",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:806": 199,
+          "sld:808": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Hatsune Miku Electric Entourage English Bonus (Foil)",
+    "code": "sld-bonus-secret-lair-x-hatsune-miku-electric-entourage-english-foil",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:807:foil": 199,
+          "sld:808:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Hatsune Miku Electric Entourage English Bonus (Nonfoil)",
+    "code": "sld-bonus-secret-lair-x-hatsune-miku-electric-entourage-english-nonfoil",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:807": 199,
+          "sld:808": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Hatsune Miku Sakura Superstar English Bonus (Foil)",
+    "code": "sld-bonus-secret-lair-x-hatsune-miku-sakura-superstar-english-foil",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:805:foil": 199,
+          "sld:808:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Hatsune Miku Sakura Superstar English Bonus (Nonfoil)",
+    "code": "sld-bonus-secret-lair-x-hatsune-miku-sakura-superstar-english-nonfoil",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:805": 199,
+          "sld:808": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Hatsune Miku Winter Diva English Bonus (Foil)",
+    "code": "sld-bonus-secret-lair-x-hatsune-miku-winter-diva-english-foil",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 400,
+        "cards": {
+          "sld:804:foil": 399,
+          "sld:808:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Hatsune Miku Winter Diva English Bonus (Nonfoil)",
+    "code": "sld-bonus-secret-lair-x-hatsune-miku-winter-diva-english-nonfoil",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:804": 199,
+          "sld:808": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Marvels Black Panther Bonus",
+    "code": "sld-bonus-secret-lair-x-marvels-black-panther",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 300,
+        "cards": {
+          "sld:867:foil": 299,
+          "sld:870:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Marvels Captain America Bonus",
+    "code": "sld-bonus-secret-lair-x-marvels-captain-america",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 300,
+        "cards": {
+          "sld:863:foil": 299,
+          "sld:870:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Marvels Deadpool April Pools Day Bonus (Foil)",
+    "code": "sld-bonus-secret-lair-x-marvels-deadpool-april-pools-day",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 300,
+        "cards": {
+          "sld:868:foil": 299,
+          "sld:869:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Marvels Iron Man Bonus",
+    "code": "sld-bonus-secret-lair-x-marvels-iron-man",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 300,
+        "cards": {
+          "sld:864:foil": 299,
+          "sld:870:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Marvels Spider-Man Daily Bugle Breaking News Bonus (Nonfoil)",
+    "code": "sld-bonus-secret-lair-x-marvels-spider-man-daily-bugle-breaking-news",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 333,
+        "cards": {
+          "sld:7013": 1,
+          "sld:7014": 1,
+          "sld:7015": 1,
+          "sld:7016": 10,
+          "sld:7017": 10,
+          "sld:7018": 10,
+          "sld:7019": 100,
+          "sld:7020": 100,
+          "sld:7021": 100
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Marvels Spider-Man Heroic Deeds Bonus (Nonfoil)",
+    "code": "sld-bonus-secret-lair-x-marvels-spider-man-heroic-deeds",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 333,
+        "cards": {
+          "sld:7013": 1,
+          "sld:7014": 1,
+          "sld:7015": 1,
+          "sld:7016": 10,
+          "sld:7017": 10,
+          "sld:7018": 10,
+          "sld:7019": 100,
+          "sld:7020": 100,
+          "sld:7021": 100
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Marvels Spider-Man Mana Symbiote Bonus (Nonfoil)",
+    "code": "sld-bonus-secret-lair-x-marvels-spider-man-mana-symbiote",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 333,
+        "cards": {
+          "sld:7013": 1,
+          "sld:7014": 1,
+          "sld:7015": 1,
+          "sld:7016": 10,
+          "sld:7017": 10,
+          "sld:7018": 10,
+          "sld:7019": 100,
+          "sld:7020": 100,
+          "sld:7021": 100
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Marvels Spider-Man Venom Unleashed Colors Bonus (Nonfoil)",
+    "code": "sld-bonus-secret-lair-x-marvels-spider-man-venom-unleashed-colors",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 333,
+        "cards": {
+          "sld:7013": 1,
+          "sld:7014": 1,
+          "sld:7015": 1,
+          "sld:7016": 10,
+          "sld:7017": 10,
+          "sld:7018": 10,
+          "sld:7019": 100,
+          "sld:7020": 100,
+          "sld:7021": 100
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Marvels Spider-Man Venom Unleashed Inks Bonus (Nonfoil)",
+    "code": "sld-bonus-secret-lair-x-marvels-spider-man-venom-unleashed-inks",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 333,
+        "cards": {
+          "sld:7013": 1,
+          "sld:7014": 1,
+          "sld:7015": 1,
+          "sld:7016": 10,
+          "sld:7017": 10,
+          "sld:7018": 10,
+          "sld:7019": 100,
+          "sld:7020": 100,
+          "sld:7021": 100
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Marvels Spider-Man Villainous Plots Bonus (Nonfoil)",
+    "code": "sld-bonus-secret-lair-x-marvels-spider-man-villainous-plots",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 333,
+        "cards": {
+          "sld:7013": 1,
+          "sld:7014": 1,
+          "sld:7015": 1,
+          "sld:7016": 10,
+          "sld:7017": 10,
+          "sld:7018": 10,
+          "sld:7019": 100,
+          "sld:7020": 100,
+          "sld:7021": 100
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Marvels Storm Bonus",
+    "code": "sld-bonus-secret-lair-x-marvels-storm",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 300,
+        "cards": {
+          "sld:866:foil": 299,
+          "sld:870:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Marvels Wolverine Bonus",
+    "code": "sld-bonus-secret-lair-x-marvels-wolverine",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 300,
+        "cards": {
+          "sld:865:foil": 299,
+          "sld:870:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Sonic the Hedgehog Chasing Adventure Bonus (Foil)",
+    "code": "sld-bonus-secret-lair-x-sonic-the-hedgehog-chasing-adventure",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2100,
+        "cards": {
+          "sld:7030:foil": 2093,
+          "sld:7031:foil": 1,
+          "sld:7032:foil": 1,
+          "sld:7033:foil": 1,
+          "sld:7034:foil": 1,
+          "sld:7035:foil": 1,
+          "sld:7036:foil": 1,
+          "sld:7037:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Sonic the Hedgehog Friends and Foes Bonus (Foil)",
+    "code": "sld-bonus-secret-lair-x-sonic-the-hedgehog-friends-and-foes",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2100,
+        "cards": {
+          "sld:7030:foil": 2093,
+          "sld:7031:foil": 1,
+          "sld:7032:foil": 1,
+          "sld:7033:foil": 1,
+          "sld:7034:foil": 1,
+          "sld:7035:foil": 1,
+          "sld:7036:foil": 1,
+          "sld:7037:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Secret Lair x Sonic the Hedgehog Turbo Gear Bonus (Foil)",
+    "code": "sld-bonus-secret-lair-x-sonic-the-hedgehog-turbo-gear",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2100,
+        "cards": {
+          "sld:7030:foil": 2093,
+          "sld:7031:foil": 1,
+          "sld:7032:foil": 1,
+          "sld:7033:foil": 1,
+          "sld:7034:foil": 1,
+          "sld:7035:foil": 1,
+          "sld:7036:foil": 1,
+          "sld:7037:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Shades Not Included Bonus",
+    "code": "sld-bonus-shades-not-included",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 1200,
+        "cards": {
+          "sld:599:foil": 24,
+          "sld:605:foil": 20,
+          "sld:606:foil": 20,
+          "sld:607:foil": 20,
+          "sld:617:foil": 279,
+          "sld:628:foil": 279,
+          "sld:646:foil": 279,
+          "sld:649:foil": 279
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase All Will Be One Step and Compleat Bonus",
+    "code": "sld-bonus-showcase-all-will-be-one-step-and-compleat",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:633φ:foil": 49,
+          "sld:635φ:foil": 49,
+          "sld:659φ:foil": 49,
+          "sld:681φ:foil": 3
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase Dominaria United Textured Bonus",
+    "code": "sld-bonus-showcase-dominaria-united-textured",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 80,
+        "cards": {
+          "sld:610:foil": 19,
+          "sld:612:foil": 19,
+          "sld:628:foil": 19,
+          "sld:648:foil": 19,
+          "sld:695:foil": 4
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase March of the Machine Vol 1 Bonus",
+    "code": "sld-bonus-showcase-march-of-the-machine-vol-1",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:620:foil": 1,
+          "sld:642:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase March of the Machine Vol 3 Bonus",
+    "code": "sld-bonus-showcase-march-of-the-machine-vol-3",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:612:foil": 49,
+          "sld:623:foil": 49,
+          "sld:642:foil": 49,
+          "sld:688:foil": 3
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase Midnight Hunt Bonus",
+    "code": "sld-bonus-showcase-midnight-hunt",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 9200,
+        "cards": {
+          "sld:542:foil": 372,
+          "sld:543:foil": 372,
+          "sld:547:foil": 372,
+          "sld:548:foil": 372,
+          "sld:550:foil": 372,
+          "sld:551:foil": 372,
+          "sld:552:foil": 372,
+          "sld:554:foil": 372,
+          "sld:557:foil": 372,
+          "sld:558:foil": 372,
+          "sld:559:foil": 372,
+          "sld:560:foil": 372,
+          "sld:561:foil": 372,
+          "sld:563:foil": 372,
+          "sld:564:foil": 372,
+          "sld:565:foil": 372,
+          "sld:566:foil": 372,
+          "sld:569:foil": 372,
+          "sld:574:foil": 372,
+          "sld:575:foil": 372,
+          "sld:576:foil": 372,
+          "sld:577:foil": 372,
+          "sld:579:foil": 372,
+          "sld:596:foil": 184,
+          "sld:603:foil": 115,
+          "sld:604:foil": 115,
+          "sld:606:foil": 115,
+          "sld:607:foil": 115
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase Monster Anatomy 101 Bonus",
+    "code": "sld-bonus-showcase-monster-anatomy-101",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 7600,
+        "cards": {
+          "sld:542:foil": 372,
+          "sld:544:foil": 372,
+          "sld:545:foil": 372,
+          "sld:547:foil": 372,
+          "sld:548:foil": 372,
+          "sld:550:foil": 372,
+          "sld:553:foil": 372,
+          "sld:557:foil": 372,
+          "sld:559:foil": 372,
+          "sld:560:foil": 372,
+          "sld:564:foil": 372,
+          "sld:565:foil": 372,
+          "sld:570:foil": 372,
+          "sld:571:foil": 372,
+          "sld:573:foil": 372,
+          "sld:574:foil": 372,
+          "sld:575:foil": 372,
+          "sld:577:foil": 372,
+          "sld:578:foil": 372,
+          "sld:596:foil": 152,
+          "sld:603:foil": 95,
+          "sld:604:foil": 95,
+          "sld:606:foil": 95,
+          "sld:607:foil": 95
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase Murders at Karlov Manor Bonus",
+    "code": "sld-bonus-showcase-murders-at-karlov-manor",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:757:foil": 2,
+          "sld:759:foil": 49,
+          "sld:780:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase Neon Dynasty Neon Ink Bonus",
+    "code": "sld-bonus-showcase-neon-dynasty-neon-ink",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 120,
+        "cards": {
+          "sld:604:foil": 3,
+          "sld:607:foil": 3,
+          "sld:617:foil": 19,
+          "sld:628:foil": 19,
+          "sld:646:foil": 19,
+          "sld:647:foil": 19,
+          "sld:649:foil": 19,
+          "sld:657:foil": 19
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase Streets Of New Capenna Gilded Bonus",
+    "code": "sld-bonus-showcase-streets-of-new-capenna-gilded",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2800,
+        "cards": {
+          "sld:660:foil": 372,
+          "sld:661:foil": 372,
+          "sld:662:foil": 372,
+          "sld:663:foil": 372,
+          "sld:664:foil": 372,
+          "sld:665:foil": 372,
+          "sld:667:foil": 372,
+          "sld:684:foil": 56,
+          "sld:692:foil": 35,
+          "sld:693:foil": 35,
+          "sld:694:foil": 35,
+          "sld:695:foil": 35
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase Strixhaven Bonus",
+    "code": "sld-bonus-showcase-strixhaven",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 400,
+        "cards": {
+          "sld:547:foil": 95,
+          "sld:549:foil": 95,
+          "sld:553:foil": 95,
+          "sld:566:foil": 95,
+          "sld:603:foil": 4,
+          "sld:604:foil": 4,
+          "sld:605:foil": 4,
+          "sld:606:foil": 4,
+          "sld:607:foil": 4
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase Strixhaven Foil Drop Bonus",
+    "code": "sld-bonus-showcase-strixhaven-foil-drop",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 300,
+        "cards": {
+          "sld:549:foil": 95,
+          "sld:555:foil": 95,
+          "sld:568:foil": 95,
+          "sld:603:foil": 3,
+          "sld:604:foil": 3,
+          "sld:605:foil": 3,
+          "sld:606:foil": 3,
+          "sld:607:foil": 3
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase The Lost Caverns of Ixalan Bonus",
+    "code": "sld-bonus-showcase-the-lost-caverns-of-ixalan",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:762:foil": 1,
+          "sld:763:foil": 1,
+          "sld:779:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase Thrilling Tales Of The Undead Bonus",
+    "code": "sld-bonus-showcase-thrilling-tales-of-the-undead",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 10000,
+        "cards": {
+          "sld:541:foil": 372,
+          "sld:542:foil": 372,
+          "sld:544:foil": 372,
+          "sld:547:foil": 372,
+          "sld:549:foil": 372,
+          "sld:555:foil": 372,
+          "sld:556:foil": 372,
+          "sld:557:foil": 372,
+          "sld:558:foil": 372,
+          "sld:559:foil": 372,
+          "sld:560:foil": 372,
+          "sld:564:foil": 372,
+          "sld:565:foil": 372,
+          "sld:566:foil": 372,
+          "sld:567:foil": 372,
+          "sld:568:foil": 372,
+          "sld:570:foil": 372,
+          "sld:571:foil": 372,
+          "sld:572:foil": 372,
+          "sld:573:foil": 372,
+          "sld:574:foil": 372,
+          "sld:575:foil": 372,
+          "sld:576:foil": 372,
+          "sld:577:foil": 372,
+          "sld:579:foil": 372,
+          "sld:596:foil": 200,
+          "sld:603:foil": 125,
+          "sld:604:foil": 125,
+          "sld:605:foil": 125,
+          "sld:607:foil": 125
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase Zendikar Revisited Bonus",
+    "code": "sld-bonus-showcase-zendikar-revisited",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:518:foil": 1,
+          "sld:532:foil": 1,
+          "sld:533:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Slay the Day Bonus (Foil)",
+    "code": "sld-bonus-slay-the-day",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 250,
+        "cards": {
+          "sld:817:foil": 5,
+          "sld:834:foil": 49,
+          "sld:847:foil": 49,
+          "sld:851:foil": 49,
+          "sld:853:foil": 49,
+          "sld:857:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD So Salty Bonus (Foil)",
+    "code": "sld-bonus-so-salty",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 5,
+        "cards": {
+          "sld:888:foil": 1,
+          "sld:889:foil": 1,
+          "sld:890:foil": 1,
+          "sld:891:foil": 1,
+          "sld:892:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Special Guest Jen Bartel Bonus",
+    "code": "sld-bonus-special-guest-jen-bartel",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 60,
+        "cards": {
+          "sld:544:foil": 19,
+          "sld:551:foil": 19,
+          "sld:569:foil": 19,
+          "sld:606:foil": 3
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Special Guest Junji Ito Bonus",
+    "code": "sld-bonus-special-guest-junji-ito",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 400,
+        "cards": {
+          "sld:631:foil": 62,
+          "sld:632:foil": 62,
+          "sld:633:foil": 62,
+          "sld:634:foil": 62,
+          "sld:635:foil": 62,
+          "sld:666:foil": 62,
+          "sld:682:foil": 8,
+          "sld:692:foil": 5,
+          "sld:693:foil": 5,
+          "sld:694:foil": 5,
+          "sld:695:foil": 5
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Special Guest Kelogsloops Bonus",
+    "code": "sld-bonus-special-guest-kelogsloops",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 1000,
+        "cards": {
+          "sld:618:foil": 186,
+          "sld:650:foil": 186,
+          "sld:654:foil": 186,
+          "sld:660:foil": 186,
+          "sld:667:foil": 186,
+          "sld:683:foil": 20,
+          "sld:692:foil": 25,
+          "sld:694:foil": 25
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Special Guest Matt Jukes Bonus",
+    "code": "sld-bonus-special-guest-matt-jukes",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 120,
+        "cards": {
+          "sld:660:foil": 19,
+          "sld:661:foil": 19,
+          "sld:662:foil": 19,
+          "sld:663:foil": 19,
+          "sld:665:foil": 19,
+          "sld:667:foil": 19,
+          "sld:695:foil": 6
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Special Guest Yoji Shinkawa Bonus",
+    "code": "sld-bonus-special-guest-yoji-shinkawa",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2800,
+        "cards": {
+          "sld:613:foil": 372,
+          "sld:624:foil": 372,
+          "sld:626:foil": 372,
+          "sld:627:foil": 372,
+          "sld:628:foil": 372,
+          "sld:664:foil": 372,
+          "sld:667:foil": 372,
+          "sld:682:foil": 56,
+          "sld:691:foil": 35,
+          "sld:692:foil": 35,
+          "sld:693:foil": 35,
+          "sld:695:foil": 35
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Special Guest Yuko Shimizu Bonus",
+    "code": "sld-bonus-special-guest-yuko-shimizu",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 500,
+        "cards": {
+          "sld:599:foil": 10,
+          "sld:603:foil": 5,
+          "sld:604:foil": 5,
+          "sld:605:foil": 5,
+          "sld:606:foil": 5,
+          "sld:607:foil": 5,
+          "sld:617:foil": 93,
+          "sld:628:foil": 93,
+          "sld:646:foil": 93,
+          "sld:647:foil": 93,
+          "sld:657:foil": 93
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Spongebob Squarepants Internet Sensation Bonus (Foil)",
+    "code": "sld-bonus-spongebob-squarepants-internet-sensation",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:7009:foil": 1,
+          "sld:7010:foil": 8,
+          "sld:7011:foil": 20,
+          "sld:7012:foil": 171
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Spongebob Squarepants Lands Under the Sea Bonus (Foil)",
+    "code": "sld-bonus-spongebob-squarepants-lands-under-the-sea",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:7009:foil": 1,
+          "sld:7010:foil": 8,
+          "sld:7011:foil": 20,
+          "sld:7012:foil": 171
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Spongebob Squarepants Legends of Bikini Bottom Bonus (Foil)",
+    "code": "sld-bonus-spongebob-squarepants-legends-of-bikini-bottom",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 200,
+        "cards": {
+          "sld:7009:foil": 1,
+          "sld:7010:foil": 8,
+          "sld:7011:foil": 20,
+          "sld:7012:foil": 171
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Ssssssnakessssss Bonus",
+    "code": "sld-bonus-ssssssnakessssss",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:633:foil": 1,
+          "sld:635:foil": 1,
+          "sld:659:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Tales of the Time Stoppers Bonus",
+    "code": "sld-bonus-tales-of-the-time-stoppers",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:756:foil": 3,
+          "sld:762:foil": 49,
+          "sld:763:foil": 49,
+          "sld:779:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Teenage Mutant Ninja Turtles The Last Ronin Bonus (Foil)",
+    "code": "sld-bonus-teenage-mutant-ninja-turtles-the-last-ronin",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:7075:foil": 98,
+          "sld:7077:foil": 1,
+          "sld:7078:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Teenage Mutant Ninja Turtles The Mighty Mutanimals Bonus (Foil)",
+    "code": "sld-bonus-teenage-mutant-ninja-turtles-the-mighty-mutanimals",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:7073:foil": 98,
+          "sld:7077:foil": 1,
+          "sld:7078:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Teenage Mutant Ninja Turtles VHS Villains Bonus (Foil)",
+    "code": "sld-bonus-teenage-mutant-ninja-turtles-vhs-villains",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:7074:foil": 98,
+          "sld:7077:foil": 1,
+          "sld:7078:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Teferis Time Trouble Bonus",
+    "code": "sld-bonus-teferis-time-trouble",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:551:foil": 93,
+          "sld:597:foil": 2,
+          "sld:605:foil": 5
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Thalia Beyond the Helvault Bonus",
+    "code": "sld-bonus-thalia-beyond-the-helvault",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:507:foil": 1,
+          "sld:529:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD The 90s Binder Experience Bonus",
+    "code": "sld-bonus-the-90s-binder-experience",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:615:foil": 1,
+          "sld:617:foil": 1,
+          "sld:638:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD The Beauty of the Beasts Bonus",
+    "code": "sld-bonus-the-beauty-of-the-beasts",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:757:foil": 2,
+          "sld:772:foil": 49,
+          "sld:780:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD The Dracula Lands Bonus",
+    "code": "sld-bonus-the-dracula-lands",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3300,
+        "cards": {
+          "sld:540:foil": 279,
+          "sld:542:foil": 279,
+          "sld:548:foil": 279,
+          "sld:554:foil": 279,
+          "sld:555:foil": 279,
+          "sld:559:foil": 279,
+          "sld:560:foil": 279,
+          "sld:568:foil": 279,
+          "sld:570:foil": 279,
+          "sld:573:foil": 279,
+          "sld:576:foil": 279,
+          "sld:598:foil": 66,
+          "sld:603:foil": 55,
+          "sld:606:foil": 55,
+          "sld:607:foil": 55
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD The Eyes Have It Bonus (Foil)",
+    "code": "sld-bonus-the-eyes-have-it",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 250,
+        "cards": {
+          "sld:817:foil": 5,
+          "sld:834:foil": 49,
+          "sld:847:foil": 49,
+          "sld:851:foil": 49,
+          "sld:853:foil": 49,
+          "sld:857:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD The Fairest Drop of All Bonus",
+    "code": "sld-bonus-the-fairest-drop-of-all",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 5,
+        "cards": {
+          "sld:761:foil": 1,
+          "sld:763:foil": 1,
+          "sld:777:foil": 1,
+          "sld:782:foil": 1,
+          "sld:788:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD The Office Dwights Destiny Bonus (Foil)",
+    "code": "sld-bonus-the-office-dwights-destiny",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 4,
+        "cards": {
+          "sld:7041:foil": 1,
+          "sld:7042:foil": 1,
+          "sld:7043:foil": 1,
+          "sld:7044:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD The Path Not Traveled Bonus",
+    "code": "sld-bonus-the-path-not-traveled",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 4,
+        "cards": {
+          "sld:520:foil": 1,
+          "sld:521:foil": 1,
+          "sld:525:foil": 1,
+          "sld:536:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD The Space Beyond The Stars Bonus",
+    "code": "sld-bonus-the-space-beyond-the-stars",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 600,
+        "cards": {
+          "sld:629:foil": 95,
+          "sld:635:foil": 95,
+          "sld:638:foil": 95,
+          "sld:640:foil": 95,
+          "sld:651:foil": 95,
+          "sld:659:foil": 95,
+          "sld:691:foil": 6,
+          "sld:692:foil": 6,
+          "sld:693:foil": 6,
+          "sld:694:foil": 6,
+          "sld:695:foil": 6
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD The Stars Gaze Back Bonus",
+    "code": "sld-bonus-the-stars-gaze-back",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:620:foil": 1,
+          "sld:627:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD The Tokyo Lands Bonus",
+    "code": "sld-bonus-the-tokyo-lands",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 1400,
+        "cards": {
+          "sld:541:foil": 95,
+          "sld:545:foil": 95,
+          "sld:551:foil": 95,
+          "sld:554:foil": 95,
+          "sld:555:foil": 95,
+          "sld:556:foil": 95,
+          "sld:558:foil": 95,
+          "sld:559:foil": 95,
+          "sld:561:foil": 95,
+          "sld:563:foil": 95,
+          "sld:567:foil": 95,
+          "sld:568:foil": 95,
+          "sld:572:foil": 95,
+          "sld:573:foil": 95,
+          "sld:691:foil": 14,
+          "sld:692:foil": 14,
+          "sld:693:foil": 14,
+          "sld:694:foil": 14,
+          "sld:695:foil": 14
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD The Weirdest Pets In The Multiverse Bonus",
+    "code": "sld-bonus-the-weirdest-pets-in-the-multiverse",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 600,
+        "cards": {
+          "sld:611:foil": 95,
+          "sld:615:foil": 95,
+          "sld:652:foil": 95,
+          "sld:655:foil": 95,
+          "sld:664:foil": 95,
+          "sld:666:foil": 95,
+          "sld:691:foil": 6,
+          "sld:692:foil": 6,
+          "sld:693:foil": 6,
+          "sld:694:foil": 6,
+          "sld:695:foil": 6
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Theros Stargazing Vol I Heliod Bonus",
+    "code": "sld-bonus-theros-stargazing-vol-i-heliod",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 10,
+        "cards": {
+          "sld:503:foil": 1,
+          "sld:504:foil": 1,
+          "sld:505:foil": 1,
+          "sld:520:foil": 1,
+          "sld:524:foil": 1,
+          "sld:526:foil": 1,
+          "sld:529:foil": 1,
+          "sld:530:foil": 1,
+          "sld:531:foil": 1,
+          "sld:533:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Theros Stargazing Vol II Thassa Bonus",
+    "code": "sld-bonus-theros-stargazing-vol-ii-thassa",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 11,
+        "cards": {
+          "sld:506:foil": 1,
+          "sld:507:foil": 1,
+          "sld:508:foil": 1,
+          "sld:522:foil": 1,
+          "sld:523:foil": 1,
+          "sld:525:foil": 1,
+          "sld:526:foil": 1,
+          "sld:528:foil": 1,
+          "sld:529:foil": 1,
+          "sld:532:foil": 1,
+          "sld:534:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Theros Stargazing Vol III Erebos Bonus",
+    "code": "sld-bonus-theros-stargazing-vol-iii-erebos",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 9,
+        "cards": {
+          "sld:509:foil": 1,
+          "sld:510:foil": 1,
+          "sld:511:foil": 1,
+          "sld:522:foil": 1,
+          "sld:524:foil": 1,
+          "sld:527:foil": 1,
+          "sld:528:foil": 1,
+          "sld:531:foil": 1,
+          "sld:536:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Theros Stargazing Vol IV Purphoros Bonus",
+    "code": "sld-bonus-theros-stargazing-vol-iv-purphoros",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 11,
+        "cards": {
+          "sld:512:foil": 1,
+          "sld:513:foil": 1,
+          "sld:514:foil": 1,
+          "sld:515:foil": 1,
+          "sld:521:foil": 1,
+          "sld:522:foil": 1,
+          "sld:523:foil": 1,
+          "sld:527:foil": 1,
+          "sld:533:foil": 1,
+          "sld:534:foil": 1,
+          "sld:535:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Theros Stargazing Vol V Nylea Bonus",
+    "code": "sld-bonus-theros-stargazing-vol-v-nylea",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 11,
+        "cards": {
+          "sld:516:foil": 1,
+          "sld:517:foil": 1,
+          "sld:518:foil": 1,
+          "sld:519:foil": 1,
+          "sld:520:foil": 1,
+          "sld:521:foil": 1,
+          "sld:525:foil": 1,
+          "sld:530:foil": 1,
+          "sld:532:foil": 1,
+          "sld:535:foil": 1,
+          "sld:536:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Totally Spaced Out Galaxy Bonus",
+    "code": "sld-bonus-totally-spaced-out-galaxy",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 1400,
+        "cards": {
+          "sld:611:foil": 186,
+          "sld:661:foil": 186,
+          "sld:662:foil": 186,
+          "sld:663:foil": 186,
+          "sld:664:foil": 186,
+          "sld:665:foil": 186,
+          "sld:667:foil": 186,
+          "sld:684:foil": 28,
+          "sld:691:foil": 35,
+          "sld:694:foil": 35
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Trick or Treat Bonus (Foil)",
+    "code": "sld-bonus-trick-or-treat",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 250,
+        "cards": {
+          "sld:819:foil": 5,
+          "sld:888:foil": 49,
+          "sld:889:foil": 49,
+          "sld:890:foil": 49,
+          "sld:891:foil": 49,
+          "sld:892:foil": 49
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Twisted Toons Bonus (Foil)",
+    "code": "sld-bonus-twisted-toons",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 15,
+        "cards": {
+          "sld:881:foil": 2,
+          "sld:882:foil": 2,
+          "sld:883:foil": 1,
+          "sld:884:foil": 5,
+          "sld:885:foil": 5
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Viva Las Rakdos Bonus (Foil)",
+    "code": "sld-bonus-viva-las-rakdos",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 5,
+        "cards": {
+          "sld:7130:foil": 1,
+          "sld:7137:foil": 1,
+          "sld:7143:foil": 1,
+          "sld:7144:foil": 1,
+          "sld:7147:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD We Hope You Like Squirrels Bonus",
+    "code": "sld-bonus-we-hope-you-like-squirrels",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 4,
+        "cards": {
+          "sld:516:foil": 1,
+          "sld:517:foil": 1,
+          "sld:518:foil": 1,
+          "sld:519:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Welcome To Castle Dracula Bonus",
+    "code": "sld-bonus-welcome-to-castle-dracula",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 300,
+        "cards": {
+          "sld:562:foil": 279,
+          "sld:598:foil": 6,
+          "sld:604:foil": 5,
+          "sld:605:foil": 5,
+          "sld:606:foil": 5
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Witch's Familiar Bonus (Foil)",
+    "code": "sld-bonus-witchs-familiar",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 5,
+        "cards": {
+          "sld:7135:foil": 1,
+          "sld:7138:foil": 1,
+          "sld:7139:foil": 1,
+          "sld:7145:foil": 1,
+          "sld:7152:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Year of the Rat Bonus",
+    "code": "sld-bonus-year-of-the-rat",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 4,
+        "cards": {
+          "sld:504:foil": 1,
+          "sld:514:foil": 1,
+          "sld:516:foil": 1,
+          "sld:523:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
     "name": "SLD Chaos Emeralds",
     "code": "sld-chaos-emeralds",
     "languages": [
@@ -197396,131 +203807,6 @@
     ]
   },
   {
-    "name": "SLD Handsome Humans (June 2026)",
-    "code": "sld-handsome-humans-jun",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "humans": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "humans": {
-        "total_weight": 163,
-        "cards": {
-          "sld:7135:foil": 22,
-          "sld:7138:foil": 56,
-          "sld:7139:foil": 73,
-          "sld:7145:foil": 1,
-          "sld:7152:foil": 11
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Handsome Humans (May 2026)",
-    "code": "sld-handsome-humans-may",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "humans": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "humans": {
-        "total_weight": 167,
-        "cards": {
-          "sld:7130:foil": 1,
-          "sld:7137:foil": 136,
-          "sld:7143:foil": 19,
-          "sld:7144:foil": 2,
-          "sld:7147:foil": 9
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Foil Jumpstart Lands (2021-2022)",
-    "code": "sld-jumpstart-lands",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "lands": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "lands": {
-        "total_weight": 148,
-        "cards": {
-          "sld:540:foil": 3,
-          "sld:541:foil": 5,
-          "sld:542:foil": 5,
-          "sld:543:foil": 2,
-          "sld:544:foil": 5,
-          "sld:545:foil": 3,
-          "sld:546:foil": 7,
-          "sld:547:foil": 1,
-          "sld:548:foil": 11,
-          "sld:549:foil": 13,
-          "sld:550:foil": 5,
-          "sld:554:foil": 5,
-          "sld:559:foil": 7,
-          "sld:564:foil": 4,
-          "sld:565:foil": 3,
-          "sld:567:foil": 3,
-          "sld:568:foil": 13,
-          "sld:569:foil": 17,
-          "sld:570:foil": 1,
-          "sld:574:foil": 8,
-          "sld:575:foil": 3,
-          "sld:576:foil": 6,
-          "sld:577:foil": 8,
-          "sld:578:foil": 4,
-          "sld:579:foil": 6
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
     "name": "SLD Spider-Man bonus cards",
     "code": "sld-spider-man",
     "languages": [
@@ -197552,643 +203838,6 @@
           "sld:7019": 100,
           "sld:7020": 100,
           "sld:7021": 100
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Stained Glass Planeswalkers - Black",
-    "code": "sld-stainedglass-b",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "stainedglass_black": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "stainedglass_black": {
-        "total_weight": 9,
-        "cards": {
-          "sld:509:foil": 1,
-          "sld:510:foil": 1,
-          "sld:511:foil": 1,
-          "sld:522:foil": 1,
-          "sld:524:foil": 1,
-          "sld:527:foil": 1,
-          "sld:528:foil": 1,
-          "sld:531:foil": 1,
-          "sld:536:foil": 1
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Stained Glass Planeswalkers - Colorless",
-    "code": "sld-stainedglass-c",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "stainedglass_colorless": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "stainedglass_colorless": {
-        "total_weight": 2,
-        "cards": {
-          "sld:501:foil": 1,
-          "sld:502:foil": 1
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Stained Glass Planeswalkers - Green",
-    "code": "sld-stainedglass-g",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "stainedglass_green": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "stainedglass_green": {
-        "total_weight": 11,
-        "cards": {
-          "sld:516:foil": 1,
-          "sld:517:foil": 1,
-          "sld:518:foil": 1,
-          "sld:519:foil": 1,
-          "sld:520:foil": 1,
-          "sld:521:foil": 1,
-          "sld:525:foil": 1,
-          "sld:530:foil": 1,
-          "sld:532:foil": 1,
-          "sld:535:foil": 1,
-          "sld:536:foil": 1
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Stained Glass Planeswalkers - International Women Day",
-    "code": "sld-stainedglass-iwd",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "stainedglass_iwd": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "stainedglass_iwd": {
-        "total_weight": 18,
-        "cards": {
-          "sld:505:foil": 1,
-          "sld:507:foil": 1,
-          "sld:508:foil": 1,
-          "sld:510:foil": 1,
-          "sld:512:foil": 1,
-          "sld:513:foil": 1,
-          "sld:516:foil": 1,
-          "sld:518:foil": 1,
-          "sld:519:foil": 1,
-          "sld:525:foil": 1,
-          "sld:528:foil": 1,
-          "sld:530:foil": 1,
-          "sld:531:foil": 1,
-          "sld:532:foil": 1,
-          "sld:533:foil": 1,
-          "sld:534:foil": 1,
-          "sld:535:foil": 1,
-          "sld:536:foil": 1
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Stained Glass Planeswalkers - Red",
-    "code": "sld-stainedglass-r",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "stainedglass_red": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "stainedglass_red": {
-        "total_weight": 11,
-        "cards": {
-          "sld:512:foil": 1,
-          "sld:513:foil": 1,
-          "sld:514:foil": 1,
-          "sld:515:foil": 1,
-          "sld:521:foil": 1,
-          "sld:522:foil": 1,
-          "sld:523:foil": 1,
-          "sld:527:foil": 1,
-          "sld:533:foil": 1,
-          "sld:534:foil": 1,
-          "sld:535:foil": 1
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Stained Glass Planeswalkers - Tattoo",
-    "code": "sld-stainedglass-tattoo",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "stainedglass_tattoo": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "stainedglass_tattoo": {
-        "total_weight": 15,
-        "cards": {
-          "sld:504:foil": 1,
-          "sld:506:foil": 1,
-          "sld:507:foil": 1,
-          "sld:508:foil": 1,
-          "sld:510:foil": 1,
-          "sld:513:foil": 1,
-          "sld:515:foil": 1,
-          "sld:518:foil": 1,
-          "sld:524:foil": 1,
-          "sld:526:foil": 1,
-          "sld:527:foil": 1,
-          "sld:529:foil": 1,
-          "sld:530:foil": 1,
-          "sld:531:foil": 1,
-          "sld:533:foil": 1
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Stained Glass Planeswalkers - Blue",
-    "code": "sld-stainedglass-u",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "stainedglass_blue": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "stainedglass_blue": {
-        "total_weight": 11,
-        "cards": {
-          "sld:506:foil": 1,
-          "sld:507:foil": 1,
-          "sld:508:foil": 1,
-          "sld:522:foil": 1,
-          "sld:523:foil": 1,
-          "sld:525:foil": 1,
-          "sld:526:foil": 1,
-          "sld:528:foil": 1,
-          "sld:529:foil": 1,
-          "sld:532:foil": 1,
-          "sld:534:foil": 1
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Stained Glass Planeswalkers - Uncommon",
-    "code": "sld-stainedglass-uncommon",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "stainedglass_uncommon": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "stainedglass_uncommon": {
-        "total_weight": 20,
-        "cards": {
-          "sld:504:foil": 1,
-          "sld:505:foil": 1,
-          "sld:507:foil": 1,
-          "sld:508:foil": 1,
-          "sld:509:foil": 1,
-          "sld:511:foil": 1,
-          "sld:513:foil": 1,
-          "sld:515:foil": 1,
-          "sld:516:foil": 1,
-          "sld:517:foil": 1,
-          "sld:527:foil": 1,
-          "sld:528:foil": 1,
-          "sld:529:foil": 1,
-          "sld:530:foil": 1,
-          "sld:531:foil": 1,
-          "sld:532:foil": 1,
-          "sld:533:foil": 1,
-          "sld:534:foil": 1,
-          "sld:535:foil": 1,
-          "sld:536:foil": 1
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Stained Glass Planeswalkers - White",
-    "code": "sld-stainedglass-w",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "stainedglass_white": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "stainedglass_white": {
-        "total_weight": 10,
-        "cards": {
-          "sld:503:foil": 1,
-          "sld:504:foil": 1,
-          "sld:505:foil": 1,
-          "sld:520:foil": 1,
-          "sld:524:foil": 1,
-          "sld:526:foil": 1,
-          "sld:529:foil": 1,
-          "sld:530:foil": 1,
-          "sld:531:foil": 1,
-          "sld:533:foil": 1
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Surprise Slivers (2022-2023)",
-    "code": "sld-surprise-slivers",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "slivers": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "slivers": {
-        "total_weight": 1631,
-        "cards": {
-          "sld:610:foil": 2,
-          "sld:611:foil": 2,
-          "sld:612:foil": 22,
-          "sld:613:foil": 47,
-          "sld:617:foil": 59,
-          "sld:619:foil": 3,
-          "sld:620:foil": 213,
-          "sld:623:foil": 106,
-          "sld:626:foil": 9,
-          "sld:627:foil": 61,
-          "sld:628:foil": 73,
-          "sld:631:foil": 10,
-          "sld:632:foil": 55,
-          "sld:633:foil": 143,
-          "sld:634:foil": 11,
-          "sld:635:foil": 85,
-          "sld:636:foil": 120,
-          "sld:637:foil": 2,
-          "sld:638:foil": 110,
-          "sld:643:foil": 8,
-          "sld:644:foil": 4,
-          "sld:646:foil": 83,
-          "sld:647:foil": 33,
-          "sld:648:foil": 2,
-          "sld:649:foil": 23,
-          "sld:651:foil": 55,
-          "sld:654:foil": 22,
-          "sld:655:foil": 1,
-          "sld:656:foil": 16,
-          "sld:657:foil": 129,
-          "sld:659:foil": 40,
-          "sld:660:foil": 24,
-          "sld:661:foil": 9,
-          "sld:663:foil": 9,
-          "sld:664:foil": 27,
-          "sld:666:foil": 12,
-          "sld:668:foil": 1
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Surprise Slivers (early, pre-October 2022)",
-    "code": "sld-surprise-slivers-early",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "slivers": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "slivers": {
-        "total_weight": 511,
-        "cards": {
-          "sld:617:foil": 59,
-          "sld:628:foil": 73,
-          "sld:634:foil": 11,
-          "sld:643:foil": 8,
-          "sld:646:foil": 83,
-          "sld:647:foil": 33,
-          "sld:649:foil": 23,
-          "sld:654:foil": 22,
-          "sld:657:foil": 129,
-          "sld:660:foil": 24,
-          "sld:661:foil": 9,
-          "sld:663:foil": 9,
-          "sld:664:foil": 27,
-          "sld:668:foil": 1
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Zippy Zombies (February 2025)",
-    "code": "sld-zippy-zombies-feb",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "zombies": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "zombies": {
-        "total_weight": 347,
-        "cards": {
-          "sld:837:foil": 47,
-          "sld:838:foil": 59,
-          "sld:840:foil": 16,
-          "sld:841:foil": 32,
-          "sld:842:foil": 10,
-          "sld:843:foil": 11,
-          "sld:844:foil": 4,
-          "sld:848:foil": 13,
-          "sld:849:foil": 51,
-          "sld:850:foil": 6,
-          "sld:856:foil": 12,
-          "sld:858:foil": 81,
-          "sld:860:foil": 4,
-          "sld:862:foil": 1
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Zippy Zombies (June 2025)",
-    "code": "sld-zippy-zombies-jun",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "zombies": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "zombies": {
-        "total_weight": 89,
-        "cards": {
-          "sld:834:foil": 19,
-          "sld:847:foil": 7,
-          "sld:851:foil": 1,
-          "sld:853:foil": 19,
-          "sld:857:foil": 43
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Zippy Zombies (March 2025)",
-    "code": "sld-zippy-zombies-mar",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "zombies": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "zombies": {
-        "total_weight": 38,
-        "cards": {
-          "sld:839:foil": 7,
-          "sld:845:foil": 22,
-          "sld:854:foil": 6,
-          "sld:855:foil": 2,
-          "sld:861:foil": 1
-        }
-      }
-    },
-    "source_set_codes": [
-      "sld"
-    ]
-  },
-  {
-    "name": "SLD Zippy Zombies (May 2025)",
-    "code": "sld-zippy-zombies-may",
-    "languages": [
-      "en",
-      "it",
-      "jp",
-      "sp"
-    ],
-    "set_code": "sld",
-    "set_name": "Secret Lair Drop",
-    "boosters": [
-      {
-        "sheets": {
-          "zombies": 1
-        },
-        "weight": 1
-      }
-    ],
-    "sheets": {
-      "zombies": {
-        "total_weight": 238,
-        "cards": {
-          "sld:835:foil": 50,
-          "sld:836:foil": 30,
-          "sld:846:foil": 1,
-          "sld:852:foil": 67,
-          "sld:859:foil": 90
         }
       }
     },
@@ -298317,13 +303966,11 @@
       },
       "common": {
         "balance_colors": true,
-        "total_weight": 63,
+        "total_weight": 55,
         "cards": {
-          "s99:103": 1,
           "s99:105": 1,
           "s99:107": 1,
           "s99:111": 1,
-          "s99:112": 1,
           "s99:113": 1,
           "s99:114": 1,
           "s99:116": 1,
@@ -298343,12 +303990,9 @@
           "s99:14": 1,
           "s99:142": 1,
           "s99:143": 1,
-          "s99:15": 1,
-          "s99:152": 1,
           "s99:17": 1,
           "s99:19": 1,
           "s99:21": 1,
-          "s99:24": 1,
           "s99:26": 1,
           "s99:27": 1,
           "s99:28": 1,
@@ -298358,9 +304002,7 @@
           "s99:37": 1,
           "s99:39": 1,
           "s99:40": 1,
-          "s99:42": 1,
           "s99:49": 1,
-          "s99:50": 1,
           "s99:51": 1,
           "s99:52": 1,
           "s99:53": 1,
@@ -298377,7 +304019,6 @@
           "s99:83": 1,
           "s99:84": 1,
           "s99:85": 1,
-          "s99:87": 1,
           "s99:88": 1,
           "s99:9": 1,
           "s99:98": 1,
