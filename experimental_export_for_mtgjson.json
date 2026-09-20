@@ -198533,6 +198533,39 @@
         "SLD"
       ]
     },
+    "bonus-a-devastation-of-dragons": {
+      "name": "SLD A Devastation of Dragons Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "1e817086-f8bf-5994-b62c-86fc7b75034a": 1,
+            "20ccaa47-9ef5-5a63-b890-e646e994702b": 1,
+            "2307736f-5aab-586a-9ca9-8dc99b1a2db1": 1,
+            "76ca9f11-911a-512f-b834-0f4612d09b42": 1
+          },
+          "foil": true,
+          "totalWeight": 4
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-absolute-annihilation": {
       "name": "SLD Absolute Annihilation Bonus",
       "languages": [
@@ -198567,7 +198600,7 @@
       ]
     },
     "bonus-adventures-of-the-little-witch": {
-      "name": "SLD Adventures of the Little Witch Bonus (Foil)",
+      "name": "SLD Adventures of the Little Witch Bonus",
       "languages": [
         "en",
         "it",
@@ -198600,8 +198633,40 @@
         "SLD"
       ]
     },
+    "bonus-aether-drifters": {
+      "name": "SLD Aether Drifters Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "953a4c65-3dcb-50ff-a837-61b5e82f55d4": 1,
+            "9619c634-d7c6-5854-bff1-8a525b7f6b82": 1,
+            "fb29a4fd-f4e2-53fc-81a3-af75fa384f2f": 1
+          },
+          "foil": true,
+          "totalWeight": 3
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-alien-auroras": {
-      "name": "SLD Alien Auroras Bonus (Foil)",
+      "name": "SLD Alien Auroras Bonus",
       "languages": [
         "en",
         "it",
@@ -198670,8 +198735,41 @@
         "SLD"
       ]
     },
+    "bonus-arcade-racers": {
+      "name": "SLD Arcade Racers Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "7bf27a22-d8c8-54ea-81f2-80a882aab16e": 1,
+            "953a4c65-3dcb-50ff-a837-61b5e82f55d4": 1,
+            "9619c634-d7c6-5854-bff1-8a525b7f6b82": 1,
+            "fb29a4fd-f4e2-53fc-81a3-af75fa384f2f": 1
+          },
+          "foil": true,
+          "totalWeight": 4
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-avatar-the-last-airbender-a-lot-to-learn": {
-      "name": "SLD Avatar The Last Airbender A Lot to Learn Bonus (Foil)",
+      "name": "SLD Avatar The Last Airbender A Lot to Learn Bonus",
       "languages": [
         "en",
         "it",
@@ -198702,7 +198800,7 @@
       ]
     },
     "bonus-avatar-the-last-airbender-everything-changed": {
-      "name": "SLD Avatar The Last Airbender Everything Changed Bonus (Foil)",
+      "name": "SLD Avatar The Last Airbender Everything Changed Bonus",
       "languages": [
         "en",
         "it",
@@ -198733,7 +198831,7 @@
       ]
     },
     "bonus-avatar-the-last-airbender-my-cabbages": {
-      "name": "SLD Avatar The Last Airbender My Cabbages! Bonus (Foil)",
+      "name": "SLD Avatar The Last Airbender My Cabbages! Bonus",
       "languages": [
         "en",
         "it",
@@ -198764,7 +198862,7 @@
       ]
     },
     "bonus-avatar-the-last-airbender-one-with-the-elements": {
-      "name": "SLD Avatar The Last Airbender One with the Elements Bonus (Foil)",
+      "name": "SLD Avatar The Last Airbender One with the Elements Bonus",
       "languages": [
         "en",
         "it",
@@ -198795,7 +198893,7 @@
       ]
     },
     "bonus-avatar-the-last-airbender-the-ember-island-players": {
-      "name": "SLD Avatar The Last Airbender The Ember Island Players Bonus (Foil)",
+      "name": "SLD Avatar The Last Airbender The Ember Island Players Bonus",
       "languages": [
         "en",
         "it",
@@ -198894,7 +198992,7 @@
       ]
     },
     "bonus-brain-dead-new-earth-mentality": {
-      "name": "SLD Brain Dead New Earth Mentality Bonus (Foil)",
+      "name": "SLD Brain Dead New Earth Mentality Bonus",
       "languages": [
         "en",
         "it",
@@ -198946,7 +199044,7 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "2dcfdcb9-299f-5c4e-bcd1-f3a4a189e8e7": 49,
+            "38d1f975-1b3b-5047-8328-61f5ca71ddba": 49,
             "5d0baf88-f632-5ee1-8bdf-e7789fa2aaab": 3,
             "82b67f61-0c5b-53e7-82b1-b6ec8c78b111": 49,
             "da131a1a-753b-5cc2-b322-c15e2d8a039b": 49
@@ -198992,7 +199090,7 @@
       ]
     },
     "bonus-cats-of-chaos": {
-      "name": "SLD Cats of Chaos Bonus (Foil)",
+      "name": "SLD Cats of Chaos Bonus",
       "languages": [
         "en",
         "it",
@@ -199058,6 +199156,39 @@
         "SLD"
       ]
     },
+    "bonus-city-styles-2-dressed-to-kill": {
+      "name": "SLD City Styles 2 Dressed to Kill Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "6ed377a9-fa0e-5094-b687-9131a3b32bbd": 1,
+            "7bf27a22-d8c8-54ea-81f2-80a882aab16e": 1,
+            "953a4c65-3dcb-50ff-a837-61b5e82f55d4": 1,
+            "fb29a4fd-f4e2-53fc-81a3-af75fa384f2f": 1
+          },
+          "foil": true,
+          "totalWeight": 4
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-cool-ocean-breeze": {
       "name": "SLD Cool Ocean Breeze Bonus",
       "languages": [
@@ -199084,6 +199215,39 @@
           },
           "foil": true,
           "totalWeight": 3
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-cosmic-chill-by-robin-eisenberg": {
+      "name": "SLD Cosmic Chill by Robin Eisenberg Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "0e840610-6dd3-5383-8fc4-992595c94c56": 1,
+            "dd652d6e-20aa-54a1-a459-dc160535b608": 1,
+            "e739b1c0-dff0-5603-9c81-085f6d402a85": 1,
+            "ffb11308-18e4-5449-afc7-e1d634762068": 1
+          },
+          "foil": true,
+          "totalWeight": 4
         }
       },
       "sourceSetCodes": [
@@ -199221,7 +199385,7 @@
       ]
     },
     "bonus-dreaming-darkly": {
-      "name": "SLD Dreaming Darkly Bonus (Foil)",
+      "name": "SLD Dreaming Darkly Bonus",
       "languages": [
         "en",
         "it",
@@ -199255,7 +199419,7 @@
       ]
     },
     "bonus-dwarf-fortress-create-new-world-foil": {
-      "name": "SLD Dwarf Fortress Create New World Bonus (Foil)",
+      "name": "SLD Dwarf Fortress Create New World Bonus",
       "languages": [
         "en",
         "it",
@@ -199342,6 +199506,39 @@
           },
           "foil": true,
           "totalWeight": 3
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-everything-is-on-fire": {
+      "name": "SLD EVERYTHING IS ON FIRE Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "5e7b2865-c8a3-5f1f-88ab-6c787afce04a": 3,
+            "8cc61a6b-9475-55eb-a57d-d4b27f2a23f4": 49,
+            "b4046b56-889d-582c-a11b-076cf1a5bba9": 49,
+            "f1b8255b-8324-53a1-831c-68237a00f7bd": 49
+          },
+          "foil": true,
+          "totalWeight": 150
         }
       },
       "sourceSetCodes": [
@@ -199474,7 +199671,7 @@
       ]
     },
     "bonus-featuring-deathburger": {
-      "name": "SLD Featuring Deathburger Bonus (Foil)",
+      "name": "SLD Featuring Deathburger Bonus",
       "languages": [
         "en",
         "it",
@@ -199508,8 +199705,41 @@
         "SLD"
       ]
     },
+    "bonus-featuring-gene-luen-yang": {
+      "name": "SLD Featuring Gene Luen Yang Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "0e840610-6dd3-5383-8fc4-992595c94c56": 1,
+            "dd652d6e-20aa-54a1-a459-dc160535b608": 1,
+            "e739b1c0-dff0-5603-9c81-085f6d402a85": 1,
+            "ffb11308-18e4-5449-afc7-e1d634762068": 1
+          },
+          "foil": true,
+          "totalWeight": 4
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-featuring-imiri-sakabashira": {
-      "name": "SLD Featuring Imiri Sakabashira Bonus (Foil)",
+      "name": "SLD Featuring Imiri Sakabashira Bonus",
       "languages": [
         "en",
         "it",
@@ -199535,6 +199765,39 @@
           },
           "foil": true,
           "totalWeight": 200
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-featuring-jay-howell": {
+      "name": "SLD Featuring Jay Howell Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "30da5a3c-cbea-5a42-94b8-af6c6c142926": 49,
+            "5e7b2865-c8a3-5f1f-88ab-6c787afce04a": 3,
+            "b4046b56-889d-582c-a11b-076cf1a5bba9": 49,
+            "f1b8255b-8324-53a1-831c-68237a00f7bd": 49
+          },
+          "foil": true,
+          "totalWeight": 150
         }
       },
       "sourceSetCodes": [
@@ -199574,6 +199837,182 @@
         "SLD"
       ]
     },
+    "bonus-featuring-kevin-eastman-colors": {
+      "name": "SLD Featuring Kevin Eastman Colors Bonus (Nonfoil)",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 49,
+          "contents": {
+            "regular": 1
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "slime": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 50,
+      "sheets": {
+        "regular": {
+          "cards": {
+            "6ecc3d1d-1465-56cc-aaaf-9b5055e64b80": 1
+          },
+          "foil": false,
+          "totalWeight": 1
+        },
+        "slime": {
+          "cards": {
+            "1ad05c08-f3d6-58ef-9696-63d27e09167d": 1,
+            "e6142b93-8a31-5b65-9608-db63cf590729": 1
+          },
+          "foil": true,
+          "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-featuring-kevin-eastman-colors-foil": {
+      "name": "SLD Featuring Kevin Eastman Colors Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 49,
+          "contents": {
+            "regular": 1
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "slime": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 50,
+      "sheets": {
+        "regular": {
+          "cards": {
+            "6ecc3d1d-1465-56cc-aaaf-9b5055e64b80": 1
+          },
+          "foil": true,
+          "totalWeight": 1
+        },
+        "slime": {
+          "cards": {
+            "1ad05c08-f3d6-58ef-9696-63d27e09167d": 1,
+            "e6142b93-8a31-5b65-9608-db63cf590729": 1
+          },
+          "foil": true,
+          "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-featuring-kevin-eastman-inks": {
+      "name": "SLD Featuring Kevin Eastman Inks Bonus (Nonfoil)",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 49,
+          "contents": {
+            "regular": 1
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "slime": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 50,
+      "sheets": {
+        "regular": {
+          "cards": {
+            "17aa725b-e5fb-5460-8643-336d0eb14235": 1
+          },
+          "foil": false,
+          "totalWeight": 1
+        },
+        "slime": {
+          "cards": {
+            "1ad05c08-f3d6-58ef-9696-63d27e09167d": 1,
+            "e6142b93-8a31-5b65-9608-db63cf590729": 1
+          },
+          "foil": true,
+          "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-featuring-kevin-eastman-inks-foil": {
+      "name": "SLD Featuring Kevin Eastman Inks Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 49,
+          "contents": {
+            "regular": 1
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "slime": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 50,
+      "sheets": {
+        "regular": {
+          "cards": {
+            "17aa725b-e5fb-5460-8643-336d0eb14235": 1
+          },
+          "foil": true,
+          "totalWeight": 1
+        },
+        "slime": {
+          "cards": {
+            "1ad05c08-f3d6-58ef-9696-63d27e09167d": 1,
+            "e6142b93-8a31-5b65-9608-db63cf590729": 1
+          },
+          "foil": true,
+          "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-featuring-luke-pearson": {
       "name": "SLD Featuring Luke Pearson Bonus",
       "languages": [
@@ -199595,10 +200034,45 @@
         "bonus": {
           "cards": {
             "065f93df-a679-53ac-998f-547bef586be5": 49,
-            "1e6cef96-0ad6-5f27-9384-ae64a23985ec": 4,
+            "1e6cef96-0ad6-5f27-9384-ae64a23985ec": 5,
             "358df631-2232-55f5-86c2-e986c420e63e": 49,
+            "4fe6ac35-681e-5415-abdb-0cb5d31de259": 49,
             "72208175-9da2-5647-9fff-871a2f62bc51": 49,
             "9cd43cbf-9891-5c91-b693-46bd8620dd08": 49
+          },
+          "foil": true,
+          "totalWeight": 250
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-featuring-mitsuhiro-arita": {
+      "name": "SLD Featuring Mitsuhiro Arita Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "47d8fe1a-c52a-5f0f-8404-b02661563b83": 4,
+            "6ed377a9-fa0e-5094-b687-9131a3b32bbd": 49,
+            "953a4c65-3dcb-50ff-a837-61b5e82f55d4": 49,
+            "9619c634-d7c6-5854-bff1-8a525b7f6b82": 49,
+            "fb29a4fd-f4e2-53fc-81a3-af75fa384f2f": 49
           },
           "foil": true,
           "totalWeight": 200
@@ -199634,6 +200108,161 @@
           },
           "foil": true,
           "totalWeight": 100
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-featuring-phoebe-wahl": {
+      "name": "SLD Featuring Phoebe Wahl Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "2e766432-2ab3-5bd6-a6a8-bac7705e7200": 2,
+            "9f3d23d3-c678-5f6a-a15e-b8200263433a": 49,
+            "c6b81f75-e166-5814-aeba-5c80734e1340": 49
+          },
+          "foil": true,
+          "totalWeight": 100
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-featuring-stan-sakai": {
+      "name": "SLD Featuring Stan Sakai Bonus (Nonfoil)",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 49,
+          "contents": {
+            "regular": 1
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "slime": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 50,
+      "sheets": {
+        "regular": {
+          "cards": {
+            "259476bc-e328-56df-870f-92dd336d5cc8": 1
+          },
+          "foil": false,
+          "totalWeight": 1
+        },
+        "slime": {
+          "cards": {
+            "1ad05c08-f3d6-58ef-9696-63d27e09167d": 1,
+            "e6142b93-8a31-5b65-9608-db63cf590729": 1
+          },
+          "foil": true,
+          "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-featuring-stan-sakai-foil": {
+      "name": "SLD Featuring Stan Sakai Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 49,
+          "contents": {
+            "regular": 1
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "slime": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 50,
+      "sheets": {
+        "regular": {
+          "cards": {
+            "259476bc-e328-56df-870f-92dd336d5cc8": 1
+          },
+          "foil": true,
+          "totalWeight": 1
+        },
+        "slime": {
+          "cards": {
+            "1ad05c08-f3d6-58ef-9696-63d27e09167d": 1,
+            "e6142b93-8a31-5b65-9608-db63cf590729": 1
+          },
+          "foil": true,
+          "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-frazetta-second-exhibition": {
+      "name": "SLD The Art of Frank Frazetta The Second Exhibition Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "07528e14-358c-50c9-9e2d-d6c0b1282968": 49,
+            "09fd00ee-74d8-5fd8-afad-87174830a1aa": 49,
+            "3961135e-0df3-5f44-9ca1-b8a02b9b4e4b": 49,
+            "6b275cfc-1028-57a0-b9e8-bd1e3a7e9815": 49,
+            "8487a7db-ef26-5783-8396-459af3970126": 5,
+            "c9052e4b-9b18-5ab0-808a-59a721a98e19": 49
+          },
+          "foil": true,
+          "totalWeight": 250
         }
       },
       "sourceSetCodes": [
@@ -199678,6 +200307,41 @@
           },
           "foil": true,
           "totalWeight": 15
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-garden-buds": {
+      "name": "SLD Garden Buds Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "07528e14-358c-50c9-9e2d-d6c0b1282968": 49,
+            "09fd00ee-74d8-5fd8-afad-87174830a1aa": 49,
+            "3961135e-0df3-5f44-9ca1-b8a02b9b4e4b": 49,
+            "6b275cfc-1028-57a0-b9e8-bd1e3a7e9815": 49,
+            "8487a7db-ef26-5783-8396-459af3970126": 5,
+            "c9052e4b-9b18-5ab0-808a-59a721a98e19": 49
+          },
+          "foil": true,
+          "totalWeight": 250
         }
       },
       "sourceSetCodes": [
@@ -199943,7 +200607,7 @@
       ]
     },
     "bonus-inked": {
-      "name": "SLD Inked Bonus (Foil)",
+      "name": "SLD Inked Bonus",
       "languages": [
         "en",
         "it",
@@ -200280,6 +200944,39 @@
         "SLD"
       ]
     },
+    "bonus-lil-legends": {
+      "name": "SLD Lil Legends Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "9eb8fc6c-c7c9-53e7-850a-d3e0a6345727": 1,
+            "ab89c5a1-c3e8-55f2-b2f5-6d8e5658188b": 1,
+            "b364964a-bb02-5906-88b0-f0e1fe9ee3ee": 1,
+            "fb8d440b-d9ee-5c04-8c4b-858a098764d7": 1
+          },
+          "foil": true,
+          "totalWeight": 4
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-lil-walkers": {
       "name": "SLD Lil Walkers Bonus",
       "languages": [
@@ -200383,8 +201080,40 @@
         "SLD"
       ]
     },
+    "bonus-lorwyn-lightboxes": {
+      "name": "SLD Lorwyn Lightboxes Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "6ed377a9-fa0e-5094-b687-9131a3b32bbd": 1,
+            "9619c634-d7c6-5854-bff1-8a525b7f6b82": 1,
+            "fb29a4fd-f4e2-53fc-81a3-af75fa384f2f": 1
+          },
+          "foil": true,
+          "totalWeight": 3
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-magiccon-the-gathering": {
-      "name": "SLD MagicCon The Gathering Bonus (Foil)",
+      "name": "SLD MagicCon The Gathering Bonus",
       "languages": [
         "en",
         "it",
@@ -200412,6 +201141,40 @@
           },
           "foil": true,
           "totalWeight": 500
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-maho-gakuin-seishun-hakusho": {
+      "name": "SLD Mahō Gakuin Seishun Hakusho Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "0451baf5-9d5a-554c-9b04-8096bc10e363": 1,
+            "0b779e56-397f-59fc-b5c2-ced8df2b6bd8": 1,
+            "5f3ae1e9-9616-5b0a-8c90-8408a985a6e5": 1,
+            "709c1872-1f66-568f-bc59-f5a2a62b8a5d": 1,
+            "d2f38f2e-a918-515e-a320-f1e4b731549e": 1
+          },
+          "foil": true,
+          "totalWeight": 5
         }
       },
       "sourceSetCodes": [
@@ -200571,7 +201334,7 @@
       ]
     },
     "bonus-marvels-deadpool-i-fixed-it-youre-welcome-foil": {
-      "name": "SLD Marvels Deadpool I Fixed It (Youre Welcome) Bonus (Foil)",
+      "name": "SLD Marvels Deadpool I Fixed It (Youre Welcome) Bonus",
       "languages": [
         "en",
         "it",
@@ -200633,7 +201396,7 @@
       ]
     },
     "bonus-marvels-deadpool-i-fixed-it-youre-welcome-pool-party-foil": {
-      "name": "SLD Marvels Deadpool I Fixed It (Youre Welcome) Pool Party Bonus (Foil)",
+      "name": "SLD Marvels Deadpool I Fixed It (Youre Welcome) Pool Party Bonus",
       "languages": [
         "en",
         "it",
@@ -200786,6 +201549,39 @@
         "SLD"
       ]
     },
+    "bonus-monstrous-magazines": {
+      "name": "SLD Monstrous Magazines Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "0e5179c4-48ca-5dc5-9d1d-41c657e8f478": 49,
+            "6d7987f0-3956-5760-af8d-4670dfa82652": 49,
+            "8f519576-169e-58d7-97ff-dfe65c7c4a56": 3,
+            "e5b2c240-0e83-52fe-8b63-404b7e9b57ef": 49
+          },
+          "foil": true,
+          "totalWeight": 150
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-mycosynthwave": {
       "name": "SLD Mycosynthwave Bonus",
       "languages": [
@@ -200844,6 +201640,109 @@
           },
           "foil": true,
           "totalWeight": 3
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-notebook-genius": {
+      "name": "SLD Notebook Genius Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "0451baf5-9d5a-554c-9b04-8096bc10e363": 1,
+            "0b779e56-397f-59fc-b5c2-ced8df2b6bd8": 1,
+            "5f3ae1e9-9616-5b0a-8c90-8408a985a6e5": 1,
+            "709c1872-1f66-568f-bc59-f5a2a62b8a5d": 1,
+            "d2f38f2e-a918-515e-a320-f1e4b731549e": 1
+          },
+          "foil": true,
+          "totalWeight": 5
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-oishii-tokens": {
+      "name": "SLD Oishii Tokens Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "07528e14-358c-50c9-9e2d-d6c0b1282968": 49,
+            "09fd00ee-74d8-5fd8-afad-87174830a1aa": 49,
+            "3961135e-0df3-5f44-9ca1-b8a02b9b4e4b": 49,
+            "6b275cfc-1028-57a0-b9e8-bd1e3a7e9815": 49,
+            "8487a7db-ef26-5783-8396-459af3970126": 5,
+            "c9052e4b-9b18-5ab0-808a-59a721a98e19": 49
+          },
+          "foil": true,
+          "totalWeight": 250
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-omens-of-chaos": {
+      "name": "SLD Omens of Chaos Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "0451baf5-9d5a-554c-9b04-8096bc10e363": 1,
+            "0b779e56-397f-59fc-b5c2-ced8df2b6bd8": 1,
+            "5f3ae1e9-9616-5b0a-8c90-8408a985a6e5": 1,
+            "709c1872-1f66-568f-bc59-f5a2a62b8a5d": 1,
+            "d2f38f2e-a918-515e-a320-f1e4b731549e": 1
+          },
+          "foil": true,
+          "totalWeight": 5
         }
       },
       "sourceSetCodes": [
@@ -201006,6 +201905,40 @@
           },
           "foil": true,
           "totalWeight": 150
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-pick-em-and-stick-em": {
+      "name": "SLD Pick Em and Stick Em Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "065f93df-a679-53ac-998f-547bef586be5": 49,
+            "1e6cef96-0ad6-5f27-9384-ae64a23985ec": 4,
+            "4fe6ac35-681e-5415-abdb-0cb5d31de259": 49,
+            "72208175-9da2-5647-9fff-871a2f62bc51": 49,
+            "eed8437a-3f97-588b-80ee-ba82a4494f5c": 49
+          },
+          "foil": true,
+          "totalWeight": 200
         }
       },
       "sourceSetCodes": [
@@ -201177,7 +202110,7 @@
       ]
     },
     "bonus-prints-charming": {
-      "name": "SLD Prints Charming Bonus (Foil)",
+      "name": "SLD Prints Charming Bonus",
       "languages": [
         "en",
         "it",
@@ -201402,6 +202335,38 @@
           },
           "foil": true,
           "totalWeight": 80
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-secret-lair-high-class-of-87": {
+      "name": "SLD Secret Lair High Class of 87 Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "065f93df-a679-53ac-998f-547bef586be5": 1,
+            "4fe6ac35-681e-5415-abdb-0cb5d31de259": 1,
+            "72208175-9da2-5647-9fff-871a2f62bc51": 1
+          },
+          "foil": true,
+          "totalWeight": 3
         }
       },
       "sourceSetCodes": [
@@ -201741,7 +202706,7 @@
       ]
     },
     "bonus-secret-lair-x-final-fantasy-game-over": {
-      "name": "SLD Secret Lair x FINAL FANTASY Game Over Bonus (Foil)",
+      "name": "SLD Secret Lair x FINAL FANTASY Game Over Bonus",
       "languages": [
         "en",
         "it",
@@ -201776,7 +202741,7 @@
       ]
     },
     "bonus-secret-lair-x-final-fantasy-grimoire": {
-      "name": "SLD Secret Lair x FINAL FANTASY Grimoire Bonus (Foil)",
+      "name": "SLD Secret Lair x FINAL FANTASY Grimoire Bonus",
       "languages": [
         "en",
         "it",
@@ -201811,7 +202776,7 @@
       ]
     },
     "bonus-secret-lair-x-final-fantasy-weapons": {
-      "name": "SLD Secret Lair x FINAL FANTASY Weapons Bonus (Foil)",
+      "name": "SLD Secret Lair x FINAL FANTASY Weapons Bonus",
       "languages": [
         "en",
         "it",
@@ -201846,7 +202811,7 @@
       ]
     },
     "bonus-secret-lair-x-flower-power": {
-      "name": "SLD Secret Lair x Flower Power Bonus (Foil)",
+      "name": "SLD Secret Lair x Flower Power Bonus",
       "languages": [
         "en",
         "it",
@@ -201881,7 +202846,7 @@
       ]
     },
     "bonus-secret-lair-x-hatsune-miku-digital-sensation-english-foil": {
-      "name": "SLD Secret Lair x Hatsune Miku Digital Sensation English Bonus (Foil)",
+      "name": "SLD Secret Lair x Hatsune Miku Digital Sensation English Bonus",
       "languages": [
         "en",
         "it",
@@ -201943,7 +202908,7 @@
       ]
     },
     "bonus-secret-lair-x-hatsune-miku-electric-entourage-english-foil": {
-      "name": "SLD Secret Lair x Hatsune Miku Electric Entourage English Bonus (Foil)",
+      "name": "SLD Secret Lair x Hatsune Miku Electric Entourage English Bonus",
       "languages": [
         "en",
         "it",
@@ -202005,7 +202970,7 @@
       ]
     },
     "bonus-secret-lair-x-hatsune-miku-sakura-superstar-english-foil": {
-      "name": "SLD Secret Lair x Hatsune Miku Sakura Superstar English Bonus (Foil)",
+      "name": "SLD Secret Lair x Hatsune Miku Sakura Superstar English Bonus",
       "languages": [
         "en",
         "it",
@@ -202067,7 +203032,7 @@
       ]
     },
     "bonus-secret-lair-x-hatsune-miku-winter-diva-english-foil": {
-      "name": "SLD Secret Lair x Hatsune Miku Winter Diva English Bonus (Foil)",
+      "name": "SLD Secret Lair x Hatsune Miku Winter Diva English Bonus",
       "languages": [
         "en",
         "it",
@@ -202191,7 +203156,7 @@
       ]
     },
     "bonus-secret-lair-x-marvels-deadpool-april-pools-day": {
-      "name": "SLD Secret Lair x Marvels Deadpool April Pools Day Bonus (Foil)",
+      "name": "SLD Secret Lair x Marvels Deadpool April Pools Day Bonus",
       "languages": [
         "en",
         "it",
@@ -202543,7 +203508,7 @@
       ]
     },
     "bonus-secret-lair-x-sonic-the-hedgehog-chasing-adventure": {
-      "name": "SLD Secret Lair x Sonic the Hedgehog Chasing Adventure Bonus (Foil)",
+      "name": "SLD Secret Lair x Sonic the Hedgehog Chasing Adventure Bonus",
       "languages": [
         "en",
         "it",
@@ -202580,7 +203545,7 @@
       ]
     },
     "bonus-secret-lair-x-sonic-the-hedgehog-friends-and-foes": {
-      "name": "SLD Secret Lair x Sonic the Hedgehog Friends and Foes Bonus (Foil)",
+      "name": "SLD Secret Lair x Sonic the Hedgehog Friends and Foes Bonus",
       "languages": [
         "en",
         "it",
@@ -202617,7 +203582,7 @@
       ]
     },
     "bonus-secret-lair-x-sonic-the-hedgehog-turbo-gear": {
-      "name": "SLD Secret Lair x Sonic the Hedgehog Turbo Gear Bonus (Foil)",
+      "name": "SLD Secret Lair x Sonic the Hedgehog Turbo Gear Bonus",
       "languages": [
         "en",
         "it",
@@ -202723,6 +203688,38 @@
         "SLD"
       ]
     },
+    "bonus-showcase-bloomburrow": {
+      "name": "SLD Showcase Bloomburrow Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "1b1f3b2a-2775-533d-a276-cc57297edbca": 49,
+            "c5f1bc0e-f65e-52fa-b0d8-fedb2f948183": 2,
+            "dffe6d42-0d11-5b53-906f-0bd0c6ee98ca": 49
+          },
+          "foil": true,
+          "totalWeight": 100
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-showcase-dominaria-united-textured": {
       "name": "SLD Showcase Dominaria United Textured Bonus",
       "languages": [
@@ -202751,6 +203748,39 @@
           },
           "foil": true,
           "totalWeight": 80
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-showcase-duskmourn": {
+      "name": "SLD Showcase Duskmourn Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "0e5179c4-48ca-5dc5-9d1d-41c657e8f478": 49,
+            "6d7987f0-3956-5760-af8d-4670dfa82652": 49,
+            "8f519576-169e-58d7-97ff-dfe65c7c4a56": 3,
+            "e5b2c240-0e83-52fe-8b63-404b7e9b57ef": 49
+          },
+          "foil": true,
+          "totalWeight": 150
         }
       },
       "sourceSetCodes": [
@@ -203240,7 +204270,7 @@
       ]
     },
     "bonus-slay-the-day": {
-      "name": "SLD Slay the Day Bonus (Foil)",
+      "name": "SLD Slay the Day Bonus",
       "languages": [
         "en",
         "it",
@@ -203275,7 +204305,7 @@
       ]
     },
     "bonus-so-salty": {
-      "name": "SLD So Salty Bonus (Foil)",
+      "name": "SLD So Salty Bonus",
       "languages": [
         "en",
         "it",
@@ -203536,7 +204566,7 @@
       ]
     },
     "bonus-spongebob-squarepants-internet-sensation": {
-      "name": "SLD Spongebob Squarepants Internet Sensation Bonus (Foil)",
+      "name": "SLD Spongebob Squarepants Internet Sensation Bonus",
       "languages": [
         "en",
         "it",
@@ -203569,7 +204599,7 @@
       ]
     },
     "bonus-spongebob-squarepants-lands-under-the-sea": {
-      "name": "SLD Spongebob Squarepants Lands Under the Sea Bonus (Foil)",
+      "name": "SLD Spongebob Squarepants Lands Under the Sea Bonus",
       "languages": [
         "en",
         "it",
@@ -203602,7 +204632,7 @@
       ]
     },
     "bonus-spongebob-squarepants-legends-of-bikini-bottom": {
-      "name": "SLD Spongebob Squarepants Legends of Bikini Bottom Bonus (Foil)",
+      "name": "SLD Spongebob Squarepants Legends of Bikini Bottom Bonus",
       "languages": [
         "en",
         "it",
@@ -203700,7 +204730,7 @@
       ]
     },
     "bonus-teenage-mutant-ninja-turtles-the-last-ronin": {
-      "name": "SLD Teenage Mutant Ninja Turtles The Last Ronin Bonus (Foil)",
+      "name": "SLD Teenage Mutant Ninja Turtles The Last Ronin Bonus",
       "languages": [
         "en",
         "it",
@@ -203732,7 +204762,7 @@
       ]
     },
     "bonus-teenage-mutant-ninja-turtles-the-mighty-mutanimals": {
-      "name": "SLD Teenage Mutant Ninja Turtles The Mighty Mutanimals Bonus (Foil)",
+      "name": "SLD Teenage Mutant Ninja Turtles The Mighty Mutanimals Bonus",
       "languages": [
         "en",
         "it",
@@ -203764,7 +204794,7 @@
       ]
     },
     "bonus-teenage-mutant-ninja-turtles-vhs-villains": {
-      "name": "SLD Teenage Mutant Ninja Turtles VHS Villains Bonus (Foil)",
+      "name": "SLD Teenage Mutant Ninja Turtles VHS Villains Bonus",
       "languages": [
         "en",
         "it",
@@ -203967,7 +204997,7 @@
       ]
     },
     "bonus-the-eyes-have-it": {
-      "name": "SLD The Eyes Have It Bonus (Foil)",
+      "name": "SLD The Eyes Have It Bonus",
       "languages": [
         "en",
         "it",
@@ -204036,7 +205066,7 @@
       ]
     },
     "bonus-the-office-dwights-destiny": {
-      "name": "SLD The Office Dwights Destiny Bonus (Foil)",
+      "name": "SLD The Office Dwights Destiny Bonus",
       "languages": [
         "en",
         "it",
@@ -204457,6 +205487,107 @@
         "SLD"
       ]
     },
+    "bonus-they-grow-up-so-fast": {
+      "name": "SLD They Grow Up So Fast Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "07528e14-358c-50c9-9e2d-d6c0b1282968": 49,
+            "09fd00ee-74d8-5fd8-afad-87174830a1aa": 49,
+            "3961135e-0df3-5f44-9ca1-b8a02b9b4e4b": 49,
+            "6b275cfc-1028-57a0-b9e8-bd1e3a7e9815": 49,
+            "8487a7db-ef26-5783-8396-459af3970126": 5,
+            "c9052e4b-9b18-5ab0-808a-59a721a98e19": 49
+          },
+          "foil": true,
+          "totalWeight": 250
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-tobys-journey-by-gary-baseman": {
+      "name": "SLD Toby's Journey by Gary Baseman Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "0e840610-6dd3-5383-8fc4-992595c94c56": 1,
+            "a8ccecb2-4507-5490-9496-cf680fa36b3a": 1,
+            "dd652d6e-20aa-54a1-a459-dc160535b608": 1,
+            "e739b1c0-dff0-5603-9c81-085f6d402a85": 1,
+            "ffb11308-18e4-5449-afc7-e1d634762068": 1
+          },
+          "foil": true,
+          "totalWeight": 5
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-tome-of-the-astral-sorceress": {
+      "name": "SLD Tome of the Astral Sorceress Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "6d7987f0-3956-5760-af8d-4670dfa82652": 49,
+            "8f519576-169e-58d7-97ff-dfe65c7c4a56": 2,
+            "e5b2c240-0e83-52fe-8b63-404b7e9b57ef": 49
+          },
+          "foil": true,
+          "totalWeight": 100
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-totally-spaced-out-galaxy": {
       "name": "SLD Totally Spaced Out Galaxy Bonus",
       "languages": [
@@ -204496,8 +205627,43 @@
         "SLD"
       ]
     },
+    "bonus-tragic-romance": {
+      "name": "SLD Tragic Romance Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "07528e14-358c-50c9-9e2d-d6c0b1282968": 49,
+            "09fd00ee-74d8-5fd8-afad-87174830a1aa": 49,
+            "3961135e-0df3-5f44-9ca1-b8a02b9b4e4b": 49,
+            "6b275cfc-1028-57a0-b9e8-bd1e3a7e9815": 49,
+            "8487a7db-ef26-5783-8396-459af3970126": 5,
+            "c9052e4b-9b18-5ab0-808a-59a721a98e19": 49
+          },
+          "foil": true,
+          "totalWeight": 250
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-trick-or-treat": {
-      "name": "SLD Trick or Treat Bonus (Foil)",
+      "name": "SLD Trick or Treat Bonus",
       "languages": [
         "en",
         "it",
@@ -204532,7 +205698,7 @@
       ]
     },
     "bonus-twisted-toons": {
-      "name": "SLD Twisted Toons Bonus (Foil)",
+      "name": "SLD Twisted Toons Bonus",
       "languages": [
         "en",
         "it",
@@ -204566,7 +205732,7 @@
       ]
     },
     "bonus-viva-las-rakdos": {
-      "name": "SLD Viva Las Rakdos Bonus (Foil)",
+      "name": "SLD Viva Las Rakdos Bonus",
       "languages": [
         "en",
         "it",
@@ -204593,6 +205759,41 @@
           },
           "foil": true,
           "totalWeight": 5
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-vroooooommmmmm": {
+      "name": "SLD vroooOOOMMMMMM! Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "30da5a3c-cbea-5a42-94b8-af6c6c142926": 49,
+            "3d60dab3-49ae-5024-91eb-3e865118960a": 49,
+            "5e7b2865-c8a3-5f1f-88ab-6c787afce04a": 5,
+            "8cc61a6b-9475-55eb-a57d-d4b27f2a23f4": 49,
+            "b4046b56-889d-582c-a11b-076cf1a5bba9": 49,
+            "f1b8255b-8324-53a1-831c-68237a00f7bd": 49
+          },
+          "foil": true,
+          "totalWeight": 250
         }
       },
       "sourceSetCodes": [
@@ -204666,8 +205867,41 @@
         "SLD"
       ]
     },
+    "bonus-wild-in-bloom": {
+      "name": "SLD Wild in Bloom Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "0e840610-6dd3-5383-8fc4-992595c94c56": 1,
+            "a8ccecb2-4507-5490-9496-cf680fa36b3a": 1,
+            "dd652d6e-20aa-54a1-a459-dc160535b608": 1,
+            "e739b1c0-dff0-5603-9c81-085f6d402a85": 1
+          },
+          "foil": true,
+          "totalWeight": 4
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-witchs-familiar": {
-      "name": "SLD Witch's Familiar Bonus (Foil)",
+      "name": "SLD Witch's Familiar Bonus",
       "languages": [
         "en",
         "it",
@@ -294079,6 +295313,8 @@
     "draft": {
       "name": "Onslaught Draft Booster",
       "languages": [
+        "cs",
+        "ct",
         "de",
         "en",
         "fr",
@@ -294888,6 +296124,8 @@
     "fat-pack": {
       "name": "Onslaught Fat Pack Promotional Cards",
       "languages": [
+        "cs",
+        "ct",
         "de",
         "en",
         "fr",
@@ -295057,6 +296295,8 @@
     "tournament": {
       "name": "Onslaught Tournament Deck",
       "languages": [
+        "cs",
+        "ct",
         "de",
         "en",
         "fr",
@@ -302912,6 +304152,7 @@
     "draft": {
       "name": "Prophecy Draft Booster",
       "languages": [
+        "ct",
         "de",
         "en",
         "fr",
@@ -303327,6 +304568,7 @@
     "fat-pack": {
       "name": "Prophecy Fat Pack Promotional Cards",
       "languages": [
+        "ct",
         "de",
         "en",
         "fr",
@@ -309883,11 +311125,13 @@
     "starter": {
       "name": "Tempest Starter Deck",
       "languages": [
+        "ct",
         "de",
         "en",
         "fr",
         "it",
         "jp",
+        "kr",
         "pt",
         "sp"
       ],
@@ -310508,6 +311752,8 @@
   "POR": {
     "default": {
       "languages": [
+        "cs",
+        "ct",
         "de",
         "en",
         "fr",
@@ -311254,12 +312500,14 @@
     "starter": {
       "name": "Fifth Edition Starter Tournament Deck",
       "languages": [
+        "cs",
         "ct",
         "de",
         "en",
         "fr",
         "it",
         "jp",
+        "kr",
         "pt",
         "sp"
       ],
