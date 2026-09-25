@@ -202416,6 +202416,38 @@
         "SLD"
       ]
     },
+    "bonus-featuring-gary-baseman": {
+      "name": "SLD Featuring Gary Baseman Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "7444299f-f8ff-5f86-bc3b-4e2d5105e32e": 1,
+            "8042b07f-4c66-5ca5-b39b-4e9e18bf521f": 1,
+            "86b7ba3b-123e-539c-9d52-06aefc2f0fd0": 1
+          },
+          "foil": true,
+          "totalWeight": 3
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-featuring-gene-luen-yang": {
       "name": "SLD Featuring Gene Luen Yang Bonus",
       "languages": [
@@ -203225,21 +203257,23 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 2,
-            "32e27f1a-9877-58b4-8459-22433313d9fd": 2,
-            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 31,
-            "533b217a-00df-54c2-b28d-43cc2af595ee": 31,
-            "63ae1f43-f0ef-51a9-a1e7-2c5a9900ce29": 31,
-            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 2,
-            "a116509a-fa37-5d13-b8d1-c78cf3fe06df": 31,
-            "af24a6ee-9f83-5949-9736-cdb8842e7663": 31,
-            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 2,
-            "ccc9d450-0702-5d4a-8ede-fc746f3cb831": 4,
-            "da131a1a-753b-5cc2-b322-c15e2d8a039b": 31,
-            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 2
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 56,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 56,
+            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 455,
+            "533b217a-00df-54c2-b28d-43cc2af595ee": 455,
+            "63ae1f43-f0ef-51a9-a1e7-2c5a9900ce29": 455,
+            "68db1001-019c-560f-a6f2-378a13b40851": 455,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 56,
+            "a116509a-fa37-5d13-b8d1-c78cf3fe06df": 455,
+            "af24a6ee-9f83-5949-9736-cdb8842e7663": 455,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 56,
+            "ccc9d450-0702-5d4a-8ede-fc746f3cb831": 80,
+            "da131a1a-753b-5cc2-b322-c15e2d8a039b": 455,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 56,
+            "eb0f044c-3a23-580f-8532-babde9fdbf35": 455
           },
           "foil": true,
-          "totalWeight": 200
+          "totalWeight": 4000
         }
       },
       "sourceSetCodes": [
@@ -203266,15 +203300,19 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 5,
-            "70c5dac2-0022-5a79-8aff-c59eed744746": 19,
-            "af24a6ee-9f83-5949-9736-cdb8842e7663": 19,
-            "d0af25f9-2e48-5240-b19d-6bd0d7a717f2": 19,
-            "d0dee3f1-0df5-50af-be37-82117fa714c4": 19,
-            "dc074643-4d9e-5c17-9852-b0ca75d23333": 19
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 7,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 7,
+            "70c5dac2-0022-5a79-8aff-c59eed744746": 93,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 7,
+            "af24a6ee-9f83-5949-9736-cdb8842e7663": 93,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 7,
+            "d0af25f9-2e48-5240-b19d-6bd0d7a717f2": 93,
+            "d0dee3f1-0df5-50af-be37-82117fa714c4": 93,
+            "dc074643-4d9e-5c17-9852-b0ca75d23333": 93,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 7
           },
           "foil": true,
-          "totalWeight": 100
+          "totalWeight": 500
         }
       },
       "sourceSetCodes": [
@@ -203301,16 +203339,19 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 5,
-            "32e27f1a-9877-58b4-8459-22433313d9fd": 5,
-            "533b217a-00df-54c2-b28d-43cc2af595ee": 38,
-            "5621a042-b969-5f94-99b6-b92e16c088f0": 38,
-            "79bbbb9a-e8ec-58c7-a66e-7e0366c086ee": 38,
-            "7db92f7f-8c8a-5419-9075-1b0aa88d3e0e": 38,
-            "da131a1a-753b-5cc2-b322-c15e2d8a039b": 38
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 7,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 7,
+            "533b217a-00df-54c2-b28d-43cc2af595ee": 93,
+            "5621a042-b969-5f94-99b6-b92e16c088f0": 93,
+            "79bbbb9a-e8ec-58c7-a66e-7e0366c086ee": 93,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 7,
+            "7db92f7f-8c8a-5419-9075-1b0aa88d3e0e": 93,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 7,
+            "da131a1a-753b-5cc2-b322-c15e2d8a039b": 93,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 7
           },
           "foil": true,
-          "totalWeight": 200
+          "totalWeight": 500
         }
       },
       "sourceSetCodes": [
@@ -203419,17 +203460,21 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "01e1e172-f45b-541f-8a6e-dee48d197712": 31,
-            "09f5dc78-884d-5b54-9f04-495a6180e36d": 31,
-            "0efaedb3-b512-515c-a19f-fc2f96555677": 31,
-            "1f2fedcb-1b4a-5b1f-bf5a-6f93d33d529c": 31,
-            "af24a6ee-9f83-5949-9736-cdb8842e7663": 31,
-            "cc5c64ac-a386-598c-8157-ce0a52a7c3ba": 4,
-            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 31,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 10
+            "01e1e172-f45b-541f-8a6e-dee48d197712": 455,
+            "09f5dc78-884d-5b54-9f04-495a6180e36d": 455,
+            "0efaedb3-b512-515c-a19f-fc2f96555677": 455,
+            "1f2fedcb-1b4a-5b1f-bf5a-6f93d33d529c": 455,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 42,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 42,
+            "af24a6ee-9f83-5949-9736-cdb8842e7663": 455,
+            "cc5c64ac-a386-598c-8157-ce0a52a7c3ba": 60,
+            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 455,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 42,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 42,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 42
           },
           "foil": true,
-          "totalWeight": 200
+          "totalWeight": 3000
         }
       },
       "sourceSetCodes": [
@@ -203456,19 +203501,14 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 4,
-            "1c89406f-49d4-5b6d-aef9-e7bcd92df49e": 8,
-            "1e0c1bce-065a-5898-b795-469a65acafb5": 93,
-            "32e27f1a-9877-58b4-8459-22433313d9fd": 4,
-            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 4,
-            "86b7ba3b-123e-539c-9d52-06aefc2f0fd0": 93,
-            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 4,
-            "bc6b7293-d614-510a-b78c-8b9294b74ca4": 93,
-            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 93,
-            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 4
+            "1c89406f-49d4-5b6d-aef9-e7bcd92df49e": 4,
+            "1e0c1bce-065a-5898-b795-469a65acafb5": 49,
+            "86b7ba3b-123e-539c-9d52-06aefc2f0fd0": 49,
+            "bc6b7293-d614-510a-b78c-8b9294b74ca4": 49,
+            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 49
           },
           "foil": true,
-          "totalWeight": 400
+          "totalWeight": 200
         }
       },
       "sourceSetCodes": [
@@ -203495,17 +203535,19 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "32e27f1a-9877-58b4-8459-22433313d9fd": 5,
-            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 57,
-            "5621a042-b969-5f94-99b6-b92e16c088f0": 57,
-            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 5,
-            "86ccb355-b895-5c73-8542-ac465cfe85c3": 57,
-            "8c9f7922-771a-53ba-bdd9-ce4ef2bcb919": 57,
-            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 5,
-            "d0dee3f1-0df5-50af-be37-82117fa714c4": 57
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 7,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 7,
+            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 93,
+            "5621a042-b969-5f94-99b6-b92e16c088f0": 93,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 7,
+            "86ccb355-b895-5c73-8542-ac465cfe85c3": 93,
+            "8c9f7922-771a-53ba-bdd9-ce4ef2bcb919": 93,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 7,
+            "d0dee3f1-0df5-50af-be37-82117fa714c4": 93,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 7
           },
           "foil": true,
-          "totalWeight": 300
+          "totalWeight": 500
         }
       },
       "sourceSetCodes": [
@@ -203568,18 +203610,54 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "01e1e172-f45b-541f-8a6e-dee48d197712": 19,
-            "09f5dc78-884d-5b54-9f04-495a6180e36d": 19,
-            "0efaedb3-b512-515c-a19f-fc2f96555677": 19,
-            "1f2fedcb-1b4a-5b1f-bf5a-6f93d33d529c": 19,
-            "af24a6ee-9f83-5949-9736-cdb8842e7663": 19,
-            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 19,
-            "efb5736b-93be-574e-b848-d57b58ea02f6": 2,
-            "f132bdee-5981-50c0-b36b-c170e7baa43a": 2,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 2
+            "01e1e172-f45b-541f-8a6e-dee48d197712": 155,
+            "09f5dc78-884d-5b54-9f04-495a6180e36d": 155,
+            "0efaedb3-b512-515c-a19f-fc2f96555677": 155,
+            "1f2fedcb-1b4a-5b1f-bf5a-6f93d33d529c": 155,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 14,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 14,
+            "af24a6ee-9f83-5949-9736-cdb8842e7663": 155,
+            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 155,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 14,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 14,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 14
           },
           "foil": true,
-          "totalWeight": 120
+          "totalWeight": 1000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-keep-partying-hard-shred-harder-than-you-previously-thought-possible": {
+      "name": "SLD Keep Partying Hard Shred Harder Than You Previously Thought Possible Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "39524f3e-1ca5-5794-a3d1-c7a5c7e1380b": 98,
+            "5d0baf88-f632-5ee1-8bdf-e7789fa2aaab": 3,
+            "5f022bd5-c908-5c66-af7c-0b80e0203970": 3,
+            "807651a3-cbe8-5b19-b8a3-c4ed22abcedd": 98,
+            "da131a1a-753b-5cc2-b322-c15e2d8a039b": 98
+          },
+          "foil": true,
+          "totalWeight": 300
         }
       },
       "sourceSetCodes": [
@@ -203638,17 +203716,14 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 20,
-            "30518e3e-a847-5b56-a86d-136f9b23b3c1": 24,
-            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 279,
-            "86ccb355-b895-5c73-8542-ac465cfe85c3": 279,
-            "8c9f7922-771a-53ba-bdd9-ce4ef2bcb919": 279,
-            "b16b4de7-6fab-540e-b0a8-8b43b450a699": 279,
-            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 20,
-            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 20
+            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 1,
+            "86ccb355-b895-5c73-8542-ac465cfe85c3": 1,
+            "89a1da55-7b34-567b-b966-7b8e8904ef43": 1,
+            "8c9f7922-771a-53ba-bdd9-ce4ef2bcb919": 1,
+            "b16b4de7-6fab-540e-b0a8-8b43b450a699": 1
           },
           "foil": true,
-          "totalWeight": 1200
+          "totalWeight": 5
         }
       },
       "sourceSetCodes": [
@@ -203708,18 +203783,21 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "01e1e172-f45b-541f-8a6e-dee48d197712": 31,
-            "09f5dc78-884d-5b54-9f04-495a6180e36d": 31,
-            "0efaedb3-b512-515c-a19f-fc2f96555677": 31,
-            "1f2fedcb-1b4a-5b1f-bf5a-6f93d33d529c": 31,
-            "af24a6ee-9f83-5949-9736-cdb8842e7663": 31,
-            "cc5c64ac-a386-598c-8157-ce0a52a7c3ba": 4,
-            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 31,
-            "f132bdee-5981-50c0-b36b-c170e7baa43a": 5,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 5
+            "01e1e172-f45b-541f-8a6e-dee48d197712": 455,
+            "09f5dc78-884d-5b54-9f04-495a6180e36d": 455,
+            "0efaedb3-b512-515c-a19f-fc2f96555677": 455,
+            "1f2fedcb-1b4a-5b1f-bf5a-6f93d33d529c": 455,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 42,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 42,
+            "af24a6ee-9f83-5949-9736-cdb8842e7663": 455,
+            "cc5c64ac-a386-598c-8157-ce0a52a7c3ba": 60,
+            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 455,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 42,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 42,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 42
           },
           "foil": true,
-          "totalWeight": 200
+          "totalWeight": 3000
         }
       },
       "sourceSetCodes": [
@@ -203752,6 +203830,37 @@
           },
           "foil": true,
           "totalWeight": 100
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-lilest-walkers": {
+      "name": "SLD Lilest Walkers Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "533b217a-00df-54c2-b28d-43cc2af595ee": 1,
+            "d0af25f9-2e48-5240-b19d-6bd0d7a717f2": 1
+          },
+          "foil": true,
+          "totalWeight": 2
         }
       },
       "sourceSetCodes": [
@@ -203817,6 +203926,43 @@
           },
           "foil": true,
           "totalWeight": 3
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-magic-the-baseballing": {
+      "name": "SLD Magic The Baseballing Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "1e0c1bce-065a-5898-b795-469a65acafb5": 245,
+            "1f7224b3-7027-5e3d-a02d-75038d6f81b2": 245,
+            "4a811142-c4a3-5b83-aa48-feaac9be3be7": 3,
+            "79416179-0526-5d8d-bf2a-ae4ba3632761": 3,
+            "9c52adbe-7776-5ee1-aab8-ba13fcfbfbc9": 3,
+            "a6782b6f-f021-5241-b885-97126f09a1ac": 245,
+            "abb57760-b05b-55ce-b261-7ddfdfce1954": 3,
+            "e8d1911d-3b62-5e34-8bbb-cf2802a1abf4": 3
+          },
+          "foil": true,
+          "totalWeight": 750
         }
       },
       "sourceSetCodes": [
@@ -204293,6 +204439,39 @@
         "SLD"
       ]
     },
+    "bonus-more-borderless-planeswalkers": {
+      "name": "SLD More Borderless Planeswalkers Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "bc6b7293-d614-510a-b78c-8b9294b74ca4": 49,
+            "c0bf904c-5bb8-58e0-bf76-b0f202b206c4": 49,
+            "d0af25f9-2e48-5240-b19d-6bd0d7a717f2": 49,
+            "f3ea40cd-c702-560d-a7a6-6dbe3a5b7751": 3
+          },
+          "foil": true,
+          "totalWeight": 150
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-mycosynthwave": {
       "name": "SLD Mycosynthwave Bonus",
       "languages": [
@@ -204385,6 +204564,40 @@
           },
           "foil": true,
           "totalWeight": 5
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-now-on-vhs": {
+      "name": "SLD Now on VHS Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "533b217a-00df-54c2-b28d-43cc2af595ee": 98,
+            "5d0baf88-f632-5ee1-8bdf-e7789fa2aaab": 3,
+            "5f022bd5-c908-5c66-af7c-0b80e0203970": 3,
+            "a116509a-fa37-5d13-b8d1-c78cf3fe06df": 98,
+            "da131a1a-753b-5cc2-b322-c15e2d8a039b": 98
+          },
+          "foil": true,
+          "totalWeight": 300
         }
       },
       "sourceSetCodes": [
@@ -204676,18 +204889,20 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "01e1e172-f45b-541f-8a6e-dee48d197712": 19,
-            "09f5dc78-884d-5b54-9f04-495a6180e36d": 19,
-            "0efaedb3-b512-515c-a19f-fc2f96555677": 19,
-            "1f2fedcb-1b4a-5b1f-bf5a-6f93d33d529c": 19,
-            "446a6877-b893-51bc-86b7-e378ffea56ce": 2,
-            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 2,
-            "af24a6ee-9f83-5949-9736-cdb8842e7663": 19,
-            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 19,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 2
+            "01e1e172-f45b-541f-8a6e-dee48d197712": 155,
+            "09f5dc78-884d-5b54-9f04-495a6180e36d": 155,
+            "0efaedb3-b512-515c-a19f-fc2f96555677": 155,
+            "1f2fedcb-1b4a-5b1f-bf5a-6f93d33d529c": 155,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 14,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 14,
+            "af24a6ee-9f83-5949-9736-cdb8842e7663": 155,
+            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 155,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 14,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 14,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 14
           },
           "foil": true,
-          "totalWeight": 120
+          "totalWeight": 1000
         }
       },
       "sourceSetCodes": [
@@ -204808,12 +205023,16 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "709ff9c9-890f-5e52-a7c8-c05cbcd946f8": 19,
-            "bb75cecf-fd39-511d-8752-6b39fbb5fed9": 19,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 2
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 14,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 14,
+            "709ff9c9-890f-5e52-a7c8-c05cbcd946f8": 465,
+            "bb75cecf-fd39-511d-8752-6b39fbb5fed9": 465,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 14,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 14,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 14
           },
           "foil": true,
-          "totalWeight": 40
+          "totalWeight": 1000
         }
       },
       "sourceSetCodes": [
@@ -205038,14 +205257,19 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 19,
-            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 4,
-            "86ccb355-b895-5c73-8542-ac465cfe85c3": 19,
-            "8c9f7922-771a-53ba-bdd9-ce4ef2bcb919": 19,
-            "b16b4de7-6fab-540e-b0a8-8b43b450a699": 19
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 7,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 7,
+            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 93,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 7,
+            "86ccb355-b895-5c73-8542-ac465cfe85c3": 93,
+            "89a1da55-7b34-567b-b966-7b8e8904ef43": 93,
+            "8c9f7922-771a-53ba-bdd9-ce4ef2bcb919": 93,
+            "b16b4de7-6fab-540e-b0a8-8b43b450a699": 93,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 7,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 7
           },
           "foil": true,
-          "totalWeight": 80
+          "totalWeight": 500
         }
       },
       "sourceSetCodes": [
@@ -206349,17 +206573,19 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "09f5dc78-884d-5b54-9f04-495a6180e36d": 279,
-            "0efaedb3-b512-515c-a19f-fc2f96555677": 279,
-            "af24a6ee-9f83-5949-9736-cdb8842e7663": 279,
-            "cc5c64ac-a386-598c-8157-ce0a52a7c3ba": 24,
-            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 279,
-            "efb5736b-93be-574e-b848-d57b58ea02f6": 20,
-            "f132bdee-5981-50c0-b36b-c170e7baa43a": 20,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 20
+            "09f5dc78-884d-5b54-9f04-495a6180e36d": 455,
+            "0efaedb3-b512-515c-a19f-fc2f96555677": 455,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 28,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 28,
+            "af24a6ee-9f83-5949-9736-cdb8842e7663": 455,
+            "cc5c64ac-a386-598c-8157-ce0a52a7c3ba": 40,
+            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 455,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 28,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 28,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 28
           },
           "foil": true,
-          "totalWeight": 1200
+          "totalWeight": 2000
         }
       },
       "sourceSetCodes": [
@@ -206451,14 +206677,18 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "2d9009a7-23f2-5d54-b69d-9f495aca0784": 19,
-            "86b7ba3b-123e-539c-9d52-06aefc2f0fd0": 19,
-            "af24a6ee-9f83-5949-9736-cdb8842e7663": 19,
-            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 4,
-            "c6ae1a7f-3660-5f0a-99da-bca806b7aceb": 19
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 28,
+            "2d9009a7-23f2-5d54-b69d-9f495aca0784": 465,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 28,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 28,
+            "86b7ba3b-123e-539c-9d52-06aefc2f0fd0": 465,
+            "af24a6ee-9f83-5949-9736-cdb8842e7663": 465,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 28,
+            "c6ae1a7f-3660-5f0a-99da-bca806b7aceb": 465,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 28
           },
           "foil": true,
-          "totalWeight": 80
+          "totalWeight": 2000
         }
       },
       "sourceSetCodes": [
@@ -206523,6 +206753,38 @@
           },
           "foil": true,
           "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-showcase-march-of-the-machine-vol-2": {
+      "name": "SLD Showcase March of the Machine Vol 2 Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "2dcfdcb9-299f-5c4e-bcd1-f3a4a189e8e7": 49,
+            "3f0167d1-83a1-5cdb-8f4f-b44a41f94196": 2,
+            "82b67f61-0c5b-53e7-82b1-b6ec8c78b111": 49
+          },
+          "foil": true,
+          "totalWeight": 100
         }
       },
       "sourceSetCodes": [
@@ -206724,17 +206986,20 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "01e1e172-f45b-541f-8a6e-dee48d197712": 19,
-            "09f5dc78-884d-5b54-9f04-495a6180e36d": 19,
-            "0efaedb3-b512-515c-a19f-fc2f96555677": 19,
-            "1f2fedcb-1b4a-5b1f-bf5a-6f93d33d529c": 19,
-            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 3,
-            "af24a6ee-9f83-5949-9736-cdb8842e7663": 19,
-            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 19,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 3
+            "01e1e172-f45b-541f-8a6e-dee48d197712": 155,
+            "09f5dc78-884d-5b54-9f04-495a6180e36d": 155,
+            "0efaedb3-b512-515c-a19f-fc2f96555677": 155,
+            "1f2fedcb-1b4a-5b1f-bf5a-6f93d33d529c": 155,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 14,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 14,
+            "af24a6ee-9f83-5949-9736-cdb8842e7663": 155,
+            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 155,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 14,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 14,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 14
           },
           "foil": true,
-          "totalWeight": 120
+          "totalWeight": 1000
         }
       },
       "sourceSetCodes": [
@@ -206761,21 +207026,22 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "0e571a77-27cf-59d7-bcf8-18ba2e002788": 372,
-            "13f283ac-7470-560a-9539-6a38e86f3568": 372,
-            "32e27f1a-9877-58b4-8459-22433313d9fd": 35,
-            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 372,
-            "5a825b36-2e68-514b-bfbe-8f5c7455e621": 372,
-            "707bce4a-160f-5df3-8075-32837931a7de": 56,
-            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 35,
-            "b16b4de7-6fab-540e-b0a8-8b43b450a699": 372,
-            "b1c1aeb2-69e6-5174-a51e-b6e6f85c8aa6": 372,
-            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 35,
-            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 35,
-            "f93e0834-293e-5f8d-9963-7198b0ea9072": 372
+            "0e571a77-27cf-59d7-bcf8-18ba2e002788": 65,
+            "13f283ac-7470-560a-9539-6a38e86f3568": 65,
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 7,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 7,
+            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 65,
+            "5a825b36-2e68-514b-bfbe-8f5c7455e621": 65,
+            "707bce4a-160f-5df3-8075-32837931a7de": 10,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 7,
+            "b16b4de7-6fab-540e-b0a8-8b43b450a699": 65,
+            "b1c1aeb2-69e6-5174-a51e-b6e6f85c8aa6": 65,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 7,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 7,
+            "f93e0834-293e-5f8d-9963-7198b0ea9072": 65
           },
           "foil": true,
-          "totalWeight": 2800
+          "totalWeight": 500
         }
       },
       "sourceSetCodes": [
@@ -207102,20 +207368,22 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "196c8038-c208-515b-a8be-bcb96496cfe6": 62,
-            "213480f8-16a6-5b5d-a2e7-faf822dd9b3e": 62,
-            "32e27f1a-9877-58b4-8459-22433313d9fd": 5,
-            "38d1f975-1b3b-5047-8328-61f5ca71ddba": 62,
-            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 5,
-            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 5,
-            "c0bf904c-5bb8-58e0-bf76-b0f202b206c4": 62,
-            "ccc9d450-0702-5d4a-8ede-fc746f3cb831": 8,
-            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 5,
-            "e3f480e1-2b69-5c0c-8999-9ffcfb023da1": 62,
-            "eb0f044c-3a23-580f-8532-babde9fdbf35": 62
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 7,
+            "196c8038-c208-515b-a8be-bcb96496cfe6": 65,
+            "213480f8-16a6-5b5d-a2e7-faf822dd9b3e": 65,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 7,
+            "38d1f975-1b3b-5047-8328-61f5ca71ddba": 65,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 7,
+            "807651a3-cbe8-5b19-b8a3-c4ed22abcedd": 65,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 7,
+            "c0bf904c-5bb8-58e0-bf76-b0f202b206c4": 65,
+            "ccc9d450-0702-5d4a-8ede-fc746f3cb831": 10,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 7,
+            "e3f480e1-2b69-5c0c-8999-9ffcfb023da1": 65,
+            "eb0f044c-3a23-580f-8532-babde9fdbf35": 65
           },
           "foil": true,
-          "totalWeight": 400
+          "totalWeight": 500
         }
       },
       "sourceSetCodes": [
@@ -207142,17 +207410,83 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "30518e3e-a847-5b56-a86d-136f9b23b3c1": 20,
-            "32e27f1a-9877-58b4-8459-22433313d9fd": 25,
-            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 186,
-            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 25,
-            "86ccb355-b895-5c73-8542-ac465cfe85c3": 186,
-            "89a1da55-7b34-567b-b966-7b8e8904ef43": 186,
-            "8c9f7922-771a-53ba-bdd9-ce4ef2bcb919": 186,
-            "b16b4de7-6fab-540e-b0a8-8b43b450a699": 186
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 7,
+            "30518e3e-a847-5b56-a86d-136f9b23b3c1": 10,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 7,
+            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 91,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 7,
+            "86ccb355-b895-5c73-8542-ac465cfe85c3": 91,
+            "89a1da55-7b34-567b-b966-7b8e8904ef43": 91,
+            "8c9f7922-771a-53ba-bdd9-ce4ef2bcb919": 91,
+            "b16b4de7-6fab-540e-b0a8-8b43b450a699": 91,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 7,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 7
           },
           "foil": true,
-          "totalWeight": 1000
+          "totalWeight": 500
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-special-guest-kozyndan-another-story": {
+      "name": "SLD Special Guest Kozyndan Another Story Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "01e1e172-f45b-541f-8a6e-dee48d197712": 1,
+            "7444299f-f8ff-5f86-bc3b-4e2d5105e32e": 1,
+            "8042b07f-4c66-5ca5-b39b-4e9e18bf521f": 1
+          },
+          "foil": true,
+          "totalWeight": 3
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-special-guest-kozyndan-the-lands": {
+      "name": "SLD Special Guest Kozyndan The Lands Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "7444299f-f8ff-5f86-bc3b-4e2d5105e32e": 1,
+            "a6782b6f-f021-5241-b885-97126f09a1ac": 1
+          },
+          "foil": true,
+          "totalWeight": 2
         }
       },
       "sourceSetCodes": [
@@ -207179,16 +207513,20 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "0e571a77-27cf-59d7-bcf8-18ba2e002788": 19,
-            "13f283ac-7470-560a-9539-6a38e86f3568": 19,
-            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 19,
-            "b16b4de7-6fab-540e-b0a8-8b43b450a699": 19,
-            "b1c1aeb2-69e6-5174-a51e-b6e6f85c8aa6": 19,
-            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 6,
-            "f93e0834-293e-5f8d-9963-7198b0ea9072": 19
+            "0e571a77-27cf-59d7-bcf8-18ba2e002788": 155,
+            "13f283ac-7470-560a-9539-6a38e86f3568": 155,
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 14,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 14,
+            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 155,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 14,
+            "b16b4de7-6fab-540e-b0a8-8b43b450a699": 155,
+            "b1c1aeb2-69e6-5174-a51e-b6e6f85c8aa6": 155,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 14,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 14,
+            "f93e0834-293e-5f8d-9963-7198b0ea9072": 155
           },
           "foil": true,
-          "totalWeight": 120
+          "totalWeight": 1000
         }
       },
       "sourceSetCodes": [
@@ -207215,21 +207553,22 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "11670e89-3082-53e2-b281-94afab950134": 372,
-            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 35,
-            "1e0c1bce-065a-5898-b795-469a65acafb5": 372,
-            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 372,
-            "5a825b36-2e68-514b-bfbe-8f5c7455e621": 372,
-            "70c5dac2-0022-5a79-8aff-c59eed744746": 372,
-            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 35,
-            "807651a3-cbe8-5b19-b8a3-c4ed22abcedd": 372,
-            "af24a6ee-9f83-5949-9736-cdb8842e7663": 372,
-            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 35,
-            "ccc9d450-0702-5d4a-8ede-fc746f3cb831": 56,
-            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 35
+            "11670e89-3082-53e2-b281-94afab950134": 65,
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 7,
+            "1e0c1bce-065a-5898-b795-469a65acafb5": 65,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 7,
+            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 65,
+            "5a825b36-2e68-514b-bfbe-8f5c7455e621": 65,
+            "70c5dac2-0022-5a79-8aff-c59eed744746": 65,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 7,
+            "807651a3-cbe8-5b19-b8a3-c4ed22abcedd": 65,
+            "af24a6ee-9f83-5949-9736-cdb8842e7663": 65,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 7,
+            "ccc9d450-0702-5d4a-8ede-fc746f3cb831": 10,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 7
           },
           "foil": true,
-          "totalWeight": 2800
+          "totalWeight": 500
         }
       },
       "sourceSetCodes": [
@@ -207256,17 +207595,17 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "01e1e172-f45b-541f-8a6e-dee48d197712": 93,
-            "0efaedb3-b512-515c-a19f-fc2f96555677": 93,
-            "1f2fedcb-1b4a-5b1f-bf5a-6f93d33d529c": 93,
-            "446a6877-b893-51bc-86b7-e378ffea56ce": 5,
-            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 5,
-            "af24a6ee-9f83-5949-9736-cdb8842e7663": 93,
+            "01e1e172-f45b-541f-8a6e-dee48d197712": 91,
+            "0efaedb3-b512-515c-a19f-fc2f96555677": 91,
+            "1f2fedcb-1b4a-5b1f-bf5a-6f93d33d529c": 91,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "af24a6ee-9f83-5949-9736-cdb8842e7663": 91,
             "cc5c64ac-a386-598c-8157-ce0a52a7c3ba": 10,
-            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 93,
-            "efb5736b-93be-574e-b848-d57b58ea02f6": 5,
-            "f132bdee-5981-50c0-b36b-c170e7baa43a": 5,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 5
+            "cef9b3a3-f2c7-57da-ac7d-99da79b2e041": 91,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
           },
           "foil": true,
           "totalWeight": 500
@@ -207776,6 +208115,37 @@
         "SLD"
       ]
     },
+    "bonus-the-meaning-of-life-maybe": {
+      "name": "SLD The Meaning of Life Maybe Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "38d1f975-1b3b-5047-8328-61f5ca71ddba": 1,
+            "807651a3-cbe8-5b19-b8a3-c4ed22abcedd": 1
+          },
+          "foil": true,
+          "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-the-office-dwights-destiny": {
       "name": "SLD The Office Dwights Destiny Bonus",
       "languages": [
@@ -207862,20 +208232,21 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 6,
-            "32e27f1a-9877-58b4-8459-22433313d9fd": 6,
-            "39524f3e-1ca5-5794-a3d1-c7a5c7e1380b": 95,
-            "7444299f-f8ff-5f86-bc3b-4e2d5105e32e": 95,
-            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 6,
-            "a116509a-fa37-5d13-b8d1-c78cf3fe06df": 95,
-            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 6,
-            "c0bf904c-5bb8-58e0-bf76-b0f202b206c4": 95,
-            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 6,
-            "ed676606-0254-5973-b3a9-9651931cac10": 95,
-            "fe712318-e16b-5912-8300-605fc2434406": 95
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 49,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 49,
+            "39524f3e-1ca5-5794-a3d1-c7a5c7e1380b": 465,
+            "7444299f-f8ff-5f86-bc3b-4e2d5105e32e": 465,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 49,
+            "a116509a-fa37-5d13-b8d1-c78cf3fe06df": 465,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 49,
+            "bc6b7293-d614-510a-b78c-8b9294b74ca4": 465,
+            "c0bf904c-5bb8-58e0-bf76-b0f202b206c4": 465,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 49,
+            "ed676606-0254-5973-b3a9-9651931cac10": 465,
+            "fe712318-e16b-5912-8300-605fc2434406": 465
           },
           "foil": true,
-          "totalWeight": 600
+          "totalWeight": 3500
         }
       },
       "sourceSetCodes": [
@@ -207933,28 +208304,24 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 14,
-            "32e27f1a-9877-58b4-8459-22433313d9fd": 14,
-            "51650413-c00b-5967-8492-b030dd124370": 95,
-            "5d95b204-f001-5c06-9059-5ac56188bd8c": 95,
-            "5f280509-aabb-5891-a0c6-d4f6528645b3": 95,
-            "6bdbc284-b15b-503e-a6ae-af63740bace3": 95,
-            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 95,
-            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 95,
-            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 14,
-            "930530ee-d546-5b14-b7de-edeea8102f90": 95,
-            "ace78bd8-8b1d-5e82-affb-109874796cc0": 95,
-            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 14,
-            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 95,
-            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 95,
-            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 95,
-            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 14,
-            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 95,
-            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 95,
-            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 95
+            "51650413-c00b-5967-8492-b030dd124370": 1,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 1,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 1,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 1,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 1,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 1,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 1,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 1,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 1,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 1,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 1,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 1,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 1,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 1,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 1
           },
           "foil": true,
-          "totalWeight": 1400
+          "totalWeight": 15
         }
       },
       "sourceSetCodes": [
@@ -207981,20 +208348,22 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "06619745-e841-5099-a239-ccfc727b76ae": 95,
-            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 6,
-            "32e27f1a-9877-58b4-8459-22433313d9fd": 6,
-            "5a825b36-2e68-514b-bfbe-8f5c7455e621": 95,
-            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 6,
-            "7c0fdb8d-8592-511f-8a54-d77bb3107a0d": 95,
-            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 6,
-            "bc6b7293-d614-510a-b78c-8b9294b74ca4": 95,
-            "d0dee3f1-0df5-50af-be37-82117fa714c4": 95,
-            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 6,
-            "eb0f044c-3a23-580f-8532-babde9fdbf35": 95
+            "06619745-e841-5099-a239-ccfc727b76ae": 465,
+            "11670e89-3082-53e2-b281-94afab950134": 465,
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 56,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 56,
+            "5a825b36-2e68-514b-bfbe-8f5c7455e621": 465,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 56,
+            "7c0fdb8d-8592-511f-8a54-d77bb3107a0d": 465,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 56,
+            "bc6b7293-d614-510a-b78c-8b9294b74ca4": 465,
+            "c0bf904c-5bb8-58e0-bf76-b0f202b206c4": 465,
+            "d0dee3f1-0df5-50af-be37-82117fa714c4": 465,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 56,
+            "eb0f044c-3a23-580f-8532-babde9fdbf35": 465
           },
           "foil": true,
-          "totalWeight": 600
+          "totalWeight": 4000
         }
       },
       "sourceSetCodes": [
@@ -208233,6 +208602,37 @@
         "SLD"
       ]
     },
+    "bonus-time-trouble-two": {
+      "name": "SLD Time Trouble Two Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "1e0c1bce-065a-5898-b795-469a65acafb5": 1,
+            "1f7224b3-7027-5e3d-a02d-75038d6f81b2": 1
+          },
+          "foil": true,
+          "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-tobys-journey-by-gary-baseman": {
       "name": "SLD Toby's Journey by Gary Baseman Bonus",
       "languages": [
@@ -208319,19 +208719,23 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "0e571a77-27cf-59d7-bcf8-18ba2e002788": 186,
-            "13f283ac-7470-560a-9539-6a38e86f3568": 186,
-            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 35,
-            "32e27f1a-9877-58b4-8459-22433313d9fd": 35,
-            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 186,
-            "5a825b36-2e68-514b-bfbe-8f5c7455e621": 186,
-            "707bce4a-160f-5df3-8075-32837931a7de": 28,
-            "7c0fdb8d-8592-511f-8a54-d77bb3107a0d": 186,
-            "b1c1aeb2-69e6-5174-a51e-b6e6f85c8aa6": 186,
-            "f93e0834-293e-5f8d-9963-7198b0ea9072": 186
+            "0e571a77-27cf-59d7-bcf8-18ba2e002788": 455,
+            "13f283ac-7470-560a-9539-6a38e86f3568": 455,
+            "1634d8b4-db10-57c0-b85e-033d34b1bf5c": 56,
+            "32e27f1a-9877-58b4-8459-22433313d9fd": 56,
+            "3bf31ea6-26e7-5420-b6d5-765bfa6bb105": 455,
+            "533b217a-00df-54c2-b28d-43cc2af595ee": 455,
+            "5a825b36-2e68-514b-bfbe-8f5c7455e621": 455,
+            "707bce4a-160f-5df3-8075-32837931a7de": 80,
+            "7a1ad599-5f44-5f19-bdf2-9fc226777b0c": 56,
+            "7c0fdb8d-8592-511f-8a54-d77bb3107a0d": 455,
+            "b1c1aeb2-69e6-5174-a51e-b6e6f85c8aa6": 455,
+            "b8aa4163-1d3e-5e99-89c0-f9e5bf313937": 56,
+            "dc61f0f4-61e2-5c5f-a919-0172cd666eef": 56,
+            "f93e0834-293e-5f8d-9963-7198b0ea9072": 455
           },
           "foil": true,
-          "totalWeight": 1400
+          "totalWeight": 4000
         }
       },
       "sourceSetCodes": [
@@ -208578,6 +208982,37 @@
         "SLD"
       ]
     },
+    "bonus-welcome-to-the-fungal": {
+      "name": "SLD Welcome to the Fungal Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "c0bf904c-5bb8-58e0-bf76-b0f202b206c4": 1,
+            "e3f480e1-2b69-5c0c-8999-9ffcfb023da1": 1
+          },
+          "foil": true,
+          "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-wild-in-bloom": {
       "name": "SLD Wild in Bloom Bonus",
       "languages": [
@@ -208639,6 +209074,37 @@
           },
           "foil": true,
           "totalWeight": 5
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-wizards-of-the-street": {
+      "name": "SLD Wizards of the Street Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "01e1e172-f45b-541f-8a6e-dee48d197712": 1,
+            "11670e89-3082-53e2-b281-94afab950134": 1
+          },
+          "foil": true,
+          "totalWeight": 2
         }
       },
       "sourceSetCodes": [

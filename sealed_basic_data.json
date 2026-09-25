@@ -201087,6 +201087,39 @@
     ]
   },
   {
+    "name": "SLD Featuring Gary Baseman Bonus",
+    "code": "sld-bonus-featuring-gary-baseman",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:612:foil": 1,
+          "sld:623:foil": 1,
+          "sld:640:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
     "name": "SLD Featuring Gene Luen Yang Bonus",
     "code": "sld-bonus-featuring-gene-luen-yang",
     "languages": [
@@ -201911,20 +201944,22 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 200,
+        "total_weight": 4000,
         "cards": {
-          "sld:628:foil": 31,
-          "sld:629:foil": 31,
-          "sld:636:foil": 31,
-          "sld:641:foil": 31,
-          "sld:653:foil": 31,
-          "sld:667:foil": 31,
-          "sld:682:foil": 4,
-          "sld:691:foil": 2,
-          "sld:692:foil": 2,
-          "sld:693:foil": 2,
-          "sld:694:foil": 2,
-          "sld:695:foil": 2
+          "sld:628:foil": 455,
+          "sld:629:foil": 455,
+          "sld:636:foil": 455,
+          "sld:637:foil": 455,
+          "sld:641:foil": 455,
+          "sld:653:foil": 455,
+          "sld:666:foil": 455,
+          "sld:667:foil": 455,
+          "sld:682:foil": 80,
+          "sld:691:foil": 56,
+          "sld:692:foil": 56,
+          "sld:693:foil": 56,
+          "sld:694:foil": 56,
+          "sld:695:foil": 56
         }
       }
     },
@@ -201953,14 +201988,18 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 100,
+        "total_weight": 500,
         "cards": {
-          "sld:619:foil": 19,
-          "sld:620:foil": 19,
-          "sld:626:foil": 19,
-          "sld:628:foil": 19,
-          "sld:652:foil": 19,
-          "sld:691:foil": 5
+          "sld:619:foil": 93,
+          "sld:620:foil": 93,
+          "sld:626:foil": 93,
+          "sld:628:foil": 93,
+          "sld:652:foil": 93,
+          "sld:691:foil": 7,
+          "sld:692:foil": 7,
+          "sld:693:foil": 7,
+          "sld:694:foil": 7,
+          "sld:695:foil": 7
         }
       }
     },
@@ -201989,15 +202028,18 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 200,
+        "total_weight": 500,
         "cards": {
-          "sld:636:foil": 38,
-          "sld:641:foil": 38,
-          "sld:643:foil": 38,
-          "sld:644:foil": 38,
-          "sld:645:foil": 38,
-          "sld:691:foil": 5,
-          "sld:694:foil": 5
+          "sld:636:foil": 93,
+          "sld:641:foil": 93,
+          "sld:643:foil": 93,
+          "sld:644:foil": 93,
+          "sld:645:foil": 93,
+          "sld:691:foil": 7,
+          "sld:692:foil": 7,
+          "sld:693:foil": 7,
+          "sld:694:foil": 7,
+          "sld:695:foil": 7
         }
       }
     },
@@ -202110,16 +202152,20 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 200,
+        "total_weight": 3000,
         "cards": {
-          "sld:599:foil": 4,
-          "sld:607:foil": 10,
-          "sld:617:foil": 31,
-          "sld:628:foil": 31,
-          "sld:646:foil": 31,
-          "sld:647:foil": 31,
-          "sld:649:foil": 31,
-          "sld:657:foil": 31
+          "sld:599:foil": 60,
+          "sld:603:foil": 42,
+          "sld:604:foil": 42,
+          "sld:605:foil": 42,
+          "sld:606:foil": 42,
+          "sld:607:foil": 42,
+          "sld:617:foil": 455,
+          "sld:628:foil": 455,
+          "sld:646:foil": 455,
+          "sld:647:foil": 455,
+          "sld:649:foil": 455,
+          "sld:657:foil": 455
         }
       }
     },
@@ -202148,18 +202194,13 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 400,
+        "total_weight": 200,
         "cards": {
-          "sld:612:foil": 93,
-          "sld:613:foil": 93,
-          "sld:615:foil": 93,
-          "sld:617:foil": 93,
-          "sld:687:foil": 8,
-          "sld:691:foil": 4,
-          "sld:692:foil": 4,
-          "sld:693:foil": 4,
-          "sld:694:foil": 4,
-          "sld:695:foil": 4
+          "sld:612:foil": 49,
+          "sld:613:foil": 49,
+          "sld:615:foil": 49,
+          "sld:617:foil": 49,
+          "sld:687:foil": 4
         }
       }
     },
@@ -202188,16 +202229,18 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 300,
+        "total_weight": 500,
         "cards": {
-          "sld:618:foil": 57,
-          "sld:643:foil": 57,
-          "sld:650:foil": 57,
-          "sld:652:foil": 57,
-          "sld:667:foil": 57,
-          "sld:692:foil": 5,
-          "sld:694:foil": 5,
-          "sld:695:foil": 5
+          "sld:618:foil": 93,
+          "sld:643:foil": 93,
+          "sld:650:foil": 93,
+          "sld:652:foil": 93,
+          "sld:667:foil": 93,
+          "sld:691:foil": 7,
+          "sld:692:foil": 7,
+          "sld:693:foil": 7,
+          "sld:694:foil": 7,
+          "sld:695:foil": 7
         }
       }
     },
@@ -202263,17 +202306,54 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 120,
+        "total_weight": 1000,
         "cards": {
-          "sld:605:foil": 2,
-          "sld:606:foil": 2,
-          "sld:607:foil": 2,
-          "sld:617:foil": 19,
-          "sld:628:foil": 19,
-          "sld:646:foil": 19,
-          "sld:647:foil": 19,
-          "sld:649:foil": 19,
-          "sld:657:foil": 19
+          "sld:603:foil": 14,
+          "sld:604:foil": 14,
+          "sld:605:foil": 14,
+          "sld:606:foil": 14,
+          "sld:607:foil": 14,
+          "sld:617:foil": 155,
+          "sld:628:foil": 155,
+          "sld:646:foil": 155,
+          "sld:647:foil": 155,
+          "sld:649:foil": 155,
+          "sld:657:foil": 155
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Keep Partying Hard Shred Harder Than You Previously Thought Possible Bonus",
+    "code": "sld-bonus-keep-partying-hard-shred-harder-than-you-previously-thought-possible",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 300,
+        "cards": {
+          "sld:601:foil": 3,
+          "sld:624:foil": 98,
+          "sld:638:foil": 98,
+          "sld:641:foil": 98,
+          "sld:686:foil": 3
         }
       }
     },
@@ -202335,16 +202415,13 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 1200,
+        "total_weight": 5,
         "cards": {
-          "sld:618:foil": 279,
-          "sld:650:foil": 279,
-          "sld:660:foil": 279,
-          "sld:667:foil": 279,
-          "sld:683:foil": 24,
-          "sld:691:foil": 20,
-          "sld:693:foil": 20,
-          "sld:695:foil": 20
+          "sld:618:foil": 1,
+          "sld:650:foil": 1,
+          "sld:654:foil": 1,
+          "sld:660:foil": 1,
+          "sld:667:foil": 1
         }
       }
     },
@@ -202407,17 +202484,20 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 200,
+        "total_weight": 3000,
         "cards": {
-          "sld:599:foil": 4,
-          "sld:605:foil": 5,
-          "sld:607:foil": 5,
-          "sld:617:foil": 31,
-          "sld:628:foil": 31,
-          "sld:646:foil": 31,
-          "sld:647:foil": 31,
-          "sld:649:foil": 31,
-          "sld:657:foil": 31
+          "sld:599:foil": 60,
+          "sld:603:foil": 42,
+          "sld:604:foil": 42,
+          "sld:605:foil": 42,
+          "sld:606:foil": 42,
+          "sld:607:foil": 42,
+          "sld:617:foil": 455,
+          "sld:628:foil": 455,
+          "sld:646:foil": 455,
+          "sld:647:foil": 455,
+          "sld:649:foil": 455,
+          "sld:657:foil": 455
         }
       }
     },
@@ -202451,6 +202531,38 @@
           "sld:623:foil": 49,
           "sld:657:foil": 49,
           "sld:687:foil": 2
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Lilest Walkers Bonus",
+    "code": "sld-bonus-lilest-walkers",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:620:foil": 1,
+          "sld:636:foil": 1
         }
       }
     },
@@ -202518,6 +202630,44 @@
           "sld:837:foil": 1,
           "sld:840:foil": 1,
           "sld:850:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Magic The Baseballing Bonus",
+    "code": "sld-bonus-magic-the-baseballing",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 750,
+        "cards": {
+          "sld:613:foil": 245,
+          "sld:642:foil": 245,
+          "sld:656:foil": 245,
+          "sld:745a:foil": 3,
+          "sld:746a:foil": 3,
+          "sld:747a:foil": 3,
+          "sld:748a:foil": 3,
+          "sld:749a:foil": 3
         }
       }
     },
@@ -203009,6 +203159,40 @@
     ]
   },
   {
+    "name": "SLD More Borderless Planeswalkers Bonus",
+    "code": "sld-bonus-more-borderless-planeswalkers",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 150,
+        "cards": {
+          "sld:615:foil": 49,
+          "sld:620:foil": 49,
+          "sld:635:foil": 49,
+          "sld:681:foil": 3
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
     "name": "SLD Mycosynthwave Bonus",
     "code": "sld-bonus-mycosynthwave",
     "languages": [
@@ -203102,6 +203286,41 @@
           "sld:7143:foil": 1,
           "sld:7144:foil": 1,
           "sld:7147:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Now on VHS Bonus",
+    "code": "sld-bonus-now-on-vhs",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 300,
+        "cards": {
+          "sld:601:foil": 3,
+          "sld:629:foil": 98,
+          "sld:636:foil": 98,
+          "sld:641:foil": 98,
+          "sld:686:foil": 3
         }
       }
     },
@@ -203403,17 +203622,19 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 120,
+        "total_weight": 1000,
         "cards": {
-          "sld:603:foil": 2,
-          "sld:604:foil": 2,
-          "sld:607:foil": 2,
-          "sld:617:foil": 19,
-          "sld:628:foil": 19,
-          "sld:646:foil": 19,
-          "sld:647:foil": 19,
-          "sld:649:foil": 19,
-          "sld:657:foil": 19
+          "sld:603:foil": 14,
+          "sld:604:foil": 14,
+          "sld:605:foil": 14,
+          "sld:606:foil": 14,
+          "sld:607:foil": 14,
+          "sld:617:foil": 155,
+          "sld:628:foil": 155,
+          "sld:646:foil": 155,
+          "sld:647:foil": 155,
+          "sld:649:foil": 155,
+          "sld:657:foil": 155
         }
       }
     },
@@ -203538,11 +203759,15 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 40,
+        "total_weight": 1000,
         "cards": {
-          "sld:530:foil": 19,
-          "sld:534:foil": 19,
-          "sld:607:foil": 2
+          "sld:530:foil": 465,
+          "sld:534:foil": 465,
+          "sld:603:foil": 14,
+          "sld:604:foil": 14,
+          "sld:605:foil": 14,
+          "sld:606:foil": 14,
+          "sld:607:foil": 14
         }
       }
     },
@@ -203775,13 +204000,18 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 80,
+        "total_weight": 500,
         "cards": {
-          "sld:618:foil": 19,
-          "sld:650:foil": 19,
-          "sld:660:foil": 19,
-          "sld:667:foil": 19,
-          "sld:692:foil": 4
+          "sld:618:foil": 93,
+          "sld:650:foil": 93,
+          "sld:654:foil": 93,
+          "sld:660:foil": 93,
+          "sld:667:foil": 93,
+          "sld:691:foil": 7,
+          "sld:692:foil": 7,
+          "sld:693:foil": 7,
+          "sld:694:foil": 7,
+          "sld:695:foil": 7
         }
       }
     },
@@ -205125,16 +205355,18 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 1200,
+        "total_weight": 2000,
         "cards": {
-          "sld:599:foil": 24,
-          "sld:605:foil": 20,
-          "sld:606:foil": 20,
-          "sld:607:foil": 20,
-          "sld:617:foil": 279,
-          "sld:628:foil": 279,
-          "sld:646:foil": 279,
-          "sld:649:foil": 279
+          "sld:599:foil": 40,
+          "sld:603:foil": 28,
+          "sld:604:foil": 28,
+          "sld:605:foil": 28,
+          "sld:606:foil": 28,
+          "sld:607:foil": 28,
+          "sld:617:foil": 455,
+          "sld:628:foil": 455,
+          "sld:646:foil": 455,
+          "sld:649:foil": 455
         }
       }
     },
@@ -205230,13 +205462,17 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 80,
+        "total_weight": 2000,
         "cards": {
-          "sld:610:foil": 19,
-          "sld:612:foil": 19,
-          "sld:628:foil": 19,
-          "sld:648:foil": 19,
-          "sld:695:foil": 4
+          "sld:610:foil": 465,
+          "sld:612:foil": 465,
+          "sld:628:foil": 465,
+          "sld:648:foil": 465,
+          "sld:691:foil": 28,
+          "sld:692:foil": 28,
+          "sld:693:foil": 28,
+          "sld:694:foil": 28,
+          "sld:695:foil": 28
         }
       }
     },
@@ -205303,6 +205539,39 @@
         "cards": {
           "sld:620:foil": 1,
           "sld:642:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Showcase March of the Machine Vol 2 Bonus",
+    "code": "sld-bonus-showcase-march-of-the-machine-vol-2",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 100,
+        "cards": {
+          "sld:621:foil": 49,
+          "sld:622:foil": 49,
+          "sld:688:foil": 2
         }
       }
     },
@@ -205510,16 +205779,19 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 120,
+        "total_weight": 1000,
         "cards": {
-          "sld:604:foil": 3,
-          "sld:607:foil": 3,
-          "sld:617:foil": 19,
-          "sld:628:foil": 19,
-          "sld:646:foil": 19,
-          "sld:647:foil": 19,
-          "sld:649:foil": 19,
-          "sld:657:foil": 19
+          "sld:603:foil": 14,
+          "sld:604:foil": 14,
+          "sld:605:foil": 14,
+          "sld:606:foil": 14,
+          "sld:607:foil": 14,
+          "sld:617:foil": 155,
+          "sld:628:foil": 155,
+          "sld:646:foil": 155,
+          "sld:647:foil": 155,
+          "sld:649:foil": 155,
+          "sld:657:foil": 155
         }
       }
     },
@@ -205548,20 +205820,21 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 2800,
+        "total_weight": 500,
         "cards": {
-          "sld:660:foil": 372,
-          "sld:661:foil": 372,
-          "sld:662:foil": 372,
-          "sld:663:foil": 372,
-          "sld:664:foil": 372,
-          "sld:665:foil": 372,
-          "sld:667:foil": 372,
-          "sld:684:foil": 56,
-          "sld:692:foil": 35,
-          "sld:693:foil": 35,
-          "sld:694:foil": 35,
-          "sld:695:foil": 35
+          "sld:660:foil": 65,
+          "sld:661:foil": 65,
+          "sld:662:foil": 65,
+          "sld:663:foil": 65,
+          "sld:664:foil": 65,
+          "sld:665:foil": 65,
+          "sld:667:foil": 65,
+          "sld:684:foil": 10,
+          "sld:691:foil": 7,
+          "sld:692:foil": 7,
+          "sld:693:foil": 7,
+          "sld:694:foil": 7,
+          "sld:695:foil": 7
         }
       }
     },
@@ -205898,19 +206171,21 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 400,
+        "total_weight": 500,
         "cards": {
-          "sld:631:foil": 62,
-          "sld:632:foil": 62,
-          "sld:633:foil": 62,
-          "sld:634:foil": 62,
-          "sld:635:foil": 62,
-          "sld:666:foil": 62,
-          "sld:682:foil": 8,
-          "sld:692:foil": 5,
-          "sld:693:foil": 5,
-          "sld:694:foil": 5,
-          "sld:695:foil": 5
+          "sld:624:foil": 65,
+          "sld:631:foil": 65,
+          "sld:632:foil": 65,
+          "sld:633:foil": 65,
+          "sld:634:foil": 65,
+          "sld:635:foil": 65,
+          "sld:666:foil": 65,
+          "sld:682:foil": 10,
+          "sld:691:foil": 7,
+          "sld:692:foil": 7,
+          "sld:693:foil": 7,
+          "sld:694:foil": 7,
+          "sld:695:foil": 7
         }
       }
     },
@@ -205939,16 +206214,84 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 1000,
+        "total_weight": 500,
         "cards": {
-          "sld:618:foil": 186,
-          "sld:650:foil": 186,
-          "sld:654:foil": 186,
-          "sld:660:foil": 186,
-          "sld:667:foil": 186,
-          "sld:683:foil": 20,
-          "sld:692:foil": 25,
-          "sld:694:foil": 25
+          "sld:618:foil": 91,
+          "sld:650:foil": 91,
+          "sld:654:foil": 91,
+          "sld:660:foil": 91,
+          "sld:667:foil": 91,
+          "sld:683:foil": 10,
+          "sld:691:foil": 7,
+          "sld:692:foil": 7,
+          "sld:693:foil": 7,
+          "sld:694:foil": 7,
+          "sld:695:foil": 7
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Special Guest Kozyndan Another Story Bonus",
+    "code": "sld-bonus-special-guest-kozyndan-another-story",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 3,
+        "cards": {
+          "sld:623:foil": 1,
+          "sld:640:foil": 1,
+          "sld:657:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Special Guest Kozyndan The Lands Bonus",
+    "code": "sld-bonus-special-guest-kozyndan-the-lands",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:640:foil": 1,
+          "sld:642:foil": 1
         }
       }
     },
@@ -205977,15 +206320,19 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 120,
+        "total_weight": 1000,
         "cards": {
-          "sld:660:foil": 19,
-          "sld:661:foil": 19,
-          "sld:662:foil": 19,
-          "sld:663:foil": 19,
-          "sld:665:foil": 19,
-          "sld:667:foil": 19,
-          "sld:695:foil": 6
+          "sld:660:foil": 155,
+          "sld:661:foil": 155,
+          "sld:662:foil": 155,
+          "sld:663:foil": 155,
+          "sld:665:foil": 155,
+          "sld:667:foil": 155,
+          "sld:691:foil": 14,
+          "sld:692:foil": 14,
+          "sld:693:foil": 14,
+          "sld:694:foil": 14,
+          "sld:695:foil": 14
         }
       }
     },
@@ -206014,20 +206361,21 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 2800,
+        "total_weight": 500,
         "cards": {
-          "sld:613:foil": 372,
-          "sld:624:foil": 372,
-          "sld:626:foil": 372,
-          "sld:627:foil": 372,
-          "sld:628:foil": 372,
-          "sld:664:foil": 372,
-          "sld:667:foil": 372,
-          "sld:682:foil": 56,
-          "sld:691:foil": 35,
-          "sld:692:foil": 35,
-          "sld:693:foil": 35,
-          "sld:695:foil": 35
+          "sld:613:foil": 65,
+          "sld:624:foil": 65,
+          "sld:626:foil": 65,
+          "sld:627:foil": 65,
+          "sld:628:foil": 65,
+          "sld:664:foil": 65,
+          "sld:667:foil": 65,
+          "sld:682:foil": 10,
+          "sld:691:foil": 7,
+          "sld:692:foil": 7,
+          "sld:693:foil": 7,
+          "sld:694:foil": 7,
+          "sld:695:foil": 7
         }
       }
     },
@@ -206059,16 +206407,16 @@
         "total_weight": 500,
         "cards": {
           "sld:599:foil": 10,
-          "sld:603:foil": 5,
-          "sld:604:foil": 5,
-          "sld:605:foil": 5,
-          "sld:606:foil": 5,
-          "sld:607:foil": 5,
-          "sld:617:foil": 93,
-          "sld:628:foil": 93,
-          "sld:646:foil": 93,
-          "sld:647:foil": 93,
-          "sld:657:foil": 93
+          "sld:603:foil": 7,
+          "sld:604:foil": 7,
+          "sld:605:foil": 7,
+          "sld:606:foil": 7,
+          "sld:607:foil": 7,
+          "sld:617:foil": 91,
+          "sld:628:foil": 91,
+          "sld:646:foil": 91,
+          "sld:647:foil": 91,
+          "sld:657:foil": 91
         }
       }
     },
@@ -206592,6 +206940,38 @@
     ]
   },
   {
+    "name": "SLD The Meaning of Life Maybe Bonus",
+    "code": "sld-bonus-the-meaning-of-life-maybe",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:624:foil": 1,
+          "sld:632:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
     "name": "SLD The Office Dwights Destiny Bonus",
     "code": "sld-bonus-the-office-dwights-destiny",
     "languages": [
@@ -206680,19 +207060,20 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 600,
+        "total_weight": 3500,
         "cards": {
-          "sld:629:foil": 95,
-          "sld:635:foil": 95,
-          "sld:638:foil": 95,
-          "sld:640:foil": 95,
-          "sld:651:foil": 95,
-          "sld:659:foil": 95,
-          "sld:691:foil": 6,
-          "sld:692:foil": 6,
-          "sld:693:foil": 6,
-          "sld:694:foil": 6,
-          "sld:695:foil": 6
+          "sld:615:foil": 465,
+          "sld:629:foil": 465,
+          "sld:635:foil": 465,
+          "sld:638:foil": 465,
+          "sld:640:foil": 465,
+          "sld:651:foil": 465,
+          "sld:659:foil": 465,
+          "sld:691:foil": 49,
+          "sld:692:foil": 49,
+          "sld:693:foil": 49,
+          "sld:694:foil": 49,
+          "sld:695:foil": 49
         }
       }
     },
@@ -206753,27 +207134,23 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 1400,
+        "total_weight": 15,
         "cards": {
-          "sld:541:foil": 95,
-          "sld:545:foil": 95,
-          "sld:551:foil": 95,
-          "sld:554:foil": 95,
-          "sld:555:foil": 95,
-          "sld:556:foil": 95,
-          "sld:558:foil": 95,
-          "sld:559:foil": 95,
-          "sld:561:foil": 95,
-          "sld:563:foil": 95,
-          "sld:567:foil": 95,
-          "sld:568:foil": 95,
-          "sld:572:foil": 95,
-          "sld:573:foil": 95,
-          "sld:691:foil": 14,
-          "sld:692:foil": 14,
-          "sld:693:foil": 14,
-          "sld:694:foil": 14,
-          "sld:695:foil": 14
+          "sld:541:foil": 1,
+          "sld:545:foil": 1,
+          "sld:551:foil": 1,
+          "sld:553:foil": 1,
+          "sld:554:foil": 1,
+          "sld:555:foil": 1,
+          "sld:556:foil": 1,
+          "sld:558:foil": 1,
+          "sld:559:foil": 1,
+          "sld:561:foil": 1,
+          "sld:563:foil": 1,
+          "sld:567:foil": 1,
+          "sld:568:foil": 1,
+          "sld:572:foil": 1,
+          "sld:573:foil": 1
         }
       }
     },
@@ -206802,19 +207179,21 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 600,
+        "total_weight": 4000,
         "cards": {
-          "sld:611:foil": 95,
-          "sld:615:foil": 95,
-          "sld:652:foil": 95,
-          "sld:655:foil": 95,
-          "sld:664:foil": 95,
-          "sld:666:foil": 95,
-          "sld:691:foil": 6,
-          "sld:692:foil": 6,
-          "sld:693:foil": 6,
-          "sld:694:foil": 6,
-          "sld:695:foil": 6
+          "sld:611:foil": 465,
+          "sld:615:foil": 465,
+          "sld:627:foil": 465,
+          "sld:635:foil": 465,
+          "sld:652:foil": 465,
+          "sld:655:foil": 465,
+          "sld:664:foil": 465,
+          "sld:666:foil": 465,
+          "sld:691:foil": 56,
+          "sld:692:foil": 56,
+          "sld:693:foil": 56,
+          "sld:694:foil": 56,
+          "sld:695:foil": 56
         }
       }
     },
@@ -207061,6 +207440,38 @@
     ]
   },
   {
+    "name": "SLD Time Trouble Two Bonus",
+    "code": "sld-bonus-time-trouble-two",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:613:foil": 1,
+          "sld:656:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
     "name": "SLD Toby's Journey by Gary Baseman Bonus",
     "code": "sld-bonus-tobys-journey-by-gary-baseman",
     "languages": [
@@ -207149,18 +207560,22 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 1400,
+        "total_weight": 4000,
         "cards": {
-          "sld:611:foil": 186,
-          "sld:661:foil": 186,
-          "sld:662:foil": 186,
-          "sld:663:foil": 186,
-          "sld:664:foil": 186,
-          "sld:665:foil": 186,
-          "sld:667:foil": 186,
-          "sld:684:foil": 28,
-          "sld:691:foil": 35,
-          "sld:694:foil": 35
+          "sld:611:foil": 455,
+          "sld:636:foil": 455,
+          "sld:661:foil": 455,
+          "sld:662:foil": 455,
+          "sld:663:foil": 455,
+          "sld:664:foil": 455,
+          "sld:665:foil": 455,
+          "sld:667:foil": 455,
+          "sld:684:foil": 80,
+          "sld:691:foil": 56,
+          "sld:692:foil": 56,
+          "sld:693:foil": 56,
+          "sld:694:foil": 56,
+          "sld:695:foil": 56
         }
       }
     },
@@ -207416,6 +207831,38 @@
     ]
   },
   {
+    "name": "SLD Welcome to the Fungal Bonus",
+    "code": "sld-bonus-welcome-to-the-fungal",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:633:foil": 1,
+          "sld:635:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
     "name": "SLD Wild in Bloom Bonus",
     "code": "sld-bonus-wild-in-bloom",
     "languages": [
@@ -207477,6 +207924,38 @@
           "sld:7139:foil": 1,
           "sld:7145:foil": 1,
           "sld:7152:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "sld"
+    ]
+  },
+  {
+    "name": "SLD Wizards of the Street Bonus",
+    "code": "sld-bonus-wizards-of-the-street",
+    "languages": [
+      "en",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "sld",
+    "set_name": "Secret Lair Drop",
+    "boosters": [
+      {
+        "sheets": {
+          "bonus": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "bonus": {
+        "total_weight": 2,
+        "cards": {
+          "sld:627:foil": 1,
+          "sld:657:foil": 1
         }
       }
     },
