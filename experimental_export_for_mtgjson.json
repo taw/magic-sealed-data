@@ -201479,6 +201479,185 @@
         "SLD"
       ]
     },
+    "bonus-artist-series-johannes-voss": {
+      "name": "SLD Artist Series Johannes Voss Nonfoil Drop Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "971bf69a-c271-5d7e-b32c-6efcbf6de5a5": 455,
+            "a9460baa-5a40-5fa3-bdce-ac0f3be900b0": 10,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
+          },
+          "foil": true,
+          "totalWeight": 500
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-artist-series-johannes-voss-foil-drop": {
+      "name": "SLD Artist Series Johannes Voss Foil Drop Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "971bf69a-c271-5d7e-b32c-6efcbf6de5a5": 455,
+            "a9460baa-5a40-5fa3-bdce-ac0f3be900b0": 10,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
+          },
+          "foil": true,
+          "totalWeight": 500
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-artist-series-mark-poole": {
+      "name": "SLD Artist Series Mark Poole Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "81804f37-fb5c-5679-80fb-28fbc8820140": 465,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
+          },
+          "foil": true,
+          "totalWeight": 500
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-artist-series-thomas-baxa": {
+      "name": "SLD Artist Series Thomas Baxa Nonfoil Drop Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "632e35a3-81c9-5bed-aa6b-f1a77e5e1cff": 455,
+            "a9460baa-5a40-5fa3-bdce-ac0f3be900b0": 10,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
+          },
+          "foil": true,
+          "totalWeight": 500
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-artist-series-thomas-baxa-foil-drop": {
+      "name": "SLD Artist Series Thomas Baxa Foil Drop Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "632e35a3-81c9-5bed-aa6b-f1a77e5e1cff": 455,
+            "a9460baa-5a40-5fa3-bdce-ac0f3be900b0": 10,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
+          },
+          "foil": true,
+          "totalWeight": 500
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-avatar-the-last-airbender-a-lot-to-learn": {
       "name": "SLD Avatar The Last Airbender A Lot to Learn Bonus",
       "languages": [
@@ -201696,6 +201875,39 @@
           },
           "foil": true,
           "totalWeight": 7
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-black-is-magic": {
+      "name": "SLD Black is Magic Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "2584786d-7f06-5a9e-ae9a-9115302af3f1": 1,
+            "6d6e9894-af90-5731-84fb-3f79a8065414": 1,
+            "f9747b6a-4e4d-599c-a92c-995e9b1fefd5": 1,
+            "fc3bf4c5-da81-5b1f-9e1f-016fcfb8814f": 1
+          },
+          "foil": true,
+          "totalWeight": 4
         }
       },
       "sourceSetCodes": [
@@ -201959,6 +202171,389 @@
           },
           "foil": true,
           "totalWeight": 4
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-culture-shocks-bant": {
+      "name": "SLD Culture Shocks Bant Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "14b61553-65c4-5d37-9621-1d9f60039ecc": 155,
+            "1d0f782e-1a38-50d3-9bbd-61537f5d39d3": 155,
+            "2584786d-7f06-5a9e-ae9a-9115302af3f1": 155,
+            "38a3fb90-1e62-5aa0-ba67-d6e1571c6d06": 155,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 14,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 14,
+            "ab09b581-bb4d-5349-93fd-4fb701aad879": 155,
+            "bb75cecf-fd39-511d-8752-6b39fbb5fed9": 155,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 14,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 14,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 14
+          },
+          "foil": true,
+          "totalWeight": 1000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-culture-shocks-esper": {
+      "name": "SLD Culture Shocks Esper Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "1d0f782e-1a38-50d3-9bbd-61537f5d39d3": 93,
+            "2584786d-7f06-5a9e-ae9a-9115302af3f1": 93,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "c62fe142-8eb3-5409-a575-1cc38ca86de1": 93,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "f5f5e528-1470-5281-89ec-621de9d17896": 93,
+            "f9747b6a-4e4d-599c-a92c-995e9b1fefd5": 93,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
+          },
+          "foil": true,
+          "totalWeight": 500
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-culture-shocks-grixis": {
+      "name": "SLD Culture Shocks Grixis Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "1072c9aa-f4bd-53a5-bf91-70a8434693b7": 93,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "c62fe142-8eb3-5409-a575-1cc38ca86de1": 93,
+            "ce5bbfc6-7e82-58b5-a001-e5aa574f1528": 93,
+            "e414f7b7-9bdc-5c1b-8693-c134d3263101": 93,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "f9747b6a-4e4d-599c-a92c-995e9b1fefd5": 93,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
+          },
+          "foil": true,
+          "totalWeight": 500
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-culture-shocks-jund": {
+      "name": "SLD Culture Shocks Jund Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "1ceb0101-f995-5d4b-8738-9f948055c3dc": 465,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 28,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 28,
+            "6d6e9894-af90-5731-84fb-3f79a8065414": 465,
+            "9ac26cdc-1b5e-5bf0-b1f6-0e82564f5622": 465,
+            "e414f7b7-9bdc-5c1b-8693-c134d3263101": 465,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 28,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 28,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 28
+          },
+          "foil": true,
+          "totalWeight": 2000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-culture-shocks-naya": {
+      "name": "SLD Culture Shocks Naya Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "14b61553-65c4-5d37-9621-1d9f60039ecc": 93,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "6d6e9894-af90-5731-84fb-3f79a8065414": 93,
+            "9ac26cdc-1b5e-5bf0-b1f6-0e82564f5622": 93,
+            "bb75cecf-fd39-511d-8752-6b39fbb5fed9": 93,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "f3a2fe37-1c53-53d0-b4f6-ec6f0d52419b": 93,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
+          },
+          "foil": true,
+          "totalWeight": 500
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-dan-frazier-allied-signets": {
+      "name": "SLD Dan Frazier Allied Signets Nonfoil Edition Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 93,
+          "contents": {
+            "nonfoilSignet": 1
+          }
+        },
+        {
+          "weight": 7,
+          "contents": {
+            "foilBlueprint": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 100,
+      "sheets": {
+        "nonfoilSignet": {
+          "cards": {
+            "21046320-dffb-5487-a481-6ed322d0ac93": 1
+          },
+          "foil": false,
+          "totalWeight": 1
+        },
+        "foilBlueprint": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 1,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 1,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 1,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 1,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 1
+          },
+          "foil": true,
+          "totalWeight": 5
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-dan-frazier-allied-signets-etched": {
+      "name": "SLD Dan Frazier Allied Signets Etched Edition Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 93,
+          "contents": {
+            "etchedSignet": 1
+          }
+        },
+        {
+          "weight": 7,
+          "contents": {
+            "foilBlueprint": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 100,
+      "sheets": {
+        "etchedSignet": {
+          "cards": {
+            "21046320-dffb-5487-a481-6ed322d0ac93": 1
+          },
+          "foil": true,
+          "totalWeight": 1
+        },
+        "foilBlueprint": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 1,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 1,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 1,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 1,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 1
+          },
+          "foil": true,
+          "totalWeight": 5
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-dan-frazier-enemy-signets": {
+      "name": "SLD Dan Frazier Enemy Signets Nonfoil Edition Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 93,
+          "contents": {
+            "nonfoilSignet": 1
+          }
+        },
+        {
+          "weight": 7,
+          "contents": {
+            "foilBlueprint": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 100,
+      "sheets": {
+        "nonfoilSignet": {
+          "cards": {
+            "21046320-dffb-5487-a481-6ed322d0ac93": 1
+          },
+          "foil": false,
+          "totalWeight": 1
+        },
+        "foilBlueprint": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 1,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 1,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 1,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 1,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 1
+          },
+          "foil": true,
+          "totalWeight": 5
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-dan-frazier-enemy-signets-etched": {
+      "name": "SLD Dan Frazier Enemy Signets Etched Edition Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 93,
+          "contents": {
+            "etchedSignet": 1
+          }
+        },
+        {
+          "weight": 7,
+          "contents": {
+            "foilBlueprint": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 100,
+      "sheets": {
+        "etchedSignet": {
+          "cards": {
+            "21046320-dffb-5487-a481-6ed322d0ac93": 1
+          },
+          "foil": true,
+          "totalWeight": 1
+        },
+        "foilBlueprint": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 1,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 1,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 1,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 1,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 1
+          },
+          "foil": true,
+          "totalWeight": 5
         }
       },
       "sourceSetCodes": [
@@ -202290,6 +202885,38 @@
         "SLD"
       ]
     },
+    "bonus-faerie-faerie-faerie-rad": {
+      "name": "SLD Faerie Faerie Faerie Rad Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "1d0f782e-1a38-50d3-9bbd-61537f5d39d3": 1,
+            "709ff9c9-890f-5e52-a7c8-c05cbcd946f8": 1,
+            "fe2101a6-d415-51b3-b6a1-52fda7d4ded3": 1
+          },
+          "foil": true,
+          "totalWeight": 3
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-far-out-man": {
       "name": "SLD Far Out Man Bonus",
       "languages": [
@@ -202310,36 +202937,38 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "098401e9-632b-581c-8197-31bbdc6eb21f": 93,
-            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 93,
-            "2dfdd05b-d953-5792-b10d-73364635bafe": 93,
-            "446a6877-b893-51bc-86b7-e378ffea56ce": 20,
-            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 20,
-            "4b209caf-f91e-53f5-9d8f-f872606534ef": 93,
-            "52b46022-2925-5fd0-94db-1cc1ccdc7d14": 20,
-            "5f280509-aabb-5891-a0c6-d4f6528645b3": 93,
-            "636c69ab-6a4f-5703-8908-ce42c5823f53": 93,
-            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 93,
-            "997355f9-60e2-5418-9312-33d76d5aa23c": 93,
-            "ace78bd8-8b1d-5e82-affb-109874796cc0": 93,
-            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 93,
-            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 93,
-            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 93,
-            "d40dd836-c202-5743-b044-d8a94f2d6f72": 93,
-            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 93,
-            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 93,
-            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 93,
-            "efb5736b-93be-574e-b848-d57b58ea02f6": 20,
-            "f132bdee-5981-50c0-b36b-c170e7baa43a": 20,
-            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 93,
-            "f3001c69-54c8-5ed8-8549-1b8dd7847ed9": 20,
-            "f360db77-eb35-577a-aec9-eac9263155ad": 93,
-            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 93,
-            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 93,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 20
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 455,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 455,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 455,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 154,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 154,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 455,
+            "52b46022-2925-5fd0-94db-1cc1ccdc7d14": 110,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 455,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 455,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 455,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 455,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 455,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 455,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 455,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 455,
+            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 455,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 455,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 455,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 455,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 455,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 455,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 154,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 154,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 455,
+            "f3001c69-54c8-5ed8-8549-1b8dd7847ed9": 110,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 455,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 455,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 455,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 154
           },
           "foil": true,
-          "totalWeight": 2000
+          "totalWeight": 11000
         }
       },
       "sourceSetCodes": [
@@ -203237,6 +203866,37 @@
         "SLD"
       ]
     },
+    "bonus-heads-i-win-tails-you-lose": {
+      "name": "SLD Heads I Win Tails You Lose Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "08f8ffae-101b-568e-8377-d412605437a3": 1,
+            "57d63daf-91e4-5ce4-ac39-1467562a5c40": 1
+          },
+          "foil": true,
+          "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-if-looks-could-kill": {
       "name": "SLD If Looks Could Kill Bonus",
       "languages": [
@@ -203584,6 +204244,41 @@
           },
           "foil": true,
           "totalWeight": 7
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-kamigawa-ink": {
+      "name": "SLD Kamigawa Ink Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 465,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
+          },
+          "foil": true,
+          "totalWeight": 500
         }
       },
       "sourceSetCodes": [
@@ -204321,6 +205016,41 @@
         "SLD"
       ]
     },
+    "bonus-math-is-for-blockers": {
+      "name": "SLD Math Is For Blockers Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "bb935e2e-2860-50b1-8654-c6e5e1bd25b5": 465,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
+          },
+          "foil": true,
+          "totalWeight": 500
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-meditations-on-nature": {
       "name": "SLD Meditations on Nature Bonus",
       "languages": [
@@ -204373,33 +205103,34 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 19,
-            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 19,
-            "446a6877-b893-51bc-86b7-e378ffea56ce": 5,
-            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 5,
-            "4b209caf-f91e-53f5-9d8f-f872606534ef": 19,
-            "4c547692-5209-5c0b-bd4b-1534a248e64d": 19,
-            "51650413-c00b-5967-8492-b030dd124370": 19,
-            "5cb1a341-f791-584c-b53d-10dbd437554a": 19,
-            "5d95b204-f001-5c06-9059-5ac56188bd8c": 19,
-            "636c69ab-6a4f-5703-8908-ce42c5823f53": 19,
-            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 19,
-            "a8e59b37-79a0-510d-9540-6b595307acf3": 19,
-            "ac68899a-afdd-548d-b053-04c39856efe3": 19,
-            "ace78bd8-8b1d-5e82-affb-109874796cc0": 19,
-            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 19,
-            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 19,
-            "da62f480-a4a3-5050-9243-cea5ae234fc5": 19,
-            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 19,
-            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 19,
-            "efb5736b-93be-574e-b848-d57b58ea02f6": 5,
-            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 19,
-            "f360db77-eb35-577a-aec9-eac9263155ad": 19,
-            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 19,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 5
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 93,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 93,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 28,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 28,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 93,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 93,
+            "51650413-c00b-5967-8492-b030dd124370": 93,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 93,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 93,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 93,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 93,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 93,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 93,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 93,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 93,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 93,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 93,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 93,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 93,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 28,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 28,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 93,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 93,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 93,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 28
           },
           "foil": true,
-          "totalWeight": 400
+          "totalWeight": 2000
         }
       },
       "sourceSetCodes": [
@@ -204466,6 +205197,38 @@
           },
           "foil": true,
           "totalWeight": 150
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-mothers-day-2021": {
+      "name": "SLD Mothers Day 2021 Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 1,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 1,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 1
+          },
+          "foil": true,
+          "totalWeight": 3
         }
       },
       "sourceSetCodes": [
@@ -204705,6 +205468,41 @@
         "SLD"
       ]
     },
+    "bonus-our-show-is-on-friday-can-you-make-it": {
+      "name": "SLD Our Show Is On Friday Can You Make It Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "2b04625c-8f93-547d-81bd-673930c71e24": 465,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
+          },
+          "foil": true,
+          "totalWeight": 500
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-outlaw-anthology-vol-1-rebellious-renegades": {
       "name": "SLD Outlaw Anthology Vol 1 Rebellious Renegades Bonus",
       "languages": [
@@ -204835,6 +205633,42 @@
         "SLD"
       ]
     },
+    "bonus-phyrexian-praetors-compleat-edition": {
+      "name": "SLD Phyrexian Praetors Compleat Edition Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 464,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "a691ae77-149f-5aac-8b1d-b95d6f4935f6": 1,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
+          },
+          "foil": true,
+          "totalWeight": 500
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-pick-em-and-stick-em": {
       "name": "SLD Pick Em and Stick Em Bonus",
       "languages": [
@@ -204929,42 +205763,46 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "098401e9-632b-581c-8197-31bbdc6eb21f": 279,
-            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 279,
-            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 279,
-            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 279,
-            "2dfdd05b-d953-5792-b10d-73364635bafe": 279,
-            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 279,
-            "446a6877-b893-51bc-86b7-e378ffea56ce": 145,
-            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 145,
-            "4b209caf-f91e-53f5-9d8f-f872606534ef": 279,
-            "4c547692-5209-5c0b-bd4b-1534a248e64d": 279,
-            "51650413-c00b-5967-8492-b030dd124370": 279,
-            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 279,
-            "5cb1a341-f791-584c-b53d-10dbd437554a": 279,
-            "636c69ab-6a4f-5703-8908-ce42c5823f53": 279,
-            "6bdbc284-b15b-503e-a6ae-af63740bace3": 279,
-            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 279,
-            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 279,
-            "930530ee-d546-5b14-b7de-edeea8102f90": 279,
-            "a8e59b37-79a0-510d-9540-6b595307acf3": 279,
-            "ace78bd8-8b1d-5e82-affb-109874796cc0": 279,
-            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 279,
-            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 279,
-            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 279,
-            "d40dd836-c202-5743-b044-d8a94f2d6f72": 279,
-            "da62f480-a4a3-5050-9243-cea5ae234fc5": 279,
-            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 279,
-            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 279,
-            "edf14f47-98ea-562c-be74-4851411f98e6": 279,
-            "efb5736b-93be-574e-b848-d57b58ea02f6": 145,
-            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 279,
-            "f3001c69-54c8-5ed8-8549-1b8dd7847ed9": 174,
-            "f360db77-eb35-577a-aec9-eac9263155ad": 279,
-            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 279
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 455,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 455,
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 455,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 455,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 455,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 455,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 217,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 217,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 455,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 455,
+            "51650413-c00b-5967-8492-b030dd124370": 455,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 455,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 455,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 455,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 455,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 455,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 455,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 455,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 455,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 455,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 455,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 455,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 455,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 455,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 455,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 455,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 455,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 455,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 455,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 455,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 217,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 217,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 455,
+            "f3001c69-54c8-5ed8-8549-1b8dd7847ed9": 310,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 455,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 455,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 217
           },
           "foil": true,
-          "totalWeight": 8700
+          "totalWeight": 15500
         }
       },
       "sourceSetCodes": [
@@ -205159,12 +205997,16 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "636c69ab-6a4f-5703-8908-ce42c5823f53": 93,
-            "f132bdee-5981-50c0-b36b-c170e7baa43a": 5,
-            "f3001c69-54c8-5ed8-8549-1b8dd7847ed9": 2
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 455,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "f3001c69-54c8-5ed8-8549-1b8dd7847ed9": 10,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
           },
           "foil": true,
-          "totalWeight": 100
+          "totalWeight": 500
         }
       },
       "sourceSetCodes": [
@@ -205276,6 +206118,100 @@
         "SLD"
       ]
     },
+    "bonus-saturday-morning-dandd": {
+      "name": "SLD Saturday Morning DandD Nonfoil Drop Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 93,
+          "contents": {
+            "regular": 1
+          }
+        },
+        {
+          "weight": 7,
+          "contents": {
+            "blueprint": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 100,
+      "sheets": {
+        "regular": {
+          "cards": {
+            "4d176f23-67af-5282-b9a1-0a219b11f25c": 1
+          },
+          "foil": false,
+          "totalWeight": 1
+        },
+        "blueprint": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 1,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 1,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 1,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 1,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 1
+          },
+          "foil": true,
+          "totalWeight": 5
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-saturday-morning-dandd-foil-drop": {
+      "name": "SLD Saturday Morning DandD Foil Drop Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 93,
+          "contents": {
+            "regular": 1
+          }
+        },
+        {
+          "weight": 7,
+          "contents": {
+            "blueprint": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 100,
+      "sheets": {
+        "regular": {
+          "cards": {
+            "4d176f23-67af-5282-b9a1-0a219b11f25c": 1
+          },
+          "foil": true,
+          "totalWeight": 1
+        },
+        "blueprint": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 1,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 1,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 1,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 1,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 1
+          },
+          "foil": true,
+          "totalWeight": 5
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-secret-lair-high-class-of-87": {
       "name": "SLD Secret Lair High Class of 87 Bonus",
       "languages": [
@@ -205296,12 +206232,13 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "065f93df-a679-53ac-998f-547bef586be5": 1,
-            "4fe6ac35-681e-5415-abdb-0cb5d31de259": 1,
-            "72208175-9da2-5647-9fff-871a2f62bc51": 1
+            "065f93df-a679-53ac-998f-547bef586be5": 49,
+            "1e6cef96-0ad6-5f27-9384-ae64a23985ec": 3,
+            "4fe6ac35-681e-5415-abdb-0cb5d31de259": 49,
+            "72208175-9da2-5647-9fff-871a2f62bc51": 49
           },
           "foil": true,
-          "totalWeight": 3
+          "totalWeight": 150
         }
       },
       "sourceSetCodes": [
@@ -206728,6 +207665,68 @@
         "SLD"
       ]
     },
+    "bonus-showcase-kaldheim-part-1": {
+      "name": "SLD Showcase Kaldheim Part 1 Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "51650413-c00b-5967-8492-b030dd124370": 1,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 1
+          },
+          "foil": true,
+          "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-showcase-kaldheim-part-2": {
+      "name": "SLD Showcase Kaldheim Part 2 Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 1,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 1
+          },
+          "foil": true,
+          "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-showcase-march-of-the-machine-vol-1": {
       "name": "SLD Showcase March of the Machine Vol 1 Bonus",
       "languages": [
@@ -206844,37 +207843,38 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 372,
-            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 372,
-            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 372,
-            "2dfdd05b-d953-5792-b10d-73364635bafe": 372,
-            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 372,
-            "446a6877-b893-51bc-86b7-e378ffea56ce": 115,
-            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 115,
-            "59b0504c-5e91-55bb-ab44-ca5392ff5e08": 184,
-            "5cb1a341-f791-584c-b53d-10dbd437554a": 372,
-            "636c69ab-6a4f-5703-8908-ce42c5823f53": 372,
-            "6bdbc284-b15b-503e-a6ae-af63740bace3": 372,
-            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 372,
-            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 372,
-            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 372,
-            "997355f9-60e2-5418-9312-33d76d5aa23c": 372,
-            "a8e59b37-79a0-510d-9540-6b595307acf3": 372,
-            "ac68899a-afdd-548d-b053-04c39856efe3": 372,
-            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 372,
-            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 372,
-            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 372,
-            "da62f480-a4a3-5050-9243-cea5ae234fc5": 372,
-            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 372,
-            "edf14f47-98ea-562c-be74-4851411f98e6": 372,
-            "efb5736b-93be-574e-b848-d57b58ea02f6": 115,
-            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 372,
-            "f360db77-eb35-577a-aec9-eac9263155ad": 372,
-            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 372,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 115
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 455,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 455,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 455,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 455,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 455,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 161,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 161,
+            "59b0504c-5e91-55bb-ab44-ca5392ff5e08": 230,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 455,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 455,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 455,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 455,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 455,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 455,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 455,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 455,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 455,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 455,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 455,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 455,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 455,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 455,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 455,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 161,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 161,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 455,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 455,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 455,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 161
           },
           "foil": true,
-          "totalWeight": 9200
+          "totalWeight": 11500
         }
       },
       "sourceSetCodes": [
@@ -206901,33 +207901,34 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "098401e9-632b-581c-8197-31bbdc6eb21f": 372,
-            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 372,
-            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 372,
-            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 372,
-            "2dfdd05b-d953-5792-b10d-73364635bafe": 372,
-            "446a6877-b893-51bc-86b7-e378ffea56ce": 95,
-            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 95,
-            "4b209caf-f91e-53f5-9d8f-f872606534ef": 372,
-            "4c547692-5209-5c0b-bd4b-1534a248e64d": 372,
-            "59b0504c-5e91-55bb-ab44-ca5392ff5e08": 152,
-            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 372,
-            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 372,
-            "930530ee-d546-5b14-b7de-edeea8102f90": 372,
-            "997355f9-60e2-5418-9312-33d76d5aa23c": 372,
-            "a8e59b37-79a0-510d-9540-6b595307acf3": 372,
-            "ace78bd8-8b1d-5e82-affb-109874796cc0": 372,
-            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 372,
-            "d40dd836-c202-5743-b044-d8a94f2d6f72": 372,
-            "da62f480-a4a3-5050-9243-cea5ae234fc5": 372,
-            "edf14f47-98ea-562c-be74-4851411f98e6": 372,
-            "efb5736b-93be-574e-b848-d57b58ea02f6": 95,
-            "f360db77-eb35-577a-aec9-eac9263155ad": 372,
-            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 372,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 95
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 455,
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 455,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 455,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 455,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 455,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 133,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 133,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 455,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 455,
+            "59b0504c-5e91-55bb-ab44-ca5392ff5e08": 190,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 455,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 455,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 455,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 455,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 455,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 455,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 455,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 455,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 455,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 455,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 133,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 133,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 455,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 455,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 133
           },
           "foil": true,
-          "totalWeight": 7600
+          "totalWeight": 9500
         }
       },
       "sourceSetCodes": [
@@ -207068,18 +208069,20 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 95,
-            "446a6877-b893-51bc-86b7-e378ffea56ce": 4,
-            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 4,
-            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 95,
-            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 95,
-            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 95,
-            "efb5736b-93be-574e-b848-d57b58ea02f6": 4,
-            "f132bdee-5981-50c0-b36b-c170e7baa43a": 4,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 4
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 155,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 14,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 14,
+            "51650413-c00b-5967-8492-b030dd124370": 155,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 155,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 155,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 155,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 155,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 14,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 14,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 14
           },
           "foil": true,
-          "totalWeight": 400
+          "totalWeight": 1000
         }
       },
       "sourceSetCodes": [
@@ -207106,17 +208109,20 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "446a6877-b893-51bc-86b7-e378ffea56ce": 3,
-            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 3,
-            "51650413-c00b-5967-8492-b030dd124370": 95,
-            "5d95b204-f001-5c06-9059-5ac56188bd8c": 95,
-            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 95,
-            "efb5736b-93be-574e-b848-d57b58ea02f6": 3,
-            "f132bdee-5981-50c0-b36b-c170e7baa43a": 3,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 3
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 155,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 14,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 14,
+            "51650413-c00b-5967-8492-b030dd124370": 155,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 155,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 155,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 155,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 155,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 14,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 14,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 14
           },
           "foil": true,
-          "totalWeight": 300
+          "totalWeight": 1000
         }
       },
       "sourceSetCodes": [
@@ -207175,39 +208181,40 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "098401e9-632b-581c-8197-31bbdc6eb21f": 372,
-            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 372,
-            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 372,
-            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 372,
-            "446a6877-b893-51bc-86b7-e378ffea56ce": 125,
-            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 125,
-            "4b209caf-f91e-53f5-9d8f-f872606534ef": 372,
-            "4c547692-5209-5c0b-bd4b-1534a248e64d": 372,
-            "51650413-c00b-5967-8492-b030dd124370": 372,
-            "59b0504c-5e91-55bb-ab44-ca5392ff5e08": 200,
-            "5cb1a341-f791-584c-b53d-10dbd437554a": 372,
-            "5d95b204-f001-5c06-9059-5ac56188bd8c": 372,
-            "5f280509-aabb-5891-a0c6-d4f6528645b3": 372,
-            "636c69ab-6a4f-5703-8908-ce42c5823f53": 372,
-            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 372,
-            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 372,
-            "997355f9-60e2-5418-9312-33d76d5aa23c": 372,
-            "a8e59b37-79a0-510d-9540-6b595307acf3": 372,
-            "ace78bd8-8b1d-5e82-affb-109874796cc0": 372,
-            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 372,
-            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 372,
-            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 372,
-            "da62f480-a4a3-5050-9243-cea5ae234fc5": 372,
-            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 372,
-            "edf14f47-98ea-562c-be74-4851411f98e6": 372,
-            "f132bdee-5981-50c0-b36b-c170e7baa43a": 125,
-            "f360db77-eb35-577a-aec9-eac9263155ad": 372,
-            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 372,
-            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 372,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 125
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 91,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 91,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 91,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 91,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 35,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 35,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 91,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 91,
+            "51650413-c00b-5967-8492-b030dd124370": 91,
+            "59b0504c-5e91-55bb-ab44-ca5392ff5e08": 50,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 91,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 91,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 91,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 91,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 91,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 91,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 91,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 91,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 91,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 91,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 91,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 91,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 91,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 91,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 91,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 35,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 35,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 91,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 91,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 91,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 35
           },
           "foil": true,
-          "totalWeight": 10000
+          "totalWeight": 2500
         }
       },
       "sourceSetCodes": [
@@ -207315,6 +208322,37 @@
         "SLD"
       ]
     },
+    "bonus-special-guest-fiona-staples": {
+      "name": "SLD Special Guest Fiona Staples Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "1f40664a-37ae-5f9c-8592-1da87f0bf272": 1,
+            "413a5fec-a916-56da-85cf-dcb7769a1ac6": 1
+          },
+          "foil": true,
+          "totalWeight": 2
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-special-guest-jen-bartel": {
       "name": "SLD Special Guest Jen Bartel Bonus",
       "languages": [
@@ -207335,13 +208373,17 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "4c547692-5209-5c0b-bd4b-1534a248e64d": 19,
-            "ac68899a-afdd-548d-b053-04c39856efe3": 19,
-            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 19,
-            "efb5736b-93be-574e-b848-d57b58ea02f6": 3
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 155,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 155,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 155,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
           },
           "foil": true,
-          "totalWeight": 60
+          "totalWeight": 500
         }
       },
       "sourceSetCodes": [
@@ -207895,12 +208937,16 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "a9460baa-5a40-5fa3-bdce-ac0f3be900b0": 2,
-            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 93,
-            "f132bdee-5981-50c0-b36b-c170e7baa43a": 5
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "a9460baa-5a40-5fa3-bdce-ac0f3be900b0": 10,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 455,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
           },
           "foil": true,
-          "totalWeight": 100
+          "totalWeight": 500
         }
       },
       "sourceSetCodes": [
@@ -208022,24 +209068,37 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 279,
-            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 279,
-            "446a6877-b893-51bc-86b7-e378ffea56ce": 55,
-            "4b209caf-f91e-53f5-9d8f-f872606534ef": 279,
-            "51650413-c00b-5967-8492-b030dd124370": 279,
-            "5d95b204-f001-5c06-9059-5ac56188bd8c": 279,
-            "636c69ab-6a4f-5703-8908-ce42c5823f53": 279,
-            "ace78bd8-8b1d-5e82-affb-109874796cc0": 279,
-            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 279,
-            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 279,
-            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 279,
-            "efb5736b-93be-574e-b848-d57b58ea02f6": 55,
-            "f3001c69-54c8-5ed8-8549-1b8dd7847ed9": 66,
-            "f360db77-eb35-577a-aec9-eac9263155ad": 279,
-            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 55
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 455,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 455,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 154,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 154,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 455,
+            "51650413-c00b-5967-8492-b030dd124370": 455,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 455,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 455,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 455,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 455,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 455,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 455,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 455,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 455,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 455,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 455,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 455,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 455,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 455,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 455,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 455,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 455,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 154,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 154,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 455,
+            "f3001c69-54c8-5ed8-8549-1b8dd7847ed9": 220,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 455,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 154
           },
           "foil": true,
-          "totalWeight": 3300
+          "totalWeight": 11000
         }
       },
       "sourceSetCodes": [
@@ -208109,6 +209168,41 @@
           },
           "foil": true,
           "totalWeight": 5
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-the-full-text-lands": {
+      "name": "SLD The Full Text Lands Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 7,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 7,
+            "891264cf-3526-5384-b43e-d0065e05daaf": 465,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 7,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 7,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 7
+          },
+          "foil": true,
+          "totalWeight": 500
         }
       },
       "sourceSetCodes": [
@@ -208322,6 +209416,38 @@
           },
           "foil": true,
           "totalWeight": 15
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-the-unfathomable-crushing-brutality-of-basic-lands": {
+      "name": "SLD The Unfathomable Crushing Brutality of Basic Lands Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 1,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 1,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 1
+          },
+          "foil": true,
+          "totalWeight": 3
         }
       },
       "sourceSetCodes": [
@@ -208968,14 +210094,18 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 279,
-            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 5,
-            "efb5736b-93be-574e-b848-d57b58ea02f6": 5,
-            "f132bdee-5981-50c0-b36b-c170e7baa43a": 5,
-            "f3001c69-54c8-5ed8-8549-1b8dd7847ed9": 6
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 455,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 455,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 455,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 21,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 21,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 21,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 21,
+            "f3001c69-54c8-5ed8-8549-1b8dd7847ed9": 30,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 21
           },
           "foil": true,
-          "totalWeight": 300
+          "totalWeight": 1500
         }
       },
       "sourceSetCodes": [
