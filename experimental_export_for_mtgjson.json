@@ -201658,6 +201658,899 @@
         "SLD"
       ]
     },
+    "bonus-astrology-aquarius": {
+      "name": "SLD The Astrology Lands Aquarius Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 93,
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 93,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 93,
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 93,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 93,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 93,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 93,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 56,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 56,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 93,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 93,
+            "51650413-c00b-5967-8492-b030dd124370": 93,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 93,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 93,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 93,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 93,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 93,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 93,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 93,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 93,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 93,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 93,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 93,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 93,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 93,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 93,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 93,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 93,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 93,
+            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 93,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 93,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 93,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 93,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 93,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 93,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 93,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 93,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 93,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 56,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 56,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 93,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 93,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 93,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 93,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 56
+          },
+          "foil": true,
+          "totalWeight": 4000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-astrology-aries": {
+      "name": "SLD The Astrology Lands Aries Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 93,
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 93,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 93,
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 93,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 93,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 93,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 93,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 56,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 56,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 93,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 93,
+            "51650413-c00b-5967-8492-b030dd124370": 93,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 93,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 93,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 93,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 93,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 93,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 93,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 93,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 93,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 93,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 93,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 93,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 93,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 93,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 93,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 93,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 93,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 93,
+            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 93,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 93,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 93,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 93,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 93,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 93,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 93,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 93,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 93,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 56,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 56,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 93,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 93,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 93,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 93,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 56
+          },
+          "foil": true,
+          "totalWeight": 4000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-astrology-cancer": {
+      "name": "SLD The Astrology Lands Cancer Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 93,
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 93,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 93,
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 93,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 93,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 93,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 93,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 56,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 56,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 93,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 93,
+            "51650413-c00b-5967-8492-b030dd124370": 93,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 93,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 93,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 93,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 93,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 93,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 93,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 93,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 93,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 93,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 93,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 93,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 93,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 93,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 93,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 93,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 93,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 93,
+            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 93,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 93,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 93,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 93,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 93,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 93,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 93,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 93,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 93,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 56,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 56,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 93,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 93,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 93,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 93,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 56
+          },
+          "foil": true,
+          "totalWeight": 4000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-astrology-capricorn": {
+      "name": "SLD The Astrology Lands Capricorn Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 91,
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 91,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 91,
+            "14e0447f-ef62-5553-b0d6-a3b4bc71a3e2": 40,
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 91,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 91,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 91,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 91,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 56,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 56,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 91,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 91,
+            "51650413-c00b-5967-8492-b030dd124370": 91,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 91,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 91,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 91,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 91,
+            "61f37adc-e59e-5100-914f-eb1f4352205e": 40,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 91,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 91,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 91,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 91,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 91,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 91,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 91,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 91,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 91,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 91,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 91,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 91,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 91,
+            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 91,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 91,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 91,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 91,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 91,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 91,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 91,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 91,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 91,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 56,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 56,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 91,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 91,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 91,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 91,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 56
+          },
+          "foil": true,
+          "totalWeight": 4000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-astrology-gemini": {
+      "name": "SLD The Astrology Lands Gemini Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 93,
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 93,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 93,
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 93,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 93,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 93,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 93,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 56,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 56,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 93,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 93,
+            "51650413-c00b-5967-8492-b030dd124370": 93,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 93,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 93,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 93,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 93,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 93,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 93,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 93,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 93,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 93,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 93,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 93,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 93,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 93,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 93,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 93,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 93,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 93,
+            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 93,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 93,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 93,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 93,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 93,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 93,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 93,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 93,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 93,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 56,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 56,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 93,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 93,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 93,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 93,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 56
+          },
+          "foil": true,
+          "totalWeight": 4000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-astrology-leo": {
+      "name": "SLD The Astrology Lands Leo Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 93,
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 93,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 93,
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 93,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 93,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 93,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 93,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 56,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 56,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 93,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 93,
+            "51650413-c00b-5967-8492-b030dd124370": 93,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 93,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 93,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 93,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 93,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 93,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 93,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 93,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 93,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 93,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 93,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 93,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 93,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 93,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 93,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 93,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 93,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 93,
+            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 93,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 93,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 93,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 93,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 93,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 93,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 93,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 93,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 93,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 56,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 56,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 93,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 93,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 93,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 93,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 56
+          },
+          "foil": true,
+          "totalWeight": 4000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-astrology-libra": {
+      "name": "SLD The Astrology Lands Libra Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 91,
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 91,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 91,
+            "14e0447f-ef62-5553-b0d6-a3b4bc71a3e2": 40,
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 91,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 91,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 91,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 91,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 56,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 56,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 91,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 91,
+            "51650413-c00b-5967-8492-b030dd124370": 91,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 91,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 91,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 91,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 91,
+            "61f37adc-e59e-5100-914f-eb1f4352205e": 40,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 91,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 91,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 91,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 91,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 91,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 91,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 91,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 91,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 91,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 91,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 91,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 91,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 91,
+            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 91,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 91,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 91,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 91,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 91,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 91,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 91,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 91,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 91,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 56,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 56,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 91,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 91,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 91,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 91,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 56
+          },
+          "foil": true,
+          "totalWeight": 4000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-astrology-pisces": {
+      "name": "SLD The Astrology Lands Pisces Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 91,
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 91,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 91,
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 91,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 91,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 91,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 91,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 56,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 56,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 91,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 91,
+            "51650413-c00b-5967-8492-b030dd124370": 91,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 91,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 91,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 91,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 91,
+            "61f37adc-e59e-5100-914f-eb1f4352205e": 80,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 91,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 91,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 91,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 91,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 91,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 91,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 91,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 91,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 91,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 91,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 91,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 91,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 91,
+            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 91,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 91,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 91,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 91,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 91,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 91,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 91,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 91,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 91,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 56,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 56,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 91,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 91,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 91,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 91,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 56
+          },
+          "foil": true,
+          "totalWeight": 4000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-astrology-sagittarius": {
+      "name": "SLD The Astrology Lands Sagittarius Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 93,
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 93,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 93,
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 93,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 93,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 93,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 93,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 56,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 56,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 93,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 93,
+            "51650413-c00b-5967-8492-b030dd124370": 93,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 93,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 93,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 93,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 93,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 93,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 93,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 93,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 93,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 93,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 93,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 93,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 93,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 93,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 93,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 93,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 93,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 93,
+            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 93,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 93,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 93,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 93,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 93,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 93,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 93,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 93,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 93,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 56,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 56,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 93,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 93,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 93,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 93,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 56
+          },
+          "foil": true,
+          "totalWeight": 4000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-astrology-scorpio": {
+      "name": "SLD The Astrology Lands Scorpio Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 93,
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 93,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 93,
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 93,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 93,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 93,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 93,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 56,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 56,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 93,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 93,
+            "51650413-c00b-5967-8492-b030dd124370": 93,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 93,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 93,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 93,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 93,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 93,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 93,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 93,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 93,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 93,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 93,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 93,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 93,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 93,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 93,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 93,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 93,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 93,
+            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 93,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 93,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 93,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 93,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 93,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 93,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 93,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 93,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 93,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 56,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 56,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 93,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 93,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 93,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 93,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 56
+          },
+          "foil": true,
+          "totalWeight": 4000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-astrology-taurus": {
+      "name": "SLD The Astrology Lands Taurus Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 93,
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 93,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 93,
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 93,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 93,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 93,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 93,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 56,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 56,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 93,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 93,
+            "51650413-c00b-5967-8492-b030dd124370": 93,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 93,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 93,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 93,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 93,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 93,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 93,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 93,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 93,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 93,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 93,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 93,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 93,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 93,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 93,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 93,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 93,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 93,
+            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 93,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 93,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 93,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 93,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 93,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 93,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 93,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 93,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 93,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 56,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 56,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 93,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 93,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 93,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 93,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 56
+          },
+          "foil": true,
+          "totalWeight": 4000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
+    "bonus-astrology-virgo": {
+      "name": "SLD The Astrology Lands Virgo Bonus",
+      "languages": [
+        "en",
+        "it",
+        "jp",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "bonus": 1
+          }
+        }
+      ],
+      "boostersTotalWeight": 1,
+      "sheets": {
+        "bonus": {
+          "cards": {
+            "098401e9-632b-581c-8197-31bbdc6eb21f": 93,
+            "0c2b38c5-f60e-5eb5-96ae-316407a40a1f": 93,
+            "0e46181c-d563-5f77-b3e2-d3558ac7573e": 93,
+            "1e48e4be-022d-5284-8ede-9c6da9ba0224": 93,
+            "23f890d0-6800-5e0e-9cde-eb4c1103f01e": 93,
+            "2dfdd05b-d953-5792-b10d-73364635bafe": 93,
+            "3cf3ef03-f0e2-5014-b215-7f8514f97cb3": 93,
+            "446a6877-b893-51bc-86b7-e378ffea56ce": 56,
+            "4719ecce-a6a2-56e5-a4cc-6a98b60fd1b4": 56,
+            "4b209caf-f91e-53f5-9d8f-f872606534ef": 93,
+            "4c547692-5209-5c0b-bd4b-1534a248e64d": 93,
+            "51650413-c00b-5967-8492-b030dd124370": 93,
+            "5b4b42a4-f4dd-5640-a23c-2dc3a59a3b25": 93,
+            "5cb1a341-f791-584c-b53d-10dbd437554a": 93,
+            "5d95b204-f001-5c06-9059-5ac56188bd8c": 93,
+            "5f280509-aabb-5891-a0c6-d4f6528645b3": 93,
+            "636c69ab-6a4f-5703-8908-ce42c5823f53": 93,
+            "6bdbc284-b15b-503e-a6ae-af63740bace3": 93,
+            "6d7456db-b6a0-5e2f-96db-0452224da8d0": 93,
+            "7587099e-0e27-592e-b5c1-6d94ec0275b4": 93,
+            "8eadb3f9-97d5-5dae-9e81-184bad08e6cf": 93,
+            "930530ee-d546-5b14-b7de-edeea8102f90": 93,
+            "997355f9-60e2-5418-9312-33d76d5aa23c": 93,
+            "a8e59b37-79a0-510d-9540-6b595307acf3": 93,
+            "ac68899a-afdd-548d-b053-04c39856efe3": 93,
+            "ace78bd8-8b1d-5e82-affb-109874796cc0": 93,
+            "b8cae71f-699c-5c9c-ab64-76ce9dc94930": 93,
+            "b8cbc454-7fb8-5560-b53a-7e0c58e2fced": 93,
+            "c536a9f4-bdc0-5bf1-828e-7cfd8e2c93af": 93,
+            "c7ed00f8-7186-51af-9cd7-bba7a3453da9": 93,
+            "c9be36b7-cc99-5d5a-ace9-bfface591e2e": 93,
+            "d40dd836-c202-5743-b044-d8a94f2d6f72": 93,
+            "d755a7ea-d9ad-520e-bfb5-4293ffeb6a58": 93,
+            "da62f480-a4a3-5050-9243-cea5ae234fc5": 93,
+            "e1a10fcb-a6e6-5fad-b877-528244b141d8": 93,
+            "e38ec94c-070a-5590-94e4-86d62dbd64d1": 93,
+            "eb9295cc-ca63-5551-90f3-1660f14b14ec": 93,
+            "edf14f47-98ea-562c-be74-4851411f98e6": 93,
+            "efb5736b-93be-574e-b848-d57b58ea02f6": 56,
+            "f132bdee-5981-50c0-b36b-c170e7baa43a": 56,
+            "f2bace3e-1288-5d5e-9ea2-a0a432702826": 93,
+            "f360db77-eb35-577a-aec9-eac9263155ad": 93,
+            "f36c5de3-7e73-5d11-88a6-63b3b2ff7271": 93,
+            "fc3601c3-aa97-5d3e-8ba3-4e0878194c6d": 93,
+            "fe012952-70fd-5dcb-9a56-112b7b1eae66": 56
+          },
+          "foil": true,
+          "totalWeight": 4000
+        }
+      },
+      "sourceSetCodes": [
+        "SLD"
+      ]
+    },
     "bonus-avatar-the-last-airbender-a-lot-to-learn": {
       "name": "SLD Avatar The Last Airbender A Lot to Learn Bonus",
       "languages": [
@@ -202000,12 +202893,13 @@
       "sheets": {
         "bonus": {
           "cards": {
-            "2dcfdcb9-299f-5c4e-bcd1-f3a4a189e8e7": 1,
-            "63ae1f43-f0ef-51a9-a1e7-2c5a9900ce29": 1,
-            "807651a3-cbe8-5b19-b8a3-c4ed22abcedd": 1
+            "2dcfdcb9-299f-5c4e-bcd1-f3a4a189e8e7": 49,
+            "63ae1f43-f0ef-51a9-a1e7-2c5a9900ce29": 49,
+            "6d44837d-3c16-5b98-809f-c792adbfc92b": 3,
+            "807651a3-cbe8-5b19-b8a3-c4ed22abcedd": 49
           },
           "foil": true,
-          "totalWeight": 3
+          "totalWeight": 150
         }
       },
       "sourceSetCodes": [
