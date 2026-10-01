@@ -2714,7 +2714,12 @@
     "collector": {
       "name": "Reality Fracture Collector Booster",
       "languages": [
-        "en"
+        "de",
+        "en",
+        "fr",
+        "it",
+        "jp",
+        "sp"
       ],
       "boosters": [
         {
@@ -6739,7 +6744,12 @@
     "play": {
       "name": "Reality Fracture Play Booster",
       "languages": [
-        "en"
+        "de",
+        "en",
+        "fr",
+        "it",
+        "jp",
+        "sp"
       ],
       "boosters": [
         {
