@@ -245700,7 +245700,8 @@
     "boosters": [
       {
         "sheets": {
-          "prerelease_promo": 1
+          "prerelease_promo": 1,
+          "prerelease_legendary": 1
         },
         "weight": 1
       }
@@ -245777,6 +245778,59 @@
           "pdom:95s:foil": 2,
           "pdom:96s:foil": 2,
           "pdom:98s:foil": 2
+        }
+      },
+      "prerelease_legendary": {
+        "total_weight": 48,
+        "cards": {
+          "pdom:108s:foil": 1,
+          "pdom:109s:foil": 1,
+          "pdom:111s:foil": 1,
+          "pdom:113s:foil": 1,
+          "pdom:12s:foil": 1,
+          "pdom:146p:foil": 1,
+          "pdom:146s:foil": 1,
+          "pdom:148s:foil": 1,
+          "pdom:149s:foil": 1,
+          "pdom:165s:foil": 1,
+          "pdom:16s:foil": 1,
+          "pdom:172p:foil": 1,
+          "pdom:172s:foil": 1,
+          "pdom:174s:foil": 1,
+          "pdom:190s:foil": 1,
+          "pdom:191s:foil": 1,
+          "pdom:192s:foil": 1,
+          "pdom:193s:foil": 1,
+          "pdom:194s:foil": 1,
+          "pdom:195s:foil": 1,
+          "pdom:196s:foil": 1,
+          "pdom:197s:foil": 1,
+          "pdom:198s:foil": 1,
+          "pdom:199s:foil": 1,
+          "pdom:202s:foil": 1,
+          "pdom:203s:foil": 1,
+          "pdom:204:foil": 1,
+          "pdom:204s:foil": 1,
+          "pdom:205s:foil": 1,
+          "pdom:206s:foil": 1,
+          "pdom:208s:foil": 1,
+          "pdom:234s:foil": 1,
+          "pdom:25s:foil": 1,
+          "pdom:26p:foil": 1,
+          "pdom:26s:foil": 1,
+          "pdom:35p:foil": 1,
+          "pdom:35s:foil": 1,
+          "pdom:36s:foil": 1,
+          "pdom:4s:foil": 1,
+          "pdom:58s:foil": 1,
+          "pdom:59s:foil": 1,
+          "pdom:66s:foil": 1,
+          "pdom:69s:foil": 1,
+          "pdom:76:foil": 1,
+          "pdom:76s:foil": 1,
+          "pdom:86s:foil": 1,
+          "pdom:95s:foil": 1,
+          "pdom:96s:foil": 1
         }
       }
     },
