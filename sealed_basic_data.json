@@ -229914,7 +229914,8 @@
         "sheets": {
           "foil_common": 7,
           "foil_uncommon": 2,
-          "any_showcase": 3,
+          "showcase_rare_mythic": 2,
+          "showcase_common": 1,
           "ancillary": 1,
           "rm_extended": 1,
           "foil_rare_mythic": 1
@@ -229923,9 +229924,70 @@
       },
       {
         "sheets": {
+          "foil_common": 7,
+          "foil_uncommon": 2,
+          "showcase_rare_mythic": 1,
+          "showcase_uncommon": 1,
+          "showcase_common": 1,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 70
+      },
+      {
+        "sheets": {
+          "foil_common": 7,
+          "foil_uncommon": 2,
+          "showcase_rare_mythic": 1,
+          "showcase_common": 2,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 210
+      },
+      {
+        "sheets": {
+          "foil_common": 7,
+          "foil_uncommon": 2,
+          "showcase_uncommon": 2,
+          "showcase_common": 1,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 280
+      },
+      {
+        "sheets": {
+          "foil_common": 7,
+          "foil_uncommon": 2,
+          "showcase_uncommon": 1,
+          "showcase_common": 2,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 280
+      },
+      {
+        "sheets": {
+          "foil_common": 7,
+          "foil_uncommon": 2,
+          "showcase_common": 3,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 490
+      },
+      {
+        "sheets": {
           "foil_common": 6,
           "foil_uncommon": 3,
-          "any_showcase": 3,
+          "showcase_rare_mythic": 2,
+          "showcase_common": 1,
           "ancillary": 1,
           "rm_extended": 1,
           "foil_rare_mythic": 1
@@ -229934,9 +229996,70 @@
       },
       {
         "sheets": {
+          "foil_common": 6,
+          "foil_uncommon": 3,
+          "showcase_rare_mythic": 1,
+          "showcase_uncommon": 1,
+          "showcase_common": 1,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 80
+      },
+      {
+        "sheets": {
+          "foil_common": 6,
+          "foil_uncommon": 3,
+          "showcase_rare_mythic": 1,
+          "showcase_common": 2,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 240
+      },
+      {
+        "sheets": {
+          "foil_common": 6,
+          "foil_uncommon": 3,
+          "showcase_uncommon": 2,
+          "showcase_common": 1,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 320
+      },
+      {
+        "sheets": {
+          "foil_common": 6,
+          "foil_uncommon": 3,
+          "showcase_uncommon": 1,
+          "showcase_common": 2,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 320
+      },
+      {
+        "sheets": {
+          "foil_common": 6,
+          "foil_uncommon": 3,
+          "showcase_common": 3,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 560
+      },
+      {
+        "sheets": {
           "foil_common": 5,
           "foil_uncommon": 4,
-          "any_showcase": 3,
+          "showcase_rare_mythic": 2,
+          "showcase_common": 1,
           "ancillary": 1,
           "rm_extended": 1,
           "foil_rare_mythic": 1
@@ -229945,9 +230068,70 @@
       },
       {
         "sheets": {
+          "foil_common": 5,
+          "foil_uncommon": 4,
+          "showcase_rare_mythic": 1,
+          "showcase_uncommon": 1,
+          "showcase_common": 1,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 25
+      },
+      {
+        "sheets": {
+          "foil_common": 5,
+          "foil_uncommon": 4,
+          "showcase_rare_mythic": 1,
+          "showcase_common": 2,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 75
+      },
+      {
+        "sheets": {
+          "foil_common": 5,
+          "foil_uncommon": 4,
+          "showcase_uncommon": 2,
+          "showcase_common": 1,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 100
+      },
+      {
+        "sheets": {
+          "foil_common": 5,
+          "foil_uncommon": 4,
+          "showcase_uncommon": 1,
+          "showcase_common": 2,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 100
+      },
+      {
+        "sheets": {
+          "foil_common": 5,
+          "foil_uncommon": 4,
+          "showcase_common": 3,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 175
+      },
+      {
+        "sheets": {
           "foil_common": 4,
           "foil_uncommon": 5,
-          "any_showcase": 3,
+          "showcase_rare_mythic": 2,
+          "showcase_common": 1,
           "ancillary": 1,
           "rm_extended": 1,
           "foil_rare_mythic": 1
@@ -229956,9 +230140,70 @@
       },
       {
         "sheets": {
+          "foil_common": 4,
+          "foil_uncommon": 5,
+          "showcase_rare_mythic": 1,
+          "showcase_uncommon": 1,
+          "showcase_common": 1,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 14
+      },
+      {
+        "sheets": {
+          "foil_common": 4,
+          "foil_uncommon": 5,
+          "showcase_rare_mythic": 1,
+          "showcase_common": 2,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 42
+      },
+      {
+        "sheets": {
+          "foil_common": 4,
+          "foil_uncommon": 5,
+          "showcase_uncommon": 2,
+          "showcase_common": 1,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 56
+      },
+      {
+        "sheets": {
+          "foil_common": 4,
+          "foil_uncommon": 5,
+          "showcase_uncommon": 1,
+          "showcase_common": 2,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 56
+      },
+      {
+        "sheets": {
+          "foil_common": 4,
+          "foil_uncommon": 5,
+          "showcase_common": 3,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 98
+      },
+      {
+        "sheets": {
           "foil_common": 3,
           "foil_uncommon": 6,
-          "any_showcase": 3,
+          "showcase_rare_mythic": 2,
+          "showcase_common": 1,
           "ancillary": 1,
           "rm_extended": 1,
           "foil_rare_mythic": 1
@@ -229967,82 +230212,203 @@
       },
       {
         "sheets": {
+          "foil_common": 3,
+          "foil_uncommon": 6,
+          "showcase_rare_mythic": 1,
+          "showcase_uncommon": 1,
+          "showcase_common": 1,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 7
+      },
+      {
+        "sheets": {
+          "foil_common": 3,
+          "foil_uncommon": 6,
+          "showcase_rare_mythic": 1,
+          "showcase_common": 2,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 21
+      },
+      {
+        "sheets": {
+          "foil_common": 3,
+          "foil_uncommon": 6,
+          "showcase_uncommon": 2,
+          "showcase_common": 1,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 28
+      },
+      {
+        "sheets": {
+          "foil_common": 3,
+          "foil_uncommon": 6,
+          "showcase_uncommon": 1,
+          "showcase_common": 2,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 28
+      },
+      {
+        "sheets": {
+          "foil_common": 3,
+          "foil_uncommon": 6,
+          "showcase_common": 3,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 49
+      },
+      {
+        "sheets": {
           "foil_common": 2,
           "foil_uncommon": 7,
-          "any_showcase": 3,
+          "showcase_rare_mythic": 2,
+          "showcase_common": 1,
           "ancillary": 1,
           "rm_extended": 1,
           "foil_rare_mythic": 1
         },
         "weight": 4
+      },
+      {
+        "sheets": {
+          "foil_common": 2,
+          "foil_uncommon": 7,
+          "showcase_rare_mythic": 1,
+          "showcase_uncommon": 1,
+          "showcase_common": 1,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 4
+      },
+      {
+        "sheets": {
+          "foil_common": 2,
+          "foil_uncommon": 7,
+          "showcase_rare_mythic": 1,
+          "showcase_common": 2,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 12
+      },
+      {
+        "sheets": {
+          "foil_common": 2,
+          "foil_uncommon": 7,
+          "showcase_uncommon": 2,
+          "showcase_common": 1,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 16
+      },
+      {
+        "sheets": {
+          "foil_common": 2,
+          "foil_uncommon": 7,
+          "showcase_uncommon": 1,
+          "showcase_common": 2,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 16
+      },
+      {
+        "sheets": {
+          "foil_common": 2,
+          "foil_uncommon": 7,
+          "showcase_common": 3,
+          "ancillary": 1,
+          "rm_extended": 1,
+          "foil_rare_mythic": 1
+        },
+        "weight": 28
       }
     ],
     "sheets": {
       "foil_common": {
-        "total_weight": 303,
+        "total_weight": 115,
         "cards": {
-          "eld:102a:foil": 2,
-          "eld:103:foil": 3,
-          "eld:105a:foil": 2,
-          "eld:108:foil": 3,
-          "eld:109:foil": 3,
-          "eld:112:foil": 3,
-          "eld:113:foil": 3,
-          "eld:114:foil": 3,
-          "eld:116:foil": 3,
-          "eld:119:foil": 3,
-          "eld:11a:foil": 2,
-          "eld:121:foil": 3,
-          "eld:126:foil": 3,
-          "eld:12:foil": 3,
-          "eld:131a:foil": 2,
-          "eld:132:foil": 3,
-          "eld:134:foil": 3,
-          "eld:136:foil": 3,
-          "eld:137a:foil": 2,
-          "eld:139:foil": 3,
-          "eld:13:foil": 3,
-          "eld:140:foil": 3,
-          "eld:141:foil": 3,
-          "eld:146:foil": 3,
-          "eld:148:foil": 3,
-          "eld:150a:foil": 2,
-          "eld:153:foil": 3,
-          "eld:154:foil": 3,
-          "eld:156a:foil": 2,
-          "eld:157:foil": 3,
-          "eld:158:foil": 3,
-          "eld:162:foil": 3,
-          "eld:166:foil": 3,
-          "eld:170:foil": 3,
-          "eld:173:foil": 3,
-          "eld:174a:foil": 2,
-          "eld:175:foil": 3,
-          "eld:176:foil": 3,
-          "eld:178:foil": 3,
-          "eld:180a:foil": 2,
-          "eld:183:foil": 3,
-          "eld:184:foil": 3,
-          "eld:19:foil": 3,
-          "eld:217:foil": 3,
-          "eld:219:foil": 3,
-          "eld:21a:foil": 2,
-          "eld:220:foil": 3,
-          "eld:221:foil": 3,
-          "eld:224:foil": 3,
-          "eld:225:foil": 3,
-          "eld:227:foil": 3,
-          "eld:228:foil": 3,
-          "eld:229:foil": 3,
-          "eld:231:foil": 3,
-          "eld:236:foil": 3,
-          "eld:23:foil": 3,
-          "eld:243:foil": 3,
-          "eld:245:foil": 3,
-          "eld:246:foil": 3,
-          "eld:247:foil": 3,
-          "eld:249:foil": 3,
-          "eld:24:foil": 3,
+          "eld:102a:foil": 1,
+          "eld:103:foil": 1,
+          "eld:105a:foil": 1,
+          "eld:108:foil": 1,
+          "eld:109:foil": 1,
+          "eld:112:foil": 1,
+          "eld:113:foil": 1,
+          "eld:114:foil": 1,
+          "eld:116:foil": 1,
+          "eld:119:foil": 1,
+          "eld:11a:foil": 1,
+          "eld:121:foil": 1,
+          "eld:126:foil": 1,
+          "eld:12:foil": 1,
+          "eld:131a:foil": 1,
+          "eld:132:foil": 1,
+          "eld:134:foil": 1,
+          "eld:136:foil": 1,
+          "eld:137a:foil": 1,
+          "eld:139:foil": 1,
+          "eld:13:foil": 1,
+          "eld:140:foil": 1,
+          "eld:141:foil": 1,
+          "eld:146:foil": 1,
+          "eld:148:foil": 1,
+          "eld:150a:foil": 1,
+          "eld:153:foil": 1,
+          "eld:154:foil": 1,
+          "eld:156a:foil": 1,
+          "eld:157:foil": 1,
+          "eld:158:foil": 1,
+          "eld:162:foil": 1,
+          "eld:166:foil": 1,
+          "eld:170:foil": 1,
+          "eld:173:foil": 1,
+          "eld:174a:foil": 1,
+          "eld:175:foil": 1,
+          "eld:176:foil": 1,
+          "eld:178:foil": 1,
+          "eld:180a:foil": 1,
+          "eld:183:foil": 1,
+          "eld:184:foil": 1,
+          "eld:19:foil": 1,
+          "eld:217:foil": 1,
+          "eld:219:foil": 1,
+          "eld:21a:foil": 1,
+          "eld:220:foil": 1,
+          "eld:221:foil": 1,
+          "eld:224:foil": 1,
+          "eld:225:foil": 1,
+          "eld:227:foil": 1,
+          "eld:228:foil": 1,
+          "eld:229:foil": 1,
+          "eld:231:foil": 1,
+          "eld:236:foil": 1,
+          "eld:23:foil": 1,
+          "eld:243:foil": 1,
+          "eld:245:foil": 1,
+          "eld:246:foil": 1,
+          "eld:247:foil": 1,
+          "eld:249:foil": 1,
+          "eld:24:foil": 1,
           "eld:273a:foil": 1,
           "eld:274a:foil": 1,
           "eld:276a:foil": 1,
@@ -230055,179 +230421,175 @@
           "eld:294a:foil": 1,
           "eld:296a:foil": 1,
           "eld:298a:foil": 1,
-          "eld:29:foil": 3,
+          "eld:29:foil": 1,
           "eld:300a:foil": 1,
           "eld:301a:foil": 1,
-          "eld:30:foil": 3,
-          "eld:31a:foil": 2,
-          "eld:33:foil": 3,
-          "eld:34:foil": 3,
-          "eld:37:foil": 3,
-          "eld:40:foil": 3,
-          "eld:41:foil": 3,
-          "eld:42:foil": 3,
-          "eld:4:foil": 3,
-          "eld:52:foil": 3,
-          "eld:53a:foil": 2,
-          "eld:56:foil": 3,
-          "eld:57:foil": 3,
-          "eld:59:foil": 3,
-          "eld:5a:foil": 2,
-          "eld:61a:foil": 2,
-          "eld:62:foil": 3,
-          "eld:64:foil": 3,
-          "eld:65:foil": 3,
-          "eld:68:foil": 3,
-          "eld:6:foil": 3,
-          "eld:70:foil": 3,
-          "eld:72:foil": 3,
-          "eld:73:foil": 3,
-          "eld:74:foil": 3,
-          "eld:76:foil": 3,
-          "eld:77:foil": 3,
-          "eld:7:foil": 3,
-          "eld:86:foil": 3,
-          "eld:87:foil": 3,
-          "eld:88:foil": 3,
-          "eld:89:foil": 3,
-          "eld:91:foil": 3,
-          "eld:92:foil": 3,
-          "eld:93:foil": 3,
-          "eld:94:foil": 3,
-          "eld:95:foil": 3,
-          "eld:96:foil": 3
+          "eld:30:foil": 1,
+          "eld:31a:foil": 1,
+          "eld:33:foil": 1,
+          "eld:34:foil": 1,
+          "eld:37:foil": 1,
+          "eld:40:foil": 1,
+          "eld:41:foil": 1,
+          "eld:42:foil": 1,
+          "eld:4:foil": 1,
+          "eld:52:foil": 1,
+          "eld:53a:foil": 1,
+          "eld:56:foil": 1,
+          "eld:57:foil": 1,
+          "eld:59:foil": 1,
+          "eld:5a:foil": 1,
+          "eld:61a:foil": 1,
+          "eld:62:foil": 1,
+          "eld:64:foil": 1,
+          "eld:65:foil": 1,
+          "eld:68:foil": 1,
+          "eld:6:foil": 1,
+          "eld:70:foil": 1,
+          "eld:72:foil": 1,
+          "eld:73:foil": 1,
+          "eld:74:foil": 1,
+          "eld:76:foil": 1,
+          "eld:77:foil": 1,
+          "eld:7:foil": 1,
+          "eld:86:foil": 1,
+          "eld:87:foil": 1,
+          "eld:88:foil": 1,
+          "eld:89:foil": 1,
+          "eld:91:foil": 1,
+          "eld:92:foil": 1,
+          "eld:93:foil": 1,
+          "eld:94:foil": 1,
+          "eld:95:foil": 1,
+          "eld:96:foil": 1
         }
       },
       "foil_uncommon": {
-        "total_weight": 240,
+        "total_weight": 89,
         "cards": {
-          "eld:104:foil": 3,
-          "eld:106:foil": 3,
-          "eld:107:foil": 3,
-          "eld:10:foil": 3,
-          "eld:117:foil": 3,
-          "eld:118:foil": 3,
-          "eld:122a:foil": 2,
-          "eld:123:foil": 3,
-          "eld:129:foil": 3,
-          "eld:130:foil": 3,
-          "eld:135:foil": 3,
-          "eld:142:foil": 3,
-          "eld:143:foil": 3,
-          "eld:145:foil": 3,
-          "eld:149a:foil": 2,
-          "eld:151:foil": 3,
-          "eld:155a:foil": 2,
-          "eld:159:foil": 3,
-          "eld:15:foil": 3,
-          "eld:163:foil": 3,
-          "eld:164:foil": 3,
-          "eld:167:foil": 3,
-          "eld:168:foil": 3,
-          "eld:177:foil": 3,
-          "eld:179:foil": 3,
-          "eld:188:foil": 3,
-          "eld:192:foil": 3,
-          "eld:193:foil": 3,
-          "eld:194:foil": 3,
-          "eld:196:foil": 3,
-          "eld:200:foil": 3,
-          "eld:201:foil": 3,
-          "eld:202:foil": 3,
-          "eld:204:foil": 3,
-          "eld:205:foil": 3,
-          "eld:206:foil": 3,
-          "eld:207:foil": 3,
-          "eld:208:foil": 3,
-          "eld:209:foil": 3,
-          "eld:210:foil": 3,
-          "eld:211:foil": 3,
-          "eld:212a:foil": 2,
-          "eld:213:foil": 3,
-          "eld:214:foil": 3,
-          "eld:215:foil": 3,
-          "eld:216:foil": 3,
-          "eld:218:foil": 3,
-          "eld:222:foil": 3,
-          "eld:223:foil": 3,
-          "eld:226:foil": 3,
-          "eld:22:foil": 3,
-          "eld:230:foil": 3,
-          "eld:232:foil": 3,
-          "eld:234:foil": 3,
-          "eld:237:foil": 3,
-          "eld:248:foil": 3,
-          "eld:25:foil": 3,
+          "eld:104:foil": 1,
+          "eld:106:foil": 1,
+          "eld:107:foil": 1,
+          "eld:10:foil": 1,
+          "eld:117:foil": 1,
+          "eld:118:foil": 1,
+          "eld:122a:foil": 1,
+          "eld:123:foil": 1,
+          "eld:129:foil": 1,
+          "eld:130:foil": 1,
+          "eld:135:foil": 1,
+          "eld:142:foil": 1,
+          "eld:143:foil": 1,
+          "eld:145:foil": 1,
+          "eld:149a:foil": 1,
+          "eld:151:foil": 1,
+          "eld:155a:foil": 1,
+          "eld:159:foil": 1,
+          "eld:15:foil": 1,
+          "eld:163:foil": 1,
+          "eld:164:foil": 1,
+          "eld:167:foil": 1,
+          "eld:168:foil": 1,
+          "eld:177:foil": 1,
+          "eld:179:foil": 1,
+          "eld:188:foil": 1,
+          "eld:192:foil": 1,
+          "eld:193:foil": 1,
+          "eld:194:foil": 1,
+          "eld:196:foil": 1,
+          "eld:200:foil": 1,
+          "eld:201:foil": 1,
+          "eld:202:foil": 1,
+          "eld:204:foil": 1,
+          "eld:205:foil": 1,
+          "eld:206:foil": 1,
+          "eld:207:foil": 1,
+          "eld:208:foil": 1,
+          "eld:209:foil": 1,
+          "eld:210:foil": 1,
+          "eld:211:foil": 1,
+          "eld:212a:foil": 1,
+          "eld:213:foil": 1,
+          "eld:214:foil": 1,
+          "eld:215:foil": 1,
+          "eld:216:foil": 1,
+          "eld:218:foil": 1,
+          "eld:222:foil": 1,
+          "eld:223:foil": 1,
+          "eld:226:foil": 1,
+          "eld:22:foil": 1,
+          "eld:230:foil": 1,
+          "eld:232:foil": 1,
+          "eld:234:foil": 1,
+          "eld:237:foil": 1,
+          "eld:248:foil": 1,
+          "eld:25:foil": 1,
           "eld:278a:foil": 1,
-          "eld:27:foil": 3,
+          "eld:27:foil": 1,
           "eld:280a:foil": 1,
           "eld:283a:foil": 1,
           "eld:286a:foil": 1,
           "eld:288a:foil": 1,
-          "eld:28a:foil": 2,
+          "eld:28a:foil": 1,
           "eld:292a:foil": 1,
           "eld:295a:foil": 1,
           "eld:297a:foil": 1,
-          "eld:2:foil": 3,
+          "eld:2:foil": 1,
           "eld:302a:foil": 1,
-          "eld:32:foil": 3,
-          "eld:35:foil": 3,
-          "eld:38a:foil": 2,
-          "eld:3:foil": 3,
-          "eld:45:foil": 3,
-          "eld:47:foil": 3,
-          "eld:49a:foil": 2,
-          "eld:50:foil": 3,
-          "eld:58:foil": 3,
-          "eld:60:foil": 3,
-          "eld:63:foil": 3,
-          "eld:67:foil": 3,
-          "eld:69:foil": 3,
-          "eld:78:foil": 3,
-          "eld:80:foil": 3,
-          "eld:81:foil": 3,
-          "eld:83:foil": 3,
-          "eld:85:foil": 3,
-          "eld:90a:foil": 2,
-          "eld:99a:foil": 2
+          "eld:32:foil": 1,
+          "eld:35:foil": 1,
+          "eld:38a:foil": 1,
+          "eld:3:foil": 1,
+          "eld:45:foil": 1,
+          "eld:47:foil": 1,
+          "eld:49a:foil": 1,
+          "eld:50:foil": 1,
+          "eld:58:foil": 1,
+          "eld:60:foil": 1,
+          "eld:63:foil": 1,
+          "eld:67:foil": 1,
+          "eld:69:foil": 1,
+          "eld:78:foil": 1,
+          "eld:80:foil": 1,
+          "eld:81:foil": 1,
+          "eld:83:foil": 1,
+          "eld:85:foil": 1,
+          "eld:90a:foil": 1,
+          "eld:99a:foil": 1
         }
       },
-      "any_showcase": {
-        "total_weight": 163,
+      "showcase_rare_mythic": {
+        "total_weight": 15,
         "cards": {
           "eld:270": 1,
           "eld:271": 1,
           "eld:272": 1,
-          "eld:273a": 8,
-          "eld:274a": 8,
           "eld:275a": 2,
-          "eld:276a": 8,
           "eld:277a": 1,
-          "eld:278a": 4,
-          "eld:279a": 8,
-          "eld:280a": 4,
           "eld:281a": 1,
           "eld:282a": 2,
-          "eld:283a": 4,
-          "eld:284a": 8,
-          "eld:285a": 8,
-          "eld:286a": 4,
           "eld:287a": 2,
-          "eld:288a": 4,
-          "eld:289a": 8,
-          "eld:290a": 8,
           "eld:291a": 2,
-          "eld:292a": 4,
-          "eld:293a": 8,
-          "eld:294a": 8,
-          "eld:295a": 4,
-          "eld:296a": 8,
-          "eld:297a": 4,
-          "eld:298a": 8,
-          "eld:299a": 2,
-          "eld:300a": 8,
-          "eld:301a": 8,
-          "eld:302a": 4
+          "eld:299a": 2
+        }
+      },
+      "showcase_common": {
+        "total_weight": 14,
+        "cards": {
+          "eld:273a": 1,
+          "eld:274a": 1,
+          "eld:276a": 1,
+          "eld:279a": 1,
+          "eld:284a": 1,
+          "eld:285a": 1,
+          "eld:289a": 1,
+          "eld:290a": 1,
+          "eld:293a": 1,
+          "eld:294a": 1,
+          "eld:296a": 1,
+          "eld:298a": 1,
+          "eld:300a": 1,
+          "eld:301a": 1
         }
       },
       "ancillary": {
@@ -230475,6 +230837,20 @@
           "eld:97a:foil": 4,
           "eld:98:foil": 4,
           "eld:9:foil": 2
+        }
+      },
+      "showcase_uncommon": {
+        "total_weight": 9,
+        "cards": {
+          "eld:278a": 1,
+          "eld:280a": 1,
+          "eld:283a": 1,
+          "eld:286a": 1,
+          "eld:288a": 1,
+          "eld:292a": 1,
+          "eld:295a": 1,
+          "eld:297a": 1,
+          "eld:302a": 1
         }
       }
     },
@@ -238407,7 +238783,7 @@
         }
       },
       "uncommon": {
-        "total_weight": 21,
+        "total_weight": 22,
         "cards": {
           "rna:155": 1,
           "rna:168": 1,
@@ -238421,6 +238797,7 @@
           "rna:21": 1,
           "rna:225a": 1,
           "rna:23": 1,
+          "rna:239": 1,
           "rna:3": 1,
           "rna:35": 1,
           "rna:37": 1,
@@ -277101,6 +277478,462 @@
     ]
   },
   {
+    "name": "Magic 2013 Booster Battle Pack 20-Card Deck",
+    "code": "m13-battle-deck",
+    "languages": [
+      "cs",
+      "ct",
+      "de",
+      "en",
+      "fr",
+      "it",
+      "jp",
+      "kr",
+      "pt",
+      "ru",
+      "sp"
+    ],
+    "set_code": "m13",
+    "set_name": "Magic 2013",
+    "boosters": [
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "black_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "black_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "black_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "black_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "black_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "black_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "black_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "black_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "black_a": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "black_a": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "black_b": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "black_b": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "black_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "black_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "black_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "black_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "red_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "red_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "red_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "red_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "white_a": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m13:10": 1,
+          "m13:15": 1,
+          "m13:230": 2,
+          "m13:231": 1,
+          "m13:232": 1,
+          "m13:233": 1,
+          "m13:3": 1,
+          "m13:38": 1,
+          "m13:5": 1
+        }
+      },
+      "blue_a": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m13:234": 2,
+          "m13:235": 1,
+          "m13:236": 1,
+          "m13:237": 1,
+          "m13:41": 1,
+          "m13:54": 1,
+          "m13:60": 1,
+          "m13:73": 1,
+          "m13:79": 1
+        }
+      },
+      "blue_b": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m13:234": 2,
+          "m13:235": 1,
+          "m13:236": 1,
+          "m13:237": 1,
+          "m13:48": 1,
+          "m13:57": 1,
+          "m13:66": 1,
+          "m13:75": 1,
+          "m13:76": 1
+        }
+      },
+      "white_b": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m13:11": 1,
+          "m13:18": 1,
+          "m13:230": 2,
+          "m13:231": 1,
+          "m13:232": 1,
+          "m13:233": 1,
+          "m13:31": 1,
+          "m13:40": 1,
+          "m13:6": 1
+        }
+      },
+      "black_a": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m13:107": 1,
+          "m13:116": 1,
+          "m13:238": 2,
+          "m13:239": 1,
+          "m13:240": 1,
+          "m13:241": 1,
+          "m13:83": 1,
+          "m13:89": 1,
+          "m13:93": 1
+        }
+      },
+      "black_b": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m13:108": 1,
+          "m13:111": 1,
+          "m13:238": 2,
+          "m13:239": 1,
+          "m13:240": 1,
+          "m13:241": 1,
+          "m13:85": 1,
+          "m13:86": 1,
+          "m13:91": 1
+        }
+      },
+      "red_a": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m13:120": 1,
+          "m13:121": 1,
+          "m13:139": 1,
+          "m13:152": 1,
+          "m13:155": 1,
+          "m13:242": 2,
+          "m13:243": 1,
+          "m13:244": 1,
+          "m13:245": 1
+        }
+      },
+      "red_b": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m13:122": 1,
+          "m13:133": 1,
+          "m13:137": 1,
+          "m13:147": 1,
+          "m13:156": 1,
+          "m13:242": 2,
+          "m13:243": 1,
+          "m13:244": 1,
+          "m13:245": 1
+        }
+      },
+      "green_a": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m13:163": 1,
+          "m13:165": 1,
+          "m13:166": 1,
+          "m13:186": 1,
+          "m13:192": 1,
+          "m13:246": 2,
+          "m13:247": 1,
+          "m13:248": 1,
+          "m13:249": 1
+        }
+      },
+      "green_b": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m13:161": 1,
+          "m13:164": 1,
+          "m13:172": 1,
+          "m13:175": 1,
+          "m13:196": 1,
+          "m13:246": 2,
+          "m13:247": 1,
+          "m13:248": 1,
+          "m13:249": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "m13"
+    ]
+  },
+  {
     "name": "Magic 2013 Draft Booster",
     "code": "m13-draft",
     "languages": [
@@ -277662,6 +278495,217 @@
           "m13:98:foil": 144,
           "m13:99:foil": 144,
           "m13:9:foil": 144
+        }
+      }
+    },
+    "source_set_codes": [
+      "m13"
+    ]
+  },
+  {
+    "name": "Duels of the Planeswalkers 2013 Base Booster",
+    "code": "m13-duelspromo",
+    "languages": [
+      "cs",
+      "ct",
+      "de",
+      "en",
+      "fr",
+      "it",
+      "jp",
+      "kr",
+      "pt",
+      "ru",
+      "sp"
+    ],
+    "set_code": "m13",
+    "set_name": "Magic 2013",
+    "boosters": [
+      {
+        "sheets": {
+          "common": 4,
+          "uncommon": 1
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "common": 3,
+          "uncommon": 2
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "common": {
+        "total_weight": 101,
+        "cards": {
+          "m13:100": 1,
+          "m13:101": 1,
+          "m13:106": 1,
+          "m13:108": 1,
+          "m13:11": 1,
+          "m13:110": 1,
+          "m13:111": 1,
+          "m13:115": 1,
+          "m13:116": 1,
+          "m13:119": 1,
+          "m13:12": 1,
+          "m13:121": 1,
+          "m13:122": 1,
+          "m13:124": 1,
+          "m13:126": 1,
+          "m13:128": 1,
+          "m13:13": 1,
+          "m13:130": 1,
+          "m13:134": 1,
+          "m13:135": 1,
+          "m13:137": 1,
+          "m13:139": 1,
+          "m13:143": 1,
+          "m13:144": 1,
+          "m13:146": 1,
+          "m13:147": 1,
+          "m13:149": 1,
+          "m13:15": 1,
+          "m13:152": 1,
+          "m13:153": 1,
+          "m13:155": 1,
+          "m13:156": 1,
+          "m13:157": 1,
+          "m13:16": 1,
+          "m13:160": 1,
+          "m13:161": 1,
+          "m13:163": 1,
+          "m13:164": 1,
+          "m13:165": 1,
+          "m13:169": 1,
+          "m13:17": 1,
+          "m13:170": 1,
+          "m13:172": 1,
+          "m13:178": 1,
+          "m13:179": 1,
+          "m13:18": 1,
+          "m13:181": 1,
+          "m13:182": 1,
+          "m13:186": 1,
+          "m13:189": 1,
+          "m13:190": 1,
+          "m13:192": 1,
+          "m13:194": 1,
+          "m13:195": 1,
+          "m13:196": 1,
+          "m13:198": 1,
+          "m13:2": 1,
+          "m13:224": 1,
+          "m13:24": 1,
+          "m13:25": 1,
+          "m13:3": 1,
+          "m13:30": 1,
+          "m13:34": 1,
+          "m13:35": 1,
+          "m13:38": 1,
+          "m13:40": 1,
+          "m13:41": 1,
+          "m13:47": 1,
+          "m13:48": 1,
+          "m13:49": 1,
+          "m13:5": 1,
+          "m13:50": 1,
+          "m13:51": 1,
+          "m13:53": 1,
+          "m13:54": 1,
+          "m13:55": 1,
+          "m13:58": 1,
+          "m13:6": 1,
+          "m13:60": 1,
+          "m13:61": 1,
+          "m13:62": 1,
+          "m13:66": 1,
+          "m13:7": 1,
+          "m13:74": 1,
+          "m13:75": 1,
+          "m13:76": 1,
+          "m13:78": 1,
+          "m13:79": 1,
+          "m13:80": 1,
+          "m13:82": 1,
+          "m13:83": 1,
+          "m13:85": 1,
+          "m13:86": 1,
+          "m13:89": 1,
+          "m13:9": 1,
+          "m13:90": 1,
+          "m13:92": 1,
+          "m13:93": 1,
+          "m13:94": 1,
+          "m13:98": 1,
+          "m13:99": 1
+        }
+      },
+      "uncommon": {
+        "total_weight": 60,
+        "cards": {
+          "m13:10": 1,
+          "m13:105": 1,
+          "m13:107": 1,
+          "m13:112": 1,
+          "m13:114": 1,
+          "m13:120": 1,
+          "m13:125": 1,
+          "m13:127": 1,
+          "m13:132": 1,
+          "m13:133": 1,
+          "m13:141": 1,
+          "m13:142": 1,
+          "m13:151": 1,
+          "m13:154": 1,
+          "m13:159": 1,
+          "m13:166": 1,
+          "m13:171": 1,
+          "m13:173": 1,
+          "m13:175": 1,
+          "m13:177": 1,
+          "m13:185": 1,
+          "m13:187": 1,
+          "m13:188": 1,
+          "m13:19": 1,
+          "m13:201": 1,
+          "m13:202": 1,
+          "m13:204": 1,
+          "m13:205": 1,
+          "m13:207": 1,
+          "m13:208": 1,
+          "m13:209": 1,
+          "m13:21": 1,
+          "m13:210": 1,
+          "m13:211": 1,
+          "m13:212": 1,
+          "m13:213": 1,
+          "m13:214": 1,
+          "m13:215": 1,
+          "m13:219": 1,
+          "m13:22": 1,
+          "m13:227": 1,
+          "m13:27": 1,
+          "m13:28": 1,
+          "m13:31": 1,
+          "m13:39": 1,
+          "m13:4": 1,
+          "m13:42": 1,
+          "m13:43": 1,
+          "m13:46": 1,
+          "m13:52": 1,
+          "m13:57": 1,
+          "m13:65": 1,
+          "m13:67": 1,
+          "m13:71": 1,
+          "m13:73": 1,
+          "m13:81": 1,
+          "m13:84": 1,
+          "m13:91": 1,
+          "m13:95": 1,
+          "m13:96": 1
         }
       }
     },
@@ -280457,6 +281501,902 @@
     },
     "source_set_codes": [
       "isd"
+    ]
+  },
+  {
+    "name": "Magic 2012 Booster Battle Pack Decks",
+    "code": "m12-battle-pack-decks",
+    "languages": [
+      "cs",
+      "ct",
+      "de",
+      "en",
+      "fr",
+      "it",
+      "jp",
+      "kr",
+      "pt",
+      "ru",
+      "sp"
+    ],
+    "set_code": "m12",
+    "set_name": "Magic 2012",
+    "boosters": [
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_a": 10,
+          "black_a": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_a": 10,
+          "black_a": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_a": 10,
+          "black_b": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_a": 10,
+          "black_b": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_b": 10,
+          "black_a": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_b": 10,
+          "black_a": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_b": 10,
+          "black_b": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_b": 10,
+          "black_b": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_a": 10,
+          "black_a": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_a": 10,
+          "black_a": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_a": 10,
+          "black_b": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_a": 10,
+          "black_b": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_b": 10,
+          "black_a": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_b": 10,
+          "black_a": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_b": 10,
+          "black_b": 10,
+          "red_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_b": 10,
+          "black_b": 10,
+          "red_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_a": 10,
+          "black_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_a": 10,
+          "black_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_a": 10,
+          "black_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_a": 10,
+          "black_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_b": 10,
+          "black_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_b": 10,
+          "black_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_b": 10,
+          "black_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_b": 10,
+          "black_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_a": 10,
+          "black_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_a": 10,
+          "black_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_a": 10,
+          "black_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_a": 10,
+          "black_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_b": 10,
+          "black_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_b": 10,
+          "black_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_b": 10,
+          "black_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_b": 10,
+          "black_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_a": 10,
+          "red_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_a": 10,
+          "red_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_a": 10,
+          "red_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_a": 10,
+          "red_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_b": 10,
+          "red_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_b": 10,
+          "red_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_b": 10,
+          "red_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "blue_b": 10,
+          "red_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_a": 10,
+          "red_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_a": 10,
+          "red_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_a": 10,
+          "red_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_a": 10,
+          "red_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_b": 10,
+          "red_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_b": 10,
+          "red_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_b": 10,
+          "red_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "blue_b": 10,
+          "red_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "black_a": 10,
+          "red_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "black_a": 10,
+          "red_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "black_a": 10,
+          "red_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "black_a": 10,
+          "red_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "black_b": 10,
+          "red_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "black_b": 10,
+          "red_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "black_b": 10,
+          "red_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_a": 10,
+          "black_b": 10,
+          "red_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "black_a": 10,
+          "red_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "black_a": 10,
+          "red_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "black_a": 10,
+          "red_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "black_a": 10,
+          "red_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "black_b": 10,
+          "red_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "black_b": 10,
+          "red_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "black_b": 10,
+          "red_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "white_b": 10,
+          "black_b": 10,
+          "red_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "black_a": 10,
+          "red_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "black_a": 10,
+          "red_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "black_a": 10,
+          "red_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "black_a": 10,
+          "red_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "black_b": 10,
+          "red_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "black_b": 10,
+          "red_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "black_b": 10,
+          "red_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_a": 10,
+          "black_b": 10,
+          "red_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "black_a": 10,
+          "red_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "black_a": 10,
+          "red_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "black_a": 10,
+          "red_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "black_a": 10,
+          "red_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "black_b": 10,
+          "red_a": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "black_b": 10,
+          "red_a": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "black_b": 10,
+          "red_b": 10,
+          "green_a": 10
+        },
+        "weight": 1
+      },
+      {
+        "sheets": {
+          "blue_b": 10,
+          "black_b": 10,
+          "red_b": 10,
+          "green_b": 10
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "white_a": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m12:14": 1,
+          "m12:230": 2,
+          "m12:231": 1,
+          "m12:232": 1,
+          "m12:233": 1,
+          "m12:31": 1,
+          "m12:33": 1,
+          "m12:34": 1,
+          "m12:7": 1
+        }
+      },
+      "blue_a": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m12:234": 2,
+          "m12:235": 1,
+          "m12:236": 1,
+          "m12:237": 1,
+          "m12:41": 1,
+          "m12:43": 1,
+          "m12:46": 1,
+          "m12:49": 1,
+          "m12:60": 1
+        }
+      },
+      "black_a": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m12:101": 1,
+          "m12:107": 1,
+          "m12:110": 1,
+          "m12:119": 1,
+          "m12:238": 2,
+          "m12:239": 1,
+          "m12:240": 1,
+          "m12:241": 1,
+          "m12:93": 1
+        }
+      },
+      "red_a": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m12:125": 1,
+          "m12:130": 1,
+          "m12:132": 1,
+          "m12:142": 1,
+          "m12:158": 1,
+          "m12:242": 2,
+          "m12:243": 1,
+          "m12:244": 1,
+          "m12:245": 1
+        }
+      },
+      "red_b": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m12:122": 1,
+          "m12:139": 1,
+          "m12:148": 1,
+          "m12:154": 1,
+          "m12:156": 1,
+          "m12:242": 2,
+          "m12:243": 1,
+          "m12:244": 1,
+          "m12:245": 1
+        }
+      },
+      "black_b": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m12:113": 1,
+          "m12:114": 1,
+          "m12:115": 1,
+          "m12:238": 2,
+          "m12:239": 1,
+          "m12:240": 1,
+          "m12:241": 1,
+          "m12:83": 1,
+          "m12:97": 1
+        }
+      },
+      "blue_b": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m12:234": 2,
+          "m12:235": 1,
+          "m12:236": 1,
+          "m12:237": 1,
+          "m12:45": 1,
+          "m12:47": 1,
+          "m12:48": 1,
+          "m12:54": 1,
+          "m12:75": 1
+        }
+      },
+      "white_b": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m12:20": 1,
+          "m12:21": 1,
+          "m12:230": 2,
+          "m12:231": 1,
+          "m12:232": 1,
+          "m12:233": 1,
+          "m12:29": 1,
+          "m12:32": 1,
+          "m12:4": 1
+        }
+      },
+      "green_a": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m12:175": 1,
+          "m12:178": 1,
+          "m12:186": 1,
+          "m12:187": 1,
+          "m12:196": 1,
+          "m12:246": 2,
+          "m12:247": 1,
+          "m12:248": 1,
+          "m12:249": 1
+        }
+      },
+      "green_b": {
+        "fixed": true,
+        "total_weight": 10,
+        "cards": {
+          "m12:177": 1,
+          "m12:179": 1,
+          "m12:183": 1,
+          "m12:194": 1,
+          "m12:199": 1,
+          "m12:246": 2,
+          "m12:247": 1,
+          "m12:248": 1,
+          "m12:249": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "m12"
     ]
   },
   {
@@ -326847,41 +328787,41 @@
         }
       },
       "common": {
-        "total_weight": 33,
+        "total_weight": 110,
         "cards": {
-          "ugl:12": 1,
-          "ugl:13": 1,
-          "ugl:18": 1,
-          "ugl:19": 1,
-          "ugl:20": 1,
-          "ugl:22": 1,
-          "ugl:23": 1,
-          "ugl:24": 1,
-          "ugl:3": 1,
-          "ugl:30": 1,
-          "ugl:31": 1,
-          "ugl:35": 1,
-          "ugl:37": 1,
-          "ugl:38": 1,
-          "ugl:41": 1,
-          "ugl:42": 1,
-          "ugl:43": 1,
-          "ugl:44": 1,
-          "ugl:46": 1,
-          "ugl:48": 1,
-          "ugl:55": 1,
-          "ugl:56": 1,
-          "ugl:58": 1,
-          "ugl:6": 1,
-          "ugl:60": 1,
-          "ugl:61": 1,
-          "ugl:62": 1,
-          "ugl:67": 1,
-          "ugl:72": 1,
-          "ugl:78": 1,
-          "ugl:79": 1,
-          "ugl:80": 1,
-          "ugl:9": 1
+          "ugl:12": 3,
+          "ugl:13": 3,
+          "ugl:18": 3,
+          "ugl:19": 3,
+          "ugl:20": 3,
+          "ugl:22": 3,
+          "ugl:23": 3,
+          "ugl:24": 4,
+          "ugl:3": 3,
+          "ugl:30": 3,
+          "ugl:31": 3,
+          "ugl:35": 3,
+          "ugl:37": 4,
+          "ugl:38": 3,
+          "ugl:41": 4,
+          "ugl:42": 3,
+          "ugl:43": 4,
+          "ugl:44": 3,
+          "ugl:46": 4,
+          "ugl:48": 3,
+          "ugl:55": 3,
+          "ugl:56": 4,
+          "ugl:58": 4,
+          "ugl:6": 4,
+          "ugl:60": 3,
+          "ugl:61": 4,
+          "ugl:62": 3,
+          "ugl:67": 3,
+          "ugl:72": 4,
+          "ugl:78": 3,
+          "ugl:79": 3,
+          "ugl:80": 3,
+          "ugl:9": 4
         }
       },
       "uncommon": {
@@ -326912,36 +328852,36 @@
         }
       },
       "rare": {
-        "total_weight": 28,
+        "total_weight": 110,
         "cards": {
-          "ugl:11": 1,
-          "ugl:14": 1,
-          "ugl:17": 1,
-          "ugl:2": 1,
-          "ugl:25": 1,
-          "ugl:26": 1,
-          "ugl:28": 1,
-          "ugl:29": 1,
-          "ugl:33": 1,
-          "ugl:36": 1,
-          "ugl:40": 1,
-          "ugl:47": 1,
-          "ugl:49": 1,
-          "ugl:5": 1,
-          "ugl:51": 1,
-          "ugl:52": 1,
-          "ugl:54": 1,
-          "ugl:64": 1,
-          "ugl:65": 1,
-          "ugl:66": 1,
-          "ugl:68": 1,
-          "ugl:69": 1,
-          "ugl:70": 1,
-          "ugl:74": 1,
-          "ugl:75": 1,
-          "ugl:76": 1,
-          "ugl:77": 1,
-          "ugl:8": 1
+          "ugl:11": 4,
+          "ugl:14": 4,
+          "ugl:17": 4,
+          "ugl:2": 4,
+          "ugl:25": 4,
+          "ugl:26": 4,
+          "ugl:28": 4,
+          "ugl:29": 4,
+          "ugl:33": 4,
+          "ugl:36": 4,
+          "ugl:40": 4,
+          "ugl:47": 4,
+          "ugl:49": 4,
+          "ugl:5": 4,
+          "ugl:51": 4,
+          "ugl:52": 3,
+          "ugl:54": 4,
+          "ugl:64": 4,
+          "ugl:65": 4,
+          "ugl:66": 4,
+          "ugl:68": 4,
+          "ugl:69": 3,
+          "ugl:70": 4,
+          "ugl:74": 4,
+          "ugl:75": 4,
+          "ugl:76": 4,
+          "ugl:77": 4,
+          "ugl:8": 4
         }
       }
     },

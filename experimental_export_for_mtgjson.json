@@ -231246,7 +231246,68 @@
           "contents": {
             "foilCommon": 7,
             "foilUncommon": 2,
-            "anyShowcase": 3,
+            "showcaseRareMythic": 2,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 70,
+          "contents": {
+            "foilCommon": 7,
+            "foilUncommon": 2,
+            "showcaseRareMythic": 1,
+            "showcaseUncommon": 1,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 210,
+          "contents": {
+            "foilCommon": 7,
+            "foilUncommon": 2,
+            "showcaseRareMythic": 1,
+            "showcaseCommon": 2,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 280,
+          "contents": {
+            "foilCommon": 7,
+            "foilUncommon": 2,
+            "showcaseUncommon": 2,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 280,
+          "contents": {
+            "foilCommon": 7,
+            "foilUncommon": 2,
+            "showcaseUncommon": 1,
+            "showcaseCommon": 2,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 490,
+          "contents": {
+            "foilCommon": 7,
+            "foilUncommon": 2,
+            "showcaseCommon": 3,
             "ancillary": 1,
             "rmExtended": 1,
             "foilRareMythic": 1
@@ -231257,7 +231318,68 @@
           "contents": {
             "foilCommon": 6,
             "foilUncommon": 3,
-            "anyShowcase": 3,
+            "showcaseRareMythic": 2,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 80,
+          "contents": {
+            "foilCommon": 6,
+            "foilUncommon": 3,
+            "showcaseRareMythic": 1,
+            "showcaseUncommon": 1,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 240,
+          "contents": {
+            "foilCommon": 6,
+            "foilUncommon": 3,
+            "showcaseRareMythic": 1,
+            "showcaseCommon": 2,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 320,
+          "contents": {
+            "foilCommon": 6,
+            "foilUncommon": 3,
+            "showcaseUncommon": 2,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 320,
+          "contents": {
+            "foilCommon": 6,
+            "foilUncommon": 3,
+            "showcaseUncommon": 1,
+            "showcaseCommon": 2,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 560,
+          "contents": {
+            "foilCommon": 6,
+            "foilUncommon": 3,
+            "showcaseCommon": 3,
             "ancillary": 1,
             "rmExtended": 1,
             "foilRareMythic": 1
@@ -231268,7 +231390,68 @@
           "contents": {
             "foilCommon": 5,
             "foilUncommon": 4,
-            "anyShowcase": 3,
+            "showcaseRareMythic": 2,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 25,
+          "contents": {
+            "foilCommon": 5,
+            "foilUncommon": 4,
+            "showcaseRareMythic": 1,
+            "showcaseUncommon": 1,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 75,
+          "contents": {
+            "foilCommon": 5,
+            "foilUncommon": 4,
+            "showcaseRareMythic": 1,
+            "showcaseCommon": 2,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 100,
+          "contents": {
+            "foilCommon": 5,
+            "foilUncommon": 4,
+            "showcaseUncommon": 2,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 100,
+          "contents": {
+            "foilCommon": 5,
+            "foilUncommon": 4,
+            "showcaseUncommon": 1,
+            "showcaseCommon": 2,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 175,
+          "contents": {
+            "foilCommon": 5,
+            "foilUncommon": 4,
+            "showcaseCommon": 3,
             "ancillary": 1,
             "rmExtended": 1,
             "foilRareMythic": 1
@@ -231279,7 +231462,68 @@
           "contents": {
             "foilCommon": 4,
             "foilUncommon": 5,
-            "anyShowcase": 3,
+            "showcaseRareMythic": 2,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 14,
+          "contents": {
+            "foilCommon": 4,
+            "foilUncommon": 5,
+            "showcaseRareMythic": 1,
+            "showcaseUncommon": 1,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 42,
+          "contents": {
+            "foilCommon": 4,
+            "foilUncommon": 5,
+            "showcaseRareMythic": 1,
+            "showcaseCommon": 2,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 56,
+          "contents": {
+            "foilCommon": 4,
+            "foilUncommon": 5,
+            "showcaseUncommon": 2,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 56,
+          "contents": {
+            "foilCommon": 4,
+            "foilUncommon": 5,
+            "showcaseUncommon": 1,
+            "showcaseCommon": 2,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 98,
+          "contents": {
+            "foilCommon": 4,
+            "foilUncommon": 5,
+            "showcaseCommon": 3,
             "ancillary": 1,
             "rmExtended": 1,
             "foilRareMythic": 1
@@ -231290,7 +231534,68 @@
           "contents": {
             "foilCommon": 3,
             "foilUncommon": 6,
-            "anyShowcase": 3,
+            "showcaseRareMythic": 2,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 7,
+          "contents": {
+            "foilCommon": 3,
+            "foilUncommon": 6,
+            "showcaseRareMythic": 1,
+            "showcaseUncommon": 1,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 21,
+          "contents": {
+            "foilCommon": 3,
+            "foilUncommon": 6,
+            "showcaseRareMythic": 1,
+            "showcaseCommon": 2,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 28,
+          "contents": {
+            "foilCommon": 3,
+            "foilUncommon": 6,
+            "showcaseUncommon": 2,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 28,
+          "contents": {
+            "foilCommon": 3,
+            "foilUncommon": 6,
+            "showcaseUncommon": 1,
+            "showcaseCommon": 2,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 49,
+          "contents": {
+            "foilCommon": 3,
+            "foilUncommon": 6,
+            "showcaseCommon": 3,
             "ancillary": 1,
             "rmExtended": 1,
             "foilRareMythic": 1
@@ -231301,269 +231606,327 @@
           "contents": {
             "foilCommon": 2,
             "foilUncommon": 7,
-            "anyShowcase": 3,
+            "showcaseRareMythic": 2,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 4,
+          "contents": {
+            "foilCommon": 2,
+            "foilUncommon": 7,
+            "showcaseRareMythic": 1,
+            "showcaseUncommon": 1,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 12,
+          "contents": {
+            "foilCommon": 2,
+            "foilUncommon": 7,
+            "showcaseRareMythic": 1,
+            "showcaseCommon": 2,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 16,
+          "contents": {
+            "foilCommon": 2,
+            "foilUncommon": 7,
+            "showcaseUncommon": 2,
+            "showcaseCommon": 1,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 16,
+          "contents": {
+            "foilCommon": 2,
+            "foilUncommon": 7,
+            "showcaseUncommon": 1,
+            "showcaseCommon": 2,
+            "ancillary": 1,
+            "rmExtended": 1,
+            "foilRareMythic": 1
+          }
+        },
+        {
+          "weight": 28,
+          "contents": {
+            "foilCommon": 2,
+            "foilUncommon": 7,
+            "showcaseCommon": 3,
             "ancillary": 1,
             "rmExtended": 1,
             "foilRareMythic": 1
           }
         }
       ],
-      "boostersTotalWeight": 200,
+      "boostersTotalWeight": 4000,
       "sheets": {
         "foilCommon": {
           "cards": {
-            "01c6d9ad-8e56-55dc-87a4-53a637559403": 3,
-            "02004117-58fe-5d15-97fa-dab4bd86104b": 3,
-            "03c54f64-639a-599b-b04e-b3d2b8a304ef": 3,
-            "06db99b2-a318-5d62-ae7e-4440f7ab27b8": 3,
-            "06e89b89-704a-5bed-a7d1-c2ac9ab2d14e": 3,
-            "073b5d29-9abc-56d4-b503-844d87776846": 3,
+            "01c6d9ad-8e56-55dc-87a4-53a637559403": 1,
+            "02004117-58fe-5d15-97fa-dab4bd86104b": 1,
+            "03c54f64-639a-599b-b04e-b3d2b8a304ef": 1,
+            "06db99b2-a318-5d62-ae7e-4440f7ab27b8": 1,
+            "06e89b89-704a-5bed-a7d1-c2ac9ab2d14e": 1,
+            "073b5d29-9abc-56d4-b503-844d87776846": 1,
             "07d5f71c-4fca-53b8-abd7-626265880f8f": 1,
-            "0908d356-67cc-5922-93be-e8884af020d7": 2,
-            "0a00eb60-c3a1-5e43-9d87-0ce618a7f599": 3,
-            "0aff230e-db52-528b-b87f-4187ed9fb494": 3,
-            "0c941678-45c6-5aab-a863-136c1e0b7a7f": 3,
-            "0d475c4c-74c6-57d7-ad62-d5dde25e7612": 3,
-            "14903635-d346-52c7-a401-230dfee1859f": 3,
-            "15683485-77f7-5c6f-b94d-93dab47a662b": 3,
-            "161c939a-5d1b-5331-959a-b2a3417f7547": 3,
+            "0908d356-67cc-5922-93be-e8884af020d7": 1,
+            "0a00eb60-c3a1-5e43-9d87-0ce618a7f599": 1,
+            "0aff230e-db52-528b-b87f-4187ed9fb494": 1,
+            "0c941678-45c6-5aab-a863-136c1e0b7a7f": 1,
+            "0d475c4c-74c6-57d7-ad62-d5dde25e7612": 1,
+            "14903635-d346-52c7-a401-230dfee1859f": 1,
+            "15683485-77f7-5c6f-b94d-93dab47a662b": 1,
+            "161c939a-5d1b-5331-959a-b2a3417f7547": 1,
             "1780ff22-2953-5b72-b4be-43b9f7454167": 1,
-            "179d04be-61ce-5152-bb33-c4ada8c11771": 3,
-            "20f48c17-eb13-5d5c-a63c-56dd5288ed19": 3,
-            "21d183eb-268f-5f52-93d6-57b81e615767": 2,
-            "223aa9a5-a95c-53fd-bdd2-aee24b7fa7cc": 2,
-            "2427f954-eead-5ea7-8188-5749103baa53": 3,
+            "179d04be-61ce-5152-bb33-c4ada8c11771": 1,
+            "20f48c17-eb13-5d5c-a63c-56dd5288ed19": 1,
+            "21d183eb-268f-5f52-93d6-57b81e615767": 1,
+            "223aa9a5-a95c-53fd-bdd2-aee24b7fa7cc": 1,
+            "2427f954-eead-5ea7-8188-5749103baa53": 1,
             "24ddc5b0-3978-5cb0-9a05-b224b0642800": 1,
-            "2af500fe-ae8a-58c9-8cbe-9f4491fce2cf": 2,
-            "2e70ab93-91d9-5b1b-9da5-0b0fbc33a36c": 3,
+            "2af500fe-ae8a-58c9-8cbe-9f4491fce2cf": 1,
+            "2e70ab93-91d9-5b1b-9da5-0b0fbc33a36c": 1,
             "2efb07cf-00e9-55da-8f4c-f40afb4724ff": 1,
-            "3261737f-2698-5f05-b714-6d1dffcf20cd": 3,
-            "342a9886-3eec-51ee-bf23-fdc7069d98a1": 3,
-            "35a814b7-8c18-54d9-afac-86cc84fbaf11": 2,
-            "3655e999-b971-5f4c-8547-b9bfb1b58d06": 3,
-            "387eb117-53ec-5272-b887-9ac2b3221bf9": 2,
-            "3bb348f6-c64a-5540-a052-40b799c0301b": 3,
-            "3ce33ca7-473c-54ff-b205-cae6f3bc6c2d": 3,
+            "3261737f-2698-5f05-b714-6d1dffcf20cd": 1,
+            "342a9886-3eec-51ee-bf23-fdc7069d98a1": 1,
+            "35a814b7-8c18-54d9-afac-86cc84fbaf11": 1,
+            "3655e999-b971-5f4c-8547-b9bfb1b58d06": 1,
+            "387eb117-53ec-5272-b887-9ac2b3221bf9": 1,
+            "3bb348f6-c64a-5540-a052-40b799c0301b": 1,
+            "3ce33ca7-473c-54ff-b205-cae6f3bc6c2d": 1,
             "3fe29c0e-4ca5-5f3b-93cd-8b2664bc61c5": 1,
-            "406ca902-1edc-57f7-b93c-66871e97f144": 3,
-            "40bc1031-6cc8-5e10-9ff3-12f8a7b70c78": 3,
-            "4425f1f0-f882-5eaf-a778-179a19cf963e": 3,
-            "45634668-e09f-5276-baf0-384dbdb34e02": 3,
-            "4c953c2a-76b6-53ed-851c-aefe087e111c": 3,
-            "4ec240b3-9595-5f13-abc0-953dd99e7955": 3,
-            "4f7caf33-25ba-5280-b86e-a730d86010f4": 3,
-            "5093bb6a-f20e-5079-b4d7-e7422d7601cb": 2,
-            "54d3da09-0dfe-5e35-a33b-2aea643d8651": 3,
+            "406ca902-1edc-57f7-b93c-66871e97f144": 1,
+            "40bc1031-6cc8-5e10-9ff3-12f8a7b70c78": 1,
+            "4425f1f0-f882-5eaf-a778-179a19cf963e": 1,
+            "45634668-e09f-5276-baf0-384dbdb34e02": 1,
+            "4c953c2a-76b6-53ed-851c-aefe087e111c": 1,
+            "4ec240b3-9595-5f13-abc0-953dd99e7955": 1,
+            "4f7caf33-25ba-5280-b86e-a730d86010f4": 1,
+            "5093bb6a-f20e-5079-b4d7-e7422d7601cb": 1,
+            "54d3da09-0dfe-5e35-a33b-2aea643d8651": 1,
             "56933d43-1a1f-58ce-8c7b-557def831b83": 1,
             "56da8c67-31a8-567c-9ac0-18b42db36158": 1,
-            "59ede61d-f18d-562c-b013-a12e2889af5e": 3,
-            "5acfd1c1-7c07-5fca-883a-0887427889d8": 3,
-            "5b65ac34-7762-58bd-baaf-972980afbefa": 3,
-            "5c7667ca-4006-532b-a8b5-eb9dcdd841f0": 2,
-            "5fcecdd6-f114-5515-9a86-62fc4074c0a5": 3,
-            "5ff9f483-6baf-5d10-928c-095a6752a896": 3,
-            "626d95b7-56c7-5b24-99e3-baba831fc708": 3,
-            "62c672b0-87f3-5e93-a9b8-d9de6013926a": 3,
-            "649ffc40-4d61-599d-a2fa-17e99032d00c": 3,
-            "65a9a6aa-8209-524c-9c9f-986e67c17db4": 3,
+            "59ede61d-f18d-562c-b013-a12e2889af5e": 1,
+            "5acfd1c1-7c07-5fca-883a-0887427889d8": 1,
+            "5b65ac34-7762-58bd-baaf-972980afbefa": 1,
+            "5c7667ca-4006-532b-a8b5-eb9dcdd841f0": 1,
+            "5fcecdd6-f114-5515-9a86-62fc4074c0a5": 1,
+            "5ff9f483-6baf-5d10-928c-095a6752a896": 1,
+            "626d95b7-56c7-5b24-99e3-baba831fc708": 1,
+            "62c672b0-87f3-5e93-a9b8-d9de6013926a": 1,
+            "649ffc40-4d61-599d-a2fa-17e99032d00c": 1,
+            "65a9a6aa-8209-524c-9c9f-986e67c17db4": 1,
             "67884248-a6ce-5821-bd73-72ed8a292732": 1,
-            "6f06ee37-7e68-5b43-a4a3-aa1789c21d98": 3,
-            "716181f5-9562-59d6-9c39-c64756399a2e": 3,
-            "732cab48-d4be-56ad-8d14-aa73f03ff677": 3,
-            "74b27345-3ebb-53c3-9587-c86f2c74b154": 3,
-            "7ae19a7e-8232-5558-a377-6f57242ce9a4": 3,
-            "7c1d7e97-f6d0-5b93-837a-e7cf417a809f": 3,
-            "7d2b6618-87c5-52bd-a787-1024d040eea6": 3,
+            "6f06ee37-7e68-5b43-a4a3-aa1789c21d98": 1,
+            "716181f5-9562-59d6-9c39-c64756399a2e": 1,
+            "732cab48-d4be-56ad-8d14-aa73f03ff677": 1,
+            "74b27345-3ebb-53c3-9587-c86f2c74b154": 1,
+            "7ae19a7e-8232-5558-a377-6f57242ce9a4": 1,
+            "7c1d7e97-f6d0-5b93-837a-e7cf417a809f": 1,
+            "7d2b6618-87c5-52bd-a787-1024d040eea6": 1,
             "7d6334a7-3a55-5aa3-b67a-853af5d9ebec": 1,
-            "83b512cf-106c-5461-a31a-f8c842583409": 3,
-            "852cc4ef-9b90-5b52-b897-4752217705f3": 3,
-            "8c533a75-2816-5c2e-8f1d-79610a7bc06a": 2,
+            "83b512cf-106c-5461-a31a-f8c842583409": 1,
+            "852cc4ef-9b90-5b52-b897-4752217705f3": 1,
+            "8c533a75-2816-5c2e-8f1d-79610a7bc06a": 1,
             "8e924666-0aa4-526d-affc-c777fbb9abef": 1,
-            "91232911-b35d-54ef-8c98-a215163c31fc": 3,
+            "91232911-b35d-54ef-8c98-a215163c31fc": 1,
             "9bab7e52-edd0-595b-b3d7-81a850848843": 1,
-            "9cef53d2-7445-5fc0-8b4d-85f1a30bdbbc": 3,
-            "9e5550cb-10e1-59ca-b5c7-435c3dc263fd": 2,
+            "9cef53d2-7445-5fc0-8b4d-85f1a30bdbbc": 1,
+            "9e5550cb-10e1-59ca-b5c7-435c3dc263fd": 1,
             "9fc20058-38cb-5dd7-b7e4-1c40a33e921d": 1,
-            "a5837977-dd65-5900-beed-b2159f4a5b68": 3,
-            "a86a55eb-9812-530b-9618-92eb860c2e7c": 2,
-            "a93e03ba-e337-564c-9504-9310526133b0": 3,
-            "a99e9a94-d585-50c1-82c2-01b3af5ee46f": 3,
-            "aaea1863-e4d3-5686-acfe-95f4dfac4bc3": 3,
-            "ab73b88e-b751-57d7-958c-6edb6d97f80a": 3,
-            "ac5e2242-923a-50c1-91b8-55d821ac09fa": 3,
-            "b2cd346d-f5c5-5246-99e2-270b865502c8": 3,
-            "b55ab864-594e-5942-ae07-253cd2973b8a": 3,
-            "b86be36e-0ce6-5382-ab23-8e1fa7d2ffd7": 3,
-            "b881496f-e240-51b7-8218-5b4e179651e7": 2,
-            "bc7f6a84-51f1-5f5b-af14-ec1719cebb05": 2,
-            "bd47e60c-8798-504d-8dc1-cea50931cec8": 3,
-            "c90440b6-1901-5f01-9173-0f734dc68ab1": 3,
-            "ca7c4ece-bea2-52fb-b56e-e3ceecf18a4c": 3,
-            "cb8a0180-b10a-5a37-8b7a-4290fd69af3d": 3,
-            "ce6e4f48-9eaa-5bb0-839e-594135a0646a": 3,
-            "cf9b9161-5519-55a2-8644-af583ec455bd": 3,
-            "d0636f61-06a4-517c-8778-678c421c6076": 3,
-            "d0a4f8f6-7ee2-5825-bdf3-42e2e0234ff0": 3,
-            "d0e4c4f4-1432-527e-ac41-34b2fcb4fe96": 3,
-            "d15e8893-98ca-5a86-b8bb-cc7f24033b54": 3,
-            "d514cf1d-cbbb-5c26-8d17-83439facfe19": 2,
-            "da03442a-bfc6-538b-87e1-c98b8d5cfb20": 3,
-            "db73594f-d131-5b59-8f82-c5a1f4c94b1d": 3,
-            "dbc1152c-966d-5361-bfe8-112dfcf79595": 3,
-            "dc1ec750-ccef-5538-a559-0dce7969741a": 3,
-            "dc6df12a-75cb-52a0-8b19-f9d8644ec505": 3,
-            "deadf543-11a5-5b9f-8960-c4a3cbd5bac8": 3,
-            "df65bf2d-7ffc-5a0e-b5be-bee84a9b7f9a": 3,
-            "e39052a9-b084-583f-bcf9-db97dee8f00f": 3,
-            "e6724d82-da78-52a6-80cd-7a8b1f49c0cf": 3,
-            "e739f8b6-e4e2-5208-bf52-8b8088c5ae3d": 3,
-            "e81cb093-7862-52d2-a148-7211d26acfce": 3,
-            "e9fb9412-47a1-53e9-b70d-c3cc3f429c2f": 3,
-            "eb81c17e-a742-57b4-abdb-8180db177b8a": 3,
-            "ec072252-348d-5972-8bed-9f93586d2a30": 3,
-            "ed77de73-efcb-564f-931b-8fea1f03b36e": 3,
+            "a5837977-dd65-5900-beed-b2159f4a5b68": 1,
+            "a86a55eb-9812-530b-9618-92eb860c2e7c": 1,
+            "a93e03ba-e337-564c-9504-9310526133b0": 1,
+            "a99e9a94-d585-50c1-82c2-01b3af5ee46f": 1,
+            "aaea1863-e4d3-5686-acfe-95f4dfac4bc3": 1,
+            "ab73b88e-b751-57d7-958c-6edb6d97f80a": 1,
+            "ac5e2242-923a-50c1-91b8-55d821ac09fa": 1,
+            "b2cd346d-f5c5-5246-99e2-270b865502c8": 1,
+            "b55ab864-594e-5942-ae07-253cd2973b8a": 1,
+            "b86be36e-0ce6-5382-ab23-8e1fa7d2ffd7": 1,
+            "b881496f-e240-51b7-8218-5b4e179651e7": 1,
+            "bc7f6a84-51f1-5f5b-af14-ec1719cebb05": 1,
+            "bd47e60c-8798-504d-8dc1-cea50931cec8": 1,
+            "c90440b6-1901-5f01-9173-0f734dc68ab1": 1,
+            "ca7c4ece-bea2-52fb-b56e-e3ceecf18a4c": 1,
+            "cb8a0180-b10a-5a37-8b7a-4290fd69af3d": 1,
+            "ce6e4f48-9eaa-5bb0-839e-594135a0646a": 1,
+            "cf9b9161-5519-55a2-8644-af583ec455bd": 1,
+            "d0636f61-06a4-517c-8778-678c421c6076": 1,
+            "d0a4f8f6-7ee2-5825-bdf3-42e2e0234ff0": 1,
+            "d0e4c4f4-1432-527e-ac41-34b2fcb4fe96": 1,
+            "d15e8893-98ca-5a86-b8bb-cc7f24033b54": 1,
+            "d514cf1d-cbbb-5c26-8d17-83439facfe19": 1,
+            "da03442a-bfc6-538b-87e1-c98b8d5cfb20": 1,
+            "db73594f-d131-5b59-8f82-c5a1f4c94b1d": 1,
+            "dbc1152c-966d-5361-bfe8-112dfcf79595": 1,
+            "dc1ec750-ccef-5538-a559-0dce7969741a": 1,
+            "dc6df12a-75cb-52a0-8b19-f9d8644ec505": 1,
+            "deadf543-11a5-5b9f-8960-c4a3cbd5bac8": 1,
+            "df65bf2d-7ffc-5a0e-b5be-bee84a9b7f9a": 1,
+            "e39052a9-b084-583f-bcf9-db97dee8f00f": 1,
+            "e6724d82-da78-52a6-80cd-7a8b1f49c0cf": 1,
+            "e739f8b6-e4e2-5208-bf52-8b8088c5ae3d": 1,
+            "e81cb093-7862-52d2-a148-7211d26acfce": 1,
+            "e9fb9412-47a1-53e9-b70d-c3cc3f429c2f": 1,
+            "eb81c17e-a742-57b4-abdb-8180db177b8a": 1,
+            "ec072252-348d-5972-8bed-9f93586d2a30": 1,
+            "ed77de73-efcb-564f-931b-8fea1f03b36e": 1,
             "eeec2aa9-1458-55c4-99f0-60ea6a0299ed": 1,
-            "f543c0a9-c3bf-5daa-9ab6-7d4fb5f47f8d": 3,
-            "fbf9e0ad-f134-57b6-b4a4-929f78887993": 3,
+            "f543c0a9-c3bf-5daa-9ab6-7d4fb5f47f8d": 1,
+            "fbf9e0ad-f134-57b6-b4a4-929f78887993": 1,
             "fef06068-703b-5c3d-8d91-b7e73c7b2f8a": 1,
-            "ffdd0a0b-d797-539c-8e91-cc89106a7702": 3
+            "ffdd0a0b-d797-539c-8e91-cc89106a7702": 1
           },
           "foil": true,
-          "totalWeight": 303
+          "totalWeight": 115
         },
         "foilUncommon": {
           "cards": {
-            "031ee583-8863-5e0d-bb3f-140e346b6557": 3,
+            "031ee583-8863-5e0d-bb3f-140e346b6557": 1,
             "07f10747-d129-5025-9af0-b7919df3c82a": 1,
             "08f5c431-3da6-5cd9-b633-27c84fe7150d": 1,
-            "0cf485ea-1155-591d-967c-e74264331362": 3,
-            "10939fcd-ecb1-51b0-9d0d-4a342a446cd5": 3,
-            "136a943f-a2c0-5f1f-b6d3-5a55b3ad76c8": 2,
-            "13a45c3e-acf7-546e-a67a-c293e9e8184e": 3,
-            "18c59430-8741-5e14-88aa-efe0e73853e3": 3,
-            "1945c138-c3fb-50cd-91f1-f9f92571365a": 2,
-            "1a1ca1b3-740f-547b-8917-596deae8feb1": 3,
-            "1b262ddb-de89-5a53-983f-8d6e3d983dc5": 3,
-            "1dddec28-ae0e-512e-a8a8-e93e1606fb8a": 2,
-            "1f36d944-7a4b-5fdf-8c17-63e550a58c0a": 3,
-            "2ac9dead-1e25-5902-bbba-e39936cf1c27": 3,
-            "2e5c5bd2-ed4a-556f-a920-10ee0ddcb6cc": 3,
+            "0cf485ea-1155-591d-967c-e74264331362": 1,
+            "10939fcd-ecb1-51b0-9d0d-4a342a446cd5": 1,
+            "136a943f-a2c0-5f1f-b6d3-5a55b3ad76c8": 1,
+            "13a45c3e-acf7-546e-a67a-c293e9e8184e": 1,
+            "18c59430-8741-5e14-88aa-efe0e73853e3": 1,
+            "1945c138-c3fb-50cd-91f1-f9f92571365a": 1,
+            "1a1ca1b3-740f-547b-8917-596deae8feb1": 1,
+            "1b262ddb-de89-5a53-983f-8d6e3d983dc5": 1,
+            "1dddec28-ae0e-512e-a8a8-e93e1606fb8a": 1,
+            "1f36d944-7a4b-5fdf-8c17-63e550a58c0a": 1,
+            "2ac9dead-1e25-5902-bbba-e39936cf1c27": 1,
+            "2e5c5bd2-ed4a-556f-a920-10ee0ddcb6cc": 1,
             "34322e9d-0a9f-5a99-a0bc-80d579b395cc": 1,
-            "36898bc6-f71c-58cc-98bc-513115c0aca6": 3,
-            "3a6f5d81-0f85-5718-ba57-077df1d3f93b": 3,
+            "36898bc6-f71c-58cc-98bc-513115c0aca6": 1,
+            "3a6f5d81-0f85-5718-ba57-077df1d3f93b": 1,
             "41747a81-62b5-51c2-984b-45cdd3f9adcf": 1,
-            "451f195e-d557-50cc-ae0b-39dc7c099239": 3,
+            "451f195e-d557-50cc-ae0b-39dc7c099239": 1,
             "4a41ac62-bf72-5175-a84d-25fdf2c925a7": 1,
-            "4b2e454d-1fb5-596b-986d-ab0a1060f20a": 3,
-            "4e58283e-05a2-5f9d-b4d2-b613a0863efe": 3,
-            "4f39c093-f2d1-542d-93d8-d2f0ccbc490d": 3,
-            "53ff6480-29a3-564c-8006-baea54baf120": 3,
-            "55aefaee-be7d-52f8-a75a-8518a348ffc8": 3,
-            "5651bd95-cb41-5266-8654-93707f0c4f9a": 3,
-            "57214924-fcae-54b4-a6e6-0b9ffe18897d": 2,
-            "59a637f5-ef4e-58c3-b1c0-dfddb587c815": 2,
-            "5d15164e-fdd8-55f0-a4f9-1a88207b9c34": 3,
-            "60fa1367-5c47-57b2-925d-cb0c5202db63": 3,
-            "6726f091-63a5-5d78-a721-83800d1e0d57": 3,
-            "6f58230d-88a5-583f-a66c-dc0c071ddc2e": 3,
-            "714b9b3c-2d29-559d-8060-e872a04282cc": 3,
+            "4b2e454d-1fb5-596b-986d-ab0a1060f20a": 1,
+            "4e58283e-05a2-5f9d-b4d2-b613a0863efe": 1,
+            "4f39c093-f2d1-542d-93d8-d2f0ccbc490d": 1,
+            "53ff6480-29a3-564c-8006-baea54baf120": 1,
+            "55aefaee-be7d-52f8-a75a-8518a348ffc8": 1,
+            "5651bd95-cb41-5266-8654-93707f0c4f9a": 1,
+            "57214924-fcae-54b4-a6e6-0b9ffe18897d": 1,
+            "59a637f5-ef4e-58c3-b1c0-dfddb587c815": 1,
+            "5d15164e-fdd8-55f0-a4f9-1a88207b9c34": 1,
+            "60fa1367-5c47-57b2-925d-cb0c5202db63": 1,
+            "6726f091-63a5-5d78-a721-83800d1e0d57": 1,
+            "6f58230d-88a5-583f-a66c-dc0c071ddc2e": 1,
+            "714b9b3c-2d29-559d-8060-e872a04282cc": 1,
             "73562a88-c8d7-5bd3-abc2-2c7961a5c634": 1,
-            "73b4bff5-0a6e-5beb-9877-422c7ca2b8e7": 3,
-            "74e8a0c7-6ae0-533f-8aa1-cb80ffd160ee": 3,
-            "7df77858-8f54-5934-8d38-db40ec93af97": 3,
-            "804f8427-d707-5bfc-8fa4-b9b8459763ba": 3,
-            "805f103f-c18b-5dd0-a69e-afa38e2ea3d3": 3,
-            "856041c2-3b3c-58e0-81cf-98947d913942": 3,
-            "87ee6756-9cf6-587a-b2a6-4d53634cc66f": 3,
-            "8d7df51b-d09e-5985-bd36-735e358258eb": 3,
-            "92e12af9-81f7-53c4-ab48-bcaa708da3d5": 3,
-            "9312733a-9dd4-5601-8d7a-5439d6861c32": 3,
+            "73b4bff5-0a6e-5beb-9877-422c7ca2b8e7": 1,
+            "74e8a0c7-6ae0-533f-8aa1-cb80ffd160ee": 1,
+            "7df77858-8f54-5934-8d38-db40ec93af97": 1,
+            "804f8427-d707-5bfc-8fa4-b9b8459763ba": 1,
+            "805f103f-c18b-5dd0-a69e-afa38e2ea3d3": 1,
+            "856041c2-3b3c-58e0-81cf-98947d913942": 1,
+            "87ee6756-9cf6-587a-b2a6-4d53634cc66f": 1,
+            "8d7df51b-d09e-5985-bd36-735e358258eb": 1,
+            "92e12af9-81f7-53c4-ab48-bcaa708da3d5": 1,
+            "9312733a-9dd4-5601-8d7a-5439d6861c32": 1,
             "935ddb73-3b3b-5466-8b25-706b1c5eeb5b": 1,
-            "966e7d05-c334-546e-b610-749ea04e84f1": 3,
-            "981642e0-5519-5928-95d6-c1a838185583": 2,
-            "992aee64-505a-521f-a14c-eaa6e6bec4c0": 3,
-            "9966ccd7-ad8e-5942-a717-8446b353fff0": 3,
-            "9a86407d-ccde-5c76-ac98-26dbd2b2927d": 3,
-            "9ae4d2c9-8764-59bc-88ee-d6c4927118f7": 3,
-            "9c024494-8a88-5dd8-989e-a4fee515f55a": 3,
-            "a18b87d1-223f-5c9f-983f-df9a2df5d40d": 3,
-            "a25e879a-579b-59fd-b069-4deff1f0aca8": 3,
-            "a629cfa4-41d5-5591-81ad-6e1ce4173a4c": 3,
-            "a9879e18-ba17-5577-b5da-7e6b433804b7": 2,
-            "aa7f274a-6812-5560-b5de-9263df65e0bf": 3,
-            "ac08f109-cef3-5819-ba32-583086587870": 3,
-            "adfe4990-cc5c-5bee-a0db-be6dc29b3a39": 3,
-            "af5f40f4-1dbd-537e-ac6d-1dad11a5b02c": 3,
-            "afafb7b4-d994-552f-a510-91db87c36511": 3,
-            "afc36fe4-7907-5968-add1-320302f9fc01": 3,
-            "b4fa27bb-bf91-5c50-b22d-9d5656230820": 2,
-            "bcec5dee-375f-5367-97cc-7d8e169d4514": 3,
-            "bd247c88-9207-5d60-9033-330ab0a2594e": 3,
-            "beb3990e-ee5c-51e0-9651-e1e5a5f336c0": 3,
-            "c3fb2c28-dadb-5ca7-90d7-d05677605c3f": 3,
-            "c77178a9-4d38-5736-835c-318a46fa7edb": 2,
-            "c7767976-03e2-5440-8f2b-13c2b282d090": 3,
-            "ca49d9d4-7941-5a6a-8e7f-0cc63db5e1bc": 3,
-            "ca9035f4-c17f-5b5a-b561-3e73955e527e": 3,
-            "cb4e9fb1-4b47-5cc4-9dc1-b2882c676e04": 3,
-            "d58d86a0-c935-5432-b26c-e8dca90e771e": 3,
-            "d83a4786-30e6-522c-bb99-53bc4d5bfda1": 3,
-            "db7930a7-37bb-5542-af54-b0bb58ae613c": 3,
-            "e0fb0b08-1121-5a60-9115-4edde0db4ce8": 3,
+            "966e7d05-c334-546e-b610-749ea04e84f1": 1,
+            "981642e0-5519-5928-95d6-c1a838185583": 1,
+            "992aee64-505a-521f-a14c-eaa6e6bec4c0": 1,
+            "9966ccd7-ad8e-5942-a717-8446b353fff0": 1,
+            "9a86407d-ccde-5c76-ac98-26dbd2b2927d": 1,
+            "9ae4d2c9-8764-59bc-88ee-d6c4927118f7": 1,
+            "9c024494-8a88-5dd8-989e-a4fee515f55a": 1,
+            "a18b87d1-223f-5c9f-983f-df9a2df5d40d": 1,
+            "a25e879a-579b-59fd-b069-4deff1f0aca8": 1,
+            "a629cfa4-41d5-5591-81ad-6e1ce4173a4c": 1,
+            "a9879e18-ba17-5577-b5da-7e6b433804b7": 1,
+            "aa7f274a-6812-5560-b5de-9263df65e0bf": 1,
+            "ac08f109-cef3-5819-ba32-583086587870": 1,
+            "adfe4990-cc5c-5bee-a0db-be6dc29b3a39": 1,
+            "af5f40f4-1dbd-537e-ac6d-1dad11a5b02c": 1,
+            "afafb7b4-d994-552f-a510-91db87c36511": 1,
+            "afc36fe4-7907-5968-add1-320302f9fc01": 1,
+            "b4fa27bb-bf91-5c50-b22d-9d5656230820": 1,
+            "bcec5dee-375f-5367-97cc-7d8e169d4514": 1,
+            "bd247c88-9207-5d60-9033-330ab0a2594e": 1,
+            "beb3990e-ee5c-51e0-9651-e1e5a5f336c0": 1,
+            "c3fb2c28-dadb-5ca7-90d7-d05677605c3f": 1,
+            "c77178a9-4d38-5736-835c-318a46fa7edb": 1,
+            "c7767976-03e2-5440-8f2b-13c2b282d090": 1,
+            "ca49d9d4-7941-5a6a-8e7f-0cc63db5e1bc": 1,
+            "ca9035f4-c17f-5b5a-b561-3e73955e527e": 1,
+            "cb4e9fb1-4b47-5cc4-9dc1-b2882c676e04": 1,
+            "d58d86a0-c935-5432-b26c-e8dca90e771e": 1,
+            "d83a4786-30e6-522c-bb99-53bc4d5bfda1": 1,
+            "db7930a7-37bb-5542-af54-b0bb58ae613c": 1,
+            "e0fb0b08-1121-5a60-9115-4edde0db4ce8": 1,
             "e56fab2f-3093-555f-9c5d-c5fcca0dfbb2": 1,
-            "eb0467cf-9e18-590c-837e-bf039dcf9dc9": 3,
-            "ecad5a65-7b5c-52a3-b4a2-46d4f1743937": 3,
-            "ed974790-983c-50e3-aee9-7d20cfe97c69": 3,
-            "ef632a62-365a-5844-a27f-e7935f5a22ca": 3,
-            "ef6ef75d-0496-5ede-99f6-453aeb0e337a": 3,
-            "f045cc48-0343-50fe-8298-8b862cea93bf": 3,
-            "f6e03176-0962-590d-885e-627b93867f0d": 3,
-            "f890541a-a4a3-54c2-a36d-111cf82e662f": 3,
+            "eb0467cf-9e18-590c-837e-bf039dcf9dc9": 1,
+            "ecad5a65-7b5c-52a3-b4a2-46d4f1743937": 1,
+            "ed974790-983c-50e3-aee9-7d20cfe97c69": 1,
+            "ef632a62-365a-5844-a27f-e7935f5a22ca": 1,
+            "ef6ef75d-0496-5ede-99f6-453aeb0e337a": 1,
+            "f045cc48-0343-50fe-8298-8b862cea93bf": 1,
+            "f6e03176-0962-590d-885e-627b93867f0d": 1,
+            "f890541a-a4a3-54c2-a36d-111cf82e662f": 1,
             "fa18a3c2-fa27-5460-bd62-0222d1242cb8": 1,
-            "fbd12dc3-997d-5df7-838e-cdc79e4b7fd3": 3,
-            "fd7edeb0-80ad-5b6e-b47d-a6896b00cdd8": 3
+            "fbd12dc3-997d-5df7-838e-cdc79e4b7fd3": 1,
+            "fd7edeb0-80ad-5b6e-b47d-a6896b00cdd8": 1
           },
           "foil": true,
-          "totalWeight": 240
+          "totalWeight": 89
         },
-        "anyShowcase": {
+        "showcaseRareMythic": {
           "cards": {
-            "07d5f71c-4fca-53b8-abd7-626265880f8f": 8,
-            "07f10747-d129-5025-9af0-b7919df3c82a": 4,
-            "08f5c431-3da6-5cd9-b633-27c84fe7150d": 4,
-            "1780ff22-2953-5b72-b4be-43b9f7454167": 8,
-            "24ddc5b0-3978-5cb0-9a05-b224b0642800": 8,
-            "2efb07cf-00e9-55da-8f4c-f40afb4724ff": 8,
             "2fe9fcfe-046b-5ccc-b477-269ab12262c0": 1,
-            "34322e9d-0a9f-5a99-a0bc-80d579b395cc": 4,
-            "3fe29c0e-4ca5-5f3b-93cd-8b2664bc61c5": 8,
-            "41747a81-62b5-51c2-984b-45cdd3f9adcf": 4,
-            "4a41ac62-bf72-5175-a84d-25fdf2c925a7": 4,
             "4f200c09-f83f-586d-a364-1f94e5fa2652": 2,
-            "56933d43-1a1f-58ce-8c7b-557def831b83": 8,
-            "56da8c67-31a8-567c-9ac0-18b42db36158": 8,
             "5ba3be28-c945-502d-8ef4-8297b5fa0fac": 2,
             "66819bb9-e044-512b-921e-7a5a82be79f5": 1,
-            "67884248-a6ce-5821-bd73-72ed8a292732": 8,
             "6f6a1a8c-be54-5003-bcf2-5d7412678d3c": 1,
-            "73562a88-c8d7-5bd3-abc2-2c7961a5c634": 4,
             "7684f22a-6acb-53ed-a568-2029875ddfde": 2,
-            "7d6334a7-3a55-5aa3-b67a-853af5d9ebec": 8,
             "808aab9f-f353-598e-ae86-0099ad7b0da4": 2,
             "8d2f7788-a8d8-5097-9cc2-ad61bbba9c71": 2,
             "8e6befac-3f64-5666-ac47-99d5e82db820": 1,
-            "8e924666-0aa4-526d-affc-c777fbb9abef": 8,
-            "935ddb73-3b3b-5466-8b25-706b1c5eeb5b": 4,
-            "9bab7e52-edd0-595b-b3d7-81a850848843": 8,
-            "9fc20058-38cb-5dd7-b7e4-1c40a33e921d": 8,
-            "e56fab2f-3093-555f-9c5d-c5fcca0dfbb2": 4,
-            "eeec2aa9-1458-55c4-99f0-60ea6a0299ed": 8,
-            "f203bad8-9c07-507c-9699-fc8fec69e2d2": 1,
-            "fa18a3c2-fa27-5460-bd62-0222d1242cb8": 4,
-            "fef06068-703b-5c3d-8d91-b7e73c7b2f8a": 8
+            "f203bad8-9c07-507c-9699-fc8fec69e2d2": 1
           },
           "foil": false,
-          "totalWeight": 163
+          "totalWeight": 15
+        },
+        "showcaseCommon": {
+          "cards": {
+            "07d5f71c-4fca-53b8-abd7-626265880f8f": 1,
+            "1780ff22-2953-5b72-b4be-43b9f7454167": 1,
+            "24ddc5b0-3978-5cb0-9a05-b224b0642800": 1,
+            "2efb07cf-00e9-55da-8f4c-f40afb4724ff": 1,
+            "3fe29c0e-4ca5-5f3b-93cd-8b2664bc61c5": 1,
+            "56933d43-1a1f-58ce-8c7b-557def831b83": 1,
+            "56da8c67-31a8-567c-9ac0-18b42db36158": 1,
+            "67884248-a6ce-5821-bd73-72ed8a292732": 1,
+            "7d6334a7-3a55-5aa3-b67a-853af5d9ebec": 1,
+            "8e924666-0aa4-526d-affc-c777fbb9abef": 1,
+            "9bab7e52-edd0-595b-b3d7-81a850848843": 1,
+            "9fc20058-38cb-5dd7-b7e4-1c40a33e921d": 1,
+            "eeec2aa9-1458-55c4-99f0-60ea6a0299ed": 1,
+            "fef06068-703b-5c3d-8d91-b7e73c7b2f8a": 1
+          },
+          "foil": false,
+          "totalWeight": 14
         },
         "ancillary": {
           "cards": {
@@ -231814,6 +232177,21 @@
           },
           "foil": true,
           "totalWeight": 379
+        },
+        "showcaseUncommon": {
+          "cards": {
+            "07f10747-d129-5025-9af0-b7919df3c82a": 1,
+            "08f5c431-3da6-5cd9-b633-27c84fe7150d": 1,
+            "34322e9d-0a9f-5a99-a0bc-80d579b395cc": 1,
+            "41747a81-62b5-51c2-984b-45cdd3f9adcf": 1,
+            "4a41ac62-bf72-5175-a84d-25fdf2c925a7": 1,
+            "73562a88-c8d7-5bd3-abc2-2c7961a5c634": 1,
+            "935ddb73-3b3b-5466-8b25-706b1c5eeb5b": 1,
+            "e56fab2f-3093-555f-9c5d-c5fcca0dfbb2": 1,
+            "fa18a3c2-fa27-5460-bd62-0222d1242cb8": 1
+          },
+          "foil": false,
+          "totalWeight": 9
         }
       },
       "sourceSetCodes": [
@@ -239814,6 +240192,7 @@
             "c2f125ec-847c-501a-8974-59edd31b696d": 1,
             "cef6d8f1-2085-5dc6-98be-8f1eb6faaee7": 1,
             "d27b0d0d-f775-534b-bd39-deb6d15ab4b7": 1,
+            "d31643a7-3585-50a3-a845-5d9900570fd2": 1,
             "d58a6df4-6066-5049-b705-10c1dd865084": 1,
             "d995c603-e44a-5fe1-a7e1-4a8451326968": 1,
             "e8b1f616-9d82-5f85-9ac1-5adfdaa9b207": 1,
@@ -239821,7 +240200,7 @@
             "fd8c9492-f8d9-5688-af02-db9c27ac8063": 1
           },
           "foil": false,
-          "totalWeight": 21
+          "totalWeight": 22
         },
         "promo": {
           "cards": {
@@ -278815,6 +279194,470 @@
     }
   },
   "M13": {
+    "battle-deck": {
+      "name": "Magic 2013 Booster Battle Pack 20-Card Deck",
+      "languages": [
+        "cs",
+        "ct",
+        "de",
+        "en",
+        "fr",
+        "it",
+        "jp",
+        "kr",
+        "pt",
+        "ru",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blackA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blackB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blackA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blackB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "blackA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "blackB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "blackA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "blackB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blackA": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blackA": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blackB": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blackB": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blackA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blackA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blackB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blackB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "redA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "redA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "redB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "redB": 10,
+            "greenB": 10
+          }
+        }
+      ],
+      "boostersTotalWeight": 40,
+      "sheets": {
+        "whiteA": {
+          "fixed": true,
+          "cards": {
+            "1fda811c-7837-561d-a58a-a67217247813": 1,
+            "219a350d-fa58-58b0-b887-88dff368328a": 1,
+            "35d8b1c3-b33f-5538-ac33-bab020158536": 1,
+            "4fa10079-8db8-5a27-83d2-1898b5a3ca91": 1,
+            "50e9802b-c4a2-5b92-90d3-56605e0a3fe0": 1,
+            "8ac2b09d-6c98-533d-93b4-fdcb71957895": 1,
+            "b29c4bde-b14c-5446-a64b-17cf0295bcfc": 1,
+            "b53f0355-e14b-51a7-afec-2a5edf7dbc51": 1,
+            "b5999522-3387-5199-9519-a225c72ecee0": 2
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "blueA": {
+          "fixed": true,
+          "cards": {
+            "0148e313-3b35-5def-99fd-9be854fb884b": 1,
+            "124da89d-9501-51a4-921e-2c019feac9c9": 1,
+            "2858952a-8c2f-5ddb-ab3e-745acea5f066": 1,
+            "3ffb8c00-7223-551f-881b-895c7a4ad74f": 1,
+            "40d85e8e-b1f1-56ea-aa32-437612f68bed": 1,
+            "858edcf2-9bd3-5e58-8e85-16e571d0a1d4": 2,
+            "af61b110-56fc-5db6-adff-67d47eea630f": 1,
+            "f102fa44-7718-5a6c-b74d-0e7fe34805a3": 1,
+            "fe716009-6845-57bf-8aa2-47e07ec9d86b": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "blueB": {
+          "fixed": true,
+          "cards": {
+            "0148e313-3b35-5def-99fd-9be854fb884b": 1,
+            "13076da1-5077-57a8-81b0-ea8f8b961928": 1,
+            "2858952a-8c2f-5ddb-ab3e-745acea5f066": 1,
+            "5bbf835e-d415-507d-b21c-6da1a80d0f87": 1,
+            "5e784dc9-34fc-58cf-aeb0-0f6b923f8614": 1,
+            "858edcf2-9bd3-5e58-8e85-16e571d0a1d4": 2,
+            "94a69517-867c-56e6-b7d0-f9edbce24669": 1,
+            "9d83a693-e7fe-51e4-8c25-59d0d4864c9f": 1,
+            "af61b110-56fc-5db6-adff-67d47eea630f": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "whiteB": {
+          "fixed": true,
+          "cards": {
+            "1fda811c-7837-561d-a58a-a67217247813": 1,
+            "219a350d-fa58-58b0-b887-88dff368328a": 1,
+            "35d8b1c3-b33f-5538-ac33-bab020158536": 1,
+            "43871ba3-83e7-5425-8373-fd8d8ad21be0": 1,
+            "6bdcd5e2-7f1c-5891-a7e1-242c23d65670": 1,
+            "82d3ac9e-f3e1-57ba-a289-966ea9d716be": 1,
+            "b5999522-3387-5199-9519-a225c72ecee0": 2,
+            "be17a632-833c-5314-902a-ee4fdbf9b03d": 1,
+            "c4539aa6-0f3e-5d95-add3-40f72c26a64b": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "blackA": {
+          "fixed": true,
+          "cards": {
+            "0ca3149b-2bc9-505d-bb82-b76bb935514a": 1,
+            "1d381318-0d8b-5296-a796-ca7e365ddff2": 1,
+            "2542f237-548a-536f-b372-80cf8e49c8bb": 1,
+            "2c9a3a8a-228e-57cb-9a53-230f5d1cc6c3": 1,
+            "31f7cb3a-0909-515a-8b54-473192ea2caf": 1,
+            "38b391e1-289e-5402-8892-7be81aac5683": 1,
+            "52fa0f8a-e488-585c-86e0-8b341f6deb4d": 2,
+            "d457eb9c-d5bb-52e8-98d8-b2f871e2be3a": 1,
+            "f11730f2-5e97-56dc-8800-8af27fbd66ea": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "blackB": {
+          "fixed": true,
+          "cards": {
+            "021fdfa6-0892-522e-8cd5-c4b2dce64ff1": 1,
+            "04235c6c-f85e-512f-acee-f6a42623eebd": 1,
+            "2542f237-548a-536f-b372-80cf8e49c8bb": 1,
+            "31f7cb3a-0909-515a-8b54-473192ea2caf": 1,
+            "38b391e1-289e-5402-8892-7be81aac5683": 1,
+            "52fa0f8a-e488-585c-86e0-8b341f6deb4d": 2,
+            "796d99ec-fc14-52fb-bc2d-d3dcb7b0b912": 1,
+            "99408690-6cfc-5bb3-8048-bf1d2ee7e61f": 1,
+            "a8fb628c-412f-5591-9cdc-da73a05c8cb0": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "redA": {
+          "fixed": true,
+          "cards": {
+            "0a5bf01e-c04c-5a66-b0a8-3817df77ca27": 1,
+            "26240a77-96c1-5021-8e10-b7e4bd05a6ff": 1,
+            "2d96fcea-ab9e-5be5-858a-6cec3597b279": 2,
+            "816c9f6b-0ea1-5cc5-b004-ecc770dad026": 1,
+            "a33d6408-0871-57c6-9839-8d34eb25423d": 1,
+            "ae904c9e-957b-5efa-be8d-0ce4a2a9f2ac": 1,
+            "bc6113e8-bc75-5215-b380-6a3984d1b1b1": 1,
+            "c2d8d96a-ef84-5e47-86ed-3e3b9f1161df": 1,
+            "fc216486-22f0-52a0-b6bc-dfbbf09d38c6": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "redB": {
+          "fixed": true,
+          "cards": {
+            "2d96fcea-ab9e-5be5-858a-6cec3597b279": 2,
+            "3bd30bb4-9dea-56df-9e81-0a8519284e57": 1,
+            "50e57ed0-8be5-5adf-9517-a65c029066e8": 1,
+            "7d0dd3e2-abc7-57a1-9e02-09e3620f9563": 1,
+            "816c9f6b-0ea1-5cc5-b004-ecc770dad026": 1,
+            "8cd69997-bdf1-574a-8ea7-d628995e14ce": 1,
+            "ae904c9e-957b-5efa-be8d-0ce4a2a9f2ac": 1,
+            "aeb832d1-327f-5458-9a1f-cc047e0861ab": 1,
+            "bc6113e8-bc75-5215-b380-6a3984d1b1b1": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "greenA": {
+          "fixed": true,
+          "cards": {
+            "114750bd-3a31-57e2-bb33-163eae83d230": 2,
+            "16249867-92d9-5473-b213-8237cdcae416": 1,
+            "2baa6de2-96c7-5de5-9101-42d0f472b7af": 1,
+            "34f57d78-b9e2-5ed7-b7d1-7b0128940010": 1,
+            "421feca8-2b00-589a-be20-b42a576c7713": 1,
+            "46ac4537-310e-563f-b5b6-818395da2a42": 1,
+            "5bb2b358-a9d5-5fc5-a44e-09a695614216": 1,
+            "73f4e4b1-727d-5d8c-a591-42246df8db08": 1,
+            "ae2a9bbc-ca04-52b7-bf7d-a9f0e724ecb1": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "greenB": {
+          "fixed": true,
+          "cards": {
+            "114750bd-3a31-57e2-bb33-163eae83d230": 2,
+            "137e14b7-75c7-5fe5-bdf1-d4c26636cb54": 1,
+            "16249867-92d9-5473-b213-8237cdcae416": 1,
+            "34f57d78-b9e2-5ed7-b7d1-7b0128940010": 1,
+            "57ae6f28-6f61-5f75-aeee-74f160fcc848": 1,
+            "73fae159-c38b-5a6b-88fd-bdf7b9e4c4fa": 1,
+            "ae2a9bbc-ca04-52b7-bf7d-a9f0e724ecb1": 1,
+            "d6a28ccf-e304-5bf8-aa8e-305b1209991d": 1,
+            "f505cac2-a76c-55a3-8cd5-a8ec94e99778": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        }
+      },
+      "sourceSetCodes": [
+        "M13"
+      ]
+    },
     "draft": {
       "name": "Magic 2013 Draft Booster",
       "languages": [
@@ -279381,6 +280224,217 @@
           },
           "foil": true,
           "totalWeight": 29040
+        }
+      },
+      "sourceSetCodes": [
+        "M13"
+      ]
+    },
+    "duelspromo": {
+      "name": "Duels of the Planeswalkers 2013 Base Booster",
+      "languages": [
+        "cs",
+        "ct",
+        "de",
+        "en",
+        "fr",
+        "it",
+        "jp",
+        "kr",
+        "pt",
+        "ru",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "common": 4,
+            "uncommon": 1
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "common": 3,
+            "uncommon": 2
+          }
+        }
+      ],
+      "boostersTotalWeight": 2,
+      "sheets": {
+        "common": {
+          "cards": {
+            "021fdfa6-0892-522e-8cd5-c4b2dce64ff1": 1,
+            "04235c6c-f85e-512f-acee-f6a42623eebd": 1,
+            "063cf2eb-3dce-5488-b906-2e6184530cf7": 1,
+            "06770c5c-c004-5229-9832-ce9a98283a17": 1,
+            "0717fbf0-b455-59ad-b0e0-7dce7dee2288": 1,
+            "0a5bf01e-c04c-5a66-b0a8-3817df77ca27": 1,
+            "0c019a95-4852-5b61-b93b-41fa57d8271d": 1,
+            "0ca3149b-2bc9-505d-bb82-b76bb935514a": 1,
+            "0ea513ec-c1e3-51cd-9193-04423fabc13f": 1,
+            "106a40e3-7d29-55e4-bd49-28d96c22be89": 1,
+            "10d0889f-e026-5daa-934a-05bd37e294ce": 1,
+            "112ddf1f-3aeb-5795-b8bf-808f45beb440": 1,
+            "124da89d-9501-51a4-921e-2c019feac9c9": 1,
+            "13076da1-5077-57a8-81b0-ea8f8b961928": 1,
+            "132d60ff-6620-5cd5-a861-d57d72ef5ab0": 1,
+            "137e14b7-75c7-5fe5-bdf1-d4c26636cb54": 1,
+            "1634e202-7f16-57e8-8e6a-2bb1df01fd1b": 1,
+            "18602865-c7d3-53f7-bb2e-447067534aa9": 1,
+            "1b18fe55-a628-5915-8465-ff3328e5f675": 1,
+            "1c9cf673-2db5-54d3-b52e-5cfe4288428f": 1,
+            "1c9dd617-639d-5fbe-82c5-421855a23c7a": 1,
+            "1d381318-0d8b-5296-a796-ca7e365ddff2": 1,
+            "1e1ac4d6-e243-5f6d-8d1b-42566f281841": 1,
+            "1f552e47-2b5a-508d-8c2f-2d5877d052a5": 1,
+            "261e75f7-a78e-5d9b-9052-c2a32c190eee": 1,
+            "26240a77-96c1-5021-8e10-b7e4bd05a6ff": 1,
+            "2baa6de2-96c7-5de5-9101-42d0f472b7af": 1,
+            "2c9a3a8a-228e-57cb-9a53-230f5d1cc6c3": 1,
+            "2eae30b8-f75e-574a-aec5-a5db2f1cfcc2": 1,
+            "3208bcd9-53d3-580b-ae23-349167ad1f3f": 1,
+            "336a78a8-7ffb-5fd0-8a88-894dd76ee5a1": 1,
+            "38b09125-a56c-5ff9-a4a9-8d6e40d96f5b": 1,
+            "3b79cdd6-2d4d-597c-a882-bb1a93c4f225": 1,
+            "3bd30bb4-9dea-56df-9e81-0a8519284e57": 1,
+            "40d85e8e-b1f1-56ea-aa32-437612f68bed": 1,
+            "421feca8-2b00-589a-be20-b42a576c7713": 1,
+            "43871ba3-83e7-5425-8373-fd8d8ad21be0": 1,
+            "4ae19376-b895-5d88-af47-4035c8d7cbe6": 1,
+            "4ee1448f-022e-50a9-ab15-039f881fb9ba": 1,
+            "4fa10079-8db8-5a27-83d2-1898b5a3ca91": 1,
+            "50e57ed0-8be5-5adf-9517-a65c029066e8": 1,
+            "50e9802b-c4a2-5b92-90d3-56605e0a3fe0": 1,
+            "512c6ede-df28-5bb1-adb2-ba10a0c1080e": 1,
+            "51d85fca-2b46-5cf4-bddc-4dbb45cce649": 1,
+            "5612119f-4401-587c-9ddf-67aabd820b19": 1,
+            "57ae6f28-6f61-5f75-aeee-74f160fcc848": 1,
+            "59409e7e-5488-5244-8445-889e4b517887": 1,
+            "5bb2b358-a9d5-5fc5-a44e-09a695614216": 1,
+            "5bbf835e-d415-507d-b21c-6da1a80d0f87": 1,
+            "5e784dc9-34fc-58cf-aeb0-0f6b923f8614": 1,
+            "609f8720-c3d3-5d29-ac1c-0b6b44c6e38b": 1,
+            "61210625-568f-5cad-81f5-f0a5bf2ac1cd": 1,
+            "61c57110-e47d-5fac-a1d1-26ed6a75f58f": 1,
+            "686e4cf2-6f63-59ac-8d76-66d668ba7d54": 1,
+            "6bdcd5e2-7f1c-5891-a7e1-242c23d65670": 1,
+            "6dc0a17f-4462-59d5-86ef-cc295539bb17": 1,
+            "6e84ea5f-2c26-5b72-ac31-47d47d5019ef": 1,
+            "727403d8-c530-51a2-aa03-b6520ec7bb2b": 1,
+            "73f4e4b1-727d-5d8c-a591-42246df8db08": 1,
+            "77fbef90-f386-59c6-875d-123f4a97bb79": 1,
+            "796d99ec-fc14-52fb-bc2d-d3dcb7b0b912": 1,
+            "7d0dd3e2-abc7-57a1-9e02-09e3620f9563": 1,
+            "827a6245-3970-5fbb-8f5d-b416b2e56058": 1,
+            "82d3ac9e-f3e1-57ba-a289-966ea9d716be": 1,
+            "84be9a51-6181-5034-9c57-b51ae6ecc615": 1,
+            "8ac2b09d-6c98-533d-93b4-fdcb71957895": 1,
+            "8cd69997-bdf1-574a-8ea7-d628995e14ce": 1,
+            "91350720-e5d2-5a3f-80ec-ad280df16963": 1,
+            "9a508050-555c-59c2-98ac-bb4467648702": 1,
+            "9b9d82ae-f3f0-5476-ab87-5e466e8bd630": 1,
+            "9c9739d7-7c3b-597d-9664-a941a92f25da": 1,
+            "9d83a693-e7fe-51e4-8c25-59d0d4864c9f": 1,
+            "9d872868-5067-5cee-87ad-0c9fdc590f3e": 1,
+            "a208bcee-b0bd-5368-836b-c7f33ed7cca0": 1,
+            "a33d6408-0871-57c6-9839-8d34eb25423d": 1,
+            "a8fb628c-412f-5591-9cdc-da73a05c8cb0": 1,
+            "a9a3e49b-5d9b-5aaf-b0bf-6fc61aaff778": 1,
+            "aa1cbe58-fefa-5fe2-9833-7821f700bfc8": 1,
+            "aef14ede-00d8-57d6-9629-05135dacf6d3": 1,
+            "b4251e1e-d773-5829-b1f0-0d8d1e60238e": 1,
+            "b4cc47dc-8c2e-5b93-b7ed-52f5c46a734c": 1,
+            "b53f0355-e14b-51a7-afec-2a5edf7dbc51": 1,
+            "b70c1bba-851d-5959-8f45-3192e498c0e9": 1,
+            "be17a632-833c-5314-902a-ee4fdbf9b03d": 1,
+            "bf9f48d0-70bb-59e6-9bb7-116a924204a4": 1,
+            "c2d8d96a-ef84-5e47-86ed-3e3b9f1161df": 1,
+            "c3a65b43-d395-5cf2-8f7a-ea92ab521a03": 1,
+            "c4b9e162-99d9-59f1-81bb-d8b31ac07c78": 1,
+            "d457eb9c-d5bb-52e8-98d8-b2f871e2be3a": 1,
+            "d6a28ccf-e304-5bf8-aa8e-305b1209991d": 1,
+            "d8719c7b-cf44-5b55-86d6-b1abc7fbccf0": 1,
+            "da73dc10-1286-5c38-a2d0-92ae64f49690": 1,
+            "e1fa03e3-9510-5a65-ae3f-992d5465e08f": 1,
+            "ed396d6b-3ce1-5c88-803c-5d695c145b83": 1,
+            "f102fa44-7718-5a6c-b74d-0e7fe34805a3": 1,
+            "f10f36d4-5794-57c2-a13e-d349278347f7": 1,
+            "f4f06594-b013-5f70-ab7b-f2f9e99b5d65": 1,
+            "f505cac2-a76c-55a3-8cd5-a8ec94e99778": 1,
+            "f7872890-bf93-5c14-9ee6-56d1f009ea5c": 1,
+            "f9a922e1-b301-5025-869c-f6ce572ee929": 1,
+            "fe716009-6845-57bf-8aa2-47e07ec9d86b": 1
+          },
+          "foil": false,
+          "totalWeight": 101
+        },
+        "uncommon": {
+          "cards": {
+            "0005d268-3fd0-5424-bc6b-573ecd713aa1": 1,
+            "007e7aeb-7d23-51fb-8252-1b63881afdb6": 1,
+            "08d03e4e-6f7e-547b-b672-bb7da54a82ed": 1,
+            "0946c734-2e89-5bb9-bf9d-6f729881dd0d": 1,
+            "0b150421-dca3-56e9-969c-ae7ded06b8fa": 1,
+            "0d12b8fc-cc83-52d9-b43d-566948ed494d": 1,
+            "0dfe8c80-4df0-5fe0-862a-78a66b9a8709": 1,
+            "111a7a58-860f-55ca-8624-977d4336007a": 1,
+            "12b3668d-1ac1-5453-9b19-6949cfe6c7b2": 1,
+            "131f4662-ee3a-5757-b72e-9149d14e993f": 1,
+            "1d0fbd0e-0348-5113-a1f4-0572e25572ff": 1,
+            "1e4ee3b4-f7ec-578b-87d8-950bd356a567": 1,
+            "201dbc48-1666-54e3-ad48-798ef9eca467": 1,
+            "22f8b08f-02d6-5b78-8a11-038c85181e87": 1,
+            "2e848bd5-e16b-5414-9365-5e4c22ca8443": 1,
+            "3562020a-ca51-5bf2-80ac-2d503fc547a2": 1,
+            "395d4648-fc79-581e-9fdc-6d06e2ad33ed": 1,
+            "39f03f22-4d66-5e7a-9415-6071688dffd7": 1,
+            "3c134ac4-c2c4-597c-9fc6-96e22b5c07fe": 1,
+            "3ffb8c00-7223-551f-881b-895c7a4ad74f": 1,
+            "46ac4537-310e-563f-b5b6-818395da2a42": 1,
+            "4b07ee1b-6676-53ab-ab6d-72e7a38ebe5e": 1,
+            "4e63e3eb-9a33-5077-8d9d-61db835a7116": 1,
+            "4fb872cb-d9c4-56d1-8788-2f1fb5c5a112": 1,
+            "512e7ced-2a9d-59ab-8e40-54368fea529d": 1,
+            "5654c84a-340d-5fac-a709-0c0406bacf2d": 1,
+            "5933b0ea-ce62-5d29-be1e-ad1a7bb1fa44": 1,
+            "73fae159-c38b-5a6b-88fd-bdf7b9e4c4fa": 1,
+            "740622cc-af9a-5a1a-810b-af4c151c2305": 1,
+            "781e925d-3b83-5253-8203-509fd8f6929e": 1,
+            "78804616-fdb9-50c2-a6b7-afedd93925e8": 1,
+            "801a979b-c030-5dc7-927c-08eaa9be69e0": 1,
+            "8d5217ed-e242-5707-b05d-f4bfaafd6b23": 1,
+            "8e11e9a5-8a67-5027-86b8-b493fa5b840c": 1,
+            "8e97435c-b25d-5db8-9ac0-3fcf0ce3acc4": 1,
+            "94a69517-867c-56e6-b7d0-f9edbce24669": 1,
+            "985b24fc-0c7d-57c9-a990-bcda1734c1ca": 1,
+            "99408690-6cfc-5bb3-8048-bf1d2ee7e61f": 1,
+            "9f36f835-5221-5123-80a9-496814c7b49e": 1,
+            "a22888a9-1582-5a17-bea3-df355a6e06ce": 1,
+            "a8f8331d-4560-5ea7-b73c-f5788fd38645": 1,
+            "aeb832d1-327f-5458-9a1f-cc047e0861ab": 1,
+            "b29c4bde-b14c-5446-a64b-17cf0295bcfc": 1,
+            "b8633374-5684-5594-b2a1-411cf35c2cbf": 1,
+            "c16a43df-9667-59b8-b636-c28cc193b093": 1,
+            "c4539aa6-0f3e-5d95-add3-40f72c26a64b": 1,
+            "d0034940-0ae4-5e20-a527-2e96cd3e9b2e": 1,
+            "d0c680be-4ab8-519b-9700-a869e8db68f2": 1,
+            "d4abeaf3-7dc8-5909-b890-ef90f147dde2": 1,
+            "d514640d-dcef-513e-91c8-3189560c9c8c": 1,
+            "d711f887-0f23-5e61-8cab-e065e700e611": 1,
+            "de1147e8-13d2-5e16-92c0-a478b6770b2d": 1,
+            "e001b8c2-e945-5cb5-905f-2074dbfa0728": 1,
+            "e1b03c1f-90eb-56e6-9554-4eeb1b347301": 1,
+            "f0e82cfa-c495-5272-ad22-89864ab5988f": 1,
+            "f11730f2-5e97-56dc-8800-8af27fbd66ea": 1,
+            "f211492a-8e4a-5139-be1b-6dec8d424c57": 1,
+            "f5a8e998-92f3-50db-82d9-f75fc223f2ea": 1,
+            "f9c30eac-dc99-5085-80eb-54de011b0cee": 1,
+            "fc216486-22f0-52a0-b6bc-dfbbf09d38c6": 1
+          },
+          "foil": false,
+          "totalWeight": 60
         }
       },
       "sourceSetCodes": [
@@ -282204,6 +283258,910 @@
     }
   },
   "M12": {
+    "battle-pack-decks": {
+      "name": "Magic 2012 Booster Battle Pack Decks",
+      "languages": [
+        "cs",
+        "ct",
+        "de",
+        "en",
+        "fr",
+        "it",
+        "jp",
+        "kr",
+        "pt",
+        "ru",
+        "sp"
+      ],
+      "boosters": [
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueA": 10,
+            "blackA": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueA": 10,
+            "blackA": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueA": 10,
+            "blackB": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueA": 10,
+            "blackB": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueB": 10,
+            "blackA": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueB": 10,
+            "blackA": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueB": 10,
+            "blackB": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueB": 10,
+            "blackB": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueA": 10,
+            "blackA": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueA": 10,
+            "blackA": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueA": 10,
+            "blackB": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueA": 10,
+            "blackB": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueB": 10,
+            "blackA": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueB": 10,
+            "blackA": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueB": 10,
+            "blackB": 10,
+            "redA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueB": 10,
+            "blackB": 10,
+            "redB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueA": 10,
+            "blackA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueA": 10,
+            "blackA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueA": 10,
+            "blackB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueA": 10,
+            "blackB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueB": 10,
+            "blackA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueB": 10,
+            "blackA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueB": 10,
+            "blackB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueB": 10,
+            "blackB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueA": 10,
+            "blackA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueA": 10,
+            "blackA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueA": 10,
+            "blackB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueA": 10,
+            "blackB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueB": 10,
+            "blackA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueB": 10,
+            "blackA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueB": 10,
+            "blackB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueB": 10,
+            "blackB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueA": 10,
+            "redA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueA": 10,
+            "redA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueA": 10,
+            "redB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueA": 10,
+            "redB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueB": 10,
+            "redA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueB": 10,
+            "redA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueB": 10,
+            "redB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blueB": 10,
+            "redB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueA": 10,
+            "redA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueA": 10,
+            "redA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueA": 10,
+            "redB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueA": 10,
+            "redB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueB": 10,
+            "redA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueB": 10,
+            "redA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueB": 10,
+            "redB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blueB": 10,
+            "redB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blackA": 10,
+            "redA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blackA": 10,
+            "redA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blackA": 10,
+            "redB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blackA": 10,
+            "redB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blackB": 10,
+            "redA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blackB": 10,
+            "redA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blackB": 10,
+            "redB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteA": 10,
+            "blackB": 10,
+            "redB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blackA": 10,
+            "redA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blackA": 10,
+            "redA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blackA": 10,
+            "redB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blackA": 10,
+            "redB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blackB": 10,
+            "redA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blackB": 10,
+            "redA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blackB": 10,
+            "redB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "whiteB": 10,
+            "blackB": 10,
+            "redB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "blackA": 10,
+            "redA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "blackA": 10,
+            "redA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "blackA": 10,
+            "redB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "blackA": 10,
+            "redB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "blackB": 10,
+            "redA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "blackB": 10,
+            "redA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "blackB": 10,
+            "redB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueA": 10,
+            "blackB": 10,
+            "redB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "blackA": 10,
+            "redA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "blackA": 10,
+            "redA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "blackA": 10,
+            "redB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "blackA": 10,
+            "redB": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "blackB": 10,
+            "redA": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "blackB": 10,
+            "redA": 10,
+            "greenB": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "blackB": 10,
+            "redB": 10,
+            "greenA": 10
+          }
+        },
+        {
+          "weight": 1,
+          "contents": {
+            "blueB": 10,
+            "blackB": 10,
+            "redB": 10,
+            "greenB": 10
+          }
+        }
+      ],
+      "boostersTotalWeight": 80,
+      "sheets": {
+        "whiteA": {
+          "fixed": true,
+          "cards": {
+            "12b9d487-097f-52cf-9518-ecc8f3d341c1": 2,
+            "4ae95592-4b22-50d1-b985-c73c1f15f3ab": 1,
+            "6c52dc34-5513-5c17-a25b-dbda8ed3eabc": 1,
+            "81cab6f4-2749-55ee-85cc-e91c755f6cf7": 1,
+            "8ef6f2be-2e0e-5fff-a18a-c5dbd9424865": 1,
+            "910ad4aa-427c-58e5-9706-02a876c3eb82": 1,
+            "c8ed2c94-0587-5158-8e25-8ec0001c31d6": 1,
+            "e362bca7-3bec-537d-987f-ab7b2b8113c7": 1,
+            "f573cf74-ff54-5d57-b388-4cba2b5e8fcd": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "blueA": {
+          "fixed": true,
+          "cards": {
+            "079b1740-ff70-5182-aaa2-64c1b223fb76": 2,
+            "1c5a40c9-1e5f-5fd0-8269-9cbc46a69612": 1,
+            "2c3ce386-155d-5165-9f2e-fcf5c0da52cd": 1,
+            "340d040a-cd66-57a5-8757-de96a832997b": 1,
+            "4154f6da-2abe-57cf-9eeb-a4beb67a39f6": 1,
+            "4f5d5da4-8610-5b6c-b579-0d0ae9f916c7": 1,
+            "57a3bfa2-e40f-5bd7-8e72-6d8b406f5c32": 1,
+            "99ae6496-c0b6-5360-b578-dcb97505c6fb": 1,
+            "a5ea754f-e9ba-53fb-bf03-d76b2d869cd0": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "blackA": {
+          "fixed": true,
+          "cards": {
+            "1468744c-b465-52d0-8de8-6d1d12804c1a": 1,
+            "1a58a7e1-808e-5562-a75d-10aba6886b6e": 1,
+            "4845ca9b-c9bc-5272-af3b-9ac3568d0299": 1,
+            "694b863a-fe6f-5cfc-844b-0a07d2fc8679": 2,
+            "727a7585-cac0-53fe-92cf-7528f20c49a2": 1,
+            "8deec4d7-055b-5a77-9ae7-ad44e826078b": 1,
+            "94c453af-0f4d-57d4-b423-800de6175e41": 1,
+            "dd036b05-80f2-509a-b547-ce2c301ee888": 1,
+            "fa6cb603-b068-5686-ac3b-b5235e7e35a9": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "redA": {
+          "fixed": true,
+          "cards": {
+            "20a6b5fd-3a69-57e4-9ff5-f996763e73c1": 1,
+            "2eb4c64f-d923-5fd7-9ddf-a435ba827083": 1,
+            "37d7cd90-fc01-589c-8da5-2ab9e20f7362": 1,
+            "6c63b5f1-574e-581c-8f58-e395cfb84522": 1,
+            "7b6a5e26-a322-5f4b-8969-38468218dd42": 1,
+            "ac4f6d01-e2d8-58a1-923d-1e7a0c64a486": 2,
+            "e85b1fa1-b54d-5548-a0ed-9c7b3e7344e7": 1,
+            "ee1e1132-69de-5af0-b664-f3e106c6c0ea": 1,
+            "f2b8ea68-c3e4-5aec-8733-3be8ceb3fcaf": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "redB": {
+          "fixed": true,
+          "cards": {
+            "0da55720-fd35-5e30-989b-36be3cff71e2": 1,
+            "1e7a708d-9bed-5236-9279-33357aded913": 1,
+            "20a6b5fd-3a69-57e4-9ff5-f996763e73c1": 1,
+            "57e9f218-059d-5da3-ba43-549ca6f7e4f6": 1,
+            "92c4b876-d935-5e73-95f1-bf1ef1fa7d41": 1,
+            "ac4f6d01-e2d8-58a1-923d-1e7a0c64a486": 2,
+            "dcd1bd29-140a-5dee-bc91-faa2079f54ba": 1,
+            "e85b1fa1-b54d-5548-a0ed-9c7b3e7344e7": 1,
+            "ee1e1132-69de-5af0-b664-f3e106c6c0ea": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "blackB": {
+          "fixed": true,
+          "cards": {
+            "1468744c-b465-52d0-8de8-6d1d12804c1a": 1,
+            "1e4f79e8-0216-5006-9ee2-361704377d0a": 1,
+            "2579e676-bdcf-5b41-bebc-48c87aae11cc": 1,
+            "320e8dfb-7057-5cf5-aeb4-71964b6a8a65": 1,
+            "694b863a-fe6f-5cfc-844b-0a07d2fc8679": 2,
+            "8deec4d7-055b-5a77-9ae7-ad44e826078b": 1,
+            "a6ff60dc-b0a2-5251-b980-f0363ebbe1e6": 1,
+            "d9cbd2a9-f47f-5363-888f-cc646afd4882": 1,
+            "dd036b05-80f2-509a-b547-ce2c301ee888": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "blueB": {
+          "fixed": true,
+          "cards": {
+            "079b1740-ff70-5182-aaa2-64c1b223fb76": 2,
+            "340d040a-cd66-57a5-8757-de96a832997b": 1,
+            "35fb02d0-4aba-598b-9ca7-86859d2f638e": 1,
+            "4f5d5da4-8610-5b6c-b579-0d0ae9f916c7": 1,
+            "898c42c1-0536-557e-b321-d9231f9bf2cf": 1,
+            "99ae6496-c0b6-5360-b578-dcb97505c6fb": 1,
+            "b58f8227-b79f-5874-b174-9bac2b8ce5e9": 1,
+            "d9e9795a-7d36-5ad4-bcfc-9032f861768c": 1,
+            "eaeebd00-d559-5eec-8dab-c8b86ff9ce08": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "whiteB": {
+          "fixed": true,
+          "cards": {
+            "12b9d487-097f-52cf-9518-ecc8f3d341c1": 2,
+            "1797f899-fcf6-56c8-859b-67fd8dd3e749": 1,
+            "29985bf3-d4c9-5ffd-81d4-c33f40e7f1b2": 1,
+            "51d4fd0e-cc2a-573e-9244-086da512b703": 1,
+            "70536273-5cb6-5ad9-ac52-e85da6d74eac": 1,
+            "7fef7ed1-9e2b-5327-9e2b-25b018982f87": 1,
+            "910ad4aa-427c-58e5-9706-02a876c3eb82": 1,
+            "c8ed2c94-0587-5158-8e25-8ec0001c31d6": 1,
+            "e362bca7-3bec-537d-987f-ab7b2b8113c7": 1
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "greenA": {
+          "fixed": true,
+          "cards": {
+            "3c110dde-8d76-5499-a56d-18fccf861f34": 1,
+            "4a18b2ac-9ab7-56eb-bc2c-8926c6cd12c6": 1,
+            "8d2b5f33-4813-5be9-9c8d-a50a06eb7b10": 1,
+            "936bedf0-4955-5b18-bbd2-26b1eeec40a5": 1,
+            "988ba5a0-3536-5136-8340-b484975b82dc": 1,
+            "a5c506f0-baca-5b71-a9ab-1fe10032e198": 1,
+            "bf99e023-cf03-540c-aaaa-660842493cde": 1,
+            "ca6356ab-3928-50db-b5ff-2666aaaa9d39": 1,
+            "d0351a0d-3757-5c45-8179-61427ceef17e": 2
+          },
+          "foil": false,
+          "totalWeight": 10
+        },
+        "greenB": {
+          "fixed": true,
+          "cards": {
+            "107dd4f3-aed0-5eb9-9cf7-bd268ce82241": 1,
+            "3c110dde-8d76-5499-a56d-18fccf861f34": 1,
+            "799c6086-6159-50d8-ad9b-afcaf314f692": 1,
+            "8d2b5f33-4813-5be9-9c8d-a50a06eb7b10": 1,
+            "9e92d8fb-70d1-5d42-90b4-d4637520d3f0": 1,
+            "a34f571c-7482-5144-abc8-213dae4c2c47": 1,
+            "a5c506f0-baca-5b71-a9ab-1fe10032e198": 1,
+            "b7177d9e-cdfc-5810-9fc7-5b0a8e99d6cc": 1,
+            "d0351a0d-3757-5c45-8179-61427ceef17e": 2
+          },
+          "foil": false,
+          "totalWeight": 10
+        }
+      },
+      "sourceSetCodes": [
+        "M12"
+      ]
+    },
     "draft": {
       "name": "Magic 2012 Draft Booster",
       "languages": [
@@ -328983,42 +330941,42 @@
         },
         "common": {
           "cards": {
-            "045bb960-50d6-5478-b370-224cdce8fb73": 1,
-            "04dcf162-1039-5fcd-ac4f-562b769bca54": 1,
-            "0e3b5d6c-d300-5ca6-8830-e0a4ed9f2962": 1,
-            "1c401a89-735f-52cb-a781-040242bc902c": 1,
-            "2126334c-064f-59ed-bcb0-72572240f53b": 1,
-            "28973feb-0e45-5507-bf1c-8c745da08b58": 1,
-            "28eab892-c663-5205-ac4c-64da6c777ef0": 1,
-            "29db17ff-dbcb-5419-8f13-bf0cf40e946c": 1,
-            "2e415ee0-7861-553c-8164-a14e853c03f2": 1,
-            "32c9718b-f1c1-531d-8736-2f8aa72abe89": 1,
-            "4013c717-93a0-5e85-8eee-8a6c1b613c20": 1,
-            "4826be91-6ee1-54e7-ad83-5f5e3308611e": 1,
-            "53d7f8b1-8ab0-5cf2-917a-40790bdfbb2c": 1,
-            "568eaa81-563a-5fb8-8a6b-615b999b8a64": 1,
-            "5c176335-a5d5-5a91-9c2f-74875ae58625": 1,
-            "609e62c5-13bd-5a5e-8d3f-361c502b2ab5": 1,
-            "7010e071-313e-55e5-9d18-bb06c71c1193": 1,
-            "7a868b76-5093-5f49-8cea-02ce9f759f6b": 1,
-            "82c35563-a96b-58ed-bcd2-7d5ab83d59a4": 1,
-            "8b6429db-1771-573b-8c6d-7205fdc02e48": 1,
-            "9173b925-8b75-5abc-9365-48b51651c611": 1,
-            "926e0671-b2e8-5622-8271-521eb8cab24e": 1,
-            "93ec0222-31e5-5cdd-a788-8a4259acad96": 1,
-            "9b3e875b-0ae4-5e73-a3e7-081c11c9e455": 1,
-            "9cd156c7-a60d-5d60-9133-08880eaf5b09": 1,
-            "a2b7d300-e422-5348-9b0d-8288a7070d37": 1,
-            "a713c635-f87d-56c6-ab33-2c3b91337005": 1,
-            "ad530bf0-179b-5ff8-aaaa-1d6d5b3c466c": 1,
-            "bd512631-b500-57e9-89d3-6c8b55472bf0": 1,
-            "cc377cd4-a3e9-5f79-a7a5-d71e9b91f99b": 1,
-            "cd9beb6a-1adb-59f4-b9a7-64150678d5c1": 1,
-            "d69f95eb-1c76-5fd8-a098-5a4c00148019": 1,
-            "e0a315ed-f9db-5bf4-8cb5-d9524375dca5": 1
+            "045bb960-50d6-5478-b370-224cdce8fb73": 4,
+            "04dcf162-1039-5fcd-ac4f-562b769bca54": 3,
+            "0e3b5d6c-d300-5ca6-8830-e0a4ed9f2962": 3,
+            "1c401a89-735f-52cb-a781-040242bc902c": 3,
+            "2126334c-064f-59ed-bcb0-72572240f53b": 3,
+            "28973feb-0e45-5507-bf1c-8c745da08b58": 4,
+            "28eab892-c663-5205-ac4c-64da6c777ef0": 3,
+            "29db17ff-dbcb-5419-8f13-bf0cf40e946c": 4,
+            "2e415ee0-7861-553c-8164-a14e853c03f2": 4,
+            "32c9718b-f1c1-531d-8736-2f8aa72abe89": 3,
+            "4013c717-93a0-5e85-8eee-8a6c1b613c20": 4,
+            "4826be91-6ee1-54e7-ad83-5f5e3308611e": 3,
+            "53d7f8b1-8ab0-5cf2-917a-40790bdfbb2c": 3,
+            "568eaa81-563a-5fb8-8a6b-615b999b8a64": 3,
+            "5c176335-a5d5-5a91-9c2f-74875ae58625": 3,
+            "609e62c5-13bd-5a5e-8d3f-361c502b2ab5": 3,
+            "7010e071-313e-55e5-9d18-bb06c71c1193": 3,
+            "7a868b76-5093-5f49-8cea-02ce9f759f6b": 4,
+            "82c35563-a96b-58ed-bcd2-7d5ab83d59a4": 4,
+            "8b6429db-1771-573b-8c6d-7205fdc02e48": 4,
+            "9173b925-8b75-5abc-9365-48b51651c611": 4,
+            "926e0671-b2e8-5622-8271-521eb8cab24e": 3,
+            "93ec0222-31e5-5cdd-a788-8a4259acad96": 3,
+            "9b3e875b-0ae4-5e73-a3e7-081c11c9e455": 3,
+            "9cd156c7-a60d-5d60-9133-08880eaf5b09": 4,
+            "a2b7d300-e422-5348-9b0d-8288a7070d37": 3,
+            "a713c635-f87d-56c6-ab33-2c3b91337005": 3,
+            "ad530bf0-179b-5ff8-aaaa-1d6d5b3c466c": 3,
+            "bd512631-b500-57e9-89d3-6c8b55472bf0": 3,
+            "cc377cd4-a3e9-5f79-a7a5-d71e9b91f99b": 3,
+            "cd9beb6a-1adb-59f4-b9a7-64150678d5c1": 4,
+            "d69f95eb-1c76-5fd8-a098-5a4c00148019": 3,
+            "e0a315ed-f9db-5bf4-8cb5-d9524375dca5": 3
           },
           "foil": false,
-          "totalWeight": 33
+          "totalWeight": 110
         },
         "uncommon": {
           "cards": {
@@ -329050,37 +331008,37 @@
         },
         "rare": {
           "cards": {
-            "0cf28ac9-fb9b-55ad-b8ee-1ab210a84e01": 1,
-            "161f4356-f12c-5c35-9bfc-164371af8520": 1,
-            "33b10155-90dc-5846-9c82-af414ba6c1e5": 1,
-            "37f4bd2f-1393-59f9-b76b-fb0278e04d22": 1,
-            "42b47054-7009-5f19-9e0d-e39e4ad1b3e1": 1,
-            "451ac233-9ba8-59db-8fff-6962e0b173f6": 1,
-            "5033ea8d-6662-581c-978b-57470cfea713": 1,
-            "531b29bc-b32b-5abb-a265-47dbeebcbbfd": 1,
-            "58efe678-594a-5778-839a-d444cd30acf3": 1,
-            "5ac0d90c-a367-507b-8686-c3864a8419bb": 1,
-            "5cf3e6e9-e2a0-5f69-a33e-caa252ab894c": 1,
-            "62785ad6-f56f-53e0-9fd3-5e3d31bb4007": 1,
-            "6a54b561-0bc4-5ab6-a780-4c6a2145913d": 1,
-            "6ab4214d-3f8e-554e-9190-a0427487e050": 1,
-            "71377d26-db92-55c1-8c56-3375e72294cd": 1,
-            "88f60557-ccd8-5438-923e-e00654b4b816": 1,
-            "955be9e7-b1f6-58c1-9bf3-4c5e88706881": 1,
-            "96d9c768-dbe1-5b7c-9951-74e64700d099": 1,
-            "9b04fa89-b946-58e9-88ee-de5cf015a3a9": 1,
-            "aa083a5e-20d4-5c98-910b-09844d94620e": 1,
-            "b162a4be-1a66-523c-850a-a6efaa3ca92a": 1,
-            "baf06116-3094-56f2-b7cb-2e65f0a231bf": 1,
-            "cb3f1aa7-5242-52b6-b7dc-1f07ca99e04c": 1,
-            "d2df03d0-2696-506a-b37f-d4b9a461ddb8": 1,
-            "d9b2fd1e-4934-5e16-aa59-f84e884b5b82": 1,
-            "f2d95364-07b1-532f-87b5-122de4fab7b1": 1,
-            "f4f45a83-a98c-5c4e-970a-5e1b4aa7c7c8": 1,
-            "f8175a6a-f790-5c38-94c5-f3005f3a27d5": 1
+            "0cf28ac9-fb9b-55ad-b8ee-1ab210a84e01": 4,
+            "161f4356-f12c-5c35-9bfc-164371af8520": 4,
+            "33b10155-90dc-5846-9c82-af414ba6c1e5": 4,
+            "37f4bd2f-1393-59f9-b76b-fb0278e04d22": 4,
+            "42b47054-7009-5f19-9e0d-e39e4ad1b3e1": 4,
+            "451ac233-9ba8-59db-8fff-6962e0b173f6": 4,
+            "5033ea8d-6662-581c-978b-57470cfea713": 4,
+            "531b29bc-b32b-5abb-a265-47dbeebcbbfd": 4,
+            "58efe678-594a-5778-839a-d444cd30acf3": 4,
+            "5ac0d90c-a367-507b-8686-c3864a8419bb": 4,
+            "5cf3e6e9-e2a0-5f69-a33e-caa252ab894c": 4,
+            "62785ad6-f56f-53e0-9fd3-5e3d31bb4007": 4,
+            "6a54b561-0bc4-5ab6-a780-4c6a2145913d": 4,
+            "6ab4214d-3f8e-554e-9190-a0427487e050": 4,
+            "71377d26-db92-55c1-8c56-3375e72294cd": 4,
+            "88f60557-ccd8-5438-923e-e00654b4b816": 4,
+            "955be9e7-b1f6-58c1-9bf3-4c5e88706881": 4,
+            "96d9c768-dbe1-5b7c-9951-74e64700d099": 4,
+            "9b04fa89-b946-58e9-88ee-de5cf015a3a9": 4,
+            "aa083a5e-20d4-5c98-910b-09844d94620e": 3,
+            "b162a4be-1a66-523c-850a-a6efaa3ca92a": 4,
+            "baf06116-3094-56f2-b7cb-2e65f0a231bf": 4,
+            "cb3f1aa7-5242-52b6-b7dc-1f07ca99e04c": 4,
+            "d2df03d0-2696-506a-b37f-d4b9a461ddb8": 4,
+            "d9b2fd1e-4934-5e16-aa59-f84e884b5b82": 4,
+            "f2d95364-07b1-532f-87b5-122de4fab7b1": 4,
+            "f4f45a83-a98c-5c4e-970a-5e1b4aa7c7c8": 4,
+            "f8175a6a-f790-5c38-94c5-f3005f3a27d5": 3
           },
           "foil": false,
-          "totalWeight": 28
+          "totalWeight": 110
         }
       },
       "sourceSetCodes": [
