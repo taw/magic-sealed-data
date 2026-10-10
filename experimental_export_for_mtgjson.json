@@ -363600,16 +363600,25 @@
       ],
       "boosters": [
         {
-          "weight": 1,
+          "weight": 3,
           "contents": {
             "basic": 1,
             "common": 6,
             "uncommon": 2,
             "rare": 1
           }
+        },
+        {
+          "weight": 2,
+          "contents": {
+            "basic": 1,
+            "common": 6,
+            "uncommon": 1,
+            "rare": 1
+          }
         }
       ],
-      "boostersTotalWeight": 1,
+      "boostersTotalWeight": 5,
       "sheets": {
         "basic": {
           "cards": {

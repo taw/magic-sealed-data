@@ -361401,7 +361401,16 @@
           "uncommon": 2,
           "rare": 1
         },
-        "weight": 1
+        "weight": 3
+      },
+      {
+        "sheets": {
+          "basic": 1,
+          "common": 6,
+          "uncommon": 1,
+          "rare": 1
+        },
+        "weight": 2
       }
     ],
     "sheets": {
