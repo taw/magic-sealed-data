@@ -252,13 +252,6 @@
           },
           {
             "set": "plst",
-            "number": "ALL-16",
-            "weight": 1,
-            "foil": false,
-            "uuid": "fe173616-b912-5ade-ad2f-94c2acc7f536"
-          },
-          {
-            "set": "plst",
             "number": "APC-18",
             "weight": 1,
             "foil": false,
@@ -732,6 +725,13 @@
             "weight": 1,
             "foil": false,
             "uuid": "41110c0c-f24e-515a-a9ae-04a8f783282e"
+          },
+          {
+            "set": "plst",
+            "number": "CST-16",
+            "weight": 1,
+            "foil": false,
+            "uuid": "fe173616-b912-5ade-ad2f-94c2acc7f536"
           },
           {
             "set": "plst",
