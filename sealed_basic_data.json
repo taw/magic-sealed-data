@@ -236689,8 +236689,9 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 4,
+        "total_weight": 5,
         "cards": {
+          "sld:7135:foil": 1,
           "sld:7138:foil": 1,
           "sld:7139:foil": 1,
           "sld:7145:foil": 1,

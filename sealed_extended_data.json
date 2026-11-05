@@ -1333646,8 +1333646,15 @@
     ],
     "sheets": {
       "bonus": {
-        "total_weight": 4,
+        "total_weight": 5,
         "cards": [
+          {
+            "set": "sld",
+            "number": "7135",
+            "weight": 1,
+            "foil": true,
+            "uuid": "ffb11308-18e4-5449-afc7-e1d634762068"
+          },
           {
             "set": "sld",
             "number": "7138",
