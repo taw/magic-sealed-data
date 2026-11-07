@@ -467,6 +467,7 @@
         "total_weight": 358,
         "cards": {
           "plst:2X2-40": 1,
+          "plst:2XM-40": 1,
           "plst:2XM-52": 1,
           "plst:2XM-68": 1,
           "plst:5DN-38": 1,
@@ -578,7 +579,6 @@
           "plst:DOM-60": 1,
           "plst:DOM-69": 1,
           "plst:DOM-70": 1,
-          "plst:DRK-21": 1,
           "plst:DTK-46": 1,
           "plst:DTK-56": 1,
           "plst:E01-30": 1,

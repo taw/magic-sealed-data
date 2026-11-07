@@ -3358,13 +3358,6 @@
           },
           {
             "set": "plst",
-            "number": "DRK-21",
-            "weight": 1,
-            "foil": false,
-            "uuid": "3a37bc98-3019-5e2d-9130-de5ea2281730"
-          },
-          {
-            "set": "plst",
             "number": "DTK-46",
             "weight": 1,
             "foil": false,
@@ -5084,6 +5077,13 @@
             "weight": 1,
             "foil": false,
             "uuid": "dd23c0a1-960f-5f30-a9df-dacd2a87be5a"
+          },
+          {
+            "set": "plst",
+            "number": "2XM-40",
+            "weight": 1,
+            "foil": false,
+            "uuid": "3a37bc98-3019-5e2d-9130-de5ea2281730"
           },
           {
             "set": "plst",
