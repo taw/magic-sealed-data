@@ -866611,6 +866611,850 @@
     ]
   },
   {
+    "name": "Secret Lair Countdown Kit: Marvel's History of Heroes",
+    "code": "slc-marvel",
+    "languages": [
+      "en"
+    ],
+    "set_code": "slc",
+    "set_name": "Secret Lair Countdown",
+    "boosters": [
+      {
+        "sheets": {
+          "slot1": 1,
+          "slot2": 1,
+          "slot3": 1,
+          "slot4": 1,
+          "slot5": 1,
+          "slot6": 1,
+          "slot7": 1,
+          "slot8": 1,
+          "slot9": 1,
+          "slot10": 1,
+          "slot11": 1,
+          "slot12": 1,
+          "slot13": 1,
+          "slot14": 1,
+          "slot15": 1,
+          "slot16": 1,
+          "slot17": 1,
+          "slot18": 1,
+          "slot19": 1,
+          "slot20": 1,
+          "slot21": 1,
+          "slot22": 1,
+          "slot23": 1,
+          "slot24": 1,
+          "slot25": 1,
+          "slot26": 1,
+          "slot27": 1,
+          "slot28": 1,
+          "slot29": 1,
+          "slot30": 1,
+          "slot31": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "slot1": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "54",
+            "weight": 27,
+            "foil": true,
+            "uuid": "833a676f-4794-587a-8082-a334b57da787"
+          },
+          {
+            "set": "slc",
+            "number": "54",
+            "weight": 70,
+            "foil": false,
+            "uuid": "833a676f-4794-587a-8082-a334b57da787"
+          },
+          {
+            "set": "slc",
+            "number": "85",
+            "weight": 3,
+            "foil": true,
+            "uuid": "db6e3cf9-2572-59b0-9d64-da05e84ffc14"
+          }
+        ]
+      },
+      "slot2": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "55",
+            "weight": 27,
+            "foil": true,
+            "uuid": "b8284bdf-7d84-5d04-8391-1f7aa98843a5"
+          },
+          {
+            "set": "slc",
+            "number": "55",
+            "weight": 70,
+            "foil": false,
+            "uuid": "b8284bdf-7d84-5d04-8391-1f7aa98843a5"
+          },
+          {
+            "set": "slc",
+            "number": "86",
+            "weight": 3,
+            "foil": true,
+            "uuid": "2adb1290-fb76-5f20-a57f-d2ac63b51c19"
+          }
+        ]
+      },
+      "slot3": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "56",
+            "weight": 27,
+            "foil": true,
+            "uuid": "829923c5-c923-503c-9976-5fe37e6f345c"
+          },
+          {
+            "set": "slc",
+            "number": "56",
+            "weight": 70,
+            "foil": false,
+            "uuid": "829923c5-c923-503c-9976-5fe37e6f345c"
+          },
+          {
+            "set": "slc",
+            "number": "87",
+            "weight": 3,
+            "foil": true,
+            "uuid": "733d7a54-5b5d-5b42-8f4e-0bf4ad92261e"
+          }
+        ]
+      },
+      "slot4": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "57",
+            "weight": 27,
+            "foil": true,
+            "uuid": "ad54bb87-9658-5e5c-b4aa-886520b8c7e2"
+          },
+          {
+            "set": "slc",
+            "number": "57",
+            "weight": 70,
+            "foil": false,
+            "uuid": "ad54bb87-9658-5e5c-b4aa-886520b8c7e2"
+          },
+          {
+            "set": "slc",
+            "number": "88",
+            "weight": 3,
+            "foil": true,
+            "uuid": "147d86ec-15b2-59de-963c-ed6888552051"
+          }
+        ]
+      },
+      "slot5": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "58",
+            "weight": 27,
+            "foil": true,
+            "uuid": "7ee6b9dc-9a89-5250-987d-08bffed5e796"
+          },
+          {
+            "set": "slc",
+            "number": "58",
+            "weight": 70,
+            "foil": false,
+            "uuid": "7ee6b9dc-9a89-5250-987d-08bffed5e796"
+          },
+          {
+            "set": "slc",
+            "number": "89",
+            "weight": 3,
+            "foil": true,
+            "uuid": "e81d50a7-0cdf-5345-8183-7eec0430a2ca"
+          }
+        ]
+      },
+      "slot6": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "59",
+            "weight": 27,
+            "foil": true,
+            "uuid": "b536ade6-a48b-5821-bf9c-86bac6ed86e8"
+          },
+          {
+            "set": "slc",
+            "number": "59",
+            "weight": 70,
+            "foil": false,
+            "uuid": "b536ade6-a48b-5821-bf9c-86bac6ed86e8"
+          },
+          {
+            "set": "slc",
+            "number": "90",
+            "weight": 3,
+            "foil": true,
+            "uuid": "75c4159c-920a-551d-b2e1-cebde7a98a96"
+          }
+        ]
+      },
+      "slot7": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "60",
+            "weight": 27,
+            "foil": true,
+            "uuid": "a3a89b28-fcf4-5a22-83d9-c1f7254a9158"
+          },
+          {
+            "set": "slc",
+            "number": "60",
+            "weight": 70,
+            "foil": false,
+            "uuid": "a3a89b28-fcf4-5a22-83d9-c1f7254a9158"
+          },
+          {
+            "set": "slc",
+            "number": "91",
+            "weight": 3,
+            "foil": true,
+            "uuid": "655a8729-c8f0-563e-8dd5-c27341a434d0"
+          }
+        ]
+      },
+      "slot8": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "61",
+            "weight": 27,
+            "foil": true,
+            "uuid": "c0701775-e3f1-50fc-8c00-3c2cc818ac02"
+          },
+          {
+            "set": "slc",
+            "number": "61",
+            "weight": 70,
+            "foil": false,
+            "uuid": "c0701775-e3f1-50fc-8c00-3c2cc818ac02"
+          },
+          {
+            "set": "slc",
+            "number": "92",
+            "weight": 3,
+            "foil": true,
+            "uuid": "19d67058-9ef2-52a5-af0a-68bc14960dd9"
+          }
+        ]
+      },
+      "slot9": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "62",
+            "weight": 27,
+            "foil": true,
+            "uuid": "10d00c7a-62cb-502d-8c41-9e53195ae74e"
+          },
+          {
+            "set": "slc",
+            "number": "62",
+            "weight": 70,
+            "foil": false,
+            "uuid": "10d00c7a-62cb-502d-8c41-9e53195ae74e"
+          },
+          {
+            "set": "slc",
+            "number": "93",
+            "weight": 3,
+            "foil": true,
+            "uuid": "41087751-ec1e-5c01-98be-2b0e9b68503f"
+          }
+        ]
+      },
+      "slot10": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "63",
+            "weight": 27,
+            "foil": true,
+            "uuid": "b7b18a69-2e26-548d-987c-af3f6c554fff"
+          },
+          {
+            "set": "slc",
+            "number": "63",
+            "weight": 70,
+            "foil": false,
+            "uuid": "b7b18a69-2e26-548d-987c-af3f6c554fff"
+          },
+          {
+            "set": "slc",
+            "number": "94",
+            "weight": 3,
+            "foil": true,
+            "uuid": "1204848d-1cd6-5dec-bd63-8acbc023918f"
+          }
+        ]
+      },
+      "slot11": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "64",
+            "weight": 27,
+            "foil": true,
+            "uuid": "0c84b02b-48dc-54d5-b832-0692d0e2cbd0"
+          },
+          {
+            "set": "slc",
+            "number": "64",
+            "weight": 70,
+            "foil": false,
+            "uuid": "0c84b02b-48dc-54d5-b832-0692d0e2cbd0"
+          },
+          {
+            "set": "slc",
+            "number": "95",
+            "weight": 3,
+            "foil": true,
+            "uuid": "1d152979-3fa7-51fa-b8d5-5aa78b6f1c68"
+          }
+        ]
+      },
+      "slot12": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "65",
+            "weight": 27,
+            "foil": true,
+            "uuid": "d81c1b78-2b96-53b9-a4dc-1342cf78370d"
+          },
+          {
+            "set": "slc",
+            "number": "65",
+            "weight": 70,
+            "foil": false,
+            "uuid": "d81c1b78-2b96-53b9-a4dc-1342cf78370d"
+          },
+          {
+            "set": "slc",
+            "number": "96",
+            "weight": 3,
+            "foil": true,
+            "uuid": "ae71673f-7461-584c-a5b6-37add0e93243"
+          }
+        ]
+      },
+      "slot13": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "66",
+            "weight": 27,
+            "foil": true,
+            "uuid": "9469c785-08e3-5c9b-8bfd-d95e82d4abe6"
+          },
+          {
+            "set": "slc",
+            "number": "66",
+            "weight": 70,
+            "foil": false,
+            "uuid": "9469c785-08e3-5c9b-8bfd-d95e82d4abe6"
+          },
+          {
+            "set": "slc",
+            "number": "97",
+            "weight": 3,
+            "foil": true,
+            "uuid": "6b0e798d-4218-5f46-aebf-6158683e3e0f"
+          }
+        ]
+      },
+      "slot14": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "67",
+            "weight": 27,
+            "foil": true,
+            "uuid": "6f6f3c73-311b-59ce-8edf-3c2ac09893c3"
+          },
+          {
+            "set": "slc",
+            "number": "67",
+            "weight": 70,
+            "foil": false,
+            "uuid": "6f6f3c73-311b-59ce-8edf-3c2ac09893c3"
+          },
+          {
+            "set": "slc",
+            "number": "98",
+            "weight": 3,
+            "foil": true,
+            "uuid": "1d419bf3-31c5-5791-966f-c6172def598e"
+          }
+        ]
+      },
+      "slot15": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "68",
+            "weight": 27,
+            "foil": true,
+            "uuid": "2cf7b1b4-c7f2-57fb-9d55-7c3be4bacfae"
+          },
+          {
+            "set": "slc",
+            "number": "68",
+            "weight": 70,
+            "foil": false,
+            "uuid": "2cf7b1b4-c7f2-57fb-9d55-7c3be4bacfae"
+          },
+          {
+            "set": "slc",
+            "number": "99",
+            "weight": 3,
+            "foil": true,
+            "uuid": "45408d3f-582c-54f9-940a-79065ba631a7"
+          }
+        ]
+      },
+      "slot16": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "69",
+            "weight": 27,
+            "foil": true,
+            "uuid": "dab7ba66-84a7-58b3-85a7-52033cabf89c"
+          },
+          {
+            "set": "slc",
+            "number": "69",
+            "weight": 70,
+            "foil": false,
+            "uuid": "dab7ba66-84a7-58b3-85a7-52033cabf89c"
+          },
+          {
+            "set": "slc",
+            "number": "100",
+            "weight": 3,
+            "foil": true,
+            "uuid": "f99784f8-5cc4-507a-9078-96a7ee204c15"
+          }
+        ]
+      },
+      "slot17": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "70",
+            "weight": 27,
+            "foil": true,
+            "uuid": "3a2e780d-a4c1-57ba-bdd0-d62cfebcf550"
+          },
+          {
+            "set": "slc",
+            "number": "70",
+            "weight": 70,
+            "foil": false,
+            "uuid": "3a2e780d-a4c1-57ba-bdd0-d62cfebcf550"
+          },
+          {
+            "set": "slc",
+            "number": "101",
+            "weight": 3,
+            "foil": true,
+            "uuid": "c965d082-ba3c-5af0-9483-dd24c585d7ad"
+          }
+        ]
+      },
+      "slot18": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "71",
+            "weight": 27,
+            "foil": true,
+            "uuid": "aaf3e100-6b14-5c8a-a32d-8963efe2cd8e"
+          },
+          {
+            "set": "slc",
+            "number": "71",
+            "weight": 70,
+            "foil": false,
+            "uuid": "aaf3e100-6b14-5c8a-a32d-8963efe2cd8e"
+          },
+          {
+            "set": "slc",
+            "number": "102",
+            "weight": 3,
+            "foil": true,
+            "uuid": "e729c8f0-d065-5130-91a2-78eb54141cca"
+          }
+        ]
+      },
+      "slot19": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "72",
+            "weight": 27,
+            "foil": true,
+            "uuid": "ca7bead0-770d-56d0-bbfb-f520580978c9"
+          },
+          {
+            "set": "slc",
+            "number": "72",
+            "weight": 70,
+            "foil": false,
+            "uuid": "ca7bead0-770d-56d0-bbfb-f520580978c9"
+          },
+          {
+            "set": "slc",
+            "number": "103",
+            "weight": 3,
+            "foil": true,
+            "uuid": "4ea4c1f4-f024-5f6e-8394-5eec28ff50b7"
+          }
+        ]
+      },
+      "slot20": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "73",
+            "weight": 27,
+            "foil": true,
+            "uuid": "195bd0e9-c261-563d-85e5-2c618346a887"
+          },
+          {
+            "set": "slc",
+            "number": "73",
+            "weight": 70,
+            "foil": false,
+            "uuid": "195bd0e9-c261-563d-85e5-2c618346a887"
+          },
+          {
+            "set": "slc",
+            "number": "104",
+            "weight": 3,
+            "foil": true,
+            "uuid": "d87ed403-27eb-522a-bc1b-b036624405f6"
+          }
+        ]
+      },
+      "slot21": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "74",
+            "weight": 27,
+            "foil": true,
+            "uuid": "04bfde95-a4c3-54d4-9561-f51ffe65a6e7"
+          },
+          {
+            "set": "slc",
+            "number": "74",
+            "weight": 70,
+            "foil": false,
+            "uuid": "04bfde95-a4c3-54d4-9561-f51ffe65a6e7"
+          },
+          {
+            "set": "slc",
+            "number": "105",
+            "weight": 3,
+            "foil": true,
+            "uuid": "6a414bf4-4ecc-5831-a9c3-43e2ef59ae46"
+          }
+        ]
+      },
+      "slot22": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "75",
+            "weight": 27,
+            "foil": true,
+            "uuid": "b62863ce-b1fd-574e-af67-b134ac94448d"
+          },
+          {
+            "set": "slc",
+            "number": "75",
+            "weight": 70,
+            "foil": false,
+            "uuid": "b62863ce-b1fd-574e-af67-b134ac94448d"
+          },
+          {
+            "set": "slc",
+            "number": "106",
+            "weight": 3,
+            "foil": true,
+            "uuid": "1386bad0-d908-59af-bb1d-b63b21d4e8b2"
+          }
+        ]
+      },
+      "slot23": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "76",
+            "weight": 27,
+            "foil": true,
+            "uuid": "9d2a9f41-1b4c-5d5e-94f4-f09786cbe53c"
+          },
+          {
+            "set": "slc",
+            "number": "76",
+            "weight": 70,
+            "foil": false,
+            "uuid": "9d2a9f41-1b4c-5d5e-94f4-f09786cbe53c"
+          },
+          {
+            "set": "slc",
+            "number": "107",
+            "weight": 3,
+            "foil": true,
+            "uuid": "08142dd1-2a80-53fe-888f-80973341d44f"
+          }
+        ]
+      },
+      "slot24": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "77",
+            "weight": 27,
+            "foil": true,
+            "uuid": "b5a28489-be9b-5338-9156-4e230a6f7513"
+          },
+          {
+            "set": "slc",
+            "number": "77",
+            "weight": 70,
+            "foil": false,
+            "uuid": "b5a28489-be9b-5338-9156-4e230a6f7513"
+          },
+          {
+            "set": "slc",
+            "number": "108",
+            "weight": 3,
+            "foil": true,
+            "uuid": "bea89cdf-435d-5678-bcc5-0c9a093ba1cb"
+          }
+        ]
+      },
+      "slot25": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "78",
+            "weight": 27,
+            "foil": true,
+            "uuid": "12e1c429-a4bc-5244-a3c5-ba74586d5129"
+          },
+          {
+            "set": "slc",
+            "number": "78",
+            "weight": 70,
+            "foil": false,
+            "uuid": "12e1c429-a4bc-5244-a3c5-ba74586d5129"
+          },
+          {
+            "set": "slc",
+            "number": "109",
+            "weight": 3,
+            "foil": true,
+            "uuid": "4a8b823a-20bf-5be1-9c32-8555624aac22"
+          }
+        ]
+      },
+      "slot26": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "79",
+            "weight": 27,
+            "foil": true,
+            "uuid": "30c01783-14be-52aa-9273-d24b55fbf319"
+          },
+          {
+            "set": "slc",
+            "number": "79",
+            "weight": 70,
+            "foil": false,
+            "uuid": "30c01783-14be-52aa-9273-d24b55fbf319"
+          },
+          {
+            "set": "slc",
+            "number": "110",
+            "weight": 3,
+            "foil": true,
+            "uuid": "6ae66c42-a997-562e-ae79-f457686c027d"
+          }
+        ]
+      },
+      "slot27": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "80",
+            "weight": 27,
+            "foil": true,
+            "uuid": "7d295605-fc12-5fec-8648-123ad34f7391"
+          },
+          {
+            "set": "slc",
+            "number": "80",
+            "weight": 70,
+            "foil": false,
+            "uuid": "7d295605-fc12-5fec-8648-123ad34f7391"
+          },
+          {
+            "set": "slc",
+            "number": "111",
+            "weight": 3,
+            "foil": true,
+            "uuid": "24367782-b7f1-5c12-9c76-110a38e2f6e7"
+          }
+        ]
+      },
+      "slot28": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "81",
+            "weight": 27,
+            "foil": true,
+            "uuid": "146724d5-63bd-546b-8800-07b1f970c440"
+          },
+          {
+            "set": "slc",
+            "number": "81",
+            "weight": 70,
+            "foil": false,
+            "uuid": "146724d5-63bd-546b-8800-07b1f970c440"
+          },
+          {
+            "set": "slc",
+            "number": "112",
+            "weight": 3,
+            "foil": true,
+            "uuid": "cead15f5-4a5d-56ca-86e4-616959e3727b"
+          }
+        ]
+      },
+      "slot29": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "82",
+            "weight": 27,
+            "foil": true,
+            "uuid": "fa8920b9-7c07-500b-913b-7d2d474ef0df"
+          },
+          {
+            "set": "slc",
+            "number": "82",
+            "weight": 70,
+            "foil": false,
+            "uuid": "fa8920b9-7c07-500b-913b-7d2d474ef0df"
+          },
+          {
+            "set": "slc",
+            "number": "113",
+            "weight": 3,
+            "foil": true,
+            "uuid": "297380ee-72f1-5408-b116-8e52cf51f573"
+          }
+        ]
+      },
+      "slot30": {
+        "total_weight": 100,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "83",
+            "weight": 27,
+            "foil": true,
+            "uuid": "52004857-98ae-50ea-98bc-c4fca67878d1"
+          },
+          {
+            "set": "slc",
+            "number": "83",
+            "weight": 70,
+            "foil": false,
+            "uuid": "52004857-98ae-50ea-98bc-c4fca67878d1"
+          },
+          {
+            "set": "slc",
+            "number": "114",
+            "weight": 3,
+            "foil": true,
+            "uuid": "c1121b83-f1e6-5fdf-95a9-3f54cd14ad9a"
+          }
+        ]
+      },
+      "slot31": {
+        "total_weight": 1,
+        "cards": [
+          {
+            "set": "slc",
+            "number": "84",
+            "weight": 1,
+            "foil": true,
+            "uuid": "c94c4b60-70f3-5700-96e2-d9bd197ba1c4"
+          }
+        ]
+      }
+    },
+    "source_set_codes": [
+      "slc"
+    ]
+  },
+  {
     "name": "Unfinity Box Topper",
     "code": "unf-box-topper",
     "languages": [

@@ -147302,6 +147302,304 @@
     ]
   },
   {
+    "name": "Secret Lair Countdown Kit: Marvel's History of Heroes",
+    "code": "slc-marvel",
+    "languages": [
+      "en"
+    ],
+    "set_code": "slc",
+    "set_name": "Secret Lair Countdown",
+    "boosters": [
+      {
+        "sheets": {
+          "slot1": 1,
+          "slot2": 1,
+          "slot3": 1,
+          "slot4": 1,
+          "slot5": 1,
+          "slot6": 1,
+          "slot7": 1,
+          "slot8": 1,
+          "slot9": 1,
+          "slot10": 1,
+          "slot11": 1,
+          "slot12": 1,
+          "slot13": 1,
+          "slot14": 1,
+          "slot15": 1,
+          "slot16": 1,
+          "slot17": 1,
+          "slot18": 1,
+          "slot19": 1,
+          "slot20": 1,
+          "slot21": 1,
+          "slot22": 1,
+          "slot23": 1,
+          "slot24": 1,
+          "slot25": 1,
+          "slot26": 1,
+          "slot27": 1,
+          "slot28": 1,
+          "slot29": 1,
+          "slot30": 1,
+          "slot31": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "slot1": {
+        "total_weight": 100,
+        "cards": {
+          "slc:54": 70,
+          "slc:54:foil": 27,
+          "slc:85:foil": 3
+        }
+      },
+      "slot2": {
+        "total_weight": 100,
+        "cards": {
+          "slc:55": 70,
+          "slc:55:foil": 27,
+          "slc:86:foil": 3
+        }
+      },
+      "slot3": {
+        "total_weight": 100,
+        "cards": {
+          "slc:56": 70,
+          "slc:56:foil": 27,
+          "slc:87:foil": 3
+        }
+      },
+      "slot4": {
+        "total_weight": 100,
+        "cards": {
+          "slc:57": 70,
+          "slc:57:foil": 27,
+          "slc:88:foil": 3
+        }
+      },
+      "slot5": {
+        "total_weight": 100,
+        "cards": {
+          "slc:58": 70,
+          "slc:58:foil": 27,
+          "slc:89:foil": 3
+        }
+      },
+      "slot6": {
+        "total_weight": 100,
+        "cards": {
+          "slc:59": 70,
+          "slc:59:foil": 27,
+          "slc:90:foil": 3
+        }
+      },
+      "slot7": {
+        "total_weight": 100,
+        "cards": {
+          "slc:60": 70,
+          "slc:60:foil": 27,
+          "slc:91:foil": 3
+        }
+      },
+      "slot8": {
+        "total_weight": 100,
+        "cards": {
+          "slc:61": 70,
+          "slc:61:foil": 27,
+          "slc:92:foil": 3
+        }
+      },
+      "slot9": {
+        "total_weight": 100,
+        "cards": {
+          "slc:62": 70,
+          "slc:62:foil": 27,
+          "slc:93:foil": 3
+        }
+      },
+      "slot10": {
+        "total_weight": 100,
+        "cards": {
+          "slc:63": 70,
+          "slc:63:foil": 27,
+          "slc:94:foil": 3
+        }
+      },
+      "slot11": {
+        "total_weight": 100,
+        "cards": {
+          "slc:64": 70,
+          "slc:64:foil": 27,
+          "slc:95:foil": 3
+        }
+      },
+      "slot12": {
+        "total_weight": 100,
+        "cards": {
+          "slc:65": 70,
+          "slc:65:foil": 27,
+          "slc:96:foil": 3
+        }
+      },
+      "slot13": {
+        "total_weight": 100,
+        "cards": {
+          "slc:66": 70,
+          "slc:66:foil": 27,
+          "slc:97:foil": 3
+        }
+      },
+      "slot14": {
+        "total_weight": 100,
+        "cards": {
+          "slc:67": 70,
+          "slc:67:foil": 27,
+          "slc:98:foil": 3
+        }
+      },
+      "slot15": {
+        "total_weight": 100,
+        "cards": {
+          "slc:68": 70,
+          "slc:68:foil": 27,
+          "slc:99:foil": 3
+        }
+      },
+      "slot16": {
+        "total_weight": 100,
+        "cards": {
+          "slc:100:foil": 3,
+          "slc:69": 70,
+          "slc:69:foil": 27
+        }
+      },
+      "slot17": {
+        "total_weight": 100,
+        "cards": {
+          "slc:101:foil": 3,
+          "slc:70": 70,
+          "slc:70:foil": 27
+        }
+      },
+      "slot18": {
+        "total_weight": 100,
+        "cards": {
+          "slc:102:foil": 3,
+          "slc:71": 70,
+          "slc:71:foil": 27
+        }
+      },
+      "slot19": {
+        "total_weight": 100,
+        "cards": {
+          "slc:103:foil": 3,
+          "slc:72": 70,
+          "slc:72:foil": 27
+        }
+      },
+      "slot20": {
+        "total_weight": 100,
+        "cards": {
+          "slc:104:foil": 3,
+          "slc:73": 70,
+          "slc:73:foil": 27
+        }
+      },
+      "slot21": {
+        "total_weight": 100,
+        "cards": {
+          "slc:105:foil": 3,
+          "slc:74": 70,
+          "slc:74:foil": 27
+        }
+      },
+      "slot22": {
+        "total_weight": 100,
+        "cards": {
+          "slc:106:foil": 3,
+          "slc:75": 70,
+          "slc:75:foil": 27
+        }
+      },
+      "slot23": {
+        "total_weight": 100,
+        "cards": {
+          "slc:107:foil": 3,
+          "slc:76": 70,
+          "slc:76:foil": 27
+        }
+      },
+      "slot24": {
+        "total_weight": 100,
+        "cards": {
+          "slc:108:foil": 3,
+          "slc:77": 70,
+          "slc:77:foil": 27
+        }
+      },
+      "slot25": {
+        "total_weight": 100,
+        "cards": {
+          "slc:109:foil": 3,
+          "slc:78": 70,
+          "slc:78:foil": 27
+        }
+      },
+      "slot26": {
+        "total_weight": 100,
+        "cards": {
+          "slc:110:foil": 3,
+          "slc:79": 70,
+          "slc:79:foil": 27
+        }
+      },
+      "slot27": {
+        "total_weight": 100,
+        "cards": {
+          "slc:111:foil": 3,
+          "slc:80": 70,
+          "slc:80:foil": 27
+        }
+      },
+      "slot28": {
+        "total_weight": 100,
+        "cards": {
+          "slc:112:foil": 3,
+          "slc:81": 70,
+          "slc:81:foil": 27
+        }
+      },
+      "slot29": {
+        "total_weight": 100,
+        "cards": {
+          "slc:113:foil": 3,
+          "slc:82": 70,
+          "slc:82:foil": 27
+        }
+      },
+      "slot30": {
+        "total_weight": 100,
+        "cards": {
+          "slc:114:foil": 3,
+          "slc:83": 70,
+          "slc:83:foil": 27
+        }
+      },
+      "slot31": {
+        "total_weight": 1,
+        "cards": {
+          "slc:84:foil": 1
+        }
+      }
+    },
+    "source_set_codes": [
+      "slc"
+    ]
+  },
+  {
     "name": "Unfinity Box Topper",
     "code": "unf-box-topper",
     "languages": [
