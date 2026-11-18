@@ -100536,6 +100536,668 @@
     ]
   },
   {
+    "name": "Reality Fracture Prerelease Promo Pack",
+    "code": "fra-prerelease",
+    "languages": [
+      "de",
+      "en",
+      "fr",
+      "it",
+      "jp",
+      "sp"
+    ],
+    "set_code": "fra",
+    "set_name": "Reality Fracture",
+    "boosters": [
+      {
+        "sheets": {
+          "promo": 1
+        },
+        "weight": 1
+      }
+    ],
+    "sheets": {
+      "promo": {
+        "total_weight": 154,
+        "cards": [
+          {
+            "set": "fra",
+            "number": "1",
+            "weight": 1,
+            "foil": true,
+            "uuid": "98144bab-0002-58e6-a809-93c937e71d8f"
+          },
+          {
+            "set": "fra",
+            "number": "5",
+            "weight": 1,
+            "foil": true,
+            "uuid": "be447428-eebd-5747-b3e8-9042bf87a4fd"
+          },
+          {
+            "set": "fra",
+            "number": "7",
+            "weight": 2,
+            "foil": true,
+            "uuid": "4efc727e-f2e4-5c20-931d-c04641cc025a"
+          },
+          {
+            "set": "fra",
+            "number": "9",
+            "weight": 2,
+            "foil": true,
+            "uuid": "10b27c9d-46f4-5c80-adc6-79f983548f0e"
+          },
+          {
+            "set": "fra",
+            "number": "11",
+            "weight": 2,
+            "foil": true,
+            "uuid": "4c9eeaa3-8b11-5d1d-bfd3-0a2224b7f542"
+          },
+          {
+            "set": "fra",
+            "number": "13",
+            "weight": 2,
+            "foil": true,
+            "uuid": "7e8ffd65-851a-5e5a-83d5-f30c7ef0c235"
+          },
+          {
+            "set": "fra",
+            "number": "14",
+            "weight": 2,
+            "foil": true,
+            "uuid": "edb74b8b-32d3-5809-924a-3547d276b877"
+          },
+          {
+            "set": "fra",
+            "number": "19",
+            "weight": 2,
+            "foil": true,
+            "uuid": "c7931025-0944-5f0b-be5f-6fdacf76c0a4"
+          },
+          {
+            "set": "fra",
+            "number": "20",
+            "weight": 1,
+            "foil": true,
+            "uuid": "0c4ec3eb-4009-5983-b3c2-64b9900b0b9b"
+          },
+          {
+            "set": "fra",
+            "number": "26",
+            "weight": 2,
+            "foil": true,
+            "uuid": "d518c4ab-8e0b-5274-ab27-4fd301c5694e"
+          },
+          {
+            "set": "fra",
+            "number": "28a",
+            "weight": 2,
+            "foil": true,
+            "uuid": "27b3a5bc-4cc9-5f15-adfc-367e346a5830"
+          },
+          {
+            "set": "fra",
+            "number": "32",
+            "weight": 2,
+            "foil": true,
+            "uuid": "0db6ef02-5181-51c3-8cd9-5c8cbb25e578"
+          },
+          {
+            "set": "fra",
+            "number": "38",
+            "weight": 1,
+            "foil": true,
+            "uuid": "12f1c508-238f-5708-ac28-d908eb725978"
+          },
+          {
+            "set": "fra",
+            "number": "40",
+            "weight": 2,
+            "foil": true,
+            "uuid": "996936f4-87e4-50da-8497-eab0bb52442c"
+          },
+          {
+            "set": "fra",
+            "number": "43",
+            "weight": 1,
+            "foil": true,
+            "uuid": "49dbbf8b-5a8a-51fe-92c1-633977608b5a"
+          },
+          {
+            "set": "fra",
+            "number": "44",
+            "weight": 2,
+            "foil": true,
+            "uuid": "f908973c-3e98-538c-bd62-4709a2497068"
+          },
+          {
+            "set": "fra",
+            "number": "47a",
+            "weight": 2,
+            "foil": true,
+            "uuid": "d85c6964-122b-5cee-b138-89f6848b0dca"
+          },
+          {
+            "set": "fra",
+            "number": "49a",
+            "weight": 1,
+            "foil": true,
+            "uuid": "58a330cd-683c-5da3-a709-08cff709961b"
+          },
+          {
+            "set": "fra",
+            "number": "52",
+            "weight": 2,
+            "foil": true,
+            "uuid": "14488f89-264a-5731-b25d-2a8f98922aeb"
+          },
+          {
+            "set": "fra",
+            "number": "53",
+            "weight": 1,
+            "foil": true,
+            "uuid": "d6f808c0-4923-5379-859f-00c6d9d5da61"
+          },
+          {
+            "set": "fra",
+            "number": "55",
+            "weight": 2,
+            "foil": true,
+            "uuid": "3993eb5a-6f73-5d15-8cc6-012b34b234a3"
+          },
+          {
+            "set": "fra",
+            "number": "57",
+            "weight": 2,
+            "foil": true,
+            "uuid": "a3996a92-57e2-519b-8b58-54593d858863"
+          },
+          {
+            "set": "fra",
+            "number": "59",
+            "weight": 1,
+            "foil": true,
+            "uuid": "df45efe9-dc2b-52d1-a151-8b53430bfb5f"
+          },
+          {
+            "set": "fra",
+            "number": "63",
+            "weight": 2,
+            "foil": true,
+            "uuid": "fc9e6511-22ef-5411-9b3f-b008f3cc3f15"
+          },
+          {
+            "set": "fra",
+            "number": "64",
+            "weight": 2,
+            "foil": true,
+            "uuid": "21987abd-23c3-5e94-bb4f-eaf8d0e51e8a"
+          },
+          {
+            "set": "fra",
+            "number": "71",
+            "weight": 2,
+            "foil": true,
+            "uuid": "42ecc09c-b99f-5694-8256-de9815ceb66f"
+          },
+          {
+            "set": "fra",
+            "number": "72",
+            "weight": 2,
+            "foil": true,
+            "uuid": "922d4623-a360-5d93-b5bc-82d851a6d9d7"
+          },
+          {
+            "set": "fra",
+            "number": "78",
+            "weight": 1,
+            "foil": true,
+            "uuid": "59bc31a8-9699-5398-af19-0961fcbefc8f"
+          },
+          {
+            "set": "fra",
+            "number": "79",
+            "weight": 2,
+            "foil": true,
+            "uuid": "7e2579dd-7c54-5a05-b908-3b98910a95f6"
+          },
+          {
+            "set": "fra",
+            "number": "80",
+            "weight": 2,
+            "foil": true,
+            "uuid": "2c84f4d9-596d-5998-8fb4-f46619bb3c41"
+          },
+          {
+            "set": "fra",
+            "number": "83",
+            "weight": 2,
+            "foil": true,
+            "uuid": "d8fea871-95bb-5653-9af6-1244319482e9"
+          },
+          {
+            "set": "fra",
+            "number": "87",
+            "weight": 2,
+            "foil": true,
+            "uuid": "71f67e89-1b96-5962-ac97-e37128d7c011"
+          },
+          {
+            "set": "fra",
+            "number": "88",
+            "weight": 2,
+            "foil": true,
+            "uuid": "ff5191c9-bedd-52f0-97dd-188b665d7fba"
+          },
+          {
+            "set": "fra",
+            "number": "90a",
+            "weight": 2,
+            "foil": true,
+            "uuid": "73b3cc72-08a8-566e-9e03-6a65eec874c3"
+          },
+          {
+            "set": "fra",
+            "number": "91a",
+            "weight": 2,
+            "foil": true,
+            "uuid": "90f45c5c-b891-5e50-8452-927615a33eaf"
+          },
+          {
+            "set": "fra",
+            "number": "93",
+            "weight": 1,
+            "foil": true,
+            "uuid": "a9a309dd-57ac-599b-8091-e3ef5c8b3150"
+          },
+          {
+            "set": "fra",
+            "number": "100a",
+            "weight": 2,
+            "foil": true,
+            "uuid": "c098d781-5ddf-5ebd-9003-f07b6f01e1f4"
+          },
+          {
+            "set": "fra",
+            "number": "103",
+            "weight": 2,
+            "foil": true,
+            "uuid": "b20e2ecc-6316-5538-9d30-83349d7c544b"
+          },
+          {
+            "set": "fra",
+            "number": "106",
+            "weight": 1,
+            "foil": true,
+            "uuid": "f2d12cd8-6c92-5eef-93ad-b4a0cf69d657"
+          },
+          {
+            "set": "fra",
+            "number": "107",
+            "weight": 2,
+            "foil": true,
+            "uuid": "84c00d20-47bd-5d35-bad1-b63ee01fc316"
+          },
+          {
+            "set": "fra",
+            "number": "110",
+            "weight": 1,
+            "foil": true,
+            "uuid": "1c259f4a-ab63-56db-a2c2-8d77affb302d"
+          },
+          {
+            "set": "fra",
+            "number": "111",
+            "weight": 2,
+            "foil": true,
+            "uuid": "4aad0abb-6674-5f86-8b0a-327d7743504f"
+          },
+          {
+            "set": "fra",
+            "number": "113",
+            "weight": 2,
+            "foil": true,
+            "uuid": "5b6cf372-635f-5721-8ca2-5531c33e79dc"
+          },
+          {
+            "set": "fra",
+            "number": "116",
+            "weight": 1,
+            "foil": true,
+            "uuid": "4970029b-c243-5426-a49a-7e37663065d6"
+          },
+          {
+            "set": "fra",
+            "number": "118",
+            "weight": 2,
+            "foil": true,
+            "uuid": "f1f039ef-18b5-5c44-aa5e-85f8065e1f92"
+          },
+          {
+            "set": "fra",
+            "number": "121",
+            "weight": 1,
+            "foil": true,
+            "uuid": "4305192e-f7ba-59c7-a9ca-c89cfe27fa8e"
+          },
+          {
+            "set": "fra",
+            "number": "122",
+            "weight": 1,
+            "foil": true,
+            "uuid": "0a0d52dc-8370-5c43-bb6b-65bb95e3f1e2"
+          },
+          {
+            "set": "fra",
+            "number": "128",
+            "weight": 1,
+            "foil": true,
+            "uuid": "3bc745ea-5093-56c1-b69d-cd01e014f182"
+          },
+          {
+            "set": "fra",
+            "number": "131",
+            "weight": 2,
+            "foil": true,
+            "uuid": "9cb3160b-a23c-5764-8dce-4d5becc6500b"
+          },
+          {
+            "set": "fra",
+            "number": "135",
+            "weight": 2,
+            "foil": true,
+            "uuid": "41d3c340-1e46-5c42-8b3f-d8706f0ea0c3"
+          },
+          {
+            "set": "fra",
+            "number": "137",
+            "weight": 1,
+            "foil": true,
+            "uuid": "9ec560a2-79e3-5423-8180-1392d471ee20"
+          },
+          {
+            "set": "fra",
+            "number": "140",
+            "weight": 1,
+            "foil": true,
+            "uuid": "66e886f6-8e96-50a1-8261-5f83f277fe2b"
+          },
+          {
+            "set": "fra",
+            "number": "142",
+            "weight": 2,
+            "foil": true,
+            "uuid": "2f9a084d-b760-546a-b013-c15e443f6ca7"
+          },
+          {
+            "set": "fra",
+            "number": "145",
+            "weight": 2,
+            "foil": true,
+            "uuid": "8030b389-ea4f-5e87-885a-621490427ff2"
+          },
+          {
+            "set": "fra",
+            "number": "148",
+            "weight": 2,
+            "foil": true,
+            "uuid": "14d9a480-bdcc-568b-99bd-c85c680d65a6"
+          },
+          {
+            "set": "fra",
+            "number": "149",
+            "weight": 2,
+            "foil": true,
+            "uuid": "697958b8-37ab-521f-9c30-6ad2a9cb8a4c"
+          },
+          {
+            "set": "fra",
+            "number": "152",
+            "weight": 2,
+            "foil": true,
+            "uuid": "924f7846-a2ad-5a1c-abbc-26e89d365c74"
+          },
+          {
+            "set": "fra",
+            "number": "154",
+            "weight": 2,
+            "foil": true,
+            "uuid": "e89df33d-b78d-534b-89aa-e334ea6ddea5"
+          },
+          {
+            "set": "fra",
+            "number": "159",
+            "weight": 1,
+            "foil": true,
+            "uuid": "696bf037-d2e5-5ab9-bc00-8f894e46ba0f"
+          },
+          {
+            "set": "fra",
+            "number": "162",
+            "weight": 2,
+            "foil": true,
+            "uuid": "fe9cea7d-c0bd-5c33-b9aa-c7aed23a01d9"
+          },
+          {
+            "set": "fra",
+            "number": "168",
+            "weight": 2,
+            "foil": true,
+            "uuid": "81f667b8-8792-5fbd-8942-1d7c7da06875"
+          },
+          {
+            "set": "fra",
+            "number": "169",
+            "weight": 1,
+            "foil": true,
+            "uuid": "9bf68f72-b721-595c-9a33-e10fe19c2bd2"
+          },
+          {
+            "set": "fra",
+            "number": "176",
+            "weight": 2,
+            "foil": true,
+            "uuid": "d25b0196-9d5a-5578-8606-5bae37612e53"
+          },
+          {
+            "set": "fra",
+            "number": "179",
+            "weight": 2,
+            "foil": true,
+            "uuid": "23ccf910-c84a-5649-808d-c4ae9004d42a"
+          },
+          {
+            "set": "fra",
+            "number": "180",
+            "weight": 2,
+            "foil": true,
+            "uuid": "62d5e2db-fcdb-521d-b749-e9ac2500d8d3"
+          },
+          {
+            "set": "fra",
+            "number": "185",
+            "weight": 2,
+            "foil": true,
+            "uuid": "d251db71-b68f-5cf1-b3b4-8f5b2a3ea4b5"
+          },
+          {
+            "set": "fra",
+            "number": "186",
+            "weight": 2,
+            "foil": true,
+            "uuid": "cdb09f8f-424d-546d-8713-7209d8422105"
+          },
+          {
+            "set": "fra",
+            "number": "187",
+            "weight": 2,
+            "foil": true,
+            "uuid": "dd5863c4-4d1b-5028-9416-733dbc23eb1b"
+          },
+          {
+            "set": "fra",
+            "number": "189",
+            "weight": 2,
+            "foil": true,
+            "uuid": "e136a312-e1ca-5683-9bbc-daa7630c9efa"
+          },
+          {
+            "set": "fra",
+            "number": "191",
+            "weight": 2,
+            "foil": true,
+            "uuid": "2bbf0054-3f03-5dbe-a8d4-41d213eea0ad"
+          },
+          {
+            "set": "fra",
+            "number": "195",
+            "weight": 1,
+            "foil": true,
+            "uuid": "e6a745ff-2f8f-5607-976a-d7968e2d85b2"
+          },
+          {
+            "set": "fra",
+            "number": "198",
+            "weight": 2,
+            "foil": true,
+            "uuid": "9127312c-8ad3-5593-9cdf-a125ce5e97c6"
+          },
+          {
+            "set": "fra",
+            "number": "200",
+            "weight": 2,
+            "foil": true,
+            "uuid": "dff533cf-32a6-5d1a-a76a-1fd0332531cd"
+          },
+          {
+            "set": "fra",
+            "number": "201",
+            "weight": 2,
+            "foil": true,
+            "uuid": "b7abd2cb-a7b5-5a38-af31-0fa3b7262420"
+          },
+          {
+            "set": "fra",
+            "number": "212",
+            "weight": 1,
+            "foil": true,
+            "uuid": "9dc88f93-5139-5a2d-b7a5-ccf1c4d73f16"
+          },
+          {
+            "set": "fra",
+            "number": "216",
+            "weight": 2,
+            "foil": true,
+            "uuid": "d192c652-a50d-5d2c-89ed-307c37728817"
+          },
+          {
+            "set": "fra",
+            "number": "217",
+            "weight": 2,
+            "foil": true,
+            "uuid": "dd996376-8c56-525d-8204-97b139e9a110"
+          },
+          {
+            "set": "fra",
+            "number": "220",
+            "weight": 2,
+            "foil": true,
+            "uuid": "5114395b-a5ef-5c81-a7ac-13eadbd5ccbd"
+          },
+          {
+            "set": "fra",
+            "number": "229",
+            "weight": 1,
+            "foil": true,
+            "uuid": "351165c8-308f-59ea-867a-e7819ab84053"
+          },
+          {
+            "set": "fra",
+            "number": "230",
+            "weight": 2,
+            "foil": true,
+            "uuid": "398b9b28-b215-5269-904d-9e6f2e15629e"
+          },
+          {
+            "set": "fra",
+            "number": "231",
+            "weight": 2,
+            "foil": true,
+            "uuid": "05d3214f-b4e7-5770-98bd-f6b0491283b3"
+          },
+          {
+            "set": "fra",
+            "number": "242",
+            "weight": 1,
+            "foil": true,
+            "uuid": "a2f7a868-3091-5f50-99f8-25dacdbb20bd"
+          },
+          {
+            "set": "fra",
+            "number": "244",
+            "weight": 1,
+            "foil": true,
+            "uuid": "773b53b9-92b4-578a-b471-1a77191dc1bd"
+          },
+          {
+            "set": "fra",
+            "number": "251",
+            "weight": 2,
+            "foil": true,
+            "uuid": "f4f446bb-e003-5a15-8b6f-d571953221f1"
+          },
+          {
+            "set": "fra",
+            "number": "259",
+            "weight": 1,
+            "foil": true,
+            "uuid": "de3bd2fc-7fcb-586e-b3c3-adf209e966bf"
+          },
+          {
+            "set": "fra",
+            "number": "272",
+            "weight": 2,
+            "foil": true,
+            "uuid": "b7b51707-fb78-52b5-8cd2-507e94cd84eb"
+          },
+          {
+            "set": "fra",
+            "number": "276",
+            "weight": 2,
+            "foil": true,
+            "uuid": "f34599b4-c291-5d23-9351-442afe8158a0"
+          },
+          {
+            "set": "fra",
+            "number": "277",
+            "weight": 2,
+            "foil": true,
+            "uuid": "e526b1c4-356d-58a0-a1fb-f2c67d7a51d8"
+          },
+          {
+            "set": "fra",
+            "number": "278",
+            "weight": 2,
+            "foil": true,
+            "uuid": "c19def4a-49f1-5769-9619-9d214b79107f"
+          },
+          {
+            "set": "fra",
+            "number": "279",
+            "weight": 2,
+            "foil": true,
+            "uuid": "8ebb48a9-861d-5a51-aae5-d370c26a9d7b"
+          }
+        ]
+      }
+    },
+    "source_set_codes": [
+      "fra"
+    ]
+  },
+  {
     "name": "Reality Fracture Promo Pack",
     "code": "fra-promo",
     "languages": [
