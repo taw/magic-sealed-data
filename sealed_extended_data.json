@@ -31336,838 +31336,852 @@
         ]
       },
       "future_sight": {
-        "total_weight": 1666797,
+        "total_weight": 157245,
         "cards": [
           {
             "set": "mb2",
             "number": "122",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "4fde2e96-a670-548b-a148-17ec67feec82"
           },
           {
             "set": "mb2",
             "number": "123",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "9def2a98-9b6a-5c2f-8135-acb3355e125a"
           },
           {
             "set": "mb2",
             "number": "126",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "6e1d1680-4edf-54e2-8ac6-8830c795404a"
           },
           {
             "set": "mb2",
             "number": "127",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "bd9b4508-2149-59e5-b7fd-cae8cf15b541"
           },
           {
             "set": "mb2",
             "number": "128",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "a041fc15-b569-5472-af9d-4b029ce407de"
           },
           {
             "set": "mb2",
             "number": "130",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "400b3aa3-97cf-58b7-b270-0ce0aed4736b"
           },
           {
             "set": "mb2",
             "number": "131",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "54f8885c-ab48-5fdf-a910-c91c6eae62a8"
           },
           {
             "set": "mb2",
             "number": "134",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "6eda6d1a-924f-53ba-89d9-f644b3a2e5d7"
           },
           {
             "set": "mb2",
             "number": "135",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "8f72f173-22e8-5502-88f3-2c4500b0d72f"
           },
           {
             "set": "mb2",
             "number": "136",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "a76aee54-556a-5fa3-85db-f64f603edcdb"
           },
           {
             "set": "mb2",
             "number": "137",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "72202ec3-2398-5481-8827-3e803e8eacb5"
           },
           {
             "set": "mb2",
             "number": "138",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "0ca57102-f7fa-552f-a895-d20cde362665"
           },
           {
             "set": "mb2",
             "number": "139",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "fa1ceeac-3c14-5cca-a255-dfe05b31abd2"
           },
           {
             "set": "mb2",
             "number": "140",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "22c0dfa7-0b48-53c2-add0-01ed29e67f1e"
           },
           {
             "set": "mb2",
             "number": "141",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "710c50bd-a36c-501b-bb21-f658c8168f73"
           },
           {
             "set": "mb2",
             "number": "142",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "c611a3da-5f56-55eb-a192-842da179ba50"
           },
           {
             "set": "mb2",
             "number": "143",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "4b30615f-fc9a-54a7-9de9-3868954b2a99"
           },
           {
             "set": "mb2",
             "number": "144",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "3fa11cc2-fb2a-5c9c-ad82-23a9d28d4ab9"
           },
           {
             "set": "mb2",
             "number": "145",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "9df0093b-fe92-5560-9ce2-8c8dba3670e6"
           },
           {
             "set": "mb2",
             "number": "147",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "d80f62f4-1164-55bd-b51b-bfc1a46d4242"
           },
           {
             "set": "mb2",
             "number": "148",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "89b6e7e5-316e-5f08-9bc4-d29a8267a990"
           },
           {
             "set": "mb2",
             "number": "149",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "7e841ead-2133-523f-9cd8-e62a8a0ab954"
           },
           {
             "set": "mb2",
             "number": "150",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "aba811d4-4905-5be2-9d24-13ab176649fc"
           },
           {
             "set": "mb2",
             "number": "151",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "34df2954-491d-51df-8458-289eef2f2d1c"
           },
           {
             "set": "mb2",
             "number": "152",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "c7e2d021-63ab-5ec3-a70c-087a41bb3046"
           },
           {
             "set": "mb2",
             "number": "153",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "4049d45f-34ab-5001-b086-efab6a908a53"
           },
           {
             "set": "mb2",
             "number": "154",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "1edd13da-a7a4-5942-ad59-f0637a5ab6cb"
           },
           {
             "set": "mb2",
             "number": "155",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "643ac4ac-8cd9-5010-ac2a-26de0422e4af"
           },
           {
             "set": "mb2",
             "number": "156",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "0267ad11-c89b-55e9-ba9c-6d9ac6c165bf"
           },
           {
             "set": "mb2",
             "number": "157",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "91e60404-5d00-52f6-958d-54c2686d67ef"
           },
           {
             "set": "mb2",
             "number": "158",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "d5bfe686-da3c-5a8d-9dd5-4a1fe5aaef3d"
           },
           {
             "set": "mb2",
             "number": "159",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "aade3053-fc04-5f17-9149-e81d3cfdeb20"
           },
           {
             "set": "mb2",
             "number": "160",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "a4ff15a2-b012-5ed8-bd7f-e9b645a46375"
           },
           {
             "set": "mb2",
             "number": "161",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "efaa9a42-63d3-55ba-9bf8-c7d4e1d30b10"
           },
           {
             "set": "mb2",
             "number": "162",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "fc66de86-1d99-57d0-a894-655fec78261e"
           },
           {
             "set": "mb2",
             "number": "163",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "cefba9e5-737b-59a1-b5d0-72664c9edfcc"
           },
           {
             "set": "mb2",
             "number": "164",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "608fdf74-a790-5d25-a7c0-37ba4fd5a70d"
           },
           {
             "set": "mb2",
             "number": "165",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "70051e95-cb73-575a-b036-44683bed09af"
           },
           {
             "set": "mb2",
             "number": "166",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "b1667c74-f116-52dd-85ef-63e71ebf8d6b"
           },
           {
             "set": "mb2",
             "number": "167",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "f7059824-b99c-57bd-8bbe-afb047697f7f"
           },
           {
             "set": "mb2",
             "number": "168",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "666f68b4-bcb7-530a-8818-c6cf5e69d444"
           },
           {
             "set": "mb2",
             "number": "169",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "35dd35ac-7fd7-5a9a-a08e-d9612339a3ad"
           },
           {
             "set": "mb2",
             "number": "170",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "b6faf2e3-2d4f-54e4-8343-00d1c4ef2788"
           },
           {
             "set": "mb2",
             "number": "171",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "8a19ff65-0d69-5450-90ae-55ae062294cf"
           },
           {
             "set": "mb2",
             "number": "172",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "aab97505-d6e4-5cfc-a84c-4d6652fc3fe4"
           },
           {
             "set": "mb2",
             "number": "173",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "ec44389e-3767-5c41-a3cb-25e75b6f56de"
           },
           {
             "set": "mb2",
             "number": "174",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "6af03386-f801-5c16-9f1f-62a03d7a482b"
           },
           {
             "set": "mb2",
             "number": "175",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "e3731cce-632c-5f51-9fed-be59a5a7a37c"
           },
           {
             "set": "mb2",
             "number": "177",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "75180b50-5a1e-5c6c-ac2f-29628bfe732d"
           },
           {
             "set": "mb2",
             "number": "179",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "1e35d60f-afde-55f9-8e00-17175434bd17"
           },
           {
             "set": "mb2",
             "number": "180",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "abbf81f1-7266-5e1b-99b2-26447dc42f92"
           },
           {
             "set": "mb2",
             "number": "181",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "20f8478e-17f6-5050-8fd1-8b87fcf8e936"
           },
           {
             "set": "mb2",
             "number": "182",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "f726e69c-4d96-5fed-b212-a2a13dd3f583"
           },
           {
             "set": "mb2",
             "number": "183",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "2a01281a-933f-558e-9220-31fbeb2f2a1a"
           },
           {
             "set": "mb2",
             "number": "184",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "3dbdca7d-400d-5300-9697-3368964647b5"
           },
           {
             "set": "mb2",
             "number": "185",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "363ea3b5-1cad-594e-92b7-2c8bb7e82940"
           },
           {
             "set": "mb2",
             "number": "186",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "f7f9b1e2-ddbf-597c-84ac-aab43873c83a"
           },
           {
             "set": "mb2",
             "number": "187",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "c9f7eb00-6ca6-5983-9b0f-915a0c56e37f"
           },
           {
             "set": "mb2",
             "number": "188",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "68e06635-4317-50f3-82fb-cbaf6bcc5a06"
           },
           {
             "set": "mb2",
             "number": "189",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "24e4fbc8-034c-5a63-ab85-d1ec0a7756af"
           },
           {
             "set": "mb2",
             "number": "190",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "1f479ed5-40f2-5245-95c8-6095dd8ee533"
           },
           {
             "set": "mb2",
             "number": "191",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "a271ba4e-172c-561b-8a18-da839e94ecf9"
           },
           {
             "set": "mb2",
             "number": "193",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "7f07426e-714e-5995-a698-4a1881a5792c"
           },
           {
             "set": "mb2",
             "number": "194",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "1d32b418-702c-57b7-a9f5-090a71df5896"
           },
           {
             "set": "mb2",
             "number": "195",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "c447678f-69c1-5045-9301-036591cfccc5"
           },
           {
             "set": "mb2",
             "number": "196",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "d51358b9-2a25-5597-80c4-5b3a9a4253c9"
           },
           {
             "set": "mb2",
             "number": "197",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "5dafb72f-313c-566e-b7f3-ade64f3ef147"
           },
           {
             "set": "mb2",
             "number": "198",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "938b4b11-f7ea-5fea-b9ce-0a16675e0af6"
           },
           {
             "set": "mb2",
             "number": "199",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "2e3a1c49-4d9a-5e9a-b48e-8f49db6fa17c"
           },
           {
             "set": "mb2",
             "number": "200",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "986ae5db-5afd-5263-8d6c-efd7424011a2"
           },
           {
             "set": "mb2",
             "number": "201",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "738050ca-9681-546b-a95d-eb5ece78e956"
           },
           {
             "set": "mb2",
             "number": "202",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "a958265b-96fa-519d-a604-846585e68f39"
           },
           {
             "set": "mb2",
             "number": "203",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "7728cf77-b09d-595c-bd2a-42e00af1afa0"
           },
           {
             "set": "mb2",
             "number": "204",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "055a564f-2600-51f3-8463-94d21f86545a"
           },
           {
             "set": "mb2",
             "number": "205",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "c566f3c3-c98e-54e9-935f-e798e8b54fc7"
           },
           {
             "set": "mb2",
             "number": "206",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "8ccbb019-fb70-5d65-8024-5429ecc6f53f"
           },
           {
             "set": "mb2",
             "number": "207",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "46c0ae9f-b64a-528f-aab6-f1ceff9f0ade"
           },
           {
             "set": "mb2",
             "number": "208",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "9c166d87-2bfd-5360-b42d-16f1fcd7ba97"
           },
           {
             "set": "mb2",
             "number": "209",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "02697d14-70de-5ece-a486-fafbbc3740e7"
           },
           {
             "set": "mb2",
             "number": "210",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "8ad05fa4-ae3e-56bc-a60e-1be2d554b32a"
           },
           {
             "set": "mb2",
             "number": "211",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "23111933-52ae-5174-b03a-ce817eb42cf2"
           },
           {
             "set": "mb2",
             "number": "212",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "87944bc2-402b-592a-878e-46cdbda195f4"
           },
           {
             "set": "mb2",
             "number": "213",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "0d8dbd9a-85fd-56df-9248-1cc660d31dc7"
           },
           {
             "set": "mb2",
             "number": "214",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "91ba50be-9ee0-58d9-85d4-856bfe51d2b4"
           },
           {
             "set": "mb2",
             "number": "215",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "971748ad-7d85-5fae-8b1a-a1880bde6a4e"
           },
           {
             "set": "mb2",
             "number": "216",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "5e2a7496-a98c-5c4a-8f97-e88610728211"
           },
           {
             "set": "mb2",
             "number": "217",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "f22dcf40-6667-5087-8a52-8c5820f256cd"
           },
           {
             "set": "mb2",
             "number": "218",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "630b57e4-8760-555a-9862-42a9a61c0f76"
           },
           {
             "set": "mb2",
             "number": "219",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "0aaa343e-a994-5d38-b48e-0e66c0537efe"
           },
           {
             "set": "mb2",
             "number": "221",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "ae50d6ba-a87e-5f9e-a786-a19e41245daf"
           },
           {
             "set": "mb2",
             "number": "222",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "fe4f3015-6d08-5221-a80c-eb528a701de1"
           },
           {
             "set": "mb2",
             "number": "223",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "8e365128-0df7-5bb9-a8f7-c384061742b0"
           },
           {
             "set": "mb2",
             "number": "224",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "560b5692-d0bb-5c3e-93af-854d239827c6"
           },
           {
             "set": "mb2",
             "number": "225",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "16b27bfb-3328-50f9-9c63-262b46ad87d4"
           },
           {
             "set": "mb2",
             "number": "226",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "ccfe656e-a98c-5657-bc2b-cc9ce7eacdff"
           },
           {
             "set": "mb2",
             "number": "227",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "a55bc297-e088-5940-b136-327e8eb43f34"
           },
           {
             "set": "mb2",
             "number": "228",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "79c5a5d6-3221-5aa6-aa6a-bb7b5c543caa"
           },
           {
             "set": "mb2",
             "number": "229",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "d75c98af-6b0c-54b8-8d3b-2431f1a2bc12"
           },
           {
             "set": "mb2",
             "number": "230",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "073db60a-4cae-5a29-bc88-07263e9b6d7d"
           },
           {
             "set": "mb2",
             "number": "231",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "f2894fbe-4a9d-5b64-87e8-dbc0d337b53a"
           },
           {
             "set": "mb2",
             "number": "233",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "b43c646f-797d-5b5f-8ade-142486708c88"
           },
           {
             "set": "mb2",
             "number": "235",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "4e0c69c9-39bc-5c1d-ada7-fdcc1b30cc74"
           },
           {
             "set": "mb2",
             "number": "236",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "aec9ade5-0eda-5fe7-ab20-690a869f54cb"
           },
           {
             "set": "mb2",
             "number": "237",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "42997ab9-7c41-5664-87f5-5790fa585c73"
           },
           {
             "set": "mb2",
             "number": "238",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "1a7455eb-28cb-5ffc-9339-2a3b95fd3c95"
           },
           {
             "set": "mb2",
             "number": "239",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "72dc0c0e-b0e8-58f9-b17f-85c88edfb60a"
           },
           {
             "set": "mb2",
             "number": "240",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "c5303dc2-a1e9-595c-a64c-dff67a63c2a5"
           },
           {
             "set": "mb2",
             "number": "241",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "6c27e26c-a874-5c4d-99eb-ee4631b5bb0c"
           },
           {
             "set": "mb2",
             "number": "242",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "28f8e30c-d755-550a-9186-b60ff91107bd"
           },
           {
+            "set": "mb2",
+            "number": "254",
+            "weight": 1299,
+            "foil": false,
+            "uuid": "66f516e0-5158-505e-a3be-bf1684fa4b31"
+          },
+          {
+            "set": "mb2",
+            "number": "256",
+            "weight": 1299,
+            "foil": false,
+            "uuid": "e1a2139f-241f-59a3-86d6-4f3c070b52a8"
+          },
+          {
             "set": "mbc",
             "number": "71",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "2ddcde74-c5bc-5263-b4b4-fc2ba2f5d1d6"
           },
           {
             "set": "mbc",
             "number": "72",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "ab794299-8702-5478-847e-1f4602dde987"
           },
           {
             "set": "mbc",
             "number": "73",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "fc6844b0-05e6-52c4-a3f5-f254ea3668b7"
           },
           {
             "set": "mbc",
             "number": "74",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "c92cc2f7-ff8b-5bb8-8ef7-c9e672379250"
           },
           {
             "set": "mbc",
             "number": "75",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "849af0a7-d717-543f-aff3-c949b18b933c"
           },
           {
             "set": "mbc",
             "number": "76",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "cbc41cae-aaf6-5c63-98e0-8cfe3ea497ef"
           },
           {
             "set": "mbc",
             "number": "77",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "872e9091-8068-577e-b486-5f1f7af3d2d8"
           },
           {
             "set": "mbc",
             "number": "78",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "eaead29f-6e99-5aad-b323-0e84745a697c"
           },
           {
             "set": "mbc",
             "number": "79",
-            "weight": 13780,
+            "weight": 1300,
             "foil": false,
             "uuid": "361e0715-0d17-5dbe-aa9b-2c914df7a7af"
           },
           {
             "set": "mbc",
             "number": "80",
-            "weight": 14289,
+            "weight": 1299,
             "foil": false,
             "uuid": "1f9a06be-edd7-5301-a672-760c7d2c820c"
           }
